@@ -1,0 +1,94 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 21,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "normal",
+   "w": 12,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 21,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "pressed",
+   "w": 12,
+   "x": 13,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 21,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "disabled",
+   "w": 12,
+   "x": 26,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 21,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "hover",
+   "w": 12,
+   "x": 39,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 21,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "hover",
+   "w": 12,
+   "x": 52,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Shop/S_DlgBigLuckBoxBtLeft",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop__S_DlgBigLuckBoxBtLeft.png",
+  "h": 21,
+  "w": 64
+ }
+}

@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "Ghost_Emoticon02"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 1
+   },
+   "h": 12,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 1
+   },
+   "role": "Ghost_Emoticon02",
+   "w": 13,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 1
+   },
+   "h": 12,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 1
+   },
+   "role": "Ghost_Emoticon02",
+   "w": 13,
+   "x": 14,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 1
+   },
+   "h": 12,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 1
+   },
+   "role": "Ghost_Emoticon02",
+   "w": 13,
+   "x": 28,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 1
+   },
+   "h": 12,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 1
+   },
+   "role": "Ghost_Emoticon02",
+   "w": 13,
+   "x": 42,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 1
+   },
+   "h": 12,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 1
+   },
+   "role": "Ghost_Emoticon02",
+   "w": 13,
+   "x": 56,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 1
+   },
+   "h": 12,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 1
+   },
+   "role": "Ghost_Emoticon02",
+   "w": 13,
+   "x": 70,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 1
+   },
+   "h": 12,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 1
+   },
+   "role": "Ghost_Emoticon02",
+   "w": 13,
+   "x": 84,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 1
+   },
+   "h": 12,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 1
+   },
+   "role": "Ghost_Emoticon02",
+   "w": 13,
+   "x": 98,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Emoticon/Ghost_Emoticon02",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Emoticon__Ghost_Emoticon02.png",
+  "h": 12,
+  "w": 111
+ }
+}

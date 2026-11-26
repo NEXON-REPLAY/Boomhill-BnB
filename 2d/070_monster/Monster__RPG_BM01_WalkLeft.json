@@ -1,0 +1,125 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    0,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "Walk Left"
+  },
+  {
+   "frame_ms": [
+    3000
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "Stop Left"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 153
+   },
+   "h": 152,
+   "index": 0,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "animated",
+   "w": 125,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 152
+   },
+   "h": 152,
+   "index": 1,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "Walk Left",
+   "w": 125,
+   "x": 126,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 151
+   },
+   "h": 149,
+   "index": 2,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "Walk Left",
+   "w": 125,
+   "x": 252,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 153
+   },
+   "h": 149,
+   "index": 3,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "Walk Left",
+   "w": 125,
+   "x": 378,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 155
+   },
+   "h": 150,
+   "index": 4,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "Walk Left",
+   "w": 125,
+   "x": 504,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/RPG_BM01_WalkLeft",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__RPG_BM01_WalkLeft.png",
+  "h": 152,
+  "w": 629
+ }
+}

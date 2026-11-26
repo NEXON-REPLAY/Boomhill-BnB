@@ -1,0 +1,78 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": -4,
+    "y": -4
+   },
+   "h": 66,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 170,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 74,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "selected_overlay",
+   "w": 178,
+   "x": 171,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": -4
+   },
+   "h": 66,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 170,
+   "x": 350,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": -4
+   },
+   "h": 66,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 170,
+   "x": 521,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Shop/MarbleCoin_Bt_Shop_ClickItem",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop__MarbleCoin_Bt_Shop_ClickItem.png",
+  "h": 74,
+  "w": 691
+ }
+}

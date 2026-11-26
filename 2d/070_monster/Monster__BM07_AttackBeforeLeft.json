@@ -1,0 +1,113 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    150,
+    120,
+    240
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "BeforeAttack Left+BeforeAttack2 Left"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 1,
+    "y": 157
+   },
+   "h": 159,
+   "index": 0,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "BeforeAttack Left+BeforeAttack2 Left",
+   "w": 121,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 161
+   },
+   "h": 169,
+   "index": 1,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "BeforeAttack Left+BeforeAttack2 Left",
+   "w": 120,
+   "x": 122,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 27,
+    "y": 148
+   },
+   "h": 153,
+   "index": 2,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "BeforeAttack Left+BeforeAttack2 Left",
+   "w": 173,
+   "x": 243,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 24,
+    "y": 171
+   },
+   "h": 176,
+   "index": 3,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "BeforeAttack Left+BeforeAttack2 Left",
+   "w": 166,
+   "x": 417,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 20,
+    "y": 171
+   },
+   "h": 169,
+   "index": 4,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "BeforeAttack Left+BeforeAttack2 Left",
+   "w": 162,
+   "x": 584,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/BM07_AttackBeforeLeft",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__BM07_AttackBeforeLeft.png",
+  "h": 176,
+  "w": 746
+ }
+}

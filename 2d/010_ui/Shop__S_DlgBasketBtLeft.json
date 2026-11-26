@@ -1,0 +1,94 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 25,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "normal",
+   "w": 14,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 25,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "pressed",
+   "w": 14,
+   "x": 15,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 25,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "disabled",
+   "w": 14,
+   "x": 30,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 25,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "hover",
+   "w": 14,
+   "x": 45,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 25,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "hover",
+   "w": 14,
+   "x": 60,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Shop/S_DlgBasketBtLeft",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop__S_DlgBasketBtLeft.png",
+  "h": 25,
+  "w": 74
+ }
+}

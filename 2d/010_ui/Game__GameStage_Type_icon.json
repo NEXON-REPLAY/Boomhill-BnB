@@ -1,0 +1,142 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": -2,
+    "y": 0
+   },
+   "h": 16,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "random",
+   "w": 12,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": -1
+   },
+   "h": 15,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "normal",
+   "w": 15,
+   "x": 13,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 16,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "survival",
+   "w": 17,
+   "x": 29,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 0
+   },
+   "h": 16,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "hedgehog",
+   "w": 15,
+   "x": 47,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 0
+   },
+   "h": 16,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "captain",
+   "w": 15,
+   "x": 63,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 16,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "timebomb",
+   "w": 17,
+   "x": 79,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 0
+   },
+   "h": 16,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "aibattle",
+   "w": 15,
+   "x": 97,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 16,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "superfighter",
+   "w": 21,
+   "x": 113,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Game/GameStage_Type_icon",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Game__GameStage_Type_icon.png",
+  "h": 16,
+  "w": 134
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "Tile03"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 279
+   },
+   "h": 280,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 279
+   },
+   "role": "Tile03",
+   "w": 360,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile66/tile03",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile66__tile03.png",
+  "h": 280,
+  "w": 360
+ }
+}

@@ -1,0 +1,113 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "BeforeAttack Down+BeforeAttack Left+BeforeAttack Right+BeforeAttack Up"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 10,
+    "y": 120
+   },
+   "h": 119,
+   "index": 0,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "BeforeAttack Down+BeforeAttack Left+BeforeAttack Right+BeforeAttack Up",
+   "w": 140,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 105
+   },
+   "h": 118,
+   "index": 1,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "BeforeAttack Down+BeforeAttack Left+BeforeAttack Right+BeforeAttack Up",
+   "w": 140,
+   "x": 141,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 153
+   },
+   "h": 152,
+   "index": 2,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "BeforeAttack Down+BeforeAttack Left+BeforeAttack Right+BeforeAttack Up",
+   "w": 141,
+   "x": 282,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 39,
+    "y": 117
+   },
+   "h": 135,
+   "index": 3,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "BeforeAttack Down+BeforeAttack Left+BeforeAttack Right+BeforeAttack Up",
+   "w": 197,
+   "x": 424,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 34,
+    "y": 138
+   },
+   "h": 139,
+   "index": 4,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "BeforeAttack Down+BeforeAttack Left+BeforeAttack Right+BeforeAttack Up",
+   "w": 186,
+   "x": 622,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/BM06_BeforeAttack",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__BM06_BeforeAttack.png",
+  "h": 152,
+  "w": 808
+ }
+}

@@ -1,0 +1,203 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "loop": false,
+   "name": "GamaniaBlur08"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -53,
+    "y": -15
+   },
+   "h": 49,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "GamaniaBlur08",
+   "w": 73,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -59,
+    "y": -15
+   },
+   "h": 49,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "GamaniaBlur08",
+   "w": 81,
+   "x": 74,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -38,
+    "y": -15
+   },
+   "h": 56,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "GamaniaBlur08",
+   "w": 112,
+   "x": 156,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -45,
+    "y": -15
+   },
+   "h": 56,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "GamaniaBlur08",
+   "w": 111,
+   "x": 269,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -50,
+    "y": -15
+   },
+   "h": 56,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "GamaniaBlur08",
+   "w": 74,
+   "x": 381,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -56,
+    "y": -15
+   },
+   "h": 55,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "GamaniaBlur08",
+   "w": 80,
+   "x": 456,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -53,
+    "y": -15
+   },
+   "h": 55,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "GamaniaBlur08",
+   "w": 67,
+   "x": 537,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -60,
+    "y": -15
+   },
+   "h": 54,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "GamaniaBlur08",
+   "w": 72,
+   "x": 605,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -48,
+    "y": -15
+   },
+   "h": 51,
+   "index": 8,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "GamaniaBlur08",
+   "w": 94,
+   "x": 678,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -41,
+    "y": -15
+   },
+   "h": 51,
+   "index": 9,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "GamaniaBlur08",
+   "w": 86,
+   "x": 773,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "060_effect",
+ "name": "MotionBlur/Blur_Gamania03_Left",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MotionBlur__Blur_Gamania03_Left.png",
+  "h": 56,
+  "w": 859
+ }
+}

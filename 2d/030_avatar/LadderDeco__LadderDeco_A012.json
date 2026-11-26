@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "LadderDeco_A012"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 7,
+    "y": 3
+   },
+   "h": 35,
+   "index": 0,
+   "origin": {
+    "x": 8,
+    "y": 4
+   },
+   "role": "LadderDeco_A012",
+   "w": 39,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 3
+   },
+   "h": 35,
+   "index": 1,
+   "origin": {
+    "x": 8,
+    "y": 4
+   },
+   "role": "LadderDeco_A012",
+   "w": 39,
+   "x": 40,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 3
+   },
+   "h": 35,
+   "index": 2,
+   "origin": {
+    "x": 8,
+    "y": 4
+   },
+   "role": "LadderDeco_A012",
+   "w": 39,
+   "x": 80,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 3
+   },
+   "h": 35,
+   "index": 3,
+   "origin": {
+    "x": 8,
+    "y": 4
+   },
+   "role": "LadderDeco_A012",
+   "w": 39,
+   "x": 120,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 3
+   },
+   "h": 35,
+   "index": 4,
+   "origin": {
+    "x": 8,
+    "y": 4
+   },
+   "role": "LadderDeco_A012",
+   "w": 39,
+   "x": 160,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 3
+   },
+   "h": 35,
+   "index": 5,
+   "origin": {
+    "x": 8,
+    "y": 4
+   },
+   "role": "LadderDeco_A012",
+   "w": 39,
+   "x": 200,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 3
+   },
+   "h": 35,
+   "index": 6,
+   "origin": {
+    "x": 8,
+    "y": 4
+   },
+   "role": "LadderDeco_A012",
+   "w": 39,
+   "x": 240,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 3
+   },
+   "h": 35,
+   "index": 7,
+   "origin": {
+    "x": 8,
+    "y": 4
+   },
+   "role": "LadderDeco_A012",
+   "w": 39,
+   "x": 280,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "LadderDeco/LadderDeco_A012",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "LadderDeco__LadderDeco_A012.png",
+  "h": 35,
+  "w": 319
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": -7,
+    "y": 32
+   },
+   "h": 13,
+   "index": 0,
+   "origin": {
+    "x": 4,
+    "y": 66
+   },
+   "role": "unconfirmed",
+   "w": 24,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "MyInfo/MP_CachInvenCouponMark",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MyInfo__MP_CachInvenCouponMark.png",
+  "h": 13,
+  "w": 24
+ }
+}

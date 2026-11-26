@@ -1,0 +1,94 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 16,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "normal",
+   "w": 16,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 16,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "pressed",
+   "w": 16,
+   "x": 17,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 16,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "checked_pressed",
+   "w": 16,
+   "x": 34,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 16,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "checked",
+   "w": 16,
+   "x": 51,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 16,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "disabled",
+   "w": 16,
+   "x": 68,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Tutorial/right01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tutorial__right01.png",
+  "h": 16,
+  "w": 84
+ }
+}

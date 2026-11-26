@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": -3,
+    "y": 65
+   },
+   "h": 50,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 66
+   },
+   "role": "sole-frame",
+   "w": 41,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "Icon/ItemBbokkiKey01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Icon__ItemBbokkiKey01.png",
+  "h": 50,
+  "w": 41
+ }
+}

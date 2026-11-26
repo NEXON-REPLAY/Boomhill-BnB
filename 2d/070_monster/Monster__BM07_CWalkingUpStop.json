@@ -1,0 +1,41 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    3000
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "Stop Up"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 18,
+    "y": 155
+   },
+   "h": 155,
+   "index": 0,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Stop Up",
+   "w": 155,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/BM07_CWalkingUpStop",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__BM07_CWalkingUpStop.png",
+  "h": 155,
+  "w": 155
+ }
+}

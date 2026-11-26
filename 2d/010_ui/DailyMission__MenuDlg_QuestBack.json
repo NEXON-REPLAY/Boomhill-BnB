@@ -1,0 +1,78 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 2,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "roof",
+   "w": 73,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 23,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "item",
+   "w": 73,
+   "x": 74,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 23,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 73,
+   "x": 148,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 1,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "bottom",
+   "w": 73,
+   "x": 222,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "DailyMission/MenuDlg_QuestBack",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "DailyMission__MenuDlg_QuestBack.png",
+  "h": 23,
+  "w": 295
+ }
+}

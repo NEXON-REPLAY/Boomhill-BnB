@@ -1,0 +1,94 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": -9
+   },
+   "h": 37,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 84,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": -9
+   },
+   "h": 37,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 84,
+   "x": 85,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": -9
+   },
+   "h": 37,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 84,
+   "x": 170,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 49,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 98,
+   "x": 255,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": -9
+   },
+   "h": 37,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 84,
+   "x": 354,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "MyInfo/MP_Tab_MyItem",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MyInfo__MP_Tab_MyItem.png",
+  "h": 49,
+  "w": 438
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": -6
+   },
+   "h": 24,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 202,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": -6
+   },
+   "h": 24,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 202,
+   "x": 203,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": -6
+   },
+   "h": 24,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 202,
+   "x": 406,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": -6
+   },
+   "h": 24,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 202,
+   "x": 609,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "MyInfo/MP_BtSelChaDown",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MyInfo__MP_BtSelChaDown.png",
+  "h": 24,
+  "w": 811
+ }
+}

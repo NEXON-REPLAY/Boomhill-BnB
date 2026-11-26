@@ -1,0 +1,41 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    3000
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "Stop Left"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 156
+   },
+   "h": 164,
+   "index": 0,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Stop Left",
+   "w": 128,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/BM07_CWalkingLeftStop",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__BM07_CWalkingLeftStop.png",
+  "h": 164,
+  "w": 128
+ }
+}

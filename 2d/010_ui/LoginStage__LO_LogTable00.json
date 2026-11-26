@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 157,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 456,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "LoginStage/LO_LogTable00",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "LoginStage__LO_LogTable00.png",
+  "h": 157,
+  "w": 456
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    180,
+    240
+   ],
+   "frames": [
+    0,
+    1,
+    2
+   ],
+   "loop": false,
+   "name": "Damage Down+Damage Right"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 19,
+    "y": 163
+   },
+   "h": 164,
+   "index": 0,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Damage Down+Damage Right",
+   "w": 174,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 26,
+    "y": 160
+   },
+   "h": 164,
+   "index": 1,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Damage Down+Damage Right",
+   "w": 175,
+   "x": 175,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 31,
+    "y": 154
+   },
+   "h": 160,
+   "index": 2,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Damage Down+Damage Right",
+   "w": 170,
+   "x": 351,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/BM08_HitRight",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__BM08_HitRight.png",
+  "h": 164,
+  "w": 521
+ }
+}

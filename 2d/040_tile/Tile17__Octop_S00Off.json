@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "17Static_Octop_Small+Octop_Small"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 61
+   },
+   "h": 62,
+   "index": 0,
+   "origin": {
+    "x": 1,
+    "y": 63
+   },
+   "role": "17Static_Octop_Small+Octop_Small",
+   "w": 40,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 62
+   },
+   "h": 63,
+   "index": 1,
+   "origin": {
+    "x": 1,
+    "y": 63
+   },
+   "role": "17Static_Octop_Small+Octop_Small",
+   "w": 40,
+   "x": 41,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 63
+   },
+   "h": 64,
+   "index": 2,
+   "origin": {
+    "x": 1,
+    "y": 63
+   },
+   "role": "17Static_Octop_Small+Octop_Small",
+   "w": 40,
+   "x": 82,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 62
+   },
+   "h": 63,
+   "index": 3,
+   "origin": {
+    "x": 1,
+    "y": 63
+   },
+   "role": "17Static_Octop_Small+Octop_Small",
+   "w": 40,
+   "x": 123,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile17/Octop_S00Off",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile17__Octop_S00Off.png",
+  "h": 64,
+  "w": 163
+ }
+}

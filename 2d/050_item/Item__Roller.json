@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": -1,
+    "y": 61
+   },
+   "h": 42,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 66
+   },
+   "role": "sole-frame",
+   "w": 38,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "050_item",
+ "name": "Item/Roller",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Item__Roller.png",
+  "h": 42,
+  "w": 38
+ }
+}

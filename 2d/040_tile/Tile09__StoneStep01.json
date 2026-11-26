@@ -1,0 +1,113 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "09Static_StoneStep01+StoneStep01"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 158
+   },
+   "h": 159,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 165
+   },
+   "role": "09Static_StoneStep01+StoneStep01",
+   "w": 80,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 159
+   },
+   "h": 160,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 165
+   },
+   "role": "09Static_StoneStep01+StoneStep01",
+   "w": 80,
+   "x": 81,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 160
+   },
+   "h": 161,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 165
+   },
+   "role": "09Static_StoneStep01+StoneStep01",
+   "w": 80,
+   "x": 162,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 157
+   },
+   "h": 158,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 165
+   },
+   "role": "09Static_StoneStep01+StoneStep01",
+   "w": 80,
+   "x": 243,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 156
+   },
+   "h": 157,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 165
+   },
+   "role": "09Static_StoneStep01+StoneStep01",
+   "w": 80,
+   "x": 324,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile09/StoneStep01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile09__StoneStep01.png",
+  "h": 161,
+  "w": 404
+ }
+}

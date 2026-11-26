@@ -1,0 +1,59 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    90,
+    90
+   ],
+   "frames": [
+    0,
+    1
+   ],
+   "loop": false,
+   "name": "Right"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 30,
+    "y": 79
+   },
+   "h": 61,
+   "index": 0,
+   "origin": {
+    "x": 32,
+    "y": 94
+   },
+   "role": "Right",
+   "w": 74,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 22,
+    "y": 80
+   },
+   "h": 62,
+   "index": 1,
+   "origin": {
+    "x": 32,
+    "y": 94
+   },
+   "role": "Right",
+   "w": 66,
+   "x": 75,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "CharDecoAdj/CharDecoAdj_A0108RightLayerAdjust",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "CharDecoAdj__CharDecoAdj_A0108RightLayerAdjust.png",
+  "h": 62,
+  "w": 141
+ }
+}

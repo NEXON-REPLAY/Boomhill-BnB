@@ -1,0 +1,46 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 22,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 511,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 22,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 511,
+   "x": 512,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "MyInfo/MP_BarGuildSearch",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MyInfo__MP_BarGuildSearch.png",
+  "h": 22,
+  "w": 1023
+ }
+}

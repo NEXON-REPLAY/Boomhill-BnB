@@ -1,0 +1,251 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    983010,
+    983010
+   ],
+   "frames": [
+    0,
+    1
+   ],
+   "loop": false,
+   "name": "Locked In+Locked In Move Down+Locked In Move Left+Locked In Move Right+Locked In Move Up (+1 more)"
+  },
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "loop": false,
+   "name": "Die"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 10,
+    "y": 61
+   },
+   "h": 57,
+   "index": 0,
+   "origin": {
+    "x": 81,
+    "y": 158
+   },
+   "role": "animated",
+   "w": 59,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 61
+   },
+   "h": 57,
+   "index": 1,
+   "origin": {
+    "x": 81,
+    "y": 158
+   },
+   "role": "animated",
+   "w": 59,
+   "x": 60,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 139
+   },
+   "h": 72,
+   "index": 2,
+   "origin": {
+    "x": 81,
+    "y": 158
+   },
+   "role": "Die",
+   "w": 80,
+   "x": 120,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 129
+   },
+   "h": 67,
+   "index": 3,
+   "origin": {
+    "x": 81,
+    "y": 158
+   },
+   "role": "Die",
+   "w": 80,
+   "x": 201,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 43,
+    "y": 56
+   },
+   "h": 68,
+   "index": 4,
+   "origin": {
+    "x": 81,
+    "y": 158
+   },
+   "role": "Die",
+   "w": 126,
+   "x": 282,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 98
+   },
+   "h": 63,
+   "index": 5,
+   "origin": {
+    "x": 81,
+    "y": 158
+   },
+   "role": "Die",
+   "w": 80,
+   "x": 409,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 47
+   },
+   "h": 59,
+   "index": 6,
+   "origin": {
+    "x": 81,
+    "y": 158
+   },
+   "role": "Die",
+   "w": 80,
+   "x": 490,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 56
+   },
+   "h": 72,
+   "index": 7,
+   "origin": {
+    "x": 81,
+    "y": 158
+   },
+   "role": "Die",
+   "w": 80,
+   "x": 571,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 56
+   },
+   "h": 72,
+   "index": 8,
+   "origin": {
+    "x": 81,
+    "y": 158
+   },
+   "role": "Die",
+   "w": 80,
+   "x": 652,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 53
+   },
+   "h": 69,
+   "index": 9,
+   "origin": {
+    "x": 81,
+    "y": 158
+   },
+   "role": "Die",
+   "w": 79,
+   "x": 733,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 53
+   },
+   "h": 69,
+   "index": 10,
+   "origin": {
+    "x": 81,
+    "y": 158
+   },
+   "role": "Die",
+   "w": 77,
+   "x": 813,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 51
+   },
+   "h": 67,
+   "index": 11,
+   "origin": {
+    "x": 81,
+    "y": 158
+   },
+   "role": "Die",
+   "w": 73,
+   "x": 891,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "020_bomber",
+ "name": "Character/C16-DieLayerStatic",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Character__C16-DieLayerStatic.png",
+  "h": 72,
+  "w": 964
+ }
+}

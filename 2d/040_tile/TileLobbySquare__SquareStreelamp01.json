@@ -1,0 +1,41 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "SquareStreetlamp01"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 11,
+    "y": 138
+   },
+   "h": 134,
+   "index": 0,
+   "origin": {
+    "x": 11,
+    "y": 141
+   },
+   "role": "SquareStreetlamp01",
+   "w": 64,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "TileLobbySquare/SquareStreelamp01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "TileLobbySquare__SquareStreelamp01.png",
+  "h": 134,
+  "w": 64
+ }
+}

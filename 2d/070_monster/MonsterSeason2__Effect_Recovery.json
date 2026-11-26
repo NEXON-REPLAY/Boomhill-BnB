@@ -1,0 +1,437 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+   ],
+   "loop": false,
+   "name": "Effect_Recovery"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 40,
+    "y": 102
+   },
+   "h": 103,
+   "index": 0,
+   "origin": {
+    "x": 40,
+    "y": 122
+   },
+   "role": "Effect_Recovery",
+   "w": 100,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 40,
+    "y": 102
+   },
+   "h": 103,
+   "index": 1,
+   "origin": {
+    "x": 40,
+    "y": 122
+   },
+   "role": "Effect_Recovery",
+   "w": 100,
+   "x": 101,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 39,
+    "y": 97
+   },
+   "h": 98,
+   "index": 2,
+   "origin": {
+    "x": 40,
+    "y": 122
+   },
+   "role": "Effect_Recovery",
+   "w": 98,
+   "x": 202,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 31,
+    "y": 91
+   },
+   "h": 89,
+   "index": 3,
+   "origin": {
+    "x": 40,
+    "y": 122
+   },
+   "role": "Effect_Recovery",
+   "w": 79,
+   "x": 301,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 37,
+    "y": 95
+   },
+   "h": 96,
+   "index": 4,
+   "origin": {
+    "x": 40,
+    "y": 122
+   },
+   "role": "Effect_Recovery",
+   "w": 88,
+   "x": 381,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 39,
+    "y": 99
+   },
+   "h": 100,
+   "index": 5,
+   "origin": {
+    "x": 40,
+    "y": 122
+   },
+   "role": "Effect_Recovery",
+   "w": 98,
+   "x": 470,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 13,
+    "y": 67
+   },
+   "h": 46,
+   "index": 6,
+   "origin": {
+    "x": 40,
+    "y": 122
+   },
+   "role": "Effect_Recovery",
+   "w": 48,
+   "x": 569,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 21,
+    "y": 68
+   },
+   "h": 57,
+   "index": 7,
+   "origin": {
+    "x": 40,
+    "y": 122
+   },
+   "role": "Effect_Recovery",
+   "w": 61,
+   "x": 618,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 8,
+    "y": 58
+   },
+   "h": 34,
+   "index": 8,
+   "origin": {
+    "x": 40,
+    "y": 122
+   },
+   "role": "Effect_Recovery",
+   "w": 38,
+   "x": 680,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 51
+   },
+   "h": 26,
+   "index": 9,
+   "origin": {
+    "x": 40,
+    "y": 122
+   },
+   "role": "Effect_Recovery",
+   "w": 26,
+   "x": 719,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -7,
+    "y": 46
+   },
+   "h": 18,
+   "index": 10,
+   "origin": {
+    "x": 40,
+    "y": 122
+   },
+   "role": "Effect_Recovery",
+   "w": 18,
+   "x": 746,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 40,
+    "y": 103
+   },
+   "h": 104,
+   "index": 11,
+   "origin": {
+    "x": 40,
+    "y": 122
+   },
+   "role": "Effect_Recovery",
+   "w": 99,
+   "x": 765,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 40,
+    "y": 102
+   },
+   "h": 102,
+   "index": 12,
+   "origin": {
+    "x": 40,
+    "y": 122
+   },
+   "role": "Effect_Recovery",
+   "w": 98,
+   "x": 865,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 38,
+    "y": 89
+   },
+   "h": 90,
+   "index": 13,
+   "origin": {
+    "x": 40,
+    "y": 122
+   },
+   "role": "Effect_Recovery",
+   "w": 97,
+   "x": 0,
+   "y": 105
+  },
+  {
+   "center": {
+    "x": 38,
+    "y": 83
+   },
+   "h": 80,
+   "index": 14,
+   "origin": {
+    "x": 40,
+    "y": 122
+   },
+   "role": "Effect_Recovery",
+   "w": 97,
+   "x": 98,
+   "y": 105
+  },
+  {
+   "center": {
+    "x": 17,
+    "y": 78
+   },
+   "h": 78,
+   "index": 15,
+   "origin": {
+    "x": 40,
+    "y": 122
+   },
+   "role": "Effect_Recovery",
+   "w": 77,
+   "x": 196,
+   "y": 105
+  },
+  {
+   "center": {
+    "x": 23,
+    "y": 77
+   },
+   "h": 77,
+   "index": 16,
+   "origin": {
+    "x": 40,
+    "y": 122
+   },
+   "role": "Effect_Recovery",
+   "w": 82,
+   "x": 274,
+   "y": 105
+  },
+  {
+   "center": {
+    "x": 29,
+    "y": 82
+   },
+   "h": 79,
+   "index": 17,
+   "origin": {
+    "x": 40,
+    "y": 122
+   },
+   "role": "Effect_Recovery",
+   "w": 88,
+   "x": 357,
+   "y": 105
+  },
+  {
+   "center": {
+    "x": 28,
+    "y": 84
+   },
+   "h": 74,
+   "index": 18,
+   "origin": {
+    "x": 40,
+    "y": 122
+   },
+   "role": "Effect_Recovery",
+   "w": 87,
+   "x": 446,
+   "y": 105
+  },
+  {
+   "center": {
+    "x": 22,
+    "y": 87
+   },
+   "h": 67,
+   "index": 19,
+   "origin": {
+    "x": 40,
+    "y": 122
+   },
+   "role": "Effect_Recovery",
+   "w": 81,
+   "x": 534,
+   "y": 105
+  },
+  {
+   "center": {
+    "x": 25,
+    "y": 79
+   },
+   "h": 53,
+   "index": 20,
+   "origin": {
+    "x": 40,
+    "y": 122
+   },
+   "role": "Effect_Recovery",
+   "w": 80,
+   "x": 616,
+   "y": 105
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 86
+   },
+   "h": 48,
+   "index": 21,
+   "origin": {
+    "x": 40,
+    "y": 122
+   },
+   "role": "Effect_Recovery",
+   "w": 57,
+   "x": 697,
+   "y": 105
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 82
+   },
+   "h": 26,
+   "index": 22,
+   "origin": {
+    "x": 40,
+    "y": 122
+   },
+   "role": "Effect_Recovery",
+   "w": 43,
+   "x": 755,
+   "y": 105
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/Effect_Recovery",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__Effect_Recovery.png",
+  "h": 195,
+  "w": 963
+ }
+}

@@ -1,0 +1,203 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "loop": false,
+   "name": "StarBlur06"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -37,
+    "y": -24
+   },
+   "h": 39,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "StarBlur06",
+   "w": 72,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -38,
+    "y": -26
+   },
+   "h": 37,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "StarBlur06",
+   "w": 68,
+   "x": 73,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -41,
+    "y": -22
+   },
+   "h": 45,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "StarBlur06",
+   "w": 60,
+   "x": 142,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -53,
+    "y": -22
+   },
+   "h": 44,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "StarBlur06",
+   "w": 42,
+   "x": 203,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -53,
+    "y": -22
+   },
+   "h": 41,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "StarBlur06",
+   "w": 49,
+   "x": 246,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -43,
+    "y": -22
+   },
+   "h": 41,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "StarBlur06",
+   "w": 59,
+   "x": 296,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -38,
+    "y": -23
+   },
+   "h": 38,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "StarBlur06",
+   "w": 59,
+   "x": 356,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -57,
+    "y": -23
+   },
+   "h": 37,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "StarBlur06",
+   "w": 39,
+   "x": 416,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -43,
+    "y": -24
+   },
+   "h": 42,
+   "index": 8,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "StarBlur06",
+   "w": 50,
+   "x": 456,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -59,
+    "y": -24
+   },
+   "h": 41,
+   "index": 9,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "StarBlur06",
+   "w": 52,
+   "x": 507,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "060_effect",
+ "name": "MotionBlur/Blur_Star02_Right",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MotionBlur__Blur_Star02_Right.png",
+  "h": 45,
+  "w": 559
+ }
+}

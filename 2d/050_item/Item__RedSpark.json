@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    60,
+    60,
+    60,
+    60
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "0"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -3,
+    "y": 37
+   },
+   "h": 33,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 40
+   },
+   "role": "0",
+   "w": 33,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 40
+   },
+   "h": 41,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 40
+   },
+   "role": "0",
+   "w": 42,
+   "x": 34,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 40
+   },
+   "h": 41,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 40
+   },
+   "role": "0",
+   "w": 37,
+   "x": 77,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 36
+   },
+   "h": 30,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 40
+   },
+   "role": "0",
+   "w": 32,
+   "x": 115,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "050_item",
+ "name": "Item/RedSpark",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Item__RedSpark.png",
+  "h": 41,
+  "w": 147
+ }
+}

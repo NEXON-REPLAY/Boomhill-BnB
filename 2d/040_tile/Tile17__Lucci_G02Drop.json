@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    210,
+    150,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "Pang"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -1,
+    "y": 74
+   },
+   "h": 74,
+   "index": 0,
+   "origin": {
+    "x": 1,
+    "y": 93
+   },
+   "role": "Pang",
+   "w": 39,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 93
+   },
+   "h": 93,
+   "index": 1,
+   "origin": {
+    "x": 1,
+    "y": 93
+   },
+   "role": "Pang",
+   "w": 42,
+   "x": 40,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 77
+   },
+   "h": 77,
+   "index": 2,
+   "origin": {
+    "x": 1,
+    "y": 93
+   },
+   "role": "Pang",
+   "w": 42,
+   "x": 83,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 72
+   },
+   "h": 72,
+   "index": 3,
+   "origin": {
+    "x": 1,
+    "y": 93
+   },
+   "role": "Pang",
+   "w": 40,
+   "x": 126,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile17/Lucci_G02Drop",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile17__Lucci_G02Drop.png",
+  "h": 93,
+  "w": 166
+ }
+}

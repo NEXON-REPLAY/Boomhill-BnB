@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": -11,
+    "y": -9
+   },
+   "h": 160,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 289,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Dialog/DlgMissionCaptain",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Dialog__DlgMissionCaptain.png",
+  "h": 160,
+  "w": 289
+ }
+}

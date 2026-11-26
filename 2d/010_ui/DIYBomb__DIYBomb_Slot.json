@@ -1,0 +1,126 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": -2,
+    "y": -2
+   },
+   "h": 111,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 117,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": -1
+   },
+   "h": 113,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 119,
+   "x": 118,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 115,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 121,
+   "x": 238,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 111,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 81,
+   "x": 360,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 58,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 65,
+   "x": 442,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": -2
+   },
+   "h": 54,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 61,
+   "x": 508,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -54,
+    "y": -38
+   },
+   "h": 10,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 10,
+   "x": 570,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "DIYBomb/DIYBomb_Slot",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "DIYBomb__DIYBomb_Slot.png",
+  "h": 115,
+  "w": 580
+ }
+}

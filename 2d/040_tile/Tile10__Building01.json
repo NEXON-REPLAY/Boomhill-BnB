@@ -1,0 +1,249 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "10Passable_Building00+Building00"
+  },
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    1
+   ],
+   "loop": false,
+   "name": "10Passable_Building01+Building01"
+  },
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    2
+   ],
+   "loop": false,
+   "name": "10Passable_Building02+Building02"
+  },
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    3
+   ],
+   "loop": false,
+   "name": "10Passable_Building03+Building03"
+  },
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    4
+   ],
+   "loop": false,
+   "name": "10Passable_Building04+Building04"
+  },
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    5
+   ],
+   "loop": false,
+   "name": "10Passable_Building05+Building05"
+  },
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    6
+   ],
+   "loop": false,
+   "name": "10Passable_Building06+Building06"
+  },
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    7
+   ],
+   "loop": false,
+   "name": "10Passable_Building07+Building07"
+  },
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    8
+   ],
+   "loop": false,
+   "name": "10Passable_Building08+Building08"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 39
+   },
+   "h": 40,
+   "index": 0,
+   "origin": {
+    "x": 1,
+    "y": 40
+   },
+   "role": "10Passable_Building00+Building00",
+   "w": 40,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 38
+   },
+   "h": 39,
+   "index": 1,
+   "origin": {
+    "x": 1,
+    "y": 40
+   },
+   "role": "10Passable_Building01+Building01",
+   "w": 40,
+   "x": 41,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 39
+   },
+   "h": 40,
+   "index": 2,
+   "origin": {
+    "x": 1,
+    "y": 40
+   },
+   "role": "10Passable_Building02+Building02",
+   "w": 40,
+   "x": 82,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 39
+   },
+   "h": 40,
+   "index": 3,
+   "origin": {
+    "x": 1,
+    "y": 40
+   },
+   "role": "10Passable_Building03+Building03",
+   "w": 40,
+   "x": 123,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 39
+   },
+   "h": 40,
+   "index": 4,
+   "origin": {
+    "x": 1,
+    "y": 40
+   },
+   "role": "10Passable_Building04+Building04",
+   "w": 40,
+   "x": 164,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 39
+   },
+   "h": 40,
+   "index": 5,
+   "origin": {
+    "x": 1,
+    "y": 40
+   },
+   "role": "10Passable_Building05+Building05",
+   "w": 39,
+   "x": 205,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 39
+   },
+   "h": 40,
+   "index": 6,
+   "origin": {
+    "x": 1,
+    "y": 40
+   },
+   "role": "10Passable_Building06+Building06",
+   "w": 40,
+   "x": 245,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 39
+   },
+   "h": 37,
+   "index": 7,
+   "origin": {
+    "x": 1,
+    "y": 40
+   },
+   "role": "10Passable_Building07+Building07",
+   "w": 40,
+   "x": 286,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 39
+   },
+   "h": 40,
+   "index": 8,
+   "origin": {
+    "x": 1,
+    "y": 40
+   },
+   "role": "10Passable_Building08+Building08",
+   "w": 39,
+   "x": 327,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile10/Building01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile10__Building01.png",
+  "h": 40,
+  "w": 366
+ }
+}

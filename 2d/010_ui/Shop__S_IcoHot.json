@@ -1,0 +1,131 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    450,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "HotGlyph"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -1,
+    "y": -1
+   },
+   "h": 27,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HotGlyph",
+   "w": 25,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": -1
+   },
+   "h": 27,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HotGlyph",
+   "w": 25,
+   "x": 26,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": -1
+   },
+   "h": 27,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HotGlyph",
+   "w": 25,
+   "x": 52,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": -1
+   },
+   "h": 27,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HotGlyph",
+   "w": 25,
+   "x": 78,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": -1
+   },
+   "h": 27,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HotGlyph",
+   "w": 25,
+   "x": 104,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": -1
+   },
+   "h": 27,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HotGlyph",
+   "w": 25,
+   "x": 130,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Shop/S_IcoHot",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop__S_IcoHot.png",
+  "h": 27,
+  "w": 155
+ }
+}

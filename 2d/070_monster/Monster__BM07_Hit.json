@@ -1,0 +1,151 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    210,
+    150,
+    210,
+    210
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "Damage Down+Damage Left+Damage Right"
+  },
+  {
+   "frame_ms": [
+    120,
+    150,
+    120,
+    120,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "Damage Up"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 15,
+    "y": 154
+   },
+   "h": 148,
+   "index": 0,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "animated",
+   "w": 150,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 28,
+    "y": 159
+   },
+   "h": 157,
+   "index": 1,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "animated",
+   "w": 175,
+   "x": 151,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 28,
+    "y": 161
+   },
+   "h": 159,
+   "index": 2,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "animated",
+   "w": 177,
+   "x": 327,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 29,
+    "y": 161
+   },
+   "h": 162,
+   "index": 3,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "animated",
+   "w": 177,
+   "x": 505,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 29,
+    "y": 165
+   },
+   "h": 164,
+   "index": 4,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "animated",
+   "w": 172,
+   "x": 683,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 18,
+    "y": 151
+   },
+   "h": 148,
+   "index": 5,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "animated",
+   "w": 156,
+   "x": 856,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/BM07_Hit",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__BM07_Hit.png",
+  "h": 164,
+  "w": 1012
+ }
+}

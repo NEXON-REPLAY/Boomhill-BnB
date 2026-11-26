@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    90,
+    120,
+    120,
+    90,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "Anger"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 163
+   },
+   "h": 160,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 206
+   },
+   "role": "Anger",
+   "w": 120,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 164
+   },
+   "h": 161,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 206
+   },
+   "role": "Anger",
+   "w": 118,
+   "x": 121,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 175
+   },
+   "h": 172,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 206
+   },
+   "role": "Anger",
+   "w": 120,
+   "x": 240,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 180
+   },
+   "h": 179,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 206
+   },
+   "role": "Anger",
+   "w": 120,
+   "x": 361,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 186
+   },
+   "h": 183,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 206
+   },
+   "role": "Anger",
+   "w": 118,
+   "x": 482,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 178
+   },
+   "h": 175,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 206
+   },
+   "role": "Anger",
+   "w": 120,
+   "x": 601,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 191
+   },
+   "h": 190,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 206
+   },
+   "role": "Anger",
+   "w": 120,
+   "x": 722,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 186
+   },
+   "h": 182,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 206
+   },
+   "role": "Anger",
+   "w": 120,
+   "x": 843,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/RPG_BM00_Anger",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__RPG_BM00_Anger.png",
+  "h": 190,
+  "w": 963
+ }
+}

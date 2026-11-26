@@ -1,0 +1,131 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    990,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "PinPillar_right"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 59
+   },
+   "h": 60,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 59
+   },
+   "role": "PinPillar_right",
+   "w": 46,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 59
+   },
+   "h": 60,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 59
+   },
+   "role": "PinPillar_right",
+   "w": 46,
+   "x": 47,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 59
+   },
+   "h": 60,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 59
+   },
+   "role": "PinPillar_right",
+   "w": 46,
+   "x": 94,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 59
+   },
+   "h": 60,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 59
+   },
+   "role": "PinPillar_right",
+   "w": 46,
+   "x": 141,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 59
+   },
+   "h": 60,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 59
+   },
+   "role": "PinPillar_right",
+   "w": 46,
+   "x": 188,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 59
+   },
+   "h": 60,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 59
+   },
+   "role": "PinPillar_right",
+   "w": 46,
+   "x": 235,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile62/PinPillar_right",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile62__PinPillar_right.png",
+  "h": 60,
+  "w": 281
+ }
+}

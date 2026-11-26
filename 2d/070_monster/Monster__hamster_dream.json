@@ -1,0 +1,375 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    60,
+    60,
+    90,
+    120,
+    60
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "SleepAppear"
+  },
+  {
+   "frame_ms": [
+    90,
+    120,
+    210,
+    120,
+    90,
+    60,
+    120,
+    390,
+    60,
+    90,
+    390,
+    60,
+    90,
+    90,
+    270
+   ],
+   "frames": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    15,
+    16,
+    15
+   ],
+   "loop": false,
+   "name": "Sleep"
+  },
+  {
+   "frame_ms": [
+    90,
+    120,
+    90,
+    60
+   ],
+   "frames": [
+    17,
+    3,
+    1,
+    0
+   ],
+   "loop": false,
+   "name": "SleepDisappear"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -26,
+    "y": 21
+   },
+   "h": 15,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 87
+   },
+   "role": "animated",
+   "w": 26,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -25,
+    "y": 27
+   },
+   "h": 21,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 87
+   },
+   "role": "animated",
+   "w": 28,
+   "x": 27,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -19,
+    "y": 46
+   },
+   "h": 40,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 87
+   },
+   "role": "SleepAppear",
+   "w": 40,
+   "x": 56,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -19,
+    "y": 48
+   },
+   "h": 42,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 87
+   },
+   "role": "animated",
+   "w": 40,
+   "x": 97,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -19,
+    "y": 46
+   },
+   "h": 40,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 87
+   },
+   "role": "SleepAppear",
+   "w": 40,
+   "x": 138,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -19,
+    "y": 48
+   },
+   "h": 42,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 87
+   },
+   "role": "Sleep",
+   "w": 40,
+   "x": 179,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -19,
+    "y": 48
+   },
+   "h": 42,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 87
+   },
+   "role": "Sleep",
+   "w": 40,
+   "x": 220,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -19,
+    "y": 48
+   },
+   "h": 42,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 87
+   },
+   "role": "Sleep",
+   "w": 40,
+   "x": 261,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -19,
+    "y": 48
+   },
+   "h": 42,
+   "index": 8,
+   "origin": {
+    "x": 0,
+    "y": 87
+   },
+   "role": "Sleep",
+   "w": 40,
+   "x": 302,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -19,
+    "y": 48
+   },
+   "h": 42,
+   "index": 9,
+   "origin": {
+    "x": 0,
+    "y": 87
+   },
+   "role": "Sleep",
+   "w": 40,
+   "x": 343,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -19,
+    "y": 48
+   },
+   "h": 42,
+   "index": 10,
+   "origin": {
+    "x": 0,
+    "y": 87
+   },
+   "role": "Sleep",
+   "w": 40,
+   "x": 384,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -19,
+    "y": 48
+   },
+   "h": 42,
+   "index": 11,
+   "origin": {
+    "x": 0,
+    "y": 87
+   },
+   "role": "Sleep",
+   "w": 40,
+   "x": 425,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -19,
+    "y": 48
+   },
+   "h": 42,
+   "index": 12,
+   "origin": {
+    "x": 0,
+    "y": 87
+   },
+   "role": "Sleep",
+   "w": 40,
+   "x": 466,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -19,
+    "y": 48
+   },
+   "h": 42,
+   "index": 13,
+   "origin": {
+    "x": 0,
+    "y": 87
+   },
+   "role": "Sleep",
+   "w": 40,
+   "x": 507,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -19,
+    "y": 48
+   },
+   "h": 42,
+   "index": 14,
+   "origin": {
+    "x": 0,
+    "y": 87
+   },
+   "role": "Sleep",
+   "w": 40,
+   "x": 548,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -19,
+    "y": 48
+   },
+   "h": 42,
+   "index": 15,
+   "origin": {
+    "x": 0,
+    "y": 87
+   },
+   "role": "Sleep",
+   "w": 40,
+   "x": 589,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -19,
+    "y": 46
+   },
+   "h": 40,
+   "index": 16,
+   "origin": {
+    "x": 0,
+    "y": 87
+   },
+   "role": "Sleep",
+   "w": 40,
+   "x": 630,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -19,
+    "y": 46
+   },
+   "h": 40,
+   "index": 17,
+   "origin": {
+    "x": 0,
+    "y": 87
+   },
+   "role": "SleepDisappear",
+   "w": 40,
+   "x": 671,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/hamster_dream",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__hamster_dream.png",
+  "h": 42,
+  "w": 711
+ }
+}

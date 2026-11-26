@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    90,
+    270,
+    90
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "Help"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 23,
+    "y": 59
+   },
+   "h": 39,
+   "index": 0,
+   "origin": {
+    "x": 50,
+    "y": 85
+   },
+   "role": "Help",
+   "w": 88,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 33,
+    "y": 67
+   },
+   "h": 48,
+   "index": 1,
+   "origin": {
+    "x": 50,
+    "y": 85
+   },
+   "role": "Help",
+   "w": 110,
+   "x": 89,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 35,
+    "y": 68
+   },
+   "h": 49,
+   "index": 2,
+   "origin": {
+    "x": 50,
+    "y": 85
+   },
+   "role": "Help",
+   "w": 114,
+   "x": 200,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 27,
+    "y": 62
+   },
+   "h": 42,
+   "index": 3,
+   "origin": {
+    "x": 50,
+    "y": 85
+   },
+   "role": "Help",
+   "w": 96,
+   "x": 315,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "060_effect",
+ "name": "Bomb/HELP!",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Bomb__HELP!.png",
+  "h": 49,
+  "w": 411
+ }
+}

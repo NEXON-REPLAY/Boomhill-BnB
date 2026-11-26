@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 21,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 60,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "UXMatching/Bt_DoneStamp",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "UXMatching__Bt_DoneStamp.png",
+  "h": 21,
+  "w": 60
+ }
+}

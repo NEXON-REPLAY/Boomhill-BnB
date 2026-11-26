@@ -1,0 +1,54 @@
+{
+ "game": "bnb",
+ "groups": [
+  {
+   "count": 1222,
+   "frames": 5795,
+   "id": "010_ui",
+   "title": "UI"
+  },
+  {
+   "count": 2127,
+   "frames": 17100,
+   "id": "020_bomber",
+   "title": "캐릭터"
+  },
+  {
+   "count": 9116,
+   "frames": 134189,
+   "id": "030_avatar",
+   "title": "아바타, 이모션"
+  },
+  {
+   "count": 3404,
+   "frames": 9324,
+   "id": "040_tile",
+   "title": "타일, 장식"
+  },
+  {
+   "count": 144,
+   "frames": 413,
+   "id": "050_item",
+   "title": "아이템"
+  },
+  {
+   "count": 697,
+   "frames": 7153,
+   "id": "060_effect",
+   "title": "효과"
+  },
+  {
+   "count": 1127,
+   "frames": 7205,
+   "id": "070_monster",
+   "title": "몬스터"
+  },
+  {
+   "count": 248,
+   "frames": 1203,
+   "id": "080_hiddencatch",
+   "title": "히든캐치"
+  }
+ ],
+ "schema": "boomhill-open-assets/index/v1"
+}

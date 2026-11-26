@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": -17,
+    "y": 34
+   },
+   "h": 16,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 66
+   },
+   "role": "sole-frame",
+   "w": 32,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "050_item",
+ "name": "Item/ItemEventIcon",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Item__ItemEventIcon.png",
+  "h": 16,
+  "w": 32
+ }
+}

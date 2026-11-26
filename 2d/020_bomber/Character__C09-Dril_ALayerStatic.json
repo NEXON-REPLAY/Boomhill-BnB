@@ -1,0 +1,159 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    60,
+    30,
+    60,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    0,
+    1
+   ],
+   "loop": false,
+   "name": "Drill Left"
+  },
+  {
+   "frame_ms": [
+    60,
+    30,
+    60,
+    150
+   ],
+   "frames": [
+    4,
+    5,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "Drill Right"
+  },
+  {
+   "frame_ms": [
+    60,
+    30,
+    60,
+    150
+   ],
+   "frames": [
+    6,
+    7,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "Drill Down"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 2,
+    "y": 53
+   },
+   "h": 30,
+   "index": 0,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "Drill Left",
+   "w": 35,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 51
+   },
+   "h": 30,
+   "index": 1,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "Drill Left",
+   "w": 35,
+   "x": 36,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -7,
+    "y": 53
+   },
+   "h": 30,
+   "index": 4,
+   "origin": {
+    "x": 13,
+    "y": 81
+   },
+   "role": "Drill Right",
+   "w": 35,
+   "x": 72,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -7,
+    "y": 51
+   },
+   "h": 30,
+   "index": 5,
+   "origin": {
+    "x": 13,
+    "y": 81
+   },
+   "role": "Drill Right",
+   "w": 35,
+   "x": 108,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 52
+   },
+   "h": 29,
+   "index": 6,
+   "origin": {
+    "x": 13,
+    "y": 81
+   },
+   "role": "Drill Down",
+   "w": 37,
+   "x": 144,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 53
+   },
+   "h": 29,
+   "index": 7,
+   "origin": {
+    "x": 13,
+    "y": 81
+   },
+   "role": "Drill Down",
+   "w": 37,
+   "x": 182,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "020_bomber",
+ "name": "Character/C09-Dril_ALayerStatic",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Character__C09-Dril_ALayerStatic.png",
+  "h": 30,
+  "w": 219
+ }
+}

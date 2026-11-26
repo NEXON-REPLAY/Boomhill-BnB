@@ -1,0 +1,143 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    60,
+    60,
+    60,
+    60
+   ],
+   "frames": [
+    0,
+    3,
+    2,
+    1
+   ],
+   "loop": false,
+   "name": "HedgehogSpinUp"
+  },
+  {
+   "frame_ms": [
+    60,
+    60,
+    60,
+    60
+   ],
+   "frames": [
+    1,
+    0,
+    3,
+    2
+   ],
+   "loop": false,
+   "name": "HedgehogSpinRight"
+  },
+  {
+   "frame_ms": [
+    60,
+    60,
+    60,
+    60
+   ],
+   "frames": [
+    2,
+    1,
+    0,
+    3
+   ],
+   "loop": false,
+   "name": "HedgehogSpinLeft"
+  },
+  {
+   "frame_ms": [
+    60,
+    60,
+    60,
+    60
+   ],
+   "frames": [
+    3,
+    2,
+    1,
+    0
+   ],
+   "loop": false,
+   "name": "HedgehogSpinDown"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 5,
+    "y": 54
+   },
+   "h": 49,
+   "index": 0,
+   "origin": {
+    "x": 9,
+    "y": 75
+   },
+   "role": "animated",
+   "w": 50,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 55
+   },
+   "h": 50,
+   "index": 1,
+   "origin": {
+    "x": 9,
+    "y": 75
+   },
+   "role": "animated",
+   "w": 56,
+   "x": 51,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 55
+   },
+   "h": 50,
+   "index": 2,
+   "origin": {
+    "x": 9,
+    "y": 75
+   },
+   "role": "animated",
+   "w": 50,
+   "x": 108,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 55
+   },
+   "h": 50,
+   "index": 3,
+   "origin": {
+    "x": 9,
+    "y": 75
+   },
+   "role": "animated",
+   "w": 56,
+   "x": 159,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "StaticChar/Hedgehog-Slide",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "StaticChar__Hedgehog-Slide.png",
+  "h": 50,
+  "w": 215
+ }
+}

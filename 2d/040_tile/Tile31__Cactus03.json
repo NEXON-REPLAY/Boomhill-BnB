@@ -1,0 +1,41 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "Cactus03"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -3,
+    "y": 57
+   },
+   "h": 56,
+   "index": 0,
+   "origin": {
+    "x": 3,
+    "y": 64
+   },
+   "role": "Cactus03",
+   "w": 37,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile31/Cactus03",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile31__Cactus03.png",
+  "h": 56,
+  "w": 37
+ }
+}

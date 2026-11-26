@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "RemoteBomb"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 1,
+    "y": 42
+   },
+   "h": 43,
+   "index": 0,
+   "origin": {
+    "x": 4,
+    "y": 43
+   },
+   "role": "RemoteBomb",
+   "w": 41,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 36
+   },
+   "h": 37,
+   "index": 1,
+   "origin": {
+    "x": 4,
+    "y": 43
+   },
+   "role": "RemoteBomb",
+   "w": 45,
+   "x": 42,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 42
+   },
+   "h": 43,
+   "index": 2,
+   "origin": {
+    "x": 4,
+    "y": 43
+   },
+   "role": "RemoteBomb",
+   "w": 41,
+   "x": 88,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 41
+   },
+   "h": 42,
+   "index": 3,
+   "origin": {
+    "x": 4,
+    "y": 43
+   },
+   "role": "RemoteBomb",
+   "w": 39,
+   "x": 130,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "060_effect",
+ "name": "Bomb/BombRadio",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Bomb__BombRadio.png",
+  "h": 43,
+  "w": 169
+ }
+}

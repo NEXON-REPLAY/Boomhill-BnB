@@ -1,0 +1,179 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "loop": true,
+   "name": "hover"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -1,
+    "y": -1
+   },
+   "h": 61,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "normal",
+   "w": 134,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": -1
+   },
+   "h": 61,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "pressed",
+   "w": 134,
+   "x": 135,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": -1
+   },
+   "h": 61,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "disabled",
+   "w": 134,
+   "x": 270,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": -1
+   },
+   "h": 61,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "hover",
+   "w": 134,
+   "x": 405,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": -1
+   },
+   "h": 61,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "hover",
+   "w": 134,
+   "x": 540,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": -1
+   },
+   "h": 61,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "hover",
+   "w": 134,
+   "x": 675,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": -1
+   },
+   "h": 61,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "hover",
+   "w": 134,
+   "x": 810,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": -1
+   },
+   "h": 61,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "hover",
+   "w": 134,
+   "x": 0,
+   "y": 62
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": -1
+   },
+   "h": 61,
+   "index": 8,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "hover",
+   "w": 134,
+   "x": 135,
+   "y": 62
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Lobby/LB_Bt_T_CreateRenew",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Lobby__LB_Bt_T_CreateRenew.png",
+  "h": 123,
+  "w": 944
+ }
+}

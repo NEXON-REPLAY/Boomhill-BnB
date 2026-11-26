@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    60,
+    60,
+    60,
+    60
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "Explode"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 26,
+    "y": 96
+   },
+   "h": 92,
+   "index": 0,
+   "origin": {
+    "x": 38,
+    "y": 111
+   },
+   "role": "Explode",
+   "w": 92,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 31,
+    "y": 105
+   },
+   "h": 96,
+   "index": 1,
+   "origin": {
+    "x": 38,
+    "y": 111
+   },
+   "role": "Explode",
+   "w": 103,
+   "x": 93,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 38,
+    "y": 111
+   },
+   "h": 105,
+   "index": 2,
+   "origin": {
+    "x": 38,
+    "y": 111
+   },
+   "role": "Explode",
+   "w": 117,
+   "x": 197,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 36,
+    "y": 110
+   },
+   "h": 109,
+   "index": 3,
+   "origin": {
+    "x": 38,
+    "y": 111
+   },
+   "role": "Explode",
+   "w": 115,
+   "x": 315,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/Boss_Snow_Explode",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__Boss_Snow_Explode.png",
+  "h": 109,
+  "w": 430
+ }
+}

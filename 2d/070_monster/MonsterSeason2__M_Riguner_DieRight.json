@@ -1,0 +1,149 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "loop": false,
+   "name": "12_OutRight"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 31,
+    "y": 61
+   },
+   "h": 59,
+   "index": 0,
+   "origin": {
+    "x": 34,
+    "y": 87
+   },
+   "role": "12_OutRight",
+   "w": 74,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 63
+   },
+   "h": 59,
+   "index": 1,
+   "origin": {
+    "x": 34,
+    "y": 87
+   },
+   "role": "12_OutRight",
+   "w": 66,
+   "x": 75,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 58
+   },
+   "h": 51,
+   "index": 2,
+   "origin": {
+    "x": 34,
+    "y": 87
+   },
+   "role": "12_OutRight",
+   "w": 47,
+   "x": 142,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 51
+   },
+   "h": 44,
+   "index": 3,
+   "origin": {
+    "x": 34,
+    "y": 87
+   },
+   "role": "12_OutRight",
+   "w": 52,
+   "x": 190,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 47
+   },
+   "h": 40,
+   "index": 4,
+   "origin": {
+    "x": 34,
+    "y": 87
+   },
+   "role": "12_OutRight",
+   "w": 49,
+   "x": 243,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 32
+   },
+   "h": 26,
+   "index": 5,
+   "origin": {
+    "x": 34,
+    "y": 87
+   },
+   "role": "12_OutRight",
+   "w": 36,
+   "x": 293,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -11,
+    "y": 25
+   },
+   "h": 14,
+   "index": 6,
+   "origin": {
+    "x": 34,
+    "y": 87
+   },
+   "role": "12_OutRight",
+   "w": 14,
+   "x": 330,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/M_Riguner_DieRight",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__M_Riguner_DieRight.png",
+  "h": 59,
+  "w": 344
+ }
+}

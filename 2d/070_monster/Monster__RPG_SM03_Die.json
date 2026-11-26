@@ -1,0 +1,185 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    60,
+    60,
+    60,
+    90,
+    120,
+    120,
+    120,
+    90,
+    90
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "loop": false,
+   "name": "Out"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 2,
+    "y": 47
+   },
+   "h": 43,
+   "index": 0,
+   "origin": {
+    "x": 10,
+    "y": 57
+   },
+   "role": "Out",
+   "w": 44,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 50
+   },
+   "h": 46,
+   "index": 1,
+   "origin": {
+    "x": 10,
+    "y": 57
+   },
+   "role": "Out",
+   "w": 46,
+   "x": 45,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 52
+   },
+   "h": 50,
+   "index": 2,
+   "origin": {
+    "x": 10,
+    "y": 57
+   },
+   "role": "Out",
+   "w": 51,
+   "x": 92,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 57
+   },
+   "h": 57,
+   "index": 3,
+   "origin": {
+    "x": 10,
+    "y": 57
+   },
+   "role": "Out",
+   "w": 60,
+   "x": 144,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 8,
+    "y": 49
+   },
+   "h": 47,
+   "index": 4,
+   "origin": {
+    "x": 10,
+    "y": 57
+   },
+   "role": "Out",
+   "w": 57,
+   "x": 205,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 8,
+    "y": 35
+   },
+   "h": 33,
+   "index": 5,
+   "origin": {
+    "x": 10,
+    "y": 57
+   },
+   "role": "Out",
+   "w": 58,
+   "x": 263,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 25
+   },
+   "h": 22,
+   "index": 6,
+   "origin": {
+    "x": 10,
+    "y": 57
+   },
+   "role": "Out",
+   "w": 54,
+   "x": 322,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 14
+   },
+   "h": 11,
+   "index": 7,
+   "origin": {
+    "x": 10,
+    "y": 57
+   },
+   "role": "Out",
+   "w": 54,
+   "x": 377,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 8
+   },
+   "h": 5,
+   "index": 8,
+   "origin": {
+    "x": 10,
+    "y": 57
+   },
+   "role": "Out",
+   "w": 54,
+   "x": 432,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/RPG_SM03_Die",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__RPG_SM03_Die.png",
+  "h": 57,
+  "w": 486
+ }
+}

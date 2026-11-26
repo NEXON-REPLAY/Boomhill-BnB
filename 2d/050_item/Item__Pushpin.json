@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": -4,
+    "y": 55
+   },
+   "h": 32,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 66
+   },
+   "role": "sole-frame",
+   "w": 32,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "050_item",
+ "name": "Item/Pushpin",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Item__Pushpin.png",
+  "h": 32,
+  "w": 32
+ }
+}

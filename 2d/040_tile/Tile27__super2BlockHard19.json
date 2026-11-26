@@ -1,0 +1,41 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "super2BlockHard19"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 54
+   },
+   "h": 55,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 55
+   },
+   "role": "super2BlockHard19",
+   "w": 40,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile27/super2BlockHard19",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile27__super2BlockHard19.png",
+  "h": 55,
+  "w": 40
+ }
+}

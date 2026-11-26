@@ -1,0 +1,195 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "space_Box07"
+  },
+  {
+   "frame_ms": [
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "loop": false,
+   "name": "Broken"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 43
+   },
+   "h": 44,
+   "index": 0,
+   "origin": {
+    "x": 11,
+    "y": 54
+   },
+   "role": "animated",
+   "w": 40,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 43
+   },
+   "h": 44,
+   "index": 1,
+   "origin": {
+    "x": 11,
+    "y": 54
+   },
+   "role": "Broken",
+   "w": 40,
+   "x": 41,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 43
+   },
+   "h": 44,
+   "index": 2,
+   "origin": {
+    "x": 11,
+    "y": 54
+   },
+   "role": "Broken",
+   "w": 40,
+   "x": 82,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 47
+   },
+   "h": 54,
+   "index": 3,
+   "origin": {
+    "x": 11,
+    "y": 54
+   },
+   "role": "Broken",
+   "w": 59,
+   "x": 123,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 48
+   },
+   "h": 51,
+   "index": 4,
+   "origin": {
+    "x": 11,
+    "y": 54
+   },
+   "role": "Broken",
+   "w": 54,
+   "x": 183,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 51
+   },
+   "h": 62,
+   "index": 5,
+   "origin": {
+    "x": 11,
+    "y": 54
+   },
+   "role": "Broken",
+   "w": 62,
+   "x": 238,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 53
+   },
+   "h": 62,
+   "index": 6,
+   "origin": {
+    "x": 11,
+    "y": 54
+   },
+   "role": "Broken",
+   "w": 58,
+   "x": 301,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 53
+   },
+   "h": 59,
+   "index": 7,
+   "origin": {
+    "x": 11,
+    "y": 54
+   },
+   "role": "Broken",
+   "w": 47,
+   "x": 360,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 41
+   },
+   "h": 30,
+   "index": 8,
+   "origin": {
+    "x": 11,
+    "y": 54
+   },
+   "role": "Broken",
+   "w": 37,
+   "x": 408,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile36/Blockspace07",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile36__Blockspace07.png",
+  "h": 62,
+  "w": 445
+ }
+}

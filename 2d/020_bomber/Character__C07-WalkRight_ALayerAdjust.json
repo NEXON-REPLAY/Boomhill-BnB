@@ -1,0 +1,125 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    3000
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "Fishing Right+Stop Right"
+  },
+  {
+   "frame_ms": [
+    90,
+    90,
+    90,
+    90,
+    90,
+    90
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    0,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "Walk Right"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 6,
+    "y": 59
+   },
+   "h": 56,
+   "index": 0,
+   "origin": {
+    "x": 8,
+    "y": 66
+   },
+   "role": "animated",
+   "w": 45,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 58
+   },
+   "h": 56,
+   "index": 1,
+   "origin": {
+    "x": 8,
+    "y": 66
+   },
+   "role": "Walk Right",
+   "w": 49,
+   "x": 46,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 57
+   },
+   "h": 55,
+   "index": 2,
+   "origin": {
+    "x": 8,
+    "y": 66
+   },
+   "role": "animated",
+   "w": 50,
+   "x": 96,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 58
+   },
+   "h": 56,
+   "index": 3,
+   "origin": {
+    "x": 8,
+    "y": 66
+   },
+   "role": "Walk Right",
+   "w": 45,
+   "x": 147,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 59
+   },
+   "h": 56,
+   "index": 4,
+   "origin": {
+    "x": 8,
+    "y": 66
+   },
+   "role": "animated",
+   "w": 43,
+   "x": 193,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "020_bomber",
+ "name": "Character/C07-WalkRight_ALayerAdjust",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Character__C07-WalkRight_ALayerAdjust.png",
+  "h": 56,
+  "w": 236
+ }
+}

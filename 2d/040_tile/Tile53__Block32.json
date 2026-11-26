@@ -1,0 +1,177 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "Block32"
+  },
+  {
+   "frame_ms": [
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "Broken"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -1,
+    "y": 74
+   },
+   "h": 74,
+   "index": 0,
+   "origin": {
+    "x": 1,
+    "y": 77
+   },
+   "role": "animated",
+   "w": 54,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 75
+   },
+   "h": 75,
+   "index": 1,
+   "origin": {
+    "x": 1,
+    "y": 77
+   },
+   "role": "Broken",
+   "w": 51,
+   "x": 55,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 74
+   },
+   "h": 74,
+   "index": 2,
+   "origin": {
+    "x": 1,
+    "y": 77
+   },
+   "role": "Broken",
+   "w": 53,
+   "x": 107,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 72
+   },
+   "h": 72,
+   "index": 3,
+   "origin": {
+    "x": 1,
+    "y": 77
+   },
+   "role": "Broken",
+   "w": 51,
+   "x": 161,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 71
+   },
+   "h": 71,
+   "index": 4,
+   "origin": {
+    "x": 1,
+    "y": 77
+   },
+   "role": "Broken",
+   "w": 51,
+   "x": 213,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 69
+   },
+   "h": 67,
+   "index": 5,
+   "origin": {
+    "x": 1,
+    "y": 77
+   },
+   "role": "Broken",
+   "w": 51,
+   "x": 265,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 61
+   },
+   "h": 59,
+   "index": 6,
+   "origin": {
+    "x": 1,
+    "y": 77
+   },
+   "role": "Broken",
+   "w": 52,
+   "x": 317,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 56
+   },
+   "h": 54,
+   "index": 7,
+   "origin": {
+    "x": 1,
+    "y": 77
+   },
+   "role": "Broken",
+   "w": 52,
+   "x": 370,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile53/Block32",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile53__Block32.png",
+  "h": 75,
+  "w": 422
+ }
+}

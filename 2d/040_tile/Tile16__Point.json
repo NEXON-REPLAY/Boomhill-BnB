@@ -1,0 +1,41 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "16Static_Tower01+Tower01"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 5,
+    "y": 57
+   },
+   "h": 58,
+   "index": 0,
+   "origin": {
+    "x": 5,
+    "y": 57
+   },
+   "role": "16Static_Tower01+Tower01",
+   "w": 50,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile16/Point",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile16__Point.png",
+  "h": 58,
+  "w": 50
+ }
+}

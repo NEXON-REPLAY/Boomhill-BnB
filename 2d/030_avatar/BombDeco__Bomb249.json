@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "Bomb249"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 40
+   },
+   "h": 41,
+   "index": 0,
+   "origin": {
+    "x": 4,
+    "y": 43
+   },
+   "role": "Bomb249",
+   "w": 40,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 30
+   },
+   "h": 31,
+   "index": 1,
+   "origin": {
+    "x": 4,
+    "y": 43
+   },
+   "role": "Bomb249",
+   "w": 44,
+   "x": 41,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 40
+   },
+   "h": 41,
+   "index": 2,
+   "origin": {
+    "x": 4,
+    "y": 43
+   },
+   "role": "Bomb249",
+   "w": 40,
+   "x": 86,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 40
+   },
+   "h": 41,
+   "index": 3,
+   "origin": {
+    "x": 4,
+    "y": 43
+   },
+   "role": "Bomb249",
+   "w": 38,
+   "x": 127,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 40
+   },
+   "h": 41,
+   "index": 4,
+   "origin": {
+    "x": 4,
+    "y": 43
+   },
+   "role": "Bomb249",
+   "w": 40,
+   "x": 166,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 30
+   },
+   "h": 31,
+   "index": 5,
+   "origin": {
+    "x": 4,
+    "y": 43
+   },
+   "role": "Bomb249",
+   "w": 44,
+   "x": 207,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 40
+   },
+   "h": 41,
+   "index": 6,
+   "origin": {
+    "x": 4,
+    "y": 43
+   },
+   "role": "Bomb249",
+   "w": 40,
+   "x": 252,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 40
+   },
+   "h": 41,
+   "index": 7,
+   "origin": {
+    "x": 4,
+    "y": 43
+   },
+   "role": "Bomb249",
+   "w": 38,
+   "x": 293,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "BombDeco/Bomb249",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "BombDeco__Bomb249.png",
+  "h": 41,
+  "w": 331
+ }
+}

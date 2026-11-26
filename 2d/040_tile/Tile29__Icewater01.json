@@ -1,0 +1,59 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1
+   ],
+   "loop": false,
+   "name": "Icewater01"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 39
+   },
+   "h": 40,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 39
+   },
+   "role": "Icewater01",
+   "w": 40,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 39
+   },
+   "h": 40,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 39
+   },
+   "role": "Icewater01",
+   "w": 40,
+   "x": 41,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile29/Icewater01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile29__Icewater01.png",
+  "h": 40,
+  "w": 81
+ }
+}

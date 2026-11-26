@@ -1,0 +1,235 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "loop": false,
+   "name": "SnowBlur10"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -34,
+    "y": -19
+   },
+   "h": 52,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "SnowBlur10",
+   "w": 74,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -24,
+    "y": -19
+   },
+   "h": 49,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "SnowBlur10",
+   "w": 80,
+   "x": 75,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -19,
+    "y": -12
+   },
+   "h": 60,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "SnowBlur10",
+   "w": 102,
+   "x": 156,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -25,
+    "y": -12
+   },
+   "h": 62,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "SnowBlur10",
+   "w": 85,
+   "x": 259,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -22,
+    "y": -12
+   },
+   "h": 62,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "SnowBlur10",
+   "w": 83,
+   "x": 345,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -22,
+    "y": -12
+   },
+   "h": 62,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "SnowBlur10",
+   "w": 77,
+   "x": 429,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -29,
+    "y": -13
+   },
+   "h": 61,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "SnowBlur10",
+   "w": 76,
+   "x": 507,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -25,
+    "y": -11
+   },
+   "h": 63,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "SnowBlur10",
+   "w": 86,
+   "x": 584,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -18,
+    "y": -13
+   },
+   "h": 61,
+   "index": 8,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "SnowBlur10",
+   "w": 97,
+   "x": 671,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -27,
+    "y": -13
+   },
+   "h": 61,
+   "index": 9,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "SnowBlur10",
+   "w": 71,
+   "x": 769,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -30,
+    "y": -13
+   },
+   "h": 59,
+   "index": 10,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 68,
+   "x": 841,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -23,
+    "y": -15
+   },
+   "h": 56,
+   "index": 11,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 84,
+   "x": 910,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "060_effect",
+ "name": "MotionBlur/Blur_Snow03_Right",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MotionBlur__Blur_Snow03_Right.png",
+  "h": 63,
+  "w": 994
+ }
+}

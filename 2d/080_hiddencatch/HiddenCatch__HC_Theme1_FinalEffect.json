@@ -1,0 +1,113 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "HC_Single_Effect_Theme1"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 396,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HC_Single_Effect_Theme1",
+   "w": 605,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 396,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HC_Single_Effect_Theme1",
+   "w": 605,
+   "x": 0,
+   "y": 397
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 396,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HC_Single_Effect_Theme1",
+   "w": 605,
+   "x": 0,
+   "y": 794
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 396,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HC_Single_Effect_Theme1",
+   "w": 605,
+   "x": 0,
+   "y": 1191
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 396,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HC_Single_Effect_Theme1",
+   "w": 605,
+   "x": 0,
+   "y": 1588
+  }
+ ],
+ "game": "bnb",
+ "group": "080_hiddencatch",
+ "name": "HiddenCatch/HC_Theme1_FinalEffect",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "HiddenCatch__HC_Theme1_FinalEffect.png",
+  "h": 1984,
+  "w": 605
+ }
+}

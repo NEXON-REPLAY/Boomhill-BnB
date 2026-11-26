@@ -1,0 +1,199 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    1200,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "HC_Single_ThemeTooltip"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 43,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HC_Single_ThemeTooltip",
+   "w": 124,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 43,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HC_Single_ThemeTooltip",
+   "w": 121,
+   "x": 125,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 43,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HC_Single_ThemeTooltip",
+   "w": 121,
+   "x": 247,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 43,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HC_Single_ThemeTooltip",
+   "w": 121,
+   "x": 369,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 43,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HC_Single_ThemeTooltip",
+   "w": 123,
+   "x": 491,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 43,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HC_Single_ThemeTooltip",
+   "w": 123,
+   "x": 615,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 43,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HC_Single_ThemeTooltip",
+   "w": 123,
+   "x": 739,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 43,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HC_Single_ThemeTooltip",
+   "w": 124,
+   "x": 863,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 42,
+   "index": 8,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 2,
+   "x": 988,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 42,
+   "index": 9,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 2,
+   "x": 991,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "080_hiddencatch",
+ "name": "HiddenCatch/HC_Single_ThemeSel_Tooltip",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "HiddenCatch__HC_Single_ThemeSel_Tooltip.png",
+  "h": 43,
+  "w": 993
+ }
+}

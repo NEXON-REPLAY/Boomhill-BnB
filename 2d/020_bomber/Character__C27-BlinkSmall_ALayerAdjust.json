@@ -1,0 +1,85 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    750,
+    150,
+    150,
+    150,
+    150,
+    450,
+    2250
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    1,
+    2,
+    1,
+    0
+   ],
+   "loop": false,
+   "name": "BlinkSmall"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 7,
+    "y": 32
+   },
+   "h": 32,
+   "index": 0,
+   "origin": {
+    "x": 8,
+    "y": 47
+   },
+   "role": "BlinkSmall",
+   "w": 42,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 33
+   },
+   "h": 33,
+   "index": 1,
+   "origin": {
+    "x": 8,
+    "y": 47
+   },
+   "role": "BlinkSmall",
+   "w": 42,
+   "x": 43,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 33
+   },
+   "h": 33,
+   "index": 2,
+   "origin": {
+    "x": 8,
+    "y": 47
+   },
+   "role": "BlinkSmall",
+   "w": 42,
+   "x": 86,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "020_bomber",
+ "name": "Character/C27-BlinkSmall_ALayerAdjust",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Character__C27-BlinkSmall_ALayerAdjust.png",
+  "h": 33,
+  "w": 128
+ }
+}

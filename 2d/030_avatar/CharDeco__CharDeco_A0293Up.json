@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "Up"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 2,
+    "y": 88
+   },
+   "h": 36,
+   "index": 0,
+   "origin": {
+    "x": 23,
+    "y": 97
+   },
+   "role": "Up",
+   "w": 44,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 86
+   },
+   "h": 34,
+   "index": 1,
+   "origin": {
+    "x": 23,
+    "y": 97
+   },
+   "role": "Up",
+   "w": 48,
+   "x": 45,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 88
+   },
+   "h": 36,
+   "index": 2,
+   "origin": {
+    "x": 23,
+    "y": 97
+   },
+   "role": "Up",
+   "w": 46,
+   "x": 94,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 86
+   },
+   "h": 34,
+   "index": 3,
+   "origin": {
+    "x": 23,
+    "y": 97
+   },
+   "role": "Up",
+   "w": 48,
+   "x": 141,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "CharDeco/CharDeco_A0293Up",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "CharDeco__CharDeco_A0293Up.png",
+  "h": 36,
+  "w": 189
+ }
+}

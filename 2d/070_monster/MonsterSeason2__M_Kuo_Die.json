@@ -1,0 +1,131 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "01_Out"
+  },
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "loop": false,
+   "name": "00_In"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -3,
+    "y": 47
+   },
+   "h": 42,
+   "index": 0,
+   "origin": {
+    "x": 13,
+    "y": 77
+   },
+   "role": "animated",
+   "w": 48,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 45
+   },
+   "h": 40,
+   "index": 1,
+   "origin": {
+    "x": 13,
+    "y": 77
+   },
+   "role": "animated",
+   "w": 47,
+   "x": 49,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 40
+   },
+   "h": 35,
+   "index": 2,
+   "origin": {
+    "x": 13,
+    "y": 77
+   },
+   "role": "animated",
+   "w": 42,
+   "x": 97,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 27
+   },
+   "h": 22,
+   "index": 3,
+   "origin": {
+    "x": 13,
+    "y": 77
+   },
+   "role": "animated",
+   "w": 46,
+   "x": 140,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": 21
+   },
+   "h": 16,
+   "index": 4,
+   "origin": {
+    "x": 13,
+    "y": 77
+   },
+   "role": "animated",
+   "w": 35,
+   "x": 187,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/M_Kuo_Die",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__M_Kuo_Die.png",
+  "h": 42,
+  "w": 222
+ }
+}

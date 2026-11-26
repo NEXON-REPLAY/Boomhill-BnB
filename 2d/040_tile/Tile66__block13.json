@@ -1,0 +1,147 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30,
+    30,
+    30,
+    30,
+    30,
+    30
+   ],
+   "frames": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "loop": false,
+   "name": "Broken"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 3,
+    "y": 36
+   },
+   "h": 34,
+   "index": 0,
+   "origin": {
+    "x": 6,
+    "y": 73
+   },
+   "role": "unreferenced-spare",
+   "w": 40,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 36
+   },
+   "h": 34,
+   "index": 1,
+   "origin": {
+    "x": 6,
+    "y": 73
+   },
+   "role": "Broken",
+   "w": 40,
+   "x": 41,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 43
+   },
+   "h": 36,
+   "index": 2,
+   "origin": {
+    "x": 6,
+    "y": 73
+   },
+   "role": "Broken",
+   "w": 45,
+   "x": 82,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 46
+   },
+   "h": 43,
+   "index": 3,
+   "origin": {
+    "x": 6,
+    "y": 73
+   },
+   "role": "Broken",
+   "w": 45,
+   "x": 128,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 49
+   },
+   "h": 48,
+   "index": 4,
+   "origin": {
+    "x": 6,
+    "y": 73
+   },
+   "role": "Broken",
+   "w": 48,
+   "x": 174,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 52
+   },
+   "h": 49,
+   "index": 5,
+   "origin": {
+    "x": 6,
+    "y": 73
+   },
+   "role": "Broken",
+   "w": 51,
+   "x": 223,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 12
+   },
+   "h": 5,
+   "index": 6,
+   "origin": {
+    "x": 6,
+    "y": 73
+   },
+   "role": "Broken",
+   "w": 5,
+   "x": 275,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile66/block13",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile66__block13.png",
+  "h": 49,
+  "w": 280
+ }
+}

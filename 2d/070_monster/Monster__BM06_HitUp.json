@@ -1,0 +1,113 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "Damage Up"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 8,
+    "y": 157
+   },
+   "h": 158,
+   "index": 0,
+   "origin": {
+    "x": 45,
+    "y": 204
+   },
+   "role": "Damage Up",
+   "w": 136,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 31,
+    "y": 185
+   },
+   "h": 154,
+   "index": 1,
+   "origin": {
+    "x": 45,
+    "y": 204
+   },
+   "role": "Damage Up",
+   "w": 182,
+   "x": 137,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 20,
+    "y": 152
+   },
+   "h": 140,
+   "index": 2,
+   "origin": {
+    "x": 45,
+    "y": 204
+   },
+   "role": "Damage Up",
+   "w": 160,
+   "x": 320,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 8,
+    "y": 138
+   },
+   "h": 139,
+   "index": 3,
+   "origin": {
+    "x": 45,
+    "y": 204
+   },
+   "role": "Damage Up",
+   "w": 136,
+   "x": 481,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 8,
+    "y": 157
+   },
+   "h": 158,
+   "index": 4,
+   "origin": {
+    "x": 45,
+    "y": 204
+   },
+   "role": "Damage Up",
+   "w": 136,
+   "x": 618,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/BM06_HitUp",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__BM06_HitUp.png",
+  "h": 158,
+  "w": 754
+ }
+}

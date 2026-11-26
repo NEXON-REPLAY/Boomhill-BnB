@@ -1,0 +1,131 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "12Static_Truck00+Truck00"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 120
+   },
+   "h": 121,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 134
+   },
+   "role": "12Static_Truck00+Truck00",
+   "w": 120,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 131
+   },
+   "h": 132,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 134
+   },
+   "role": "12Static_Truck00+Truck00",
+   "w": 120,
+   "x": 121,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 134
+   },
+   "h": 135,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 134
+   },
+   "role": "12Static_Truck00+Truck00",
+   "w": 120,
+   "x": 242,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 134
+   },
+   "h": 135,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 134
+   },
+   "role": "12Static_Truck00+Truck00",
+   "w": 120,
+   "x": 363,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 115
+   },
+   "h": 116,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 134
+   },
+   "role": "12Static_Truck00+Truck00",
+   "w": 120,
+   "x": 484,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 114
+   },
+   "h": 115,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 134
+   },
+   "role": "12Static_Truck00+Truck00",
+   "w": 120,
+   "x": 605,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile12/Truck00%20",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile12__Truck00%20.png",
+  "h": 135,
+  "w": 725
+ }
+}

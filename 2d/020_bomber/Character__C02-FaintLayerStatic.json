@@ -1,0 +1,105 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    1,
+    2,
+    1,
+    2,
+    1,
+    2,
+    1,
+    2,
+    1,
+    2,
+    1,
+    2,
+    1,
+    2
+   ],
+   "loop": false,
+   "name": "Faint"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 1,
+    "y": 42
+   },
+   "h": 37,
+   "index": 0,
+   "origin": {
+    "x": 8,
+    "y": 66
+   },
+   "role": "Faint",
+   "w": 42,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 51
+   },
+   "h": 46,
+   "index": 1,
+   "origin": {
+    "x": 8,
+    "y": 66
+   },
+   "role": "Faint",
+   "w": 42,
+   "x": 43,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 50
+   },
+   "h": 45,
+   "index": 2,
+   "origin": {
+    "x": 8,
+    "y": 66
+   },
+   "role": "Faint",
+   "w": 42,
+   "x": 86,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "020_bomber",
+ "name": "Character/C02-FaintLayerStatic",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Character__C02-FaintLayerStatic.png",
+  "h": 46,
+  "w": 128
+ }
+}

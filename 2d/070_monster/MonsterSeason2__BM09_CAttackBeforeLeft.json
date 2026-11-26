@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    0,
+    1
+   ],
+   "loop": false,
+   "name": "BeforeAttack Left+BeforeAttack Up"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 18,
+    "y": 138
+   },
+   "h": 166,
+   "index": 0,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "BeforeAttack Left+BeforeAttack Up",
+   "w": 135,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 17,
+    "y": 143
+   },
+   "h": 171,
+   "index": 1,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "BeforeAttack Left+BeforeAttack Up",
+   "w": 133,
+   "x": 136,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 17,
+    "y": 145
+   },
+   "h": 173,
+   "index": 2,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "unconfirmed",
+   "w": 134,
+   "x": 270,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 25,
+    "y": 146
+   },
+   "h": 175,
+   "index": 3,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "unconfirmed",
+   "w": 144,
+   "x": 405,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/BM09_CAttackBeforeLeft",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__BM09_CAttackBeforeLeft.png",
+  "h": 175,
+  "w": 549
+ }
+}

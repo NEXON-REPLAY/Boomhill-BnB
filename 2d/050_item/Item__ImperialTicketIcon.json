@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": -5,
+    "y": 54
+   },
+   "h": 35,
+   "index": 0,
+   "origin": {
+    "x": 1,
+    "y": 66
+   },
+   "role": "sole-frame",
+   "w": 29,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "050_item",
+ "name": "Item/ImperialTicketIcon",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Item__ImperialTicketIcon.png",
+  "h": 35,
+  "w": 29
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 1
+   },
+   "h": 12,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 1
+   },
+   "role": "both-side-speaker-38",
+   "w": 13,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 1
+   },
+   "h": 12,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 1
+   },
+   "role": "both-side-speaker-39",
+   "w": 13,
+   "x": 14,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 1
+   },
+   "h": 12,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 1
+   },
+   "role": "both-side-speaker-40",
+   "w": 13,
+   "x": 28,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Emoticon/16th_Emoticon",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Emoticon__16th_Emoticon.png",
+  "h": 12,
+  "w": 41
+ }
+}

@@ -1,0 +1,131 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "Object10"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 15,
+    "y": 83
+   },
+   "h": 81,
+   "index": 0,
+   "origin": {
+    "x": 15,
+    "y": 87
+   },
+   "role": "Object10",
+   "w": 68,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 83
+   },
+   "h": 81,
+   "index": 1,
+   "origin": {
+    "x": 15,
+    "y": 87
+   },
+   "role": "Object10",
+   "w": 68,
+   "x": 69,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 83
+   },
+   "h": 81,
+   "index": 2,
+   "origin": {
+    "x": 15,
+    "y": 87
+   },
+   "role": "Object10",
+   "w": 68,
+   "x": 138,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 83
+   },
+   "h": 81,
+   "index": 3,
+   "origin": {
+    "x": 15,
+    "y": 87
+   },
+   "role": "Object10",
+   "w": 68,
+   "x": 207,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 83
+   },
+   "h": 81,
+   "index": 4,
+   "origin": {
+    "x": 15,
+    "y": 87
+   },
+   "role": "Object10",
+   "w": 68,
+   "x": 276,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 83
+   },
+   "h": 81,
+   "index": 5,
+   "origin": {
+    "x": 15,
+    "y": 87
+   },
+   "role": "Object10",
+   "w": 68,
+   "x": 345,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile69/object10",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile69__object10.png",
+  "h": 81,
+  "w": 413
+ }
+}

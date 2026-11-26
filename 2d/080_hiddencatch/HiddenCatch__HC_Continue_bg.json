@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 223,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 390,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "080_hiddencatch",
+ "name": "HiddenCatch/HC_Continue_bg",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "HiddenCatch__HC_Continue_bg.png",
+  "h": 223,
+  "w": 390
+ }
+}

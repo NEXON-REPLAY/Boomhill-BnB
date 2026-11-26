@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "SideColumn"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 10,
+    "y": 196
+   },
+   "h": 197,
+   "index": 0,
+   "origin": {
+    "x": 10,
+    "y": 201
+   },
+   "role": "SideColumn",
+   "w": 101,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 196
+   },
+   "h": 197,
+   "index": 1,
+   "origin": {
+    "x": 10,
+    "y": 201
+   },
+   "role": "SideColumn",
+   "w": 101,
+   "x": 102,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 196
+   },
+   "h": 197,
+   "index": 2,
+   "origin": {
+    "x": 10,
+    "y": 201
+   },
+   "role": "SideColumn",
+   "w": 101,
+   "x": 204,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 196
+   },
+   "h": 197,
+   "index": 3,
+   "origin": {
+    "x": 10,
+    "y": 201
+   },
+   "role": "SideColumn",
+   "w": 101,
+   "x": 306,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile39/SideColumn",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile39__SideColumn.png",
+  "h": 197,
+  "w": 407
+ }
+}

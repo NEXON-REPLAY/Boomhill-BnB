@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": -23,
+    "y": 25
+   },
+   "h": 9,
+   "index": 0,
+   "origin": {
+    "x": 15,
+    "y": 107
+   },
+   "role": "sole-frame",
+   "w": 18,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Shop/S_MagicMarbleShadow",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop__S_MagicMarbleShadow.png",
+  "h": 9,
+  "w": 18
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 121,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "sole-frame",
+   "w": 84,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "MagicMarket/Dlg_MMResolution_Result_itembg",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MagicMarket__Dlg_MMResolution_Result_itembg.png",
+  "h": 121,
+  "w": 84
+ }
+}

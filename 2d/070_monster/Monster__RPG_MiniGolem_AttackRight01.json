@@ -1,0 +1,77 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    60,
+    60,
+    60
+   ],
+   "frames": [
+    0,
+    1,
+    2
+   ],
+   "loop": false,
+   "name": "Attack2 Right"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 9,
+    "y": 51
+   },
+   "h": 49,
+   "index": 0,
+   "origin": {
+    "x": 17,
+    "y": 71
+   },
+   "role": "Attack2 Right",
+   "w": 55,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 8,
+    "y": 48
+   },
+   "h": 49,
+   "index": 1,
+   "origin": {
+    "x": 17,
+    "y": 71
+   },
+   "role": "Attack2 Right",
+   "w": 54,
+   "x": 56,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 47
+   },
+   "h": 48,
+   "index": 2,
+   "origin": {
+    "x": 17,
+    "y": 71
+   },
+   "role": "Attack2 Right",
+   "w": 66,
+   "x": 111,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/RPG_MiniGolem_AttackRight01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__RPG_MiniGolem_AttackRight01.png",
+  "h": 49,
+  "w": 177
+ }
+}

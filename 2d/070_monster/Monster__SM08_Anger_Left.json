@@ -1,0 +1,177 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    90,
+    120,
+    120,
+    90,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "AngryLeft"
+  },
+  {
+   "frame_ms": [
+    120
+   ],
+   "frames": [
+    1
+   ],
+   "loop": false,
+   "name": "AngryStopLeft"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -1,
+    "y": 64
+   },
+   "h": 57,
+   "index": 0,
+   "origin": {
+    "x": 4,
+    "y": 72
+   },
+   "role": "AngryLeft",
+   "w": 39,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 66
+   },
+   "h": 61,
+   "index": 1,
+   "origin": {
+    "x": 4,
+    "y": 72
+   },
+   "role": "animated",
+   "w": 39,
+   "x": 40,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 67
+   },
+   "h": 56,
+   "index": 2,
+   "origin": {
+    "x": 4,
+    "y": 72
+   },
+   "role": "AngryLeft",
+   "w": 39,
+   "x": 80,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 71
+   },
+   "h": 58,
+   "index": 3,
+   "origin": {
+    "x": 4,
+    "y": 72
+   },
+   "role": "AngryLeft",
+   "w": 39,
+   "x": 120,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 70
+   },
+   "h": 57,
+   "index": 4,
+   "origin": {
+    "x": 4,
+    "y": 72
+   },
+   "role": "AngryLeft",
+   "w": 39,
+   "x": 160,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 67
+   },
+   "h": 60,
+   "index": 5,
+   "origin": {
+    "x": 4,
+    "y": 72
+   },
+   "role": "AngryLeft",
+   "w": 39,
+   "x": 200,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 65
+   },
+   "h": 57,
+   "index": 6,
+   "origin": {
+    "x": 4,
+    "y": 72
+   },
+   "role": "AngryLeft",
+   "w": 39,
+   "x": 240,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 62
+   },
+   "h": 58,
+   "index": 7,
+   "origin": {
+    "x": 4,
+    "y": 72
+   },
+   "role": "AngryLeft",
+   "w": 39,
+   "x": 280,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/SM08_Anger_Left",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__SM08_Anger_Left.png",
+  "h": 61,
+  "w": 319
+ }
+}

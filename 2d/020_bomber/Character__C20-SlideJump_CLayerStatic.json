@@ -1,0 +1,183 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "Jump Left"
+  },
+  {
+   "frame_ms": [
+    60,
+    60,
+    60,
+    60
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "Slide Down"
+  },
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    1
+   ],
+   "loop": false,
+   "name": "Jump Up"
+  },
+  {
+   "frame_ms": [
+    60,
+    60,
+    60,
+    60
+   ],
+   "frames": [
+    1,
+    2,
+    3,
+    0
+   ],
+   "loop": false,
+   "name": "Slide Left"
+  },
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    2
+   ],
+   "loop": false,
+   "name": "Jump Right"
+  },
+  {
+   "frame_ms": [
+    60,
+    60,
+    60,
+    60
+   ],
+   "frames": [
+    2,
+    3,
+    0,
+    1
+   ],
+   "loop": false,
+   "name": "Slide Up"
+  },
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    3
+   ],
+   "loop": false,
+   "name": "Jump Down"
+  },
+  {
+   "frame_ms": [
+    60,
+    60,
+    60,
+    60
+   ],
+   "frames": [
+    3,
+    0,
+    1,
+    2
+   ],
+   "loop": false,
+   "name": "Slide Right"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -1,
+    "y": 59
+   },
+   "h": 32,
+   "index": 0,
+   "origin": {
+    "x": 13,
+    "y": 72
+   },
+   "role": "animated",
+   "w": 27,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -15,
+    "y": 60
+   },
+   "h": 28,
+   "index": 1,
+   "origin": {
+    "x": 13,
+    "y": 72
+   },
+   "role": "animated",
+   "w": 10,
+   "x": 28,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -12,
+    "y": 59
+   },
+   "h": 32,
+   "index": 2,
+   "origin": {
+    "x": 13,
+    "y": 72
+   },
+   "role": "animated",
+   "w": 27,
+   "x": 39,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 60
+   },
+   "h": 33,
+   "index": 3,
+   "origin": {
+    "x": 13,
+    "y": 72
+   },
+   "role": "animated",
+   "w": 36,
+   "x": 67,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "020_bomber",
+ "name": "Character/C20-SlideJump_CLayerStatic",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Character__C20-SlideJump_CLayerStatic.png",
+  "h": 33,
+  "w": 103
+ }
+}

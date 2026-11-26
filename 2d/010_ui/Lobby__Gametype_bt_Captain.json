@@ -1,0 +1,78 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": -3
+   },
+   "h": 24,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 24,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": -5
+   },
+   "h": 23,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 24,
+   "x": 25,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": -3
+   },
+   "h": 24,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 24,
+   "x": 50,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": -3
+   },
+   "h": 24,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 24,
+   "x": 75,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Lobby/Gametype_bt_Captain",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Lobby__Gametype_bt_Captain.png",
+  "h": 24,
+  "w": 99
+ }
+}

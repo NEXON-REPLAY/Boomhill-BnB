@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    240,
+    240,
+    240,
+    240
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "Deco01+Static_Deco01"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 53
+   },
+   "h": 54,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 63
+   },
+   "role": "Deco01+Static_Deco01",
+   "w": 72,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 53
+   },
+   "h": 54,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 63
+   },
+   "role": "Deco01+Static_Deco01",
+   "w": 80,
+   "x": 73,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 63
+   },
+   "h": 64,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 63
+   },
+   "role": "Deco01+Static_Deco01",
+   "w": 64,
+   "x": 154,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 53
+   },
+   "h": 54,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 63
+   },
+   "role": "Deco01+Static_Deco01",
+   "w": 80,
+   "x": 219,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile60/Deco01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile60__Deco01.png",
+  "h": 64,
+  "w": 299
+ }
+}

@@ -1,0 +1,341 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    7,
+    8,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ],
+   "loop": false,
+   "name": "Locked1+Locked2"
+  },
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "loop": false,
+   "name": "Locking"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -3,
+    "y": 37
+   },
+   "h": 34,
+   "index": 0,
+   "origin": {
+    "x": 6,
+    "y": 46
+   },
+   "role": "Locking",
+   "w": 34,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 40
+   },
+   "h": 40,
+   "index": 1,
+   "origin": {
+    "x": 6,
+    "y": 46
+   },
+   "role": "Locking",
+   "w": 40,
+   "x": 35,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 37
+   },
+   "h": 34,
+   "index": 2,
+   "origin": {
+    "x": 6,
+    "y": 46
+   },
+   "role": "Locking",
+   "w": 38,
+   "x": 76,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 39
+   },
+   "h": 38,
+   "index": 3,
+   "origin": {
+    "x": 6,
+    "y": 46
+   },
+   "role": "Locking",
+   "w": 40,
+   "x": 115,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 39
+   },
+   "h": 38,
+   "index": 4,
+   "origin": {
+    "x": 6,
+    "y": 46
+   },
+   "role": "Locking",
+   "w": 40,
+   "x": 156,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 39
+   },
+   "h": 38,
+   "index": 5,
+   "origin": {
+    "x": 6,
+    "y": 46
+   },
+   "role": "Locking",
+   "w": 40,
+   "x": 197,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 39
+   },
+   "h": 38,
+   "index": 6,
+   "origin": {
+    "x": 6,
+    "y": 46
+   },
+   "role": "Locking",
+   "w": 40,
+   "x": 238,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 39
+   },
+   "h": 38,
+   "index": 7,
+   "origin": {
+    "x": 6,
+    "y": 46
+   },
+   "role": "Locked1+Locked2",
+   "w": 40,
+   "x": 279,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 39
+   },
+   "h": 38,
+   "index": 8,
+   "origin": {
+    "x": 6,
+    "y": 46
+   },
+   "role": "Locked1+Locked2",
+   "w": 40,
+   "x": 320,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 39
+   },
+   "h": 38,
+   "index": 9,
+   "origin": {
+    "x": 6,
+    "y": 46
+   },
+   "role": "Locked1+Locked2",
+   "w": 40,
+   "x": 361,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 39
+   },
+   "h": 38,
+   "index": 10,
+   "origin": {
+    "x": 6,
+    "y": 46
+   },
+   "role": "Locked1+Locked2",
+   "w": 40,
+   "x": 402,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 39
+   },
+   "h": 38,
+   "index": 11,
+   "origin": {
+    "x": 6,
+    "y": 46
+   },
+   "role": "Locked1+Locked2",
+   "w": 40,
+   "x": 443,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 39
+   },
+   "h": 38,
+   "index": 12,
+   "origin": {
+    "x": 6,
+    "y": 46
+   },
+   "role": "Locked1+Locked2",
+   "w": 40,
+   "x": 484,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 39
+   },
+   "h": 38,
+   "index": 13,
+   "origin": {
+    "x": 6,
+    "y": 46
+   },
+   "role": "Locked1+Locked2",
+   "w": 40,
+   "x": 525,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 39
+   },
+   "h": 38,
+   "index": 14,
+   "origin": {
+    "x": 6,
+    "y": 46
+   },
+   "role": "Locked1+Locked2",
+   "w": 40,
+   "x": 566,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 39
+   },
+   "h": 38,
+   "index": 15,
+   "origin": {
+    "x": 6,
+    "y": 46
+   },
+   "role": "Locked1+Locked2",
+   "w": 40,
+   "x": 607,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 39
+   },
+   "h": 38,
+   "index": 16,
+   "origin": {
+    "x": 6,
+    "y": 46
+   },
+   "role": "Locked1+Locked2",
+   "w": 40,
+   "x": 648,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/RPG_SM12_Locking",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__RPG_SM12_Locking.png",
+  "h": 40,
+  "w": 688
+ }
+}

@@ -1,0 +1,323 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    12,
+    13,
+    14,
+    15,
+    12,
+    11
+   ],
+   "loop": false,
+   "name": "C07_EmotionH000"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 6,
+    "y": 72
+   },
+   "h": 67,
+   "index": 0,
+   "origin": {
+    "x": 8,
+    "y": 87
+   },
+   "role": "C07_EmotionH000",
+   "w": 52,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 76
+   },
+   "h": 71,
+   "index": 1,
+   "origin": {
+    "x": 8,
+    "y": 87
+   },
+   "role": "C07_EmotionH000",
+   "w": 52,
+   "x": 53,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 73
+   },
+   "h": 68,
+   "index": 2,
+   "origin": {
+    "x": 8,
+    "y": 87
+   },
+   "role": "C07_EmotionH000",
+   "w": 55,
+   "x": 106,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 8,
+    "y": 76
+   },
+   "h": 71,
+   "index": 3,
+   "origin": {
+    "x": 8,
+    "y": 87
+   },
+   "role": "C07_EmotionH000",
+   "w": 55,
+   "x": 162,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 80
+   },
+   "h": 75,
+   "index": 4,
+   "origin": {
+    "x": 8,
+    "y": 87
+   },
+   "role": "C07_EmotionH000",
+   "w": 54,
+   "x": 218,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 8,
+    "y": 82
+   },
+   "h": 77,
+   "index": 5,
+   "origin": {
+    "x": 8,
+    "y": 87
+   },
+   "role": "C07_EmotionH000",
+   "w": 55,
+   "x": 273,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 8,
+    "y": 85
+   },
+   "h": 80,
+   "index": 6,
+   "origin": {
+    "x": 8,
+    "y": 87
+   },
+   "role": "C07_EmotionH000",
+   "w": 55,
+   "x": 329,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 80
+   },
+   "h": 75,
+   "index": 7,
+   "origin": {
+    "x": 8,
+    "y": 87
+   },
+   "role": "C07_EmotionH000",
+   "w": 54,
+   "x": 385,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 76
+   },
+   "h": 71,
+   "index": 8,
+   "origin": {
+    "x": 8,
+    "y": 87
+   },
+   "role": "C07_EmotionH000",
+   "w": 54,
+   "x": 440,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 79
+   },
+   "h": 74,
+   "index": 9,
+   "origin": {
+    "x": 8,
+    "y": 87
+   },
+   "role": "C07_EmotionH000",
+   "w": 54,
+   "x": 495,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 72
+   },
+   "h": 67,
+   "index": 10,
+   "origin": {
+    "x": 8,
+    "y": 87
+   },
+   "role": "C07_EmotionH000",
+   "w": 54,
+   "x": 550,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 72
+   },
+   "h": 67,
+   "index": 11,
+   "origin": {
+    "x": 8,
+    "y": 87
+   },
+   "role": "C07_EmotionH000",
+   "w": 54,
+   "x": 605,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 74
+   },
+   "h": 68,
+   "index": 12,
+   "origin": {
+    "x": 8,
+    "y": 87
+   },
+   "role": "C07_EmotionH000",
+   "w": 54,
+   "x": 660,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 8,
+    "y": 77
+   },
+   "h": 70,
+   "index": 13,
+   "origin": {
+    "x": 8,
+    "y": 87
+   },
+   "role": "C07_EmotionH000",
+   "w": 47,
+   "x": 715,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 8,
+    "y": 78
+   },
+   "h": 69,
+   "index": 14,
+   "origin": {
+    "x": 8,
+    "y": 87
+   },
+   "role": "C07_EmotionH000",
+   "w": 56,
+   "x": 763,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 77
+   },
+   "h": 71,
+   "index": 15,
+   "origin": {
+    "x": 8,
+    "y": 87
+   },
+   "role": "C07_EmotionH000",
+   "w": 47,
+   "x": 820,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "Character/C07-EmotionH000LayerStatic",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Character__C07-EmotionH000LayerStatic.png",
+  "h": 80,
+  "w": 867
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "Avatar_01"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 5,
+    "y": 236
+   },
+   "h": 237,
+   "index": 0,
+   "origin": {
+    "x": 5,
+    "y": 236
+   },
+   "role": "Avatar_01",
+   "w": 205,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "TileLobbySquare/Avatar_01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "TileLobbySquare__Avatar_01.png",
+  "h": 237,
+  "w": 205
+ }
+}

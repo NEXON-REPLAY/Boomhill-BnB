@@ -1,0 +1,149 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "loop": false,
+   "name": "static86"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 82
+   },
+   "h": 83,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 82
+   },
+   "role": "static86",
+   "w": 40,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 82
+   },
+   "h": 83,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 82
+   },
+   "role": "static86",
+   "w": 40,
+   "x": 41,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 82
+   },
+   "h": 83,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 82
+   },
+   "role": "static86",
+   "w": 40,
+   "x": 82,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 82
+   },
+   "h": 83,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 82
+   },
+   "role": "static86",
+   "w": 40,
+   "x": 123,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 82
+   },
+   "h": 83,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 82
+   },
+   "role": "static86",
+   "w": 40,
+   "x": 164,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 82
+   },
+   "h": 83,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 82
+   },
+   "role": "static86",
+   "w": 40,
+   "x": 205,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 82
+   },
+   "h": 83,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 82
+   },
+   "role": "static86",
+   "w": 40,
+   "x": 246,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile54/static86",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile54__static86.png",
+  "h": 83,
+  "w": 286
+ }
+}

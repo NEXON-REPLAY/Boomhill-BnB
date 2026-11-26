@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": -2,
+    "y": -10
+   },
+   "h": 176,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 127,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Lobby/ReadyBox",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Lobby__ReadyBox.png",
+  "h": 176,
+  "w": 127
+ }
+}

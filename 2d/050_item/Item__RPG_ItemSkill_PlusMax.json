@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": -27,
+    "y": 60
+   },
+   "h": 15,
+   "index": 0,
+   "origin": {
+    "x": 1,
+    "y": 66
+   },
+   "role": "sole-frame",
+   "w": 15,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "050_item",
+ "name": "Item/RPG_ItemSkill_PlusMax",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Item__RPG_ItemSkill_PlusMax.png",
+  "h": 15,
+  "w": 15
+ }
+}

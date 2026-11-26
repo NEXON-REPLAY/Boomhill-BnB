@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    300,
+    300,
+    300,
+    300
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "13Static_Jewel+Jewel"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 11,
+    "y": 89
+   },
+   "h": 90,
+   "index": 0,
+   "origin": {
+    "x": 11,
+    "y": 89
+   },
+   "role": "13Static_Jewel+Jewel",
+   "w": 296,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 89
+   },
+   "h": 90,
+   "index": 1,
+   "origin": {
+    "x": 11,
+    "y": 89
+   },
+   "role": "13Static_Jewel+Jewel",
+   "w": 296,
+   "x": 297,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 89
+   },
+   "h": 90,
+   "index": 2,
+   "origin": {
+    "x": 11,
+    "y": 89
+   },
+   "role": "13Static_Jewel+Jewel",
+   "w": 296,
+   "x": 594,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 89
+   },
+   "h": 90,
+   "index": 3,
+   "origin": {
+    "x": 11,
+    "y": 89
+   },
+   "role": "13Static_Jewel+Jewel",
+   "w": 296,
+   "x": 0,
+   "y": 91
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile13/Jewel",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile13__Jewel.png",
+  "h": 181,
+  "w": 890
+ }
+}

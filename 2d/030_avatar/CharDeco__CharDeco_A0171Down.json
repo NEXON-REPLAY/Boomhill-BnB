@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "Down"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 5,
+    "y": 93
+   },
+   "h": 40,
+   "index": 0,
+   "origin": {
+    "x": 20,
+    "y": 112
+   },
+   "role": "Down",
+   "w": 43,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 94
+   },
+   "h": 39,
+   "index": 1,
+   "origin": {
+    "x": 20,
+    "y": 112
+   },
+   "role": "Down",
+   "w": 42,
+   "x": 44,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 101
+   },
+   "h": 40,
+   "index": 2,
+   "origin": {
+    "x": 20,
+    "y": 112
+   },
+   "role": "Down",
+   "w": 42,
+   "x": 87,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 94
+   },
+   "h": 39,
+   "index": 3,
+   "origin": {
+    "x": 20,
+    "y": 112
+   },
+   "role": "Down",
+   "w": 42,
+   "x": 130,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": 94
+   },
+   "h": 40,
+   "index": 4,
+   "origin": {
+    "x": 20,
+    "y": 112
+   },
+   "role": "Down",
+   "w": 43,
+   "x": 173,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 95
+   },
+   "h": 39,
+   "index": 5,
+   "origin": {
+    "x": 20,
+    "y": 112
+   },
+   "role": "Down",
+   "w": 42,
+   "x": 217,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 101
+   },
+   "h": 40,
+   "index": 6,
+   "origin": {
+    "x": 20,
+    "y": 112
+   },
+   "role": "Down",
+   "w": 42,
+   "x": 260,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 94
+   },
+   "h": 39,
+   "index": 7,
+   "origin": {
+    "x": 20,
+    "y": 112
+   },
+   "role": "Down",
+   "w": 42,
+   "x": 303,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "CharDeco/CharDeco_A0171Down",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "CharDeco__CharDeco_A0171Down.png",
+  "h": 40,
+  "w": 345
+ }
+}

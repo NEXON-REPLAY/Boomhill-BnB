@@ -1,0 +1,109 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "Stop Ride Up"
+  },
+  {
+   "frame_ms": [
+    180,
+    90,
+    90,
+    180,
+    90,
+    90
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    2,
+    1
+   ],
+   "loop": false,
+   "name": "Ride Up"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -2,
+    "y": 46
+   },
+   "h": 15,
+   "index": 0,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "animated",
+   "w": 35,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 45
+   },
+   "h": 15,
+   "index": 1,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "Ride Up",
+   "w": 35,
+   "x": 36,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 44
+   },
+   "h": 15,
+   "index": 2,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "Ride Up",
+   "w": 35,
+   "x": 72,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 43
+   },
+   "h": 15,
+   "index": 3,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "Ride Up",
+   "w": 35,
+   "x": 108,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "020_bomber",
+ "name": "Character/C09-RideUp_BLayerStatic",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Character__C09-RideUp_BLayerStatic.png",
+  "h": 15,
+  "w": 143
+ }
+}

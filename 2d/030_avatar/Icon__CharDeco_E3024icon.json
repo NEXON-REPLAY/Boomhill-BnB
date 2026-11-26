@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 1,
+    "y": 63
+   },
+   "h": 42,
+   "index": 0,
+   "origin": {
+    "x": 4,
+    "y": 66
+   },
+   "role": "unconfirmed",
+   "w": 40,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "Icon/CharDeco_E3024icon",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Icon__CharDeco_E3024icon.png",
+  "h": 42,
+  "w": 40
+ }
+}

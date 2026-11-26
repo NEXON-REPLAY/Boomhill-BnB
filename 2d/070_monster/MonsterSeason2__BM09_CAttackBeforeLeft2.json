@@ -1,0 +1,149 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "loop": false,
+   "name": "BeforeAttack2 Left+BeforeAttack2 Up+BeforeAttack3 Left"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 18,
+    "y": 138
+   },
+   "h": 166,
+   "index": 0,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "BeforeAttack2 Left+BeforeAttack2 Up+BeforeAttack3 Left",
+   "w": 135,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 17,
+    "y": 143
+   },
+   "h": 171,
+   "index": 1,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "BeforeAttack2 Left+BeforeAttack2 Up+BeforeAttack3 Left",
+   "w": 133,
+   "x": 136,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 17,
+    "y": 145
+   },
+   "h": 173,
+   "index": 2,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "BeforeAttack2 Left+BeforeAttack2 Up+BeforeAttack3 Left",
+   "w": 134,
+   "x": 270,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 25,
+    "y": 146
+   },
+   "h": 175,
+   "index": 3,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "BeforeAttack2 Left+BeforeAttack2 Up+BeforeAttack3 Left",
+   "w": 144,
+   "x": 405,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 27,
+    "y": 138
+   },
+   "h": 160,
+   "index": 4,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "BeforeAttack2 Left+BeforeAttack2 Up+BeforeAttack3 Left",
+   "w": 157,
+   "x": 550,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 35,
+    "y": 125
+   },
+   "h": 142,
+   "index": 5,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "BeforeAttack2 Left+BeforeAttack2 Up+BeforeAttack3 Left",
+   "w": 196,
+   "x": 708,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 26,
+    "y": 114
+   },
+   "h": 130,
+   "index": 6,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "BeforeAttack2 Left+BeforeAttack2 Up+BeforeAttack3 Left",
+   "w": 157,
+   "x": 0,
+   "y": 176
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/BM09_CAttackBeforeLeft2",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__BM09_CAttackBeforeLeft2.png",
+  "h": 306,
+  "w": 904
+ }
+}

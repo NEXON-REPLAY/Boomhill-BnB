@@ -1,0 +1,203 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    60,
+    60,
+    90,
+    120,
+    60
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "NormalAppear"
+  },
+  {
+   "frame_ms": [
+    90,
+    120,
+    90,
+    60
+   ],
+   "frames": [
+    4,
+    3,
+    1,
+    0
+   ],
+   "loop": false,
+   "name": "NormalDisappear"
+  },
+  {
+   "frame_ms": [
+    300,
+    90,
+    120,
+    120,
+    330,
+    90,
+    120,
+    120,
+    210
+   ],
+   "frames": [
+    5,
+    6,
+    5,
+    6,
+    5,
+    7,
+    5,
+    7,
+    5
+   ],
+   "loop": false,
+   "name": "Normal"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -26,
+    "y": 21
+   },
+   "h": 15,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 87
+   },
+   "role": "animated",
+   "w": 26,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -25,
+    "y": 27
+   },
+   "h": 21,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 87
+   },
+   "role": "animated",
+   "w": 28,
+   "x": 27,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -19,
+    "y": 47
+   },
+   "h": 41,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 87
+   },
+   "role": "NormalAppear",
+   "w": 40,
+   "x": 56,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -19,
+    "y": 51
+   },
+   "h": 45,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 87
+   },
+   "role": "animated",
+   "w": 40,
+   "x": 97,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -19,
+    "y": 47
+   },
+   "h": 41,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 87
+   },
+   "role": "animated",
+   "w": 40,
+   "x": 138,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -19,
+    "y": 48
+   },
+   "h": 42,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 87
+   },
+   "role": "Normal",
+   "w": 40,
+   "x": 179,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -19,
+    "y": 48
+   },
+   "h": 42,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 87
+   },
+   "role": "Normal",
+   "w": 40,
+   "x": 220,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -19,
+    "y": 48
+   },
+   "h": 42,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 87
+   },
+   "role": "Normal",
+   "w": 40,
+   "x": 261,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/hamster_normal",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__hamster_normal.png",
+  "h": 45,
+  "w": 301
+ }
+}

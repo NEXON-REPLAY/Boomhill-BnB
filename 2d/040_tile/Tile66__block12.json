@@ -1,0 +1,183 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30
+   ],
+   "frames": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "loop": false,
+   "name": "Broken"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 43
+   },
+   "h": 44,
+   "index": 0,
+   "origin": {
+    "x": 11,
+    "y": 54
+   },
+   "role": "unreferenced-spare",
+   "w": 40,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 43
+   },
+   "h": 44,
+   "index": 1,
+   "origin": {
+    "x": 11,
+    "y": 54
+   },
+   "role": "Broken",
+   "w": 41,
+   "x": 41,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 49
+   },
+   "h": 57,
+   "index": 2,
+   "origin": {
+    "x": 11,
+    "y": 54
+   },
+   "role": "Broken",
+   "w": 62,
+   "x": 83,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 53
+   },
+   "h": 63,
+   "index": 3,
+   "origin": {
+    "x": 11,
+    "y": 54
+   },
+   "role": "Broken",
+   "w": 62,
+   "x": 146,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 53
+   },
+   "h": 65,
+   "index": 4,
+   "origin": {
+    "x": 11,
+    "y": 54
+   },
+   "role": "Broken",
+   "w": 62,
+   "x": 209,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 52
+   },
+   "h": 63,
+   "index": 5,
+   "origin": {
+    "x": 11,
+    "y": 54
+   },
+   "role": "Broken",
+   "w": 62,
+   "x": 272,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 53
+   },
+   "h": 62,
+   "index": 6,
+   "origin": {
+    "x": 11,
+    "y": 54
+   },
+   "role": "Broken",
+   "w": 58,
+   "x": 335,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 48
+   },
+   "h": 54,
+   "index": 7,
+   "origin": {
+    "x": 11,
+    "y": 54
+   },
+   "role": "Broken",
+   "w": 48,
+   "x": 394,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 41
+   },
+   "h": 30,
+   "index": 8,
+   "origin": {
+    "x": 11,
+    "y": 54
+   },
+   "role": "Broken",
+   "w": 37,
+   "x": 443,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile66/block12",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile66__block12.png",
+  "h": 65,
+  "w": 480
+ }
+}

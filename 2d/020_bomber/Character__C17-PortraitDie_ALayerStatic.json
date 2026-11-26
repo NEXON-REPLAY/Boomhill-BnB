@@ -1,0 +1,107 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    210,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    1,
+    2,
+    3,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "Die"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -8,
+    "y": -13
+   },
+   "h": 18,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "Die",
+   "w": 26,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -8,
+    "y": -13
+   },
+   "h": 18,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "Die",
+   "w": 26,
+   "x": 27,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -8,
+    "y": -13
+   },
+   "h": 18,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "Die",
+   "w": 26,
+   "x": 54,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -8,
+    "y": -13
+   },
+   "h": 18,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "Die",
+   "w": 26,
+   "x": 81,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "020_bomber",
+ "name": "Character/C17-PortraitDie_ALayerStatic",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Character__C17-PortraitDie_ALayerStatic.png",
+  "h": 18,
+  "w": 107
+ }
+}

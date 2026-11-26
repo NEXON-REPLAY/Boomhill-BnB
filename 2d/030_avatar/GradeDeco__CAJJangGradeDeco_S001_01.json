@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "01 Small+02 Large"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 11,
+    "y": 10
+   },
+   "h": 36,
+   "index": 0,
+   "origin": {
+    "x": 11,
+    "y": 10
+   },
+   "role": "01 Small+02 Large",
+   "w": 38,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 10
+   },
+   "h": 36,
+   "index": 1,
+   "origin": {
+    "x": 11,
+    "y": 10
+   },
+   "role": "01 Small+02 Large",
+   "w": 38,
+   "x": 39,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 10
+   },
+   "h": 36,
+   "index": 2,
+   "origin": {
+    "x": 11,
+    "y": 10
+   },
+   "role": "01 Small+02 Large",
+   "w": 38,
+   "x": 78,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 10
+   },
+   "h": 36,
+   "index": 3,
+   "origin": {
+    "x": 11,
+    "y": 10
+   },
+   "role": "01 Small+02 Large",
+   "w": 38,
+   "x": 117,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 10
+   },
+   "h": 36,
+   "index": 4,
+   "origin": {
+    "x": 11,
+    "y": 10
+   },
+   "role": "01 Small+02 Large",
+   "w": 38,
+   "x": 156,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 10
+   },
+   "h": 36,
+   "index": 5,
+   "origin": {
+    "x": 11,
+    "y": 10
+   },
+   "role": "01 Small+02 Large",
+   "w": 38,
+   "x": 195,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 10
+   },
+   "h": 36,
+   "index": 6,
+   "origin": {
+    "x": 11,
+    "y": 10
+   },
+   "role": "01 Small+02 Large",
+   "w": 38,
+   "x": 234,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 10
+   },
+   "h": 36,
+   "index": 7,
+   "origin": {
+    "x": 11,
+    "y": 10
+   },
+   "role": "01 Small+02 Large",
+   "w": 38,
+   "x": 273,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "GradeDeco/CAJJangGradeDeco_S001_01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GradeDeco__CAJJangGradeDeco_S001_01.png",
+  "h": 36,
+  "w": 311
+ }
+}

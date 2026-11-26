@@ -1,0 +1,77 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2
+   ],
+   "loop": false,
+   "name": "Shooting Right"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 5,
+    "y": 48
+   },
+   "h": 42,
+   "index": 0,
+   "origin": {
+    "x": 9,
+    "y": 89
+   },
+   "role": "Shooting Right",
+   "w": 49,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 47
+   },
+   "h": 42,
+   "index": 1,
+   "origin": {
+    "x": 9,
+    "y": 89
+   },
+   "role": "Shooting Right",
+   "w": 50,
+   "x": 50,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 46
+   },
+   "h": 41,
+   "index": 2,
+   "origin": {
+    "x": 9,
+    "y": 89
+   },
+   "role": "Shooting Right",
+   "w": 50,
+   "x": 101,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Ship/Shark02-ShootingRight",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Ship__Shark02-ShootingRight.png",
+  "h": 42,
+  "w": 151
+ }
+}

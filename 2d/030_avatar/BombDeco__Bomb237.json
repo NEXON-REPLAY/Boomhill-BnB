@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "Bomb237"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 3,
+    "y": 44
+   },
+   "h": 45,
+   "index": 0,
+   "origin": {
+    "x": 10,
+    "y": 54
+   },
+   "role": "Bomb237",
+   "w": 43,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 34
+   },
+   "h": 35,
+   "index": 1,
+   "origin": {
+    "x": 10,
+    "y": 54
+   },
+   "role": "Bomb237",
+   "w": 47,
+   "x": 44,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 44
+   },
+   "h": 45,
+   "index": 2,
+   "origin": {
+    "x": 10,
+    "y": 54
+   },
+   "role": "Bomb237",
+   "w": 43,
+   "x": 92,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 44
+   },
+   "h": 45,
+   "index": 3,
+   "origin": {
+    "x": 10,
+    "y": 54
+   },
+   "role": "Bomb237",
+   "w": 41,
+   "x": 136,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "BombDeco/Bomb237",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "BombDeco__Bomb237.png",
+  "h": 45,
+  "w": 177
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "01_Collide"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 2,
+    "y": 45
+   },
+   "h": 44,
+   "index": 0,
+   "origin": {
+    "x": 5,
+    "y": 61
+   },
+   "role": "01_Collide",
+   "w": 40,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 50
+   },
+   "h": 49,
+   "index": 1,
+   "origin": {
+    "x": 5,
+    "y": 61
+   },
+   "role": "01_Collide",
+   "w": 43,
+   "x": 41,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 57
+   },
+   "h": 56,
+   "index": 2,
+   "origin": {
+    "x": 5,
+    "y": 61
+   },
+   "role": "01_Collide",
+   "w": 46,
+   "x": 85,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 60
+   },
+   "h": 59,
+   "index": 3,
+   "origin": {
+    "x": 5,
+    "y": 61
+   },
+   "role": "01_Collide",
+   "w": 45,
+   "x": 132,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/Obj_Fire02_1",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__Obj_Fire02_1.png",
+  "h": 59,
+  "w": 177
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 293,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "sole-frame",
+   "w": 363,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "DTT/DTT_LockHelpBg",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "DTT__DTT_LockHelpBg.png",
+  "h": 293,
+  "w": 363
+ }
+}

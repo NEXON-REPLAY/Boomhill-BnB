@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 3,
+    "y": 102
+   },
+   "h": 56,
+   "index": 0,
+   "origin": {
+    "x": 16,
+    "y": 108
+   },
+   "role": "unconfirmed",
+   "w": 46,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Game/TimebombIndicator",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Game__TimebombIndicator.png",
+  "h": 56,
+  "w": 46
+ }
+}

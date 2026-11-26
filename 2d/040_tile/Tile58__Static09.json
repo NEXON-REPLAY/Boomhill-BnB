@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    1200,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "Static09"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 10,
+    "y": 161
+   },
+   "h": 168,
+   "index": 0,
+   "origin": {
+    "x": 10,
+    "y": 169
+   },
+   "role": "Static09",
+   "w": 140,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 169
+   },
+   "h": 176,
+   "index": 1,
+   "origin": {
+    "x": 10,
+    "y": 169
+   },
+   "role": "Static09",
+   "w": 140,
+   "x": 141,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 169
+   },
+   "h": 176,
+   "index": 2,
+   "origin": {
+    "x": 10,
+    "y": 169
+   },
+   "role": "Static09",
+   "w": 140,
+   "x": 282,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 159
+   },
+   "h": 166,
+   "index": 3,
+   "origin": {
+    "x": 10,
+    "y": 169
+   },
+   "role": "Static09",
+   "w": 140,
+   "x": 423,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 161
+   },
+   "h": 168,
+   "index": 4,
+   "origin": {
+    "x": 10,
+    "y": 169
+   },
+   "role": "Static09",
+   "w": 140,
+   "x": 564,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 169
+   },
+   "h": 176,
+   "index": 5,
+   "origin": {
+    "x": 10,
+    "y": 169
+   },
+   "role": "Static09",
+   "w": 140,
+   "x": 705,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 169
+   },
+   "h": 176,
+   "index": 6,
+   "origin": {
+    "x": 10,
+    "y": 169
+   },
+   "role": "Static09",
+   "w": 140,
+   "x": 846,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 159
+   },
+   "h": 166,
+   "index": 7,
+   "origin": {
+    "x": 10,
+    "y": 169
+   },
+   "role": "Static09",
+   "w": 140,
+   "x": 0,
+   "y": 177
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile58/Static09",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile58__Static09.png",
+  "h": 343,
+  "w": 986
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 436,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 450,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Prepare/Dlg_PRE-RoominfoRenew",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Prepare__Dlg_PRE-RoominfoRenew.png",
+  "h": 436,
+  "w": 450
+ }
+}

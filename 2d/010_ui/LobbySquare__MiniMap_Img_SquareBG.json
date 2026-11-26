@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 126,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 177,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "LobbySquare/MiniMap_Img_SquareBG",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "LobbySquare__MiniMap_Img_SquareBG.png",
+  "h": 126,
+  "w": 177
+ }
+}

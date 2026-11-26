@@ -1,0 +1,479 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "Ghost Stop Left+Ghost Walk Left"
+  },
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "loop": false,
+   "name": "Ghost Stop Up+Ghost Walk Up"
+  },
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+   ],
+   "loop": false,
+   "name": "Ghost Stop Right+Ghost Walk Right"
+  },
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "loop": false,
+   "name": "Ghost Stop Down+Ghost Walk Down"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -1,
+    "y": 76
+   },
+   "h": 66,
+   "index": 0,
+   "origin": {
+    "x": 17,
+    "y": 84
+   },
+   "role": "Ghost Stop Left+Ghost Walk Left",
+   "w": 46,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 74
+   },
+   "h": 66,
+   "index": 1,
+   "origin": {
+    "x": 17,
+    "y": 84
+   },
+   "role": "Ghost Stop Left+Ghost Walk Left",
+   "w": 46,
+   "x": 47,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 73
+   },
+   "h": 66,
+   "index": 2,
+   "origin": {
+    "x": 17,
+    "y": 84
+   },
+   "role": "Ghost Stop Left+Ghost Walk Left",
+   "w": 46,
+   "x": 94,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 74
+   },
+   "h": 66,
+   "index": 3,
+   "origin": {
+    "x": 17,
+    "y": 84
+   },
+   "role": "Ghost Stop Left+Ghost Walk Left",
+   "w": 46,
+   "x": 141,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 76
+   },
+   "h": 66,
+   "index": 4,
+   "origin": {
+    "x": 17,
+    "y": 84
+   },
+   "role": "Ghost Stop Left+Ghost Walk Left",
+   "w": 46,
+   "x": 188,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 77
+   },
+   "h": 66,
+   "index": 5,
+   "origin": {
+    "x": 17,
+    "y": 84
+   },
+   "role": "Ghost Stop Left+Ghost Walk Left",
+   "w": 46,
+   "x": 235,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 74
+   },
+   "h": 64,
+   "index": 6,
+   "origin": {
+    "x": 17,
+    "y": 84
+   },
+   "role": "Ghost Stop Up+Ghost Walk Up",
+   "w": 48,
+   "x": 282,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 72
+   },
+   "h": 64,
+   "index": 7,
+   "origin": {
+    "x": 17,
+    "y": 84
+   },
+   "role": "Ghost Stop Up+Ghost Walk Up",
+   "w": 48,
+   "x": 331,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 71
+   },
+   "h": 64,
+   "index": 8,
+   "origin": {
+    "x": 17,
+    "y": 84
+   },
+   "role": "Ghost Stop Up+Ghost Walk Up",
+   "w": 48,
+   "x": 380,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 72
+   },
+   "h": 64,
+   "index": 9,
+   "origin": {
+    "x": 17,
+    "y": 84
+   },
+   "role": "Ghost Stop Up+Ghost Walk Up",
+   "w": 48,
+   "x": 429,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 74
+   },
+   "h": 64,
+   "index": 10,
+   "origin": {
+    "x": 17,
+    "y": 84
+   },
+   "role": "Ghost Stop Up+Ghost Walk Up",
+   "w": 48,
+   "x": 478,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 75
+   },
+   "h": 64,
+   "index": 11,
+   "origin": {
+    "x": 17,
+    "y": 84
+   },
+   "role": "Ghost Stop Up+Ghost Walk Up",
+   "w": 48,
+   "x": 527,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 76
+   },
+   "h": 66,
+   "index": 12,
+   "origin": {
+    "x": 17,
+    "y": 84
+   },
+   "role": "Ghost Stop Right+Ghost Walk Right",
+   "w": 46,
+   "x": 576,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 74
+   },
+   "h": 66,
+   "index": 13,
+   "origin": {
+    "x": 17,
+    "y": 84
+   },
+   "role": "Ghost Stop Right+Ghost Walk Right",
+   "w": 46,
+   "x": 623,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 73
+   },
+   "h": 66,
+   "index": 14,
+   "origin": {
+    "x": 17,
+    "y": 84
+   },
+   "role": "Ghost Stop Right+Ghost Walk Right",
+   "w": 46,
+   "x": 670,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 74
+   },
+   "h": 66,
+   "index": 15,
+   "origin": {
+    "x": 17,
+    "y": 84
+   },
+   "role": "Ghost Stop Right+Ghost Walk Right",
+   "w": 46,
+   "x": 717,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 76
+   },
+   "h": 66,
+   "index": 16,
+   "origin": {
+    "x": 17,
+    "y": 84
+   },
+   "role": "Ghost Stop Right+Ghost Walk Right",
+   "w": 46,
+   "x": 764,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 77
+   },
+   "h": 66,
+   "index": 17,
+   "origin": {
+    "x": 17,
+    "y": 84
+   },
+   "role": "Ghost Stop Right+Ghost Walk Right",
+   "w": 46,
+   "x": 811,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 74
+   },
+   "h": 64,
+   "index": 18,
+   "origin": {
+    "x": 17,
+    "y": 84
+   },
+   "role": "Ghost Stop Down+Ghost Walk Down",
+   "w": 48,
+   "x": 858,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 72
+   },
+   "h": 64,
+   "index": 19,
+   "origin": {
+    "x": 17,
+    "y": 84
+   },
+   "role": "Ghost Stop Down+Ghost Walk Down",
+   "w": 48,
+   "x": 907,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 71
+   },
+   "h": 64,
+   "index": 20,
+   "origin": {
+    "x": 17,
+    "y": 84
+   },
+   "role": "Ghost Stop Down+Ghost Walk Down",
+   "w": 48,
+   "x": 956,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 72
+   },
+   "h": 64,
+   "index": 21,
+   "origin": {
+    "x": 17,
+    "y": 84
+   },
+   "role": "Ghost Stop Down+Ghost Walk Down",
+   "w": 48,
+   "x": 0,
+   "y": 67
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 74
+   },
+   "h": 64,
+   "index": 22,
+   "origin": {
+    "x": 17,
+    "y": 84
+   },
+   "role": "Ghost Stop Down+Ghost Walk Down",
+   "w": 48,
+   "x": 49,
+   "y": 67
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 75
+   },
+   "h": 64,
+   "index": 23,
+   "origin": {
+    "x": 17,
+    "y": 84
+   },
+   "role": "Ghost Stop Down+Ghost Walk Down",
+   "w": 48,
+   "x": 98,
+   "y": 67
+  }
+ ],
+ "game": "bnb",
+ "group": "020_bomber",
+ "name": "Character/C12-GhostLayerAdjust",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Character__C12-GhostLayerAdjust.png",
+  "h": 131,
+  "w": 1004
+ }
+}

@@ -1,0 +1,131 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "Walk Left+Walk Up"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 6,
+    "y": 154
+   },
+   "h": 178,
+   "index": 0,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Walk Left+Walk Up",
+   "w": 152,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -8,
+    "y": 144
+   },
+   "h": 168,
+   "index": 1,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Walk Left+Walk Up",
+   "w": 135,
+   "x": 153,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": 158
+   },
+   "h": 182,
+   "index": 2,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Walk Left+Walk Up",
+   "w": 146,
+   "x": 289,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -7,
+    "y": 158
+   },
+   "h": 182,
+   "index": 3,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Walk Left+Walk Up",
+   "w": 148,
+   "x": 436,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -9,
+    "y": 147
+   },
+   "h": 171,
+   "index": 4,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Walk Left+Walk Up",
+   "w": 145,
+   "x": 585,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 150
+   },
+   "h": 174,
+   "index": 5,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Walk Left+Walk Up",
+   "w": 138,
+   "x": 731,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/BM09_CWalkingLeft",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__BM09_CWalkingLeft.png",
+  "h": 182,
+  "w": 869
+ }
+}

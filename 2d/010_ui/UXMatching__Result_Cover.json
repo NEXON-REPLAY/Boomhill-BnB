@@ -1,0 +1,46 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 56,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "placement_cover_slot0_self",
+   "w": 255,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 56,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "placement_cover_slot1_opponent",
+   "w": 255,
+   "x": 256,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "UXMatching/Result_Cover",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "UXMatching__Result_Cover.png",
+  "h": 56,
+  "w": 511
+ }
+}

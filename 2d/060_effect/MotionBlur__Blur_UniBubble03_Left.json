@@ -1,0 +1,203 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "loop": false,
+   "name": "UniBubbleBlur08"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -47,
+    "y": -19
+   },
+   "h": 45,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "UniBubbleBlur08",
+   "w": 85,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -45,
+    "y": -18
+   },
+   "h": 47,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "UniBubbleBlur08",
+   "w": 85,
+   "x": 86,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -49,
+    "y": -17
+   },
+   "h": 49,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "UniBubbleBlur08",
+   "w": 85,
+   "x": 172,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -52,
+    "y": -20
+   },
+   "h": 47,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "UniBubbleBlur08",
+   "w": 83,
+   "x": 258,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -51,
+    "y": -19
+   },
+   "h": 40,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "UniBubbleBlur08",
+   "w": 80,
+   "x": 342,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -47,
+    "y": -18
+   },
+   "h": 43,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "UniBubbleBlur08",
+   "w": 85,
+   "x": 423,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -49,
+    "y": -17
+   },
+   "h": 45,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "UniBubbleBlur08",
+   "w": 81,
+   "x": 509,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -65,
+    "y": -20
+   },
+   "h": 44,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "UniBubbleBlur08",
+   "w": 69,
+   "x": 591,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -52,
+    "y": -19
+   },
+   "h": 46,
+   "index": 8,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "UniBubbleBlur08",
+   "w": 83,
+   "x": 661,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -61,
+    "y": -17
+   },
+   "h": 48,
+   "index": 9,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "UniBubbleBlur08",
+   "w": 72,
+   "x": 745,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "060_effect",
+ "name": "MotionBlur/Blur_UniBubble03_Left",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MotionBlur__Blur_UniBubble03_Left.png",
+  "h": 49,
+  "w": 817
+ }
+}

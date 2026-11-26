@@ -1,0 +1,125 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    0,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "Walk Right"
+  },
+  {
+   "frame_ms": [
+    3000
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "Stop Right"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 5,
+    "y": 153
+   },
+   "h": 154,
+   "index": 0,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "animated",
+   "w": 125,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 152
+   },
+   "h": 155,
+   "index": 1,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "Walk Right",
+   "w": 125,
+   "x": 126,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 151
+   },
+   "h": 156,
+   "index": 2,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "Walk Right",
+   "w": 125,
+   "x": 252,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 153
+   },
+   "h": 152,
+   "index": 3,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "Walk Right",
+   "w": 125,
+   "x": 378,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 155
+   },
+   "h": 152,
+   "index": 4,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "Walk Right",
+   "w": 125,
+   "x": 504,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/BM01_WalkRight",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__BM01_WalkRight.png",
+  "h": 156,
+  "w": 629
+ }
+}

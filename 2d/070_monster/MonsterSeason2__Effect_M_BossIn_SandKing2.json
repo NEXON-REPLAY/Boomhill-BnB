@@ -1,0 +1,131 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    210,
+    210,
+    210,
+    210,
+    210,
+    210
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "Blink"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -7,
+    "y": 124
+   },
+   "h": 148,
+   "index": 0,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Blink",
+   "w": 120,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -8,
+    "y": 127
+   },
+   "h": 151,
+   "index": 1,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Blink",
+   "w": 118,
+   "x": 121,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -9,
+    "y": 128
+   },
+   "h": 152,
+   "index": 2,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Blink",
+   "w": 116,
+   "x": 240,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -10,
+    "y": 129
+   },
+   "h": 153,
+   "index": 3,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Blink",
+   "w": 114,
+   "x": 357,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -9,
+    "y": 129
+   },
+   "h": 153,
+   "index": 4,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Blink",
+   "w": 116,
+   "x": 472,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -8,
+    "y": 127
+   },
+   "h": 151,
+   "index": 5,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Blink",
+   "w": 118,
+   "x": 589,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/Effect_M_BossIn_SandKing2",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__Effect_M_BossIn_SandKing2.png",
+  "h": 153,
+  "w": 707
+ }
+}

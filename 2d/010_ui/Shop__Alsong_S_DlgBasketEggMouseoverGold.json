@@ -1,0 +1,175 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    210,
+    210,
+    210,
+    210,
+    210,
+    210
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "Basic05"
+  },
+  {
+   "frame_ms": [
+    120,
+    120
+   ],
+   "frames": [
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "MouseOver"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -19,
+    "y": -26
+   },
+   "h": 76,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "Basic05",
+   "w": 54,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -14,
+    "y": -27
+   },
+   "h": 75,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "Basic05",
+   "w": 60,
+   "x": 55,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": -28
+   },
+   "h": 91,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "Basic05",
+   "w": 73,
+   "x": 116,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": -29
+   },
+   "h": 73,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "Basic05",
+   "w": 69,
+   "x": 190,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -9,
+    "y": -28
+   },
+   "h": 74,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "Basic05",
+   "w": 58,
+   "x": 260,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -14,
+    "y": -26
+   },
+   "h": 76,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "Basic05",
+   "w": 53,
+   "x": 319,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": -16
+   },
+   "h": 87,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "MouseOver",
+   "w": 77,
+   "x": 373,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -8,
+    "y": -16
+   },
+   "h": 87,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "MouseOver",
+   "w": 71,
+   "x": 451,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Shop/Alsong_S_DlgBasketEggMouseoverGold",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop__Alsong_S_DlgBasketEggMouseoverGold.png",
+  "h": 91,
+  "w": 522
+ }
+}

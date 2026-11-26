@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "Down"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 17,
+    "y": 69
+   },
+   "h": 51,
+   "index": 0,
+   "origin": {
+    "x": 18,
+    "y": 92
+   },
+   "role": "Down",
+   "w": 74,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 16,
+    "y": 70
+   },
+   "h": 52,
+   "index": 1,
+   "origin": {
+    "x": 18,
+    "y": 92
+   },
+   "role": "Down",
+   "w": 71,
+   "x": 75,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 13,
+    "y": 71
+   },
+   "h": 51,
+   "index": 2,
+   "origin": {
+    "x": 18,
+    "y": 92
+   },
+   "role": "Down",
+   "w": 66,
+   "x": 147,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 16,
+    "y": 70
+   },
+   "h": 52,
+   "index": 3,
+   "origin": {
+    "x": 18,
+    "y": 92
+   },
+   "role": "Down",
+   "w": 70,
+   "x": 214,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "CharDeco/CharDeco_A0066Down",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "CharDeco__CharDeco_A0066Down.png",
+  "h": 52,
+  "w": 284
+ }
+}

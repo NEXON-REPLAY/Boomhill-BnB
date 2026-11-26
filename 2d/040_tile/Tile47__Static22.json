@@ -1,0 +1,131 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "Static22"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -5,
+    "y": 58
+   },
+   "h": 59,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 70
+   },
+   "role": "Static22",
+   "w": 70,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": 58
+   },
+   "h": 59,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 70
+   },
+   "role": "Static22",
+   "w": 70,
+   "x": 71,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": 58
+   },
+   "h": 59,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 70
+   },
+   "role": "Static22",
+   "w": 70,
+   "x": 142,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": 58
+   },
+   "h": 59,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 70
+   },
+   "role": "Static22",
+   "w": 70,
+   "x": 213,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": 58
+   },
+   "h": 59,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 70
+   },
+   "role": "Static22",
+   "w": 70,
+   "x": 284,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": 58
+   },
+   "h": 59,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 70
+   },
+   "role": "Static22",
+   "w": 70,
+   "x": 355,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile47/Static22",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile47__Static22.png",
+  "h": 59,
+  "w": 425
+ }
+}

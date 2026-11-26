@@ -1,0 +1,140 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    60,
+    60,
+    60,
+    60
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "Slide Ride Down"
+  },
+  {
+   "frame_ms": [
+    60,
+    60,
+    60
+   ],
+   "frames": [
+    2,
+    3,
+    0
+   ],
+   "loop": false,
+   "name": "Slide Ride Left"
+  },
+  {
+   "frame_ms": [
+    60,
+    60,
+    60
+   ],
+   "frames": [
+    2,
+    3,
+    0
+   ],
+   "loop": false,
+   "name": "Slide Ride Up"
+  },
+  {
+   "frame_ms": [
+    60,
+    60,
+    60,
+    60
+   ],
+   "frames": [
+    3,
+    0,
+    1,
+    2
+   ],
+   "loop": false,
+   "name": "Slide Ride Right"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -4,
+    "y": 73
+   },
+   "h": 23,
+   "index": 0,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "animated",
+   "w": 29,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -53,
+    "y": -1
+   },
+   "empty": true,
+   "h": 0,
+   "index": 1,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "animated",
+   "w": 0,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -7,
+    "y": 73
+   },
+   "h": 23,
+   "index": 2,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "animated",
+   "w": 29,
+   "x": 30,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 73
+   },
+   "h": 23,
+   "index": 3,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "animated",
+   "w": 32,
+   "x": 60,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "020_bomber",
+ "name": "Character/C10-SlideRide_ALayerStatic",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Character__C10-SlideRide_ALayerStatic.png",
+  "h": 23,
+  "w": 92
+ }
+}

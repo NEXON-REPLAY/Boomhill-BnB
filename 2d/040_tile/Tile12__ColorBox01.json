@@ -1,0 +1,41 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "12Static_ColorBox01+ColorBox01"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 53
+   },
+   "h": 54,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 53
+   },
+   "role": "12Static_ColorBox01+ColorBox01",
+   "w": 40,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile12/ColorBox01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile12__ColorBox01.png",
+  "h": 54,
+  "w": 40
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "MonS2_TorchLight02+MonS2_TorchLight_Trans"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 133
+   },
+   "h": 129,
+   "index": 0,
+   "origin": {
+    "x": 5,
+    "y": 148
+   },
+   "role": "MonS2_TorchLight02+MonS2_TorchLight_Trans",
+   "w": 40,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 135
+   },
+   "h": 131,
+   "index": 1,
+   "origin": {
+    "x": 5,
+    "y": 148
+   },
+   "role": "MonS2_TorchLight02+MonS2_TorchLight_Trans",
+   "w": 40,
+   "x": 41,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 119
+   },
+   "h": 115,
+   "index": 2,
+   "origin": {
+    "x": 5,
+    "y": 148
+   },
+   "role": "MonS2_TorchLight02+MonS2_TorchLight_Trans",
+   "w": 40,
+   "x": 82,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 126
+   },
+   "h": 122,
+   "index": 3,
+   "origin": {
+    "x": 5,
+    "y": 148
+   },
+   "role": "MonS2_TorchLight02+MonS2_TorchLight_Trans",
+   "w": 40,
+   "x": 123,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile28/M2_torchlight02",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile28__M2_torchlight02.png",
+  "h": 131,
+  "w": 163
+ }
+}

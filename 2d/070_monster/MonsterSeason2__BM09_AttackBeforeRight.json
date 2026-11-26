@@ -1,0 +1,63 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    0,
+    1
+   ],
+   "loop": false,
+   "name": "BeforeAttack Down+BeforeAttack Right"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -33,
+    "y": 102
+   },
+   "h": 128,
+   "index": 0,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "BeforeAttack Down+BeforeAttack Right",
+   "w": 113,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -33,
+    "y": 101
+   },
+   "h": 127,
+   "index": 1,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "BeforeAttack Down+BeforeAttack Right",
+   "w": 113,
+   "x": 114,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/BM09_AttackBeforeRight",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__BM09_AttackBeforeRight.png",
+  "h": 128,
+  "w": 227
+ }
+}

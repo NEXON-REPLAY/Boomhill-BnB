@@ -1,0 +1,41 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "Static13"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 2,
+    "y": 59
+   },
+   "h": 60,
+   "index": 0,
+   "origin": {
+    "x": 2,
+    "y": 59
+   },
+   "role": "Static13",
+   "w": 52,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile61/Static13",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile61__Static13.png",
+  "h": 60,
+  "w": 52
+ }
+}

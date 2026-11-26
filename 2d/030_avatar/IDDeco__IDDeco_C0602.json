@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "Lobby"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 13,
+    "y": 10
+   },
+   "h": 39,
+   "index": 0,
+   "origin": {
+    "x": 13,
+    "y": 10
+   },
+   "role": "Lobby",
+   "w": 150,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 13,
+    "y": 10
+   },
+   "h": 39,
+   "index": 1,
+   "origin": {
+    "x": 13,
+    "y": 10
+   },
+   "role": "Lobby",
+   "w": 150,
+   "x": 151,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 13,
+    "y": 10
+   },
+   "h": 39,
+   "index": 2,
+   "origin": {
+    "x": 13,
+    "y": 10
+   },
+   "role": "Lobby",
+   "w": 150,
+   "x": 302,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 13,
+    "y": 10
+   },
+   "h": 39,
+   "index": 3,
+   "origin": {
+    "x": 13,
+    "y": 10
+   },
+   "role": "Lobby",
+   "w": 150,
+   "x": 453,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 13,
+    "y": 10
+   },
+   "h": 39,
+   "index": 4,
+   "origin": {
+    "x": 13,
+    "y": 10
+   },
+   "role": "Lobby",
+   "w": 150,
+   "x": 604,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 13,
+    "y": 10
+   },
+   "h": 39,
+   "index": 5,
+   "origin": {
+    "x": 13,
+    "y": 10
+   },
+   "role": "Lobby",
+   "w": 150,
+   "x": 755,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 13,
+    "y": 10
+   },
+   "h": 39,
+   "index": 6,
+   "origin": {
+    "x": 13,
+    "y": 10
+   },
+   "role": "Lobby",
+   "w": 150,
+   "x": 0,
+   "y": 40
+  },
+  {
+   "center": {
+    "x": 13,
+    "y": 10
+   },
+   "h": 39,
+   "index": 7,
+   "origin": {
+    "x": 13,
+    "y": 10
+   },
+   "role": "Lobby",
+   "w": 150,
+   "x": 151,
+   "y": 40
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "IDDeco/IDDeco_C0602",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "IDDeco__IDDeco_C0602.png",
+  "h": 79,
+  "w": 905
+ }
+}

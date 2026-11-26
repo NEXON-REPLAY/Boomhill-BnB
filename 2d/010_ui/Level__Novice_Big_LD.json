@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 16,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 44,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Level/Novice_Big_LD",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Level__Novice_Big_LD.png",
+  "h": 16,
+  "w": 44
+ }
+}

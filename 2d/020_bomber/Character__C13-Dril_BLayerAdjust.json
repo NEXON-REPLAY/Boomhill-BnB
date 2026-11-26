@@ -1,0 +1,207 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    60,
+    30,
+    60,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    0,
+    1
+   ],
+   "loop": false,
+   "name": "Drill Left"
+  },
+  {
+   "frame_ms": [
+    60,
+    30,
+    60,
+    150
+   ],
+   "frames": [
+    2,
+    3,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "Drill Up"
+  },
+  {
+   "frame_ms": [
+    60,
+    30,
+    60,
+    150
+   ],
+   "frames": [
+    4,
+    5,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "Drill Right"
+  },
+  {
+   "frame_ms": [
+    60,
+    30,
+    60,
+    150
+   ],
+   "frames": [
+    6,
+    7,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "Drill Down"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -4,
+    "y": 26
+   },
+   "h": 14,
+   "index": 0,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "Drill Left",
+   "w": 27,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -7,
+    "y": 24
+   },
+   "h": 14,
+   "index": 1,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "Drill Left",
+   "w": 23,
+   "x": 28,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -9,
+    "y": 26
+   },
+   "h": 14,
+   "index": 2,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "Drill Up",
+   "w": 22,
+   "x": 52,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -9,
+    "y": 25
+   },
+   "h": 14,
+   "index": 3,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "Drill Up",
+   "w": 22,
+   "x": 75,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -9,
+    "y": 26
+   },
+   "h": 14,
+   "index": 4,
+   "origin": {
+    "x": 13,
+    "y": 81
+   },
+   "role": "Drill Right",
+   "w": 27,
+   "x": 98,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -10,
+    "y": 24
+   },
+   "h": 14,
+   "index": 5,
+   "origin": {
+    "x": 13,
+    "y": 81
+   },
+   "role": "Drill Right",
+   "w": 23,
+   "x": 126,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -9,
+    "y": 26
+   },
+   "h": 14,
+   "index": 6,
+   "origin": {
+    "x": 13,
+    "y": 81
+   },
+   "role": "Drill Down",
+   "w": 22,
+   "x": 150,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -10,
+    "y": 28
+   },
+   "h": 15,
+   "index": 7,
+   "origin": {
+    "x": 13,
+    "y": 81
+   },
+   "role": "Drill Down",
+   "w": 20,
+   "x": 173,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "020_bomber",
+ "name": "Character/C13-Dril_BLayerAdjust",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Character__C13-Dril_BLayerAdjust.png",
+  "h": 15,
+  "w": 193
+ }
+}

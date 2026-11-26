@@ -1,0 +1,113 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    90,
+    90,
+    90,
+    90,
+    90
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "Effect_MonExplosion00"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -22,
+    "y": -17
+   },
+   "h": 21,
+   "index": 0,
+   "origin": {
+    "x": 17,
+    "y": 16
+   },
+   "role": "Effect_MonExplosion00",
+   "w": 23,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": 2
+   },
+   "h": 55,
+   "index": 1,
+   "origin": {
+    "x": 17,
+    "y": 16
+   },
+   "role": "Effect_MonExplosion00",
+   "w": 52,
+   "x": 24,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 2
+   },
+   "h": 59,
+   "index": 2,
+   "origin": {
+    "x": 17,
+    "y": 16
+   },
+   "role": "Effect_MonExplosion00",
+   "w": 61,
+   "x": 77,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 2
+   },
+   "h": 57,
+   "index": 3,
+   "origin": {
+    "x": 17,
+    "y": 16
+   },
+   "role": "Effect_MonExplosion00",
+   "w": 58,
+   "x": 139,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 4
+   },
+   "h": 57,
+   "index": 4,
+   "origin": {
+    "x": 17,
+    "y": 16
+   },
+   "role": "Effect_MonExplosion00",
+   "w": 62,
+   "x": 198,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/Effect_M_Explosion00",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__Effect_M_Explosion00.png",
+  "h": 59,
+  "w": 260
+ }
+}

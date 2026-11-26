@@ -1,0 +1,175 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    210,
+    210,
+    210,
+    210
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "Marble00+Marble01+Marble02+Marble03+Marble04 (+5 more)"
+  },
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "MouseOver"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -5,
+    "y": 75
+   },
+   "h": 53,
+   "index": 0,
+   "origin": {
+    "x": 15,
+    "y": 107
+   },
+   "role": "Marble00+Marble01+Marble02+Marble03+Marble04 (+5 more)",
+   "w": 54,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": 76
+   },
+   "h": 53,
+   "index": 1,
+   "origin": {
+    "x": 15,
+    "y": 107
+   },
+   "role": "Marble00+Marble01+Marble02+Marble03+Marble04 (+5 more)",
+   "w": 54,
+   "x": 55,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": 77
+   },
+   "h": 53,
+   "index": 2,
+   "origin": {
+    "x": 15,
+    "y": 107
+   },
+   "role": "Marble00+Marble01+Marble02+Marble03+Marble04 (+5 more)",
+   "w": 54,
+   "x": 110,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": 76
+   },
+   "h": 53,
+   "index": 3,
+   "origin": {
+    "x": 15,
+    "y": 107
+   },
+   "role": "Marble00+Marble01+Marble02+Marble03+Marble04 (+5 more)",
+   "w": 54,
+   "x": 165,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 79
+   },
+   "h": 57,
+   "index": 4,
+   "origin": {
+    "x": 15,
+    "y": 107
+   },
+   "role": "MouseOver",
+   "w": 58,
+   "x": 220,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 79
+   },
+   "h": 57,
+   "index": 5,
+   "origin": {
+    "x": 15,
+    "y": 107
+   },
+   "role": "MouseOver",
+   "w": 58,
+   "x": 279,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 79
+   },
+   "h": 57,
+   "index": 6,
+   "origin": {
+    "x": 15,
+    "y": 107
+   },
+   "role": "MouseOver",
+   "w": 58,
+   "x": 338,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 79
+   },
+   "h": 57,
+   "index": 7,
+   "origin": {
+    "x": 15,
+    "y": 107
+   },
+   "role": "MouseOver",
+   "w": 58,
+   "x": 397,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Shop/S_DlgMMarbleBlinkV",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop__S_DlgMMarbleBlinkV.png",
+  "h": 57,
+  "w": 455
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 430,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 618,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Lobby/Dlg_Creat_MS2",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Lobby__Dlg_Creat_MS2.png",
+  "h": 430,
+  "w": 618
+ }
+}

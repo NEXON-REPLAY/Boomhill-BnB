@@ -1,0 +1,125 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    3000
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "Fishing Down+Stop Down"
+  },
+  {
+   "frame_ms": [
+    90,
+    90,
+    90,
+    90,
+    90,
+    90
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    0,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "Walk Down"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -14,
+    "y": 25
+   },
+   "h": 5,
+   "index": 0,
+   "origin": {
+    "x": 8,
+    "y": 66
+   },
+   "role": "animated",
+   "w": 12,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -14,
+    "y": 25
+   },
+   "h": 5,
+   "index": 1,
+   "origin": {
+    "x": 8,
+    "y": 66
+   },
+   "role": "Walk Down",
+   "w": 12,
+   "x": 13,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -14,
+    "y": 25
+   },
+   "h": 5,
+   "index": 2,
+   "origin": {
+    "x": 8,
+    "y": 66
+   },
+   "role": "animated",
+   "w": 12,
+   "x": 26,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -14,
+    "y": 25
+   },
+   "h": 5,
+   "index": 3,
+   "origin": {
+    "x": 8,
+    "y": 66
+   },
+   "role": "Walk Down",
+   "w": 12,
+   "x": 39,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -14,
+    "y": 25
+   },
+   "h": 5,
+   "index": 4,
+   "origin": {
+    "x": 8,
+    "y": 66
+   },
+   "role": "animated",
+   "w": 12,
+   "x": 52,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "020_bomber",
+ "name": "Character/C06-WalkDown_BLayerStatic",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Character__C06-WalkDown_BLayerStatic.png",
+  "h": 5,
+  "w": 64
+ }
+}

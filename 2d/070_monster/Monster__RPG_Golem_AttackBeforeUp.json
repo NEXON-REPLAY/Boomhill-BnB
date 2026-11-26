@@ -1,0 +1,113 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    150,
+    120,
+    240
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "BeforeAttack Up+BeforeAttack2 Up"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 12,
+    "y": 153
+   },
+   "h": 147,
+   "index": 0,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "BeforeAttack Up+BeforeAttack2 Up",
+   "w": 144,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 157
+   },
+   "h": 151,
+   "index": 1,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "BeforeAttack Up+BeforeAttack2 Up",
+   "w": 148,
+   "x": 145,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 26,
+    "y": 147
+   },
+   "h": 151,
+   "index": 2,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "BeforeAttack Up+BeforeAttack2 Up",
+   "w": 173,
+   "x": 294,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 22,
+    "y": 163
+   },
+   "h": 168,
+   "index": 3,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "BeforeAttack Up+BeforeAttack2 Up",
+   "w": 166,
+   "x": 468,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 22,
+    "y": 163
+   },
+   "h": 161,
+   "index": 4,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "BeforeAttack Up+BeforeAttack2 Up",
+   "w": 164,
+   "x": 635,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/RPG_Golem_AttackBeforeUp",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__RPG_Golem_AttackBeforeUp.png",
+  "h": 168,
+  "w": 799
+ }
+}

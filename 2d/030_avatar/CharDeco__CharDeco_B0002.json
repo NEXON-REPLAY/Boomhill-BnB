@@ -1,0 +1,99 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    2,
+    1
+   ],
+   "loop": false,
+   "name": "CharDeco_B0002"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -12,
+    "y": 83
+   },
+   "h": 17,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 87
+   },
+   "role": "CharDeco_B0002",
+   "w": 16,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -12,
+    "y": 84
+   },
+   "h": 17,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 87
+   },
+   "role": "CharDeco_B0002",
+   "w": 16,
+   "x": 17,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -12,
+    "y": 85
+   },
+   "h": 17,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 87
+   },
+   "role": "CharDeco_B0002",
+   "w": 16,
+   "x": 34,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -12,
+    "y": 86
+   },
+   "h": 17,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 87
+   },
+   "role": "CharDeco_B0002",
+   "w": 16,
+   "x": 51,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "CharDeco/CharDeco_B0002",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "CharDeco__CharDeco_B0002.png",
+  "h": 17,
+  "w": 67
+ }
+}

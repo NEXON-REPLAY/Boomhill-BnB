@@ -1,0 +1,163 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    2,
+    1
+   ],
+   "loop": false,
+   "name": "Up"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -4,
+    "y": 89
+   },
+   "h": 23,
+   "index": 0,
+   "origin": {
+    "x": 8,
+    "y": 92
+   },
+   "role": "Up",
+   "w": 33,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 89
+   },
+   "h": 22,
+   "index": 1,
+   "origin": {
+    "x": 8,
+    "y": 92
+   },
+   "role": "Up",
+   "w": 33,
+   "x": 34,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 90
+   },
+   "h": 22,
+   "index": 2,
+   "origin": {
+    "x": 8,
+    "y": 92
+   },
+   "role": "Up",
+   "w": 33,
+   "x": 68,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 90
+   },
+   "h": 23,
+   "index": 3,
+   "origin": {
+    "x": 8,
+    "y": 92
+   },
+   "role": "Up",
+   "w": 33,
+   "x": 102,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 89
+   },
+   "h": 23,
+   "index": 4,
+   "origin": {
+    "x": 8,
+    "y": 92
+   },
+   "role": "unconfirmed",
+   "w": 37,
+   "x": 136,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 89
+   },
+   "h": 22,
+   "index": 5,
+   "origin": {
+    "x": 8,
+    "y": 92
+   },
+   "role": "unconfirmed",
+   "w": 39,
+   "x": 174,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 90
+   },
+   "h": 22,
+   "index": 6,
+   "origin": {
+    "x": 8,
+    "y": 92
+   },
+   "role": "unconfirmed",
+   "w": 43,
+   "x": 214,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 90
+   },
+   "h": 23,
+   "index": 7,
+   "origin": {
+    "x": 8,
+    "y": 92
+   },
+   "role": "unconfirmed",
+   "w": 45,
+   "x": 258,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "CharDeco/CharDeco_B1003Up",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "CharDeco__CharDeco_B1003Up.png",
+  "h": 23,
+  "w": 303
+ }
+}

@@ -1,0 +1,131 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "Game"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 8,
+    "y": 9
+   },
+   "h": 55,
+   "index": 0,
+   "origin": {
+    "x": 20,
+    "y": 15
+   },
+   "role": "Game",
+   "w": 147,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 8
+   },
+   "h": 54,
+   "index": 1,
+   "origin": {
+    "x": 20,
+    "y": 15
+   },
+   "role": "Game",
+   "w": 148,
+   "x": 148,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 8
+   },
+   "h": 54,
+   "index": 2,
+   "origin": {
+    "x": 20,
+    "y": 15
+   },
+   "role": "Game",
+   "w": 149,
+   "x": 297,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 8
+   },
+   "h": 54,
+   "index": 3,
+   "origin": {
+    "x": 20,
+    "y": 15
+   },
+   "role": "Game",
+   "w": 148,
+   "x": 447,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 8
+   },
+   "h": 54,
+   "index": 4,
+   "origin": {
+    "x": 20,
+    "y": 15
+   },
+   "role": "Game",
+   "w": 149,
+   "x": 596,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 8
+   },
+   "h": 54,
+   "index": 5,
+   "origin": {
+    "x": 20,
+    "y": 15
+   },
+   "role": "Game",
+   "w": 148,
+   "x": 746,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "IDDeco/IDDeco_C0957G",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "IDDeco__IDDeco_C0957G.png",
+  "h": 55,
+  "w": 894
+ }
+}

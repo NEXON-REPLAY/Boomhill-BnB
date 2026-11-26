@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "Normal"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 75
+   },
+   "h": 76,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 75
+   },
+   "role": "Normal",
+   "w": 120,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 75
+   },
+   "h": 76,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 75
+   },
+   "role": "Normal",
+   "w": 120,
+   "x": 121,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 75
+   },
+   "h": 76,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 75
+   },
+   "role": "Normal",
+   "w": 120,
+   "x": 242,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 75
+   },
+   "h": 76,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 75
+   },
+   "role": "Normal",
+   "w": 120,
+   "x": 363,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 75
+   },
+   "h": 76,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 75
+   },
+   "role": "Normal",
+   "w": 149,
+   "x": 484,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 75
+   },
+   "h": 76,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 75
+   },
+   "role": "Normal",
+   "w": 152,
+   "x": 634,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 75
+   },
+   "h": 76,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 75
+   },
+   "role": "Normal",
+   "w": 153,
+   "x": 787,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 75
+   },
+   "h": 76,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 75
+   },
+   "role": "Normal",
+   "w": 156,
+   "x": 0,
+   "y": 77
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Bonus/Airplane1",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Bonus__Airplane1.png",
+  "h": 153,
+  "w": 940
+ }
+}

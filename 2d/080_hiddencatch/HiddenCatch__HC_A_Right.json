@@ -1,0 +1,155 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    180,
+    180,
+    180,
+    180,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    6,
+    5,
+    4,
+    3,
+    2,
+    1,
+    0,
+    4,
+    5,
+    6
+   ],
+   "loop": false,
+   "name": "HC_Result_RightArrow"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -15,
+    "y": 0
+   },
+   "h": 27,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HC_Result_RightArrow",
+   "w": 26,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -13,
+    "y": 0
+   },
+   "h": 27,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HC_Result_RightArrow",
+   "w": 26,
+   "x": 27,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -15,
+    "y": 0
+   },
+   "h": 27,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HC_Result_RightArrow",
+   "w": 26,
+   "x": 54,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -13,
+    "y": 0
+   },
+   "h": 27,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HC_Result_RightArrow",
+   "w": 26,
+   "x": 81,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -17,
+    "y": 0
+   },
+   "h": 27,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HC_Result_RightArrow",
+   "w": 26,
+   "x": 108,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -19,
+    "y": -1
+   },
+   "h": 25,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HC_Result_RightArrow",
+   "w": 25,
+   "x": 135,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -22,
+    "y": 0
+   },
+   "h": 25,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HC_Result_RightArrow",
+   "w": 25,
+   "x": 161,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "080_hiddencatch",
+ "name": "HiddenCatch/HC_A_Right",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "HiddenCatch__HC_A_Right.png",
+  "h": 27,
+  "w": 186
+ }
+}

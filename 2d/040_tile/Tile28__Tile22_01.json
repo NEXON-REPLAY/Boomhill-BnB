@@ -1,0 +1,41 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "MonS2_Tile22_01"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 159
+   },
+   "h": 160,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 159
+   },
+   "role": "MonS2_Tile22_01",
+   "w": 80,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile28/Tile22_01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile28__Tile22_01.png",
+  "h": 160,
+  "w": 80
+ }
+}

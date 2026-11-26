@@ -1,0 +1,41 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150
+   ],
+   "frames": [
+    1
+   ],
+   "loop": false,
+   "name": "Start"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 2,
+    "y": 56
+   },
+   "h": 51,
+   "index": 1,
+   "origin": {
+    "x": 17,
+    "y": 71
+   },
+   "role": "Start",
+   "w": 42,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/RPG_MiniGolem_Start",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__RPG_MiniGolem_Start.png",
+  "h": 51,
+  "w": 42
+ }
+}

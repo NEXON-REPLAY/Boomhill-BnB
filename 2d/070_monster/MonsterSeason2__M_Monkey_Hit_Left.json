@@ -1,0 +1,113 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "13_DamageLeft"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 9,
+    "y": 54
+   },
+   "h": 49,
+   "index": 0,
+   "origin": {
+    "x": 40,
+    "y": 109
+   },
+   "role": "13_DamageLeft",
+   "w": 66,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 54
+   },
+   "h": 49,
+   "index": 1,
+   "origin": {
+    "x": 40,
+    "y": 109
+   },
+   "role": "13_DamageLeft",
+   "w": 66,
+   "x": 67,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 59
+   },
+   "h": 48,
+   "index": 2,
+   "origin": {
+    "x": 40,
+    "y": 109
+   },
+   "role": "13_DamageLeft",
+   "w": 61,
+   "x": 134,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 52
+   },
+   "h": 48,
+   "index": 3,
+   "origin": {
+    "x": 40,
+    "y": 109
+   },
+   "role": "13_DamageLeft",
+   "w": 64,
+   "x": 196,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 50
+   },
+   "h": 46,
+   "index": 4,
+   "origin": {
+    "x": 40,
+    "y": 109
+   },
+   "role": "13_DamageLeft",
+   "w": 68,
+   "x": 261,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/M_Monkey_Hit_Left",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__M_Monkey_Hit_Left.png",
+  "h": 49,
+  "w": 329
+ }
+}

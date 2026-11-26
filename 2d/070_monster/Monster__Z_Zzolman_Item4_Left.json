@@ -1,0 +1,141 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    60
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "StopLeft"
+  },
+  {
+   "frame_ms": [
+    60,
+    60,
+    60,
+    60,
+    60,
+    60
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "WalkLeft"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -1,
+    "y": 66
+   },
+   "h": 64,
+   "index": 0,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "animated",
+   "w": 50,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 66
+   },
+   "h": 64,
+   "index": 1,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "WalkLeft",
+   "w": 50,
+   "x": 51,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 66
+   },
+   "h": 65,
+   "index": 2,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "WalkLeft",
+   "w": 51,
+   "x": 102,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 67
+   },
+   "h": 65,
+   "index": 3,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "WalkLeft",
+   "w": 58,
+   "x": 154,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 66
+   },
+   "h": 63,
+   "index": 4,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "WalkLeft",
+   "w": 61,
+   "x": 213,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 65
+   },
+   "h": 63,
+   "index": 5,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "WalkLeft",
+   "w": 58,
+   "x": 275,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/Z_Zzolman_Item4_Left",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__Z_Zzolman_Item4_Left.png",
+  "h": 65,
+  "w": 333
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    210,
+    210,
+    210,
+    210,
+    210,
+    210,
+    210,
+    450
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    1,
+    2,
+    1,
+    3,
+    0
+   ],
+   "loop": false,
+   "name": "Slot06_0068"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -2,
+    "y": -62
+   },
+   "h": 34,
+   "index": 0,
+   "origin": {
+    "x": 1,
+    "y": 1
+   },
+   "role": "Slot06_0068",
+   "w": 94,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": -62
+   },
+   "h": 34,
+   "index": 1,
+   "origin": {
+    "x": 1,
+    "y": 1
+   },
+   "role": "Slot06_0068",
+   "w": 94,
+   "x": 95,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": -62
+   },
+   "h": 34,
+   "index": 2,
+   "origin": {
+    "x": 1,
+    "y": 1
+   },
+   "role": "Slot06_0068",
+   "w": 94,
+   "x": 190,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": -62
+   },
+   "h": 34,
+   "index": 3,
+   "origin": {
+    "x": 1,
+    "y": 1
+   },
+   "role": "Slot06_0068",
+   "w": 94,
+   "x": 285,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "Slot/Slot06_0068",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Slot__Slot06_0068.png",
+  "h": 34,
+  "w": 379
+ }
+}

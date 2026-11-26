@@ -1,0 +1,131 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "Walk Down"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 18,
+    "y": 155
+   },
+   "h": 155,
+   "index": 0,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Walk Down",
+   "w": 159,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 22,
+    "y": 155
+   },
+   "h": 151,
+   "index": 1,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Walk Down",
+   "w": 169,
+   "x": 160,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 21,
+    "y": 153
+   },
+   "h": 159,
+   "index": 2,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Walk Down",
+   "w": 160,
+   "x": 330,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 21,
+    "y": 155
+   },
+   "h": 163,
+   "index": 3,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Walk Down",
+   "w": 157,
+   "x": 491,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 155
+   },
+   "h": 158,
+   "index": 4,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Walk Down",
+   "w": 151,
+   "x": 649,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 20,
+    "y": 153
+   },
+   "h": 161,
+   "index": 5,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Walk Down",
+   "w": 160,
+   "x": 801,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/BM07_CWalkingDown",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__BM07_CWalkingDown.png",
+  "h": 163,
+  "w": 961
+ }
+}

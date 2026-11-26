@@ -1,0 +1,113 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    150,
+    120,
+    120,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "Pang"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 61
+   },
+   "h": 62,
+   "index": 0,
+   "origin": {
+    "x": 1,
+    "y": 75
+   },
+   "role": "Pang",
+   "w": 40,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 50
+   },
+   "h": 51,
+   "index": 1,
+   "origin": {
+    "x": 1,
+    "y": 75
+   },
+   "role": "Pang",
+   "w": 40,
+   "x": 41,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 74
+   },
+   "h": 75,
+   "index": 2,
+   "origin": {
+    "x": 1,
+    "y": 75
+   },
+   "role": "Pang",
+   "w": 40,
+   "x": 82,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 57
+   },
+   "h": 58,
+   "index": 3,
+   "origin": {
+    "x": 1,
+    "y": 75
+   },
+   "role": "Pang",
+   "w": 40,
+   "x": 123,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 61
+   },
+   "h": 62,
+   "index": 4,
+   "origin": {
+    "x": 1,
+    "y": 75
+   },
+   "role": "Pang",
+   "w": 40,
+   "x": 164,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile17/Octop_S02Drop",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile17__Octop_S02Drop.png",
+  "h": 75,
+  "w": 204
+ }
+}

@@ -1,0 +1,141 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    60,
+    60,
+    60,
+    60,
+    60,
+    60
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "FlashUp"
+  },
+  {
+   "frame_ms": [
+    60
+   ],
+   "frames": [
+    1
+   ],
+   "loop": false,
+   "name": "FlashStopUp"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -1,
+    "y": 50
+   },
+   "h": 52,
+   "index": 0,
+   "origin": {
+    "x": 17,
+    "y": 66
+   },
+   "role": "FlashUp",
+   "w": 38,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 50
+   },
+   "h": 52,
+   "index": 1,
+   "origin": {
+    "x": 17,
+    "y": 66
+   },
+   "role": "animated",
+   "w": 36,
+   "x": 39,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 50
+   },
+   "h": 52,
+   "index": 2,
+   "origin": {
+    "x": 17,
+    "y": 66
+   },
+   "role": "FlashUp",
+   "w": 36,
+   "x": 76,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 50
+   },
+   "h": 52,
+   "index": 3,
+   "origin": {
+    "x": 17,
+    "y": 66
+   },
+   "role": "FlashUp",
+   "w": 38,
+   "x": 113,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 50
+   },
+   "h": 52,
+   "index": 4,
+   "origin": {
+    "x": 17,
+    "y": 66
+   },
+   "role": "FlashUp",
+   "w": 36,
+   "x": 152,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 50
+   },
+   "h": 52,
+   "index": 5,
+   "origin": {
+    "x": 17,
+    "y": 66
+   },
+   "role": "FlashUp",
+   "w": 36,
+   "x": 189,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/Missile_Flash_Up",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__Missile_Flash_Up.png",
+  "h": 52,
+  "w": 225
+ }
+}

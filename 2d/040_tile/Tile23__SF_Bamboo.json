@@ -1,0 +1,41 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "SF_Bamboo"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 9,
+    "y": 104
+   },
+   "h": 105,
+   "index": 0,
+   "origin": {
+    "x": 9,
+    "y": 106
+   },
+   "role": "SF_Bamboo",
+   "w": 80,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile23/SF_Bamboo",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile23__SF_Bamboo.png",
+  "h": 105,
+  "w": 80
+ }
+}

@@ -1,0 +1,131 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "01 Lobby"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 11,
+    "y": 3
+   },
+   "h": 26,
+   "index": 0,
+   "origin": {
+    "x": 20,
+    "y": 20
+   },
+   "role": "01 Lobby",
+   "w": 139,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 3
+   },
+   "h": 26,
+   "index": 1,
+   "origin": {
+    "x": 20,
+    "y": 20
+   },
+   "role": "01 Lobby",
+   "w": 138,
+   "x": 140,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 3
+   },
+   "h": 26,
+   "index": 2,
+   "origin": {
+    "x": 20,
+    "y": 20
+   },
+   "role": "01 Lobby",
+   "w": 137,
+   "x": 279,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 3
+   },
+   "h": 26,
+   "index": 3,
+   "origin": {
+    "x": 20,
+    "y": 20
+   },
+   "role": "01 Lobby",
+   "w": 138,
+   "x": 417,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 3
+   },
+   "h": 26,
+   "index": 4,
+   "origin": {
+    "x": 20,
+    "y": 20
+   },
+   "role": "01 Lobby",
+   "w": 139,
+   "x": 556,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 3
+   },
+   "h": 26,
+   "index": 5,
+   "origin": {
+    "x": 20,
+    "y": 20
+   },
+   "role": "01 Lobby",
+   "w": 140,
+   "x": 696,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "IDDeco/IDDeco_C1035",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "IDDeco__IDDeco_C1035.png",
+  "h": 26,
+  "w": 836
+ }
+}

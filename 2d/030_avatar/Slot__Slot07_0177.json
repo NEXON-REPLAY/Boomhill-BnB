@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    90,
+    90,
+    90,
+    90
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "Slot07_0177"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 7,
+    "y": 6
+   },
+   "h": 101,
+   "index": 0,
+   "origin": {
+    "x": 15,
+    "y": 17
+   },
+   "role": "Slot07_0177",
+   "w": 111,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 6
+   },
+   "h": 102,
+   "index": 1,
+   "origin": {
+    "x": 15,
+    "y": 17
+   },
+   "role": "Slot07_0177",
+   "w": 111,
+   "x": 112,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 7
+   },
+   "h": 111,
+   "index": 2,
+   "origin": {
+    "x": 15,
+    "y": 17
+   },
+   "role": "Slot07_0177",
+   "w": 113,
+   "x": 224,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 5
+   },
+   "h": 110,
+   "index": 3,
+   "origin": {
+    "x": 15,
+    "y": 17
+   },
+   "role": "Slot07_0177",
+   "w": 109,
+   "x": 338,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "Slot/Slot07_0177",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Slot__Slot07_0177.png",
+  "h": 111,
+  "w": 447
+ }
+}

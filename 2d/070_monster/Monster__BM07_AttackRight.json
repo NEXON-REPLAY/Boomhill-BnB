@@ -1,0 +1,113 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    90,
+    150,
+    180,
+    240,
+    240
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "Attack Right+Attack2 Right"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 157
+   },
+   "h": 159,
+   "index": 0,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Attack Right+Attack2 Right",
+   "w": 121,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 155
+   },
+   "h": 164,
+   "index": 1,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Attack Right+Attack2 Right",
+   "w": 135,
+   "x": 122,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 158
+   },
+   "h": 167,
+   "index": 2,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Attack Right+Attack2 Right",
+   "w": 134,
+   "x": 258,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 162
+   },
+   "h": 172,
+   "index": 3,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Attack Right+Attack2 Right",
+   "w": 136,
+   "x": 393,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 12,
+    "y": 156
+   },
+   "h": 165,
+   "index": 4,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Attack Right+Attack2 Right",
+   "w": 133,
+   "x": 530,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/BM07_AttackRight",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__BM07_AttackRight.png",
+  "h": 172,
+  "w": 663
+ }
+}

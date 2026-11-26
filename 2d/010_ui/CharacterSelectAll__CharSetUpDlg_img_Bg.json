@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 555,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 580,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "CharacterSelectAll/CharSetUpDlg_img_Bg",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "CharacterSelectAll__CharSetUpDlg_img_Bg.png",
+  "h": 555,
+  "w": 580
+ }
+}

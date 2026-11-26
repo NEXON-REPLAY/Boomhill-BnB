@@ -1,0 +1,41 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "MonS2_Bigrock03"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -16,
+    "y": 39
+   },
+   "h": 40,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 39
+   },
+   "role": "MonS2_Bigrock03",
+   "w": 171,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile28/Bigrock03",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile28__Bigrock03.png",
+  "h": 40,
+  "w": 171
+ }
+}

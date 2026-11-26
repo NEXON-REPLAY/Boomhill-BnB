@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "Damage Down"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 18,
+    "y": 155
+   },
+   "h": 156,
+   "index": 0,
+   "origin": {
+    "x": 30,
+    "y": 189
+   },
+   "role": "Damage Down",
+   "w": 156,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 19,
+    "y": 150
+   },
+   "h": 151,
+   "index": 1,
+   "origin": {
+    "x": 30,
+    "y": 189
+   },
+   "role": "Damage Down",
+   "w": 164,
+   "x": 157,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 164
+   },
+   "h": 165,
+   "index": 2,
+   "origin": {
+    "x": 30,
+    "y": 189
+   },
+   "role": "Damage Down",
+   "w": 157,
+   "x": 322,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 16,
+    "y": 158
+   },
+   "h": 159,
+   "index": 3,
+   "origin": {
+    "x": 30,
+    "y": 189
+   },
+   "role": "Damage Down",
+   "w": 153,
+   "x": 480,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/pumpkinBonus_Hit",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__pumpkinBonus_Hit.png",
+  "h": 165,
+  "w": 633
+ }
+}

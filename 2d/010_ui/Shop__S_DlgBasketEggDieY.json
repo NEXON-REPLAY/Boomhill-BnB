@@ -1,0 +1,131 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    90,
+    90
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "Disappear"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -19,
+    "y": -44
+   },
+   "h": 58,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "Disappear",
+   "w": 48,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -21,
+    "y": -24
+   },
+   "h": 51,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "Disappear",
+   "w": 44,
+   "x": 49,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -21,
+    "y": -31
+   },
+   "h": 46,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "Disappear",
+   "w": 44,
+   "x": 94,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -25,
+    "y": -56
+   },
+   "h": 39,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "Disappear",
+   "w": 37,
+   "x": 139,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -23,
+    "y": -73
+   },
+   "h": 25,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "Disappear",
+   "w": 41,
+   "x": 177,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -24,
+    "y": -83
+   },
+   "h": 18,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "Disappear",
+   "w": 35,
+   "x": 219,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Shop/S_DlgBasketEggDieY",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop__S_DlgBasketEggDieY.png",
+  "h": 58,
+  "w": 254
+ }
+}

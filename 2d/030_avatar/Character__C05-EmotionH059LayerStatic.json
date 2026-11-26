@@ -1,0 +1,311 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "loop": false,
+   "name": "C05_EmotionH059"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 20,
+    "y": 82
+   },
+   "h": 74,
+   "index": 0,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "C05_EmotionH059",
+   "w": 79,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 20,
+    "y": 82
+   },
+   "h": 74,
+   "index": 1,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "C05_EmotionH059",
+   "w": 79,
+   "x": 80,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 20,
+    "y": 82
+   },
+   "h": 74,
+   "index": 2,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "C05_EmotionH059",
+   "w": 79,
+   "x": 160,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 20,
+    "y": 81
+   },
+   "h": 73,
+   "index": 3,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "C05_EmotionH059",
+   "w": 86,
+   "x": 240,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 20,
+    "y": 84
+   },
+   "h": 76,
+   "index": 4,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "C05_EmotionH059",
+   "w": 79,
+   "x": 327,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 20,
+    "y": 88
+   },
+   "h": 80,
+   "index": 5,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "C05_EmotionH059",
+   "w": 78,
+   "x": 407,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 21,
+    "y": 88
+   },
+   "h": 80,
+   "index": 6,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "C05_EmotionH059",
+   "w": 82,
+   "x": 486,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 24,
+    "y": 88
+   },
+   "h": 80,
+   "index": 7,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "C05_EmotionH059",
+   "w": 84,
+   "x": 569,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 32,
+    "y": 86
+   },
+   "h": 78,
+   "index": 8,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "C05_EmotionH059",
+   "w": 98,
+   "x": 654,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 31,
+    "y": 85
+   },
+   "h": 77,
+   "index": 9,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "C05_EmotionH059",
+   "w": 98,
+   "x": 753,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 31,
+    "y": 82
+   },
+   "h": 74,
+   "index": 10,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "C05_EmotionH059",
+   "w": 100,
+   "x": 852,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 33,
+    "y": 82
+   },
+   "h": 74,
+   "index": 11,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "C05_EmotionH059",
+   "w": 104,
+   "x": 0,
+   "y": 81
+  },
+  {
+   "center": {
+    "x": 31,
+    "y": 82
+   },
+   "h": 79,
+   "index": 12,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "C05_EmotionH059",
+   "w": 99,
+   "x": 105,
+   "y": 81
+  },
+  {
+   "center": {
+    "x": 32,
+    "y": 82
+   },
+   "h": 81,
+   "index": 13,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "C05_EmotionH059",
+   "w": 101,
+   "x": 205,
+   "y": 81
+  },
+  {
+   "center": {
+    "x": 26,
+    "y": 82
+   },
+   "h": 74,
+   "index": 14,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "C05_EmotionH059",
+   "w": 92,
+   "x": 307,
+   "y": 81
+  },
+  {
+   "center": {
+    "x": 26,
+    "y": 82
+   },
+   "h": 82,
+   "index": 15,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "C05_EmotionH059",
+   "w": 86,
+   "x": 400,
+   "y": 81
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "Character/C05-EmotionH059LayerStatic",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Character__C05-EmotionH059LayerStatic.png",
+  "h": 163,
+  "w": 952
+ }
+}

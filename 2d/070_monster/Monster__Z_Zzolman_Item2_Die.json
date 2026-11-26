@@ -1,0 +1,223 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    600,
+    180,
+    2100
+   ],
+   "frames": [
+    7,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "Locked1+Locked2"
+  },
+  {
+   "frame_ms": [
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "loop": false,
+   "name": "Locking"
+  },
+  {
+   "frame_ms": [
+    90,
+    150,
+    120,
+    120,
+    90,
+    90,
+    60,
+    150
+   ],
+   "frames": [
+    7,
+    6,
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "loop": false,
+   "name": "Thaw"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -6,
+    "y": 30
+   },
+   "h": 28,
+   "index": 0,
+   "origin": {
+    "x": 13,
+    "y": 114
+   },
+   "role": "animated",
+   "w": 28,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 27
+   },
+   "h": 25,
+   "index": 1,
+   "origin": {
+    "x": 13,
+    "y": 114
+   },
+   "role": "animated",
+   "w": 32,
+   "x": 29,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": 79
+   },
+   "h": 28,
+   "index": 2,
+   "origin": {
+    "x": 13,
+    "y": 114
+   },
+   "role": "animated",
+   "w": 28,
+   "x": 62,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 101
+   },
+   "h": 72,
+   "index": 3,
+   "origin": {
+    "x": 13,
+    "y": 114
+   },
+   "role": "animated",
+   "w": 51,
+   "x": 91,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 100
+   },
+   "h": 98,
+   "index": 4,
+   "origin": {
+    "x": 13,
+    "y": 114
+   },
+   "role": "animated",
+   "w": 54,
+   "x": 143,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 92
+   },
+   "h": 80,
+   "index": 5,
+   "origin": {
+    "x": 13,
+    "y": 114
+   },
+   "role": "animated",
+   "w": 50,
+   "x": 198,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 40
+   },
+   "h": 38,
+   "index": 6,
+   "origin": {
+    "x": 13,
+    "y": 114
+   },
+   "role": "animated",
+   "w": 46,
+   "x": 249,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 42
+   },
+   "h": 40,
+   "index": 7,
+   "origin": {
+    "x": 13,
+    "y": 114
+   },
+   "role": "animated",
+   "w": 42,
+   "x": 296,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 42
+   },
+   "h": 40,
+   "index": 8,
+   "origin": {
+    "x": 13,
+    "y": 114
+   },
+   "role": "Locking",
+   "w": 42,
+   "x": 339,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/Z_Zzolman_Item2_Die",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__Z_Zzolman_Item2_Die.png",
+  "h": 98,
+  "w": 381
+ }
+}

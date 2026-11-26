@@ -1,0 +1,41 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "CenterStatic00"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 89
+   },
+   "h": 90,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 89
+   },
+   "role": "CenterStatic00",
+   "w": 40,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile64/CenterStatic00",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile64__CenterStatic00.png",
+  "h": 90,
+  "w": 40
+ }
+}

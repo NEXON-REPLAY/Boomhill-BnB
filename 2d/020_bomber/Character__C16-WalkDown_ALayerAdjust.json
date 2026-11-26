@@ -1,0 +1,141 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    90,
+    90,
+    90,
+    90,
+    90,
+    90
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "Walk Down"
+  },
+  {
+   "frame_ms": [
+    3000
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "Stop Down"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 14,
+    "y": 55
+   },
+   "h": 34,
+   "index": 0,
+   "origin": {
+    "x": 39,
+    "y": 117
+   },
+   "role": "animated",
+   "w": 34,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 13,
+    "y": 55
+   },
+   "h": 34,
+   "index": 1,
+   "origin": {
+    "x": 39,
+    "y": 117
+   },
+   "role": "Walk Down",
+   "w": 34,
+   "x": 35,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 12,
+    "y": 55
+   },
+   "h": 34,
+   "index": 2,
+   "origin": {
+    "x": 39,
+    "y": 117
+   },
+   "role": "Walk Down",
+   "w": 34,
+   "x": 70,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 55
+   },
+   "h": 34,
+   "index": 3,
+   "origin": {
+    "x": 39,
+    "y": 117
+   },
+   "role": "Walk Down",
+   "w": 34,
+   "x": 105,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 55
+   },
+   "h": 34,
+   "index": 4,
+   "origin": {
+    "x": 39,
+    "y": 117
+   },
+   "role": "Walk Down",
+   "w": 34,
+   "x": 140,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 16,
+    "y": 55
+   },
+   "h": 34,
+   "index": 5,
+   "origin": {
+    "x": 39,
+    "y": 117
+   },
+   "role": "Walk Down",
+   "w": 34,
+   "x": 175,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "020_bomber",
+ "name": "Character/C16-WalkDown_ALayerAdjust",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Character__C16-WalkDown_ALayerAdjust.png",
+  "h": 34,
+  "w": 209
+ }
+}

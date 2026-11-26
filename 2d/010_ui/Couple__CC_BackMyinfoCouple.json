@@ -1,0 +1,62 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 399,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "not-couple",
+   "w": 328,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 398,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "couple",
+   "w": 328,
+   "x": 329,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 399,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "solo-unit",
+   "w": 328,
+   "x": 658,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Couple/CC_BackMyinfoCouple",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Couple__CC_BackMyinfoCouple.png",
+  "h": 399,
+  "w": 986
+ }
+}

@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "Lobby"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 9,
+    "y": 11
+   },
+   "h": 34,
+   "index": 0,
+   "origin": {
+    "x": 10,
+    "y": 12
+   },
+   "role": "Lobby",
+   "w": 141,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 11
+   },
+   "h": 34,
+   "index": 1,
+   "origin": {
+    "x": 10,
+    "y": 12
+   },
+   "role": "Lobby",
+   "w": 141,
+   "x": 142,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 11
+   },
+   "h": 34,
+   "index": 2,
+   "origin": {
+    "x": 10,
+    "y": 12
+   },
+   "role": "Lobby",
+   "w": 141,
+   "x": 284,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 11
+   },
+   "h": 34,
+   "index": 3,
+   "origin": {
+    "x": 10,
+    "y": 12
+   },
+   "role": "Lobby",
+   "w": 141,
+   "x": 426,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 11
+   },
+   "h": 34,
+   "index": 4,
+   "origin": {
+    "x": 10,
+    "y": 12
+   },
+   "role": "Lobby",
+   "w": 141,
+   "x": 568,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 11
+   },
+   "h": 34,
+   "index": 5,
+   "origin": {
+    "x": 10,
+    "y": 12
+   },
+   "role": "Lobby",
+   "w": 141,
+   "x": 710,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 11
+   },
+   "h": 34,
+   "index": 6,
+   "origin": {
+    "x": 10,
+    "y": 12
+   },
+   "role": "Lobby",
+   "w": 141,
+   "x": 852,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 11
+   },
+   "h": 34,
+   "index": 7,
+   "origin": {
+    "x": 10,
+    "y": 12
+   },
+   "role": "Lobby",
+   "w": 141,
+   "x": 0,
+   "y": 35
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "IDDeco/IDDeco_C0273",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "IDDeco__IDDeco_C0273.png",
+  "h": 69,
+  "w": 993
+ }
+}

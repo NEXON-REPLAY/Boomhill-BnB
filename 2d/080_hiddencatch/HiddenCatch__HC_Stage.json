@@ -1,0 +1,174 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 75,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 276,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -14,
+    "y": -2
+   },
+   "h": 108,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 66,
+   "x": 277,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": -1
+   },
+   "h": 109,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 91,
+   "x": 344,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": 0
+   },
+   "h": 110,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 90,
+   "x": 436,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": -1
+   },
+   "h": 109,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 101,
+   "x": 527,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": -1
+   },
+   "h": 109,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 91,
+   "x": 629,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 0
+   },
+   "h": 110,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 91,
+   "x": 721,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": -2
+   },
+   "h": 108,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 96,
+   "x": 813,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 0
+   },
+   "h": 110,
+   "index": 8,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 93,
+   "x": 910,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": 0
+   },
+   "h": 110,
+   "index": 9,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 91,
+   "x": 0,
+   "y": 111
+  }
+ ],
+ "game": "bnb",
+ "group": "080_hiddencatch",
+ "name": "HiddenCatch/HC_Stage",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "HiddenCatch__HC_Stage.png",
+  "h": 221,
+  "w": 1003
+ }
+}

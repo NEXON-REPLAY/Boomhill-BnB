@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 242,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 320,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "CharacterSelectAll/S_DlgHooUNotice03",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "CharacterSelectAll__S_DlgHooUNotice03.png",
+  "h": 242,
+  "w": 320
+ }
+}

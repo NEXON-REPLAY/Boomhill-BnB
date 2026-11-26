@@ -1,0 +1,59 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1
+   ],
+   "loop": false,
+   "name": "Game"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 4,
+    "y": 8
+   },
+   "h": 51,
+   "index": 0,
+   "origin": {
+    "x": 8,
+    "y": 8
+   },
+   "role": "Game",
+   "w": 152,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 8
+   },
+   "h": 51,
+   "index": 1,
+   "origin": {
+    "x": 8,
+    "y": 8
+   },
+   "role": "Game",
+   "w": 152,
+   "x": 153,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "IDDeco/IDDeco_C0307G",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "IDDeco__IDDeco_C0307G.png",
+  "h": 51,
+  "w": 305
+ }
+}

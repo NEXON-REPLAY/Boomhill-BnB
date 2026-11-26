@@ -1,0 +1,275 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    5,
+    4,
+    2,
+    1,
+    0
+   ],
+   "loop": false,
+   "name": "User"
+  },
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    1
+   ],
+   "loop": false,
+   "name": "Timer"
+  },
+  {
+   "frame_ms": [
+    120,
+    90,
+    120,
+    90,
+    90
+   ],
+   "frames": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "loop": false,
+   "name": "Flame"
+  },
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    11
+   ],
+   "loop": false,
+   "name": "18Static_RabbitStone+RabbitStone"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 8,
+    "y": 107
+   },
+   "h": 108,
+   "index": 0,
+   "origin": {
+    "x": 9,
+    "y": 108
+   },
+   "role": "User",
+   "w": 56,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 8,
+    "y": 107
+   },
+   "h": 108,
+   "index": 1,
+   "origin": {
+    "x": 9,
+    "y": 108
+   },
+   "role": "animated",
+   "w": 56,
+   "x": 57,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 8,
+    "y": 107
+   },
+   "h": 108,
+   "index": 2,
+   "origin": {
+    "x": 9,
+    "y": 108
+   },
+   "role": "User",
+   "w": 56,
+   "x": 114,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 8,
+    "y": 107
+   },
+   "h": 108,
+   "index": 3,
+   "origin": {
+    "x": 9,
+    "y": 108
+   },
+   "role": "User",
+   "w": 56,
+   "x": 171,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 8,
+    "y": 107
+   },
+   "h": 108,
+   "index": 4,
+   "origin": {
+    "x": 9,
+    "y": 108
+   },
+   "role": "User",
+   "w": 56,
+   "x": 228,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 8,
+    "y": 107
+   },
+   "h": 108,
+   "index": 5,
+   "origin": {
+    "x": 9,
+    "y": 108
+   },
+   "role": "User",
+   "w": 56,
+   "x": 285,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 8,
+    "y": 107
+   },
+   "h": 108,
+   "index": 6,
+   "origin": {
+    "x": 9,
+    "y": 108
+   },
+   "role": "Flame",
+   "w": 56,
+   "x": 342,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 107
+   },
+   "h": 108,
+   "index": 7,
+   "origin": {
+    "x": 9,
+    "y": 108
+   },
+   "role": "Flame",
+   "w": 56,
+   "x": 399,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 8,
+    "y": 106
+   },
+   "h": 107,
+   "index": 8,
+   "origin": {
+    "x": 9,
+    "y": 108
+   },
+   "role": "Flame",
+   "w": 56,
+   "x": 456,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 107
+   },
+   "h": 108,
+   "index": 9,
+   "origin": {
+    "x": 9,
+    "y": 108
+   },
+   "role": "Flame",
+   "w": 56,
+   "x": 513,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 106
+   },
+   "h": 107,
+   "index": 10,
+   "origin": {
+    "x": 9,
+    "y": 108
+   },
+   "role": "Flame",
+   "w": 57,
+   "x": 570,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 8,
+    "y": 107
+   },
+   "h": 108,
+   "index": 11,
+   "origin": {
+    "x": 9,
+    "y": 108
+   },
+   "role": "18Static_RabbitStone+RabbitStone",
+   "w": 56,
+   "x": 628,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile18/rabbit_stone",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile18__rabbit_stone.png",
+  "h": 108,
+  "w": 684
+ }
+}

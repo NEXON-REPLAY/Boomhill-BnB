@@ -1,0 +1,415 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "ShakenHorz+ShakenVert+Tornado_Day_01"
+  },
+  {
+   "frame_ms": [
+    90,
+    90,
+    90,
+    90,
+    90
+   ],
+   "frames": [
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "loop": false,
+   "name": "00_Appear"
+  },
+  {
+   "frame_ms": [
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90
+   ],
+   "frames": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+   ],
+   "loop": false,
+   "name": "Special"
+  },
+  {
+   "frame_ms": [
+    90,
+    90,
+    90,
+    90
+   ],
+   "frames": [
+    9,
+    10,
+    11,
+    12
+   ],
+   "loop": false,
+   "name": "01_Collide"
+  },
+  {
+   "frame_ms": [
+    90,
+    90,
+    90,
+    90,
+    90
+   ],
+   "frames": [
+    13,
+    14,
+    15,
+    16,
+    17
+   ],
+   "loop": false,
+   "name": "02_Disappear"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -5,
+    "y": 32
+   },
+   "h": 27,
+   "index": 0,
+   "origin": {
+    "x": 19,
+    "y": 77
+   },
+   "role": "ShakenHorz+ShakenVert+Tornado_Day_01",
+   "w": 32,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 32
+   },
+   "h": 26,
+   "index": 1,
+   "origin": {
+    "x": 19,
+    "y": 77
+   },
+   "role": "ShakenHorz+ShakenVert+Tornado_Day_01",
+   "w": 34,
+   "x": 33,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": 28
+   },
+   "h": 24,
+   "index": 2,
+   "origin": {
+    "x": 19,
+    "y": 77
+   },
+   "role": "ShakenHorz+ShakenVert+Tornado_Day_01",
+   "w": 30,
+   "x": 68,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 29
+   },
+   "h": 26,
+   "index": 3,
+   "origin": {
+    "x": 19,
+    "y": 77
+   },
+   "role": "ShakenHorz+ShakenVert+Tornado_Day_01",
+   "w": 33,
+   "x": 99,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 32
+   },
+   "h": 28,
+   "index": 4,
+   "origin": {
+    "x": 19,
+    "y": 77
+   },
+   "role": "animated",
+   "w": 31,
+   "x": 133,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -7,
+    "y": 31
+   },
+   "h": 26,
+   "index": 5,
+   "origin": {
+    "x": 19,
+    "y": 77
+   },
+   "role": "animated",
+   "w": 29,
+   "x": 165,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 40
+   },
+   "h": 34,
+   "index": 6,
+   "origin": {
+    "x": 19,
+    "y": 77
+   },
+   "role": "animated",
+   "w": 37,
+   "x": 195,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 53
+   },
+   "h": 48,
+   "index": 7,
+   "origin": {
+    "x": 19,
+    "y": 77
+   },
+   "role": "animated",
+   "w": 51,
+   "x": 233,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 61
+   },
+   "h": 55,
+   "index": 8,
+   "origin": {
+    "x": 19,
+    "y": 77
+   },
+   "role": "animated",
+   "w": 51,
+   "x": 285,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 72
+   },
+   "h": 66,
+   "index": 9,
+   "origin": {
+    "x": 19,
+    "y": 77
+   },
+   "role": "animated",
+   "w": 60,
+   "x": 337,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 13,
+    "y": 71
+   },
+   "h": 64,
+   "index": 10,
+   "origin": {
+    "x": 19,
+    "y": 77
+   },
+   "role": "animated",
+   "w": 57,
+   "x": 398,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 72
+   },
+   "h": 66,
+   "index": 11,
+   "origin": {
+    "x": 19,
+    "y": 77
+   },
+   "role": "animated",
+   "w": 60,
+   "x": 456,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 13,
+    "y": 71
+   },
+   "h": 64,
+   "index": 12,
+   "origin": {
+    "x": 19,
+    "y": 77
+   },
+   "role": "animated",
+   "w": 57,
+   "x": 517,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 65
+   },
+   "h": 55,
+   "index": 13,
+   "origin": {
+    "x": 19,
+    "y": 77
+   },
+   "role": "animated",
+   "w": 50,
+   "x": 575,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 55
+   },
+   "h": 48,
+   "index": 14,
+   "origin": {
+    "x": 19,
+    "y": 77
+   },
+   "role": "animated",
+   "w": 51,
+   "x": 626,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": 42
+   },
+   "h": 34,
+   "index": 15,
+   "origin": {
+    "x": 19,
+    "y": 77
+   },
+   "role": "animated",
+   "w": 37,
+   "x": 678,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 33
+   },
+   "h": 26,
+   "index": 16,
+   "origin": {
+    "x": 19,
+    "y": 77
+   },
+   "role": "animated",
+   "w": 29,
+   "x": 716,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 34
+   },
+   "h": 28,
+   "index": 17,
+   "origin": {
+    "x": 19,
+    "y": 77
+   },
+   "role": "animated",
+   "w": 31,
+   "x": 746,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/Tornado_Day_01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__Tornado_Day_01.png",
+  "h": 66,
+  "w": 777
+ }
+}

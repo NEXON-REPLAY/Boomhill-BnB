@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    90,
+    120,
+    120,
+    90,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "Anger"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 15,
+    "y": 149
+   },
+   "h": 143,
+   "index": 0,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Anger",
+   "w": 150,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 16,
+    "y": 162
+   },
+   "h": 156,
+   "index": 1,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Anger",
+   "w": 152,
+   "x": 151,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 29,
+    "y": 173
+   },
+   "h": 173,
+   "index": 2,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Anger",
+   "w": 177,
+   "x": 304,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 26,
+    "y": 178
+   },
+   "h": 175,
+   "index": 3,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Anger",
+   "w": 176,
+   "x": 482,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 25,
+    "y": 167
+   },
+   "h": 168,
+   "index": 4,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Anger",
+   "w": 172,
+   "x": 659,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 16,
+    "y": 159
+   },
+   "h": 163,
+   "index": 5,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Anger",
+   "w": 166,
+   "x": 832,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 172
+   },
+   "h": 166,
+   "index": 6,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Anger",
+   "w": 150,
+   "x": 0,
+   "y": 176
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 167
+   },
+   "h": 161,
+   "index": 7,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Anger",
+   "w": 150,
+   "x": 151,
+   "y": 176
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/RPG_Golem_Anger",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__RPG_Golem_Anger.png",
+  "h": 342,
+  "w": 998
+ }
+}

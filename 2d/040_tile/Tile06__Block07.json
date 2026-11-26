@@ -1,0 +1,59 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    240,
+    240
+   ],
+   "frames": [
+    0,
+    1
+   ],
+   "loop": false,
+   "name": "06Static_Block07+Block07"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 83
+   },
+   "h": 84,
+   "index": 0,
+   "origin": {
+    "x": 1,
+    "y": 83
+   },
+   "role": "06Static_Block07+Block07",
+   "w": 40,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 83
+   },
+   "h": 84,
+   "index": 1,
+   "origin": {
+    "x": 1,
+    "y": 83
+   },
+   "role": "06Static_Block07+Block07",
+   "w": 40,
+   "x": 41,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile06/Block07",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile06__Block07.png",
+  "h": 84,
+  "w": 81
+ }
+}

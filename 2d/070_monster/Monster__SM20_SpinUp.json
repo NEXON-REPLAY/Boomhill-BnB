@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30,
+    30,
+    30,
+    30
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "KickedUp"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 4,
+    "y": 49
+   },
+   "h": 48,
+   "index": 0,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "KickedUp",
+   "w": 49,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 50
+   },
+   "h": 48,
+   "index": 1,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "KickedUp",
+   "w": 60,
+   "x": 50,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 51
+   },
+   "h": 48,
+   "index": 2,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "KickedUp",
+   "w": 65,
+   "x": 111,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 8,
+    "y": 50
+   },
+   "h": 50,
+   "index": 3,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "KickedUp",
+   "w": 60,
+   "x": 177,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/SM20_SpinUp",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__SM20_SpinUp.png",
+  "h": 50,
+  "w": 237
+ }
+}

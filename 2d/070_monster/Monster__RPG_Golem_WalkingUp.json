@@ -1,0 +1,141 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "Walk Up"
+  },
+  {
+   "frame_ms": [
+    3000
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "Stop Up"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 19,
+    "y": 153
+   },
+   "h": 153,
+   "index": 0,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "animated",
+   "w": 156,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 22,
+    "y": 153
+   },
+   "h": 149,
+   "index": 1,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Walk Up",
+   "w": 156,
+   "x": 157,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 151
+   },
+   "h": 150,
+   "index": 2,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Walk Up",
+   "w": 134,
+   "x": 314,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 12,
+    "y": 153
+   },
+   "h": 147,
+   "index": 3,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Walk Up",
+   "w": 144,
+   "x": 449,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 153
+   },
+   "h": 149,
+   "index": 4,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Walk Up",
+   "w": 148,
+   "x": 594,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 151
+   },
+   "h": 156,
+   "index": 5,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Walk Up",
+   "w": 149,
+   "x": 743,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/RPG_Golem_WalkingUp",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__RPG_Golem_WalkingUp.png",
+  "h": 156,
+  "w": 892
+ }
+}

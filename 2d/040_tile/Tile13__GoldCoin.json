@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    240,
+    240,
+    240,
+    240
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "13Static_GoldCoin+GoldCoin"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 1,
+    "y": 83
+   },
+   "h": 84,
+   "index": 0,
+   "origin": {
+    "x": 1,
+    "y": 83
+   },
+   "role": "13Static_GoldCoin+GoldCoin",
+   "w": 281,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 83
+   },
+   "h": 84,
+   "index": 1,
+   "origin": {
+    "x": 1,
+    "y": 83
+   },
+   "role": "13Static_GoldCoin+GoldCoin",
+   "w": 281,
+   "x": 282,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 83
+   },
+   "h": 84,
+   "index": 2,
+   "origin": {
+    "x": 1,
+    "y": 83
+   },
+   "role": "13Static_GoldCoin+GoldCoin",
+   "w": 281,
+   "x": 564,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 83
+   },
+   "h": 84,
+   "index": 3,
+   "origin": {
+    "x": 1,
+    "y": 83
+   },
+   "role": "13Static_GoldCoin+GoldCoin",
+   "w": 281,
+   "x": 0,
+   "y": 85
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile13/GoldCoin",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile13__GoldCoin.png",
+  "h": 169,
+  "w": 845
+ }
+}

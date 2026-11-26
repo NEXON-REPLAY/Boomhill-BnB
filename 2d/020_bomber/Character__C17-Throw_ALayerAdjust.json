@@ -1,0 +1,259 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    60,
+    30,
+    30,
+    60
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "Throw Down"
+  },
+  {
+   "frame_ms": [
+    60,
+    30,
+    30,
+    60
+   ],
+   "frames": [
+    8,
+    9,
+    10,
+    11
+   ],
+   "loop": false,
+   "name": "Throw Right"
+  },
+  {
+   "frame_ms": [
+    60,
+    30,
+    30,
+    60
+   ],
+   "frames": [
+    12,
+    13,
+    14,
+    15
+   ],
+   "loop": false,
+   "name": "Throw Left"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -9,
+    "y": 35
+   },
+   "h": 3,
+   "index": 0,
+   "origin": {
+    "x": 8,
+    "y": 87
+   },
+   "role": "Throw Down",
+   "w": 22,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -60,
+    "y": -1
+   },
+   "empty": true,
+   "h": 0,
+   "index": 1,
+   "origin": {
+    "x": 8,
+    "y": 87
+   },
+   "role": "Throw Down",
+   "w": 0,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -60,
+    "y": -1
+   },
+   "empty": true,
+   "h": 0,
+   "index": 2,
+   "origin": {
+    "x": 8,
+    "y": 87
+   },
+   "role": "Throw Down",
+   "w": 0,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -9,
+    "y": 38
+   },
+   "h": 6,
+   "index": 3,
+   "origin": {
+    "x": 8,
+    "y": 87
+   },
+   "role": "Throw Down",
+   "w": 22,
+   "x": 23,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -28,
+    "y": 39
+   },
+   "h": 6,
+   "index": 8,
+   "origin": {
+    "x": 8,
+    "y": 87
+   },
+   "role": "Throw Right",
+   "w": 11,
+   "x": 46,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -32,
+    "y": 36
+   },
+   "h": 3,
+   "index": 9,
+   "origin": {
+    "x": 8,
+    "y": 87
+   },
+   "role": "Throw Right",
+   "w": 7,
+   "x": 58,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -60,
+    "y": -1
+   },
+   "empty": true,
+   "h": 0,
+   "index": 10,
+   "origin": {
+    "x": 8,
+    "y": 87
+   },
+   "role": "Throw Right",
+   "w": 0,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -28,
+    "y": 39
+   },
+   "h": 6,
+   "index": 11,
+   "origin": {
+    "x": 8,
+    "y": 87
+   },
+   "role": "Throw Right",
+   "w": 11,
+   "x": 66,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 38
+   },
+   "h": 5,
+   "index": 12,
+   "origin": {
+    "x": 20,
+    "y": 87
+   },
+   "role": "Throw Left",
+   "w": 11,
+   "x": 78,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 36
+   },
+   "h": 3,
+   "index": 13,
+   "origin": {
+    "x": 20,
+    "y": 87
+   },
+   "role": "Throw Left",
+   "w": 6,
+   "x": 90,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -48,
+    "y": -1
+   },
+   "empty": true,
+   "h": 0,
+   "index": 14,
+   "origin": {
+    "x": 20,
+    "y": 87
+   },
+   "role": "Throw Left",
+   "w": 0,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 39
+   },
+   "h": 6,
+   "index": 15,
+   "origin": {
+    "x": 20,
+    "y": 87
+   },
+   "role": "Throw Left",
+   "w": 11,
+   "x": 97,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "020_bomber",
+ "name": "Character/C17-Throw_ALayerAdjust",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Character__C17-Throw_ALayerAdjust.png",
+  "h": 6,
+  "w": 108
+ }
+}

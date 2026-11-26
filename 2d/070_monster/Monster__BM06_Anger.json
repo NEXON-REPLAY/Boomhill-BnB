@@ -1,0 +1,119 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    2,
+    3,
+    1
+   ],
+   "loop": false,
+   "name": "Anger"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 10,
+    "y": 115
+   },
+   "h": 114,
+   "index": 0,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "Anger",
+   "w": 140,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 111
+   },
+   "h": 123,
+   "index": 1,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "Anger",
+   "w": 142,
+   "x": 141,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 120
+   },
+   "h": 119,
+   "index": 2,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "Anger",
+   "w": 140,
+   "x": 284,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 115
+   },
+   "h": 118,
+   "index": 3,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "Anger",
+   "w": 140,
+   "x": 425,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 111
+   },
+   "h": 117,
+   "index": 4,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "Anger",
+   "w": 140,
+   "x": 566,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/BM06_Anger",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__BM06_Anger.png",
+  "h": 123,
+  "w": 706
+ }
+}

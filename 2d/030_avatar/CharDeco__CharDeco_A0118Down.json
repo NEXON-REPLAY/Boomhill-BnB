@@ -1,0 +1,185 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    90,
+    90,
+    120,
+    120,
+    90,
+    120,
+    150,
+    120,
+    90
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "loop": false,
+   "name": "Down"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -6,
+    "y": 75
+   },
+   "h": 21,
+   "index": 0,
+   "origin": {
+    "x": 18,
+    "y": 92
+   },
+   "role": "Down",
+   "w": 26,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": 78
+   },
+   "h": 22,
+   "index": 1,
+   "origin": {
+    "x": 18,
+    "y": 92
+   },
+   "role": "Down",
+   "w": 26,
+   "x": 27,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -7,
+    "y": 78
+   },
+   "h": 21,
+   "index": 2,
+   "origin": {
+    "x": 18,
+    "y": 92
+   },
+   "role": "Down",
+   "w": 24,
+   "x": 54,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": 76
+   },
+   "h": 20,
+   "index": 3,
+   "origin": {
+    "x": 18,
+    "y": 92
+   },
+   "role": "Down",
+   "w": 26,
+   "x": 79,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": 76
+   },
+   "h": 21,
+   "index": 4,
+   "origin": {
+    "x": 18,
+    "y": 92
+   },
+   "role": "Down",
+   "w": 26,
+   "x": 106,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": 74
+   },
+   "h": 21,
+   "index": 5,
+   "origin": {
+    "x": 18,
+    "y": 92
+   },
+   "role": "Down",
+   "w": 26,
+   "x": 133,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 70
+   },
+   "h": 22,
+   "index": 6,
+   "origin": {
+    "x": 18,
+    "y": 92
+   },
+   "role": "Down",
+   "w": 44,
+   "x": 160,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 71
+   },
+   "h": 23,
+   "index": 7,
+   "origin": {
+    "x": 18,
+    "y": 92
+   },
+   "role": "Down",
+   "w": 49,
+   "x": 205,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 72
+   },
+   "h": 19,
+   "index": 8,
+   "origin": {
+    "x": 18,
+    "y": 92
+   },
+   "role": "Down",
+   "w": 41,
+   "x": 255,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "CharDeco/CharDeco_A0118Down",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "CharDeco__CharDeco_A0118Down.png",
+  "h": 23,
+  "w": 296
+ }
+}

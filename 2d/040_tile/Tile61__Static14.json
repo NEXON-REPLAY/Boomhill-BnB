@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    300,
+    300,
+    300,
+    300,
+    300,
+    300,
+    300,
+    300
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "Static14"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 87
+   },
+   "h": 88,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 87
+   },
+   "role": "Static14",
+   "w": 120,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 87
+   },
+   "h": 88,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 87
+   },
+   "role": "Static14",
+   "w": 120,
+   "x": 121,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 87
+   },
+   "h": 88,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 87
+   },
+   "role": "Static14",
+   "w": 120,
+   "x": 242,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 87
+   },
+   "h": 88,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 87
+   },
+   "role": "Static14",
+   "w": 120,
+   "x": 363,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 87
+   },
+   "h": 88,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 87
+   },
+   "role": "Static14",
+   "w": 120,
+   "x": 484,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 87
+   },
+   "h": 88,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 87
+   },
+   "role": "Static14",
+   "w": 120,
+   "x": 605,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 87
+   },
+   "h": 88,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 87
+   },
+   "role": "Static14",
+   "w": 120,
+   "x": 726,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 87
+   },
+   "h": 88,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 87
+   },
+   "role": "Static14",
+   "w": 120,
+   "x": 847,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile61/Static14",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile61__Static14.png",
+  "h": 88,
+  "w": 967
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 18,
+    "y": 19
+   },
+   "h": 38,
+   "index": 0,
+   "origin": {
+    "x": 22,
+    "y": 25
+   },
+   "role": "unconfirmed",
+   "w": 38,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 20,
+    "y": 18
+   },
+   "h": 37,
+   "index": 1,
+   "origin": {
+    "x": 22,
+    "y": 25
+   },
+   "role": "unconfirmed",
+   "w": 41,
+   "x": 39,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 20,
+    "y": 19
+   },
+   "h": 38,
+   "index": 2,
+   "origin": {
+    "x": 22,
+    "y": 25
+   },
+   "role": "unconfirmed",
+   "w": 40,
+   "x": 81,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 22,
+    "y": 20
+   },
+   "h": 39,
+   "index": 3,
+   "origin": {
+    "x": 22,
+    "y": 25
+   },
+   "role": "unconfirmed",
+   "w": 41,
+   "x": 122,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "060_effect",
+ "name": "Bomb/SnowBallEx1",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Bomb__SnowBallEx1.png",
+  "h": 39,
+  "w": 163
+ }
+}

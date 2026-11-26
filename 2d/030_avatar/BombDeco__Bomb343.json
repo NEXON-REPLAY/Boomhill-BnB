@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "Bomb343"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 10,
+    "y": 54
+   },
+   "h": 66,
+   "index": 0,
+   "origin": {
+    "x": 10,
+    "y": 54
+   },
+   "role": "Bomb343",
+   "w": 60,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 54
+   },
+   "h": 66,
+   "index": 1,
+   "origin": {
+    "x": 10,
+    "y": 54
+   },
+   "role": "Bomb343",
+   "w": 60,
+   "x": 61,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 54
+   },
+   "h": 66,
+   "index": 2,
+   "origin": {
+    "x": 10,
+    "y": 54
+   },
+   "role": "Bomb343",
+   "w": 60,
+   "x": 122,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 54
+   },
+   "h": 66,
+   "index": 3,
+   "origin": {
+    "x": 10,
+    "y": 54
+   },
+   "role": "Bomb343",
+   "w": 60,
+   "x": 183,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 54
+   },
+   "h": 66,
+   "index": 4,
+   "origin": {
+    "x": 10,
+    "y": 54
+   },
+   "role": "Bomb343",
+   "w": 60,
+   "x": 244,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 54
+   },
+   "h": 66,
+   "index": 5,
+   "origin": {
+    "x": 10,
+    "y": 54
+   },
+   "role": "Bomb343",
+   "w": 60,
+   "x": 305,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 54
+   },
+   "h": 66,
+   "index": 6,
+   "origin": {
+    "x": 10,
+    "y": 54
+   },
+   "role": "Bomb343",
+   "w": 60,
+   "x": 366,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 54
+   },
+   "h": 66,
+   "index": 7,
+   "origin": {
+    "x": 10,
+    "y": 54
+   },
+   "role": "Bomb343",
+   "w": 60,
+   "x": 427,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "BombDeco/Bomb343",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "BombDeco__Bomb343.png",
+  "h": 66,
+  "w": 487
+ }
+}

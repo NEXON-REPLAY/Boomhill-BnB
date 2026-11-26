@@ -1,0 +1,239 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "loop": false,
+   "name": "BombExplosion004"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 27,
+    "y": 76
+   },
+   "h": 90,
+   "index": 0,
+   "origin": {
+    "x": 27,
+    "y": 76
+   },
+   "role": "BombExplosion004",
+   "w": 95,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 27,
+    "y": 76
+   },
+   "h": 90,
+   "index": 1,
+   "origin": {
+    "x": 27,
+    "y": 76
+   },
+   "role": "BombExplosion004",
+   "w": 95,
+   "x": 96,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 27,
+    "y": 76
+   },
+   "h": 90,
+   "index": 2,
+   "origin": {
+    "x": 27,
+    "y": 76
+   },
+   "role": "BombExplosion004",
+   "w": 95,
+   "x": 192,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 27,
+    "y": 76
+   },
+   "h": 90,
+   "index": 3,
+   "origin": {
+    "x": 27,
+    "y": 76
+   },
+   "role": "BombExplosion004",
+   "w": 95,
+   "x": 288,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 27,
+    "y": 76
+   },
+   "h": 90,
+   "index": 4,
+   "origin": {
+    "x": 27,
+    "y": 76
+   },
+   "role": "BombExplosion004",
+   "w": 95,
+   "x": 384,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 27,
+    "y": 76
+   },
+   "h": 90,
+   "index": 5,
+   "origin": {
+    "x": 27,
+    "y": 76
+   },
+   "role": "BombExplosion004",
+   "w": 95,
+   "x": 480,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 27,
+    "y": 76
+   },
+   "h": 90,
+   "index": 6,
+   "origin": {
+    "x": 27,
+    "y": 76
+   },
+   "role": "BombExplosion004",
+   "w": 95,
+   "x": 576,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 27,
+    "y": 76
+   },
+   "h": 90,
+   "index": 7,
+   "origin": {
+    "x": 27,
+    "y": 76
+   },
+   "role": "BombExplosion004",
+   "w": 95,
+   "x": 672,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 27,
+    "y": 76
+   },
+   "h": 90,
+   "index": 8,
+   "origin": {
+    "x": 27,
+    "y": 76
+   },
+   "role": "BombExplosion004",
+   "w": 95,
+   "x": 768,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 27,
+    "y": 76
+   },
+   "h": 90,
+   "index": 9,
+   "origin": {
+    "x": 27,
+    "y": 76
+   },
+   "role": "BombExplosion004",
+   "w": 95,
+   "x": 864,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 27,
+    "y": 76
+   },
+   "h": 90,
+   "index": 10,
+   "origin": {
+    "x": 27,
+    "y": 76
+   },
+   "role": "BombExplosion004",
+   "w": 95,
+   "x": 0,
+   "y": 91
+  },
+  {
+   "center": {
+    "x": 27,
+    "y": 76
+   },
+   "h": 90,
+   "index": 11,
+   "origin": {
+    "x": 27,
+    "y": 76
+   },
+   "role": "BombExplosion004",
+   "w": 95,
+   "x": 96,
+   "y": 91
+  }
+ ],
+ "game": "bnb",
+ "group": "060_effect",
+ "name": "Bomb/BombExplosion004",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Bomb__BombExplosion004.png",
+  "h": 181,
+  "w": 959
+ }
+}

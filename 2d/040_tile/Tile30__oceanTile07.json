@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "oceanTile07"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 39
+   },
+   "h": 40,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 39
+   },
+   "role": "oceanTile07",
+   "w": 80,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 39
+   },
+   "h": 40,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 39
+   },
+   "role": "oceanTile07",
+   "w": 80,
+   "x": 81,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 39
+   },
+   "h": 40,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 39
+   },
+   "role": "oceanTile07",
+   "w": 80,
+   "x": 162,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 39
+   },
+   "h": 40,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 39
+   },
+   "role": "oceanTile07",
+   "w": 80,
+   "x": 243,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 39
+   },
+   "h": 40,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 39
+   },
+   "role": "oceanTile07",
+   "w": 80,
+   "x": 324,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 39
+   },
+   "h": 40,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 39
+   },
+   "role": "oceanTile07",
+   "w": 80,
+   "x": 405,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 39
+   },
+   "h": 40,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 39
+   },
+   "role": "oceanTile07",
+   "w": 80,
+   "x": 486,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 39
+   },
+   "h": 40,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 39
+   },
+   "role": "oceanTile07",
+   "w": 80,
+   "x": 567,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile30/oceanTile07",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile30__oceanTile07.png",
+  "h": 40,
+  "w": 647
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    3,
+    0,
+    1,
+    2
+   ],
+   "loop": false,
+   "name": "14_DamageRight"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 20,
+    "y": 70
+   },
+   "h": 65,
+   "index": 0,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "14_DamageRight",
+   "w": 64,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 20,
+    "y": 70
+   },
+   "h": 65,
+   "index": 1,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "14_DamageRight",
+   "w": 64,
+   "x": 65,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 20,
+    "y": 70
+   },
+   "h": 65,
+   "index": 2,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "14_DamageRight",
+   "w": 64,
+   "x": 130,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 31,
+    "y": 69
+   },
+   "h": 64,
+   "index": 3,
+   "origin": {
+    "x": 36,
+    "y": 92
+   },
+   "role": "14_DamageRight",
+   "w": 78,
+   "x": 195,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/M_MKuo_HitRight",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__M_MKuo_HitRight.png",
+  "h": 65,
+  "w": 273
+ }
+}

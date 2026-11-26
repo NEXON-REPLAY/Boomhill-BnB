@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "Locked3"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 3,
+    "y": 49
+   },
+   "h": 48,
+   "index": 0,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Locked3",
+   "w": 49,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 50
+   },
+   "h": 48,
+   "index": 1,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Locked3",
+   "w": 49,
+   "x": 50,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 50
+   },
+   "h": 48,
+   "index": 2,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Locked3",
+   "w": 49,
+   "x": 100,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 48
+   },
+   "h": 48,
+   "index": 3,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Locked3",
+   "w": 49,
+   "x": 150,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/SM21_Hit03",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__SM21_Hit03.png",
+  "h": 48,
+  "w": 199
+ }
+}

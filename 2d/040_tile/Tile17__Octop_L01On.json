@@ -1,0 +1,151 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    3000
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "Default2On"
+  },
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    3000
+   ],
+   "frames": [
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "loop": false,
+   "name": "On2Default"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 131
+   },
+   "h": 132,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 136
+   },
+   "role": "animated",
+   "w": 119,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 132
+   },
+   "h": 133,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 136
+   },
+   "role": "animated",
+   "w": 119,
+   "x": 120,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 133
+   },
+   "h": 134,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 136
+   },
+   "role": "animated",
+   "w": 119,
+   "x": 240,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 133
+   },
+   "h": 134,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 136
+   },
+   "role": "animated",
+   "w": 119,
+   "x": 360,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 132
+   },
+   "h": 133,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 136
+   },
+   "role": "animated",
+   "w": 119,
+   "x": 480,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 135
+   },
+   "h": 136,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 136
+   },
+   "role": "animated",
+   "w": 119,
+   "x": 600,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile17/Octop_L01On",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile17__Octop_L01On.png",
+  "h": 136,
+  "w": 719
+ }
+}

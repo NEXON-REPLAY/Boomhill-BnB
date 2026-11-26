@@ -1,0 +1,59 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    210,
+    210
+   ],
+   "frames": [
+    0,
+    1
+   ],
+   "loop": false,
+   "name": "ShoutSticker_Bazzi02"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -60,
+    "y": -2
+   },
+   "h": 56,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "ShoutSticker_Bazzi02",
+   "w": 80,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -49,
+    "y": -2
+   },
+   "h": 56,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "ShoutSticker_Bazzi02",
+   "w": 91,
+   "x": 81,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Emoticon/ShoutSticker_Bazzi02",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Emoticon__ShoutSticker_Bazzi02.png",
+  "h": 56,
+  "w": 172
+ }
+}

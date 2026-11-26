@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 252,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 320,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Etc/Dlg_Notice",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Etc__Dlg_Notice.png",
+  "h": 252,
+  "w": 320
+ }
+}

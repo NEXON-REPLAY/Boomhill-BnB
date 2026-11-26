@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "Bomb158"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 5,
+    "y": 45
+   },
+   "h": 50,
+   "index": 0,
+   "origin": {
+    "x": 11,
+    "y": 51
+   },
+   "role": "Bomb158",
+   "w": 53,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 35
+   },
+   "h": 41,
+   "index": 1,
+   "origin": {
+    "x": 11,
+    "y": 51
+   },
+   "role": "Bomb158",
+   "w": 54,
+   "x": 54,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 45
+   },
+   "h": 51,
+   "index": 2,
+   "origin": {
+    "x": 11,
+    "y": 51
+   },
+   "role": "Bomb158",
+   "w": 53,
+   "x": 109,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 46
+   },
+   "h": 51,
+   "index": 3,
+   "origin": {
+    "x": 11,
+    "y": 51
+   },
+   "role": "Bomb158",
+   "w": 52,
+   "x": 163,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 47
+   },
+   "h": 53,
+   "index": 4,
+   "origin": {
+    "x": 11,
+    "y": 51
+   },
+   "role": "Bomb158",
+   "w": 52,
+   "x": 216,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 38
+   },
+   "h": 44,
+   "index": 5,
+   "origin": {
+    "x": 11,
+    "y": 51
+   },
+   "role": "Bomb158",
+   "w": 54,
+   "x": 269,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 45
+   },
+   "h": 51,
+   "index": 6,
+   "origin": {
+    "x": 11,
+    "y": 51
+   },
+   "role": "Bomb158",
+   "w": 51,
+   "x": 324,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 45
+   },
+   "h": 50,
+   "index": 7,
+   "origin": {
+    "x": 11,
+    "y": 51
+   },
+   "role": "Bomb158",
+   "w": 51,
+   "x": 376,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "BombDeco/Bomb158",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "BombDeco__Bomb158.png",
+  "h": 53,
+  "w": 427
+ }
+}

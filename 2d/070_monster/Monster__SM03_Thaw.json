@@ -1,0 +1,185 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    150,
+    150,
+    120,
+    120,
+    90,
+    90,
+    60,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "loop": false,
+   "name": "Thaw"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 2,
+    "y": 44
+   },
+   "h": 42,
+   "index": 0,
+   "origin": {
+    "x": 4,
+    "y": 45
+   },
+   "role": "Thaw",
+   "w": 44,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 43
+   },
+   "h": 41,
+   "index": 1,
+   "origin": {
+    "x": 4,
+    "y": 45
+   },
+   "role": "Thaw",
+   "w": 41,
+   "x": 45,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 43
+   },
+   "h": 41,
+   "index": 2,
+   "origin": {
+    "x": 4,
+    "y": 45
+   },
+   "role": "Thaw",
+   "w": 40,
+   "x": 87,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 43
+   },
+   "h": 41,
+   "index": 3,
+   "origin": {
+    "x": 4,
+    "y": 45
+   },
+   "role": "Thaw",
+   "w": 38,
+   "x": 128,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 43
+   },
+   "h": 40,
+   "index": 4,
+   "origin": {
+    "x": 4,
+    "y": 45
+   },
+   "role": "Thaw",
+   "w": 40,
+   "x": 167,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 43
+   },
+   "h": 40,
+   "index": 5,
+   "origin": {
+    "x": 4,
+    "y": 45
+   },
+   "role": "Thaw",
+   "w": 39,
+   "x": 208,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 42
+   },
+   "h": 39,
+   "index": 6,
+   "origin": {
+    "x": 4,
+    "y": 45
+   },
+   "role": "Thaw",
+   "w": 38,
+   "x": 248,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 42
+   },
+   "h": 39,
+   "index": 7,
+   "origin": {
+    "x": 4,
+    "y": 45
+   },
+   "role": "Thaw",
+   "w": 38,
+   "x": 287,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 42
+   },
+   "h": 38,
+   "index": 8,
+   "origin": {
+    "x": 4,
+    "y": 45
+   },
+   "role": "Thaw",
+   "w": 38,
+   "x": 326,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/SM03_Thaw",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__SM03_Thaw.png",
+  "h": 42,
+  "w": 364
+ }
+}

@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "Left"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 8,
+    "y": 43
+   },
+   "h": 43,
+   "index": 0,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 59,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 8,
+    "y": 44
+   },
+   "h": 44,
+   "index": 1,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 67,
+   "x": 60,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 8,
+    "y": 45
+   },
+   "h": 45,
+   "index": 2,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 67,
+   "x": 128,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 8,
+    "y": 44
+   },
+   "h": 44,
+   "index": 3,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 66,
+   "x": 196,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 8,
+    "y": 43
+   },
+   "h": 43,
+   "index": 4,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 66,
+   "x": 263,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 8,
+    "y": 44
+   },
+   "h": 44,
+   "index": 5,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 67,
+   "x": 330,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 8,
+    "y": 46
+   },
+   "h": 46,
+   "index": 6,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 66,
+   "x": 398,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 8,
+    "y": 44
+   },
+   "h": 44,
+   "index": 7,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 55,
+   "x": 465,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "CharDeco/CharDeco_E3018Left",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "CharDeco__CharDeco_E3018Left.png",
+  "h": 46,
+  "w": 520
+ }
+}

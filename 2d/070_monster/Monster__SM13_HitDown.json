@@ -1,0 +1,121 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    3,
+    4,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "DamageDown+DamageLeft+DamageRight+DamageUp"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 24,
+    "y": 106
+   },
+   "h": 105,
+   "index": 0,
+   "origin": {
+    "x": 25,
+    "y": 108
+   },
+   "role": "DamageDown+DamageLeft+DamageRight+DamageUp",
+   "w": 88,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 24,
+    "y": 106
+   },
+   "h": 106,
+   "index": 1,
+   "origin": {
+    "x": 25,
+    "y": 108
+   },
+   "role": "DamageDown+DamageLeft+DamageRight+DamageUp",
+   "w": 88,
+   "x": 89,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 20,
+    "y": 106
+   },
+   "h": 96,
+   "index": 2,
+   "origin": {
+    "x": 25,
+    "y": 108
+   },
+   "role": "DamageDown+DamageLeft+DamageRight+DamageUp",
+   "w": 80,
+   "x": 178,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 20,
+    "y": 104
+   },
+   "h": 91,
+   "index": 3,
+   "origin": {
+    "x": 25,
+    "y": 108
+   },
+   "role": "DamageDown+DamageLeft+DamageRight+DamageUp",
+   "w": 82,
+   "x": 259,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 20,
+    "y": 106
+   },
+   "h": 96,
+   "index": 4,
+   "origin": {
+    "x": 25,
+    "y": 108
+   },
+   "role": "DamageDown+DamageLeft+DamageRight+DamageUp",
+   "w": 80,
+   "x": 342,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/SM13_HitDown",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__SM13_HitDown.png",
+  "h": 106,
+  "w": 422
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    240,
+    240,
+    240,
+    240
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "13Static_BoxJewel01+BoxJewel01"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 57
+   },
+   "h": 58,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 57
+   },
+   "role": "13Static_BoxJewel01+BoxJewel01",
+   "w": 42,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 57
+   },
+   "h": 58,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 57
+   },
+   "role": "13Static_BoxJewel01+BoxJewel01",
+   "w": 42,
+   "x": 43,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 57
+   },
+   "h": 58,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 57
+   },
+   "role": "13Static_BoxJewel01+BoxJewel01",
+   "w": 42,
+   "x": 86,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 57
+   },
+   "h": 58,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 57
+   },
+   "role": "13Static_BoxJewel01+BoxJewel01",
+   "w": 42,
+   "x": 129,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile13/BoxJewel01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile13__BoxJewel01.png",
+  "h": 58,
+  "w": 171
+ }
+}

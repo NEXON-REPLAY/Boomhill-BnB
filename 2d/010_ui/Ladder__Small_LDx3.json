@@ -1,0 +1,174 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": -11,
+    "y": -8
+   },
+   "h": 48,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 42,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -11,
+    "y": -8
+   },
+   "h": 48,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 42,
+   "x": 43,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -11,
+    "y": -8
+   },
+   "h": 48,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 42,
+   "x": 86,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -11,
+    "y": -8
+   },
+   "h": 48,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 42,
+   "x": 129,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -8,
+    "y": -8
+   },
+   "h": 48,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 48,
+   "x": 172,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -8,
+    "y": -8
+   },
+   "h": 48,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 48,
+   "x": 221,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -8,
+    "y": -8
+   },
+   "h": 48,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 48,
+   "x": 270,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": -8
+   },
+   "h": 48,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 54,
+   "x": 319,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": -8
+   },
+   "h": 48,
+   "index": 8,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 54,
+   "x": 374,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": -8
+   },
+   "h": 48,
+   "index": 9,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 54,
+   "x": 429,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Ladder/Small_LDx3",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Ladder__Small_LDx3.png",
+  "h": 48,
+  "w": 483
+ }
+}

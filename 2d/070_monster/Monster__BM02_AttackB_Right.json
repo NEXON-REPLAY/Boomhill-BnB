@@ -1,0 +1,113 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    120,
+    90,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "RollAttackRight"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 18,
+    "y": 148
+   },
+   "h": 161,
+   "index": 0,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "RollAttackRight",
+   "w": 147,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 17,
+    "y": 148
+   },
+   "h": 165,
+   "index": 1,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "RollAttackRight",
+   "w": 156,
+   "x": 148,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 17,
+    "y": 148
+   },
+   "h": 168,
+   "index": 2,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "RollAttackRight",
+   "w": 151,
+   "x": 305,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 23,
+    "y": 148
+   },
+   "h": 171,
+   "index": 3,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "RollAttackRight",
+   "w": 149,
+   "x": 457,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 21,
+    "y": 148
+   },
+   "h": 161,
+   "index": 4,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "RollAttackRight",
+   "w": 150,
+   "x": 607,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/BM02_AttackB_Right",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__BM02_AttackB_Right.png",
+  "h": 171,
+  "w": 757
+ }
+}

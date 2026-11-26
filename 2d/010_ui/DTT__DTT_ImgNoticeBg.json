@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 343,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "sole-frame",
+   "w": 363,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "DTT/DTT_ImgNoticeBg",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "DTT__DTT_ImgNoticeBg.png",
+  "h": 343,
+  "w": 363
+ }
+}

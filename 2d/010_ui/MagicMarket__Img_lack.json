@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": -3,
+    "y": -3
+   },
+   "h": 23,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "sole-frame",
+   "w": 73,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "MagicMarket/Img_lack",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MagicMarket__Img_lack.png",
+  "h": 23,
+  "w": 73
+ }
+}

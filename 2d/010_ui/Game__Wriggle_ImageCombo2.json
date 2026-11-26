@@ -1,0 +1,542 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": -2,
+    "y": 4
+   },
+   "h": 35,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 4
+   },
+   "role": "combo_digit_0_step0",
+   "w": 28,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 4
+   },
+   "h": 35,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 4
+   },
+   "role": "combo_digit_0_step1",
+   "w": 28,
+   "x": 29,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 4
+   },
+   "h": 35,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 4
+   },
+   "role": "combo_digit_0_step2",
+   "w": 27,
+   "x": 58,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": 4
+   },
+   "h": 35,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 4
+   },
+   "role": "combo_digit_1_step0",
+   "w": 21,
+   "x": 86,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": 4
+   },
+   "h": 35,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 4
+   },
+   "role": "combo_digit_1_step1",
+   "w": 21,
+   "x": 108,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": 4
+   },
+   "h": 35,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 4
+   },
+   "role": "combo_digit_1_step2",
+   "w": 19,
+   "x": 130,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 4
+   },
+   "h": 35,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 4
+   },
+   "role": "combo_digit_2_step0",
+   "w": 30,
+   "x": 150,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 4
+   },
+   "h": 35,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 4
+   },
+   "role": "combo_digit_2_step1",
+   "w": 30,
+   "x": 181,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 4
+   },
+   "h": 35,
+   "index": 8,
+   "origin": {
+    "x": 0,
+    "y": 4
+   },
+   "role": "combo_digit_2_step2",
+   "w": 29,
+   "x": 212,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 4
+   },
+   "h": 35,
+   "index": 9,
+   "origin": {
+    "x": 0,
+    "y": 4
+   },
+   "role": "combo_digit_3_step0",
+   "w": 29,
+   "x": 242,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 4
+   },
+   "h": 35,
+   "index": 10,
+   "origin": {
+    "x": 0,
+    "y": 4
+   },
+   "role": "combo_digit_3_step1",
+   "w": 29,
+   "x": 272,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 4
+   },
+   "h": 35,
+   "index": 11,
+   "origin": {
+    "x": 0,
+    "y": 4
+   },
+   "role": "combo_digit_3_step2",
+   "w": 29,
+   "x": 302,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 4
+   },
+   "h": 35,
+   "index": 12,
+   "origin": {
+    "x": 0,
+    "y": 4
+   },
+   "role": "combo_digit_4_step0",
+   "w": 29,
+   "x": 332,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 4
+   },
+   "h": 35,
+   "index": 13,
+   "origin": {
+    "x": 0,
+    "y": 4
+   },
+   "role": "combo_digit_4_step1",
+   "w": 29,
+   "x": 362,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 4
+   },
+   "h": 35,
+   "index": 14,
+   "origin": {
+    "x": 0,
+    "y": 4
+   },
+   "role": "combo_digit_4_step2",
+   "w": 27,
+   "x": 392,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 4
+   },
+   "h": 35,
+   "index": 15,
+   "origin": {
+    "x": 0,
+    "y": 4
+   },
+   "role": "combo_digit_5_step0",
+   "w": 28,
+   "x": 420,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 4
+   },
+   "h": 35,
+   "index": 16,
+   "origin": {
+    "x": 0,
+    "y": 4
+   },
+   "role": "combo_digit_5_step1",
+   "w": 28,
+   "x": 449,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 4
+   },
+   "h": 35,
+   "index": 17,
+   "origin": {
+    "x": 0,
+    "y": 4
+   },
+   "role": "combo_digit_5_step2",
+   "w": 27,
+   "x": 478,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 4
+   },
+   "h": 35,
+   "index": 18,
+   "origin": {
+    "x": 0,
+    "y": 4
+   },
+   "role": "combo_digit_6_step0",
+   "w": 28,
+   "x": 506,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 4
+   },
+   "h": 35,
+   "index": 19,
+   "origin": {
+    "x": 0,
+    "y": 4
+   },
+   "role": "combo_digit_6_step1",
+   "w": 28,
+   "x": 535,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 4
+   },
+   "h": 35,
+   "index": 20,
+   "origin": {
+    "x": 0,
+    "y": 4
+   },
+   "role": "combo_digit_6_step2",
+   "w": 27,
+   "x": 564,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 4
+   },
+   "h": 35,
+   "index": 21,
+   "origin": {
+    "x": 0,
+    "y": 4
+   },
+   "role": "combo_digit_7_step0",
+   "w": 27,
+   "x": 592,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 4
+   },
+   "h": 35,
+   "index": 22,
+   "origin": {
+    "x": 0,
+    "y": 4
+   },
+   "role": "combo_digit_7_step1",
+   "w": 27,
+   "x": 620,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 4
+   },
+   "h": 35,
+   "index": 23,
+   "origin": {
+    "x": 0,
+    "y": 4
+   },
+   "role": "combo_digit_7_step2",
+   "w": 27,
+   "x": 648,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 4
+   },
+   "h": 35,
+   "index": 24,
+   "origin": {
+    "x": 0,
+    "y": 4
+   },
+   "role": "combo_digit_8_step0",
+   "w": 29,
+   "x": 676,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 4
+   },
+   "h": 35,
+   "index": 25,
+   "origin": {
+    "x": 0,
+    "y": 4
+   },
+   "role": "combo_digit_8_step1",
+   "w": 29,
+   "x": 706,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 4
+   },
+   "h": 35,
+   "index": 26,
+   "origin": {
+    "x": 0,
+    "y": 4
+   },
+   "role": "combo_digit_8_step2",
+   "w": 27,
+   "x": 736,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 4
+   },
+   "h": 35,
+   "index": 27,
+   "origin": {
+    "x": 0,
+    "y": 4
+   },
+   "role": "combo_digit_9_step0",
+   "w": 29,
+   "x": 764,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 4
+   },
+   "h": 35,
+   "index": 28,
+   "origin": {
+    "x": 0,
+    "y": 4
+   },
+   "role": "combo_digit_9_step1",
+   "w": 29,
+   "x": 794,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 4
+   },
+   "h": 35,
+   "index": 29,
+   "origin": {
+    "x": 0,
+    "y": 4
+   },
+   "role": "combo_digit_9_step2",
+   "w": 27,
+   "x": 824,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": -3
+   },
+   "h": 28,
+   "index": 30,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "combo_title_step0",
+   "w": 103,
+   "x": 852,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": -3
+   },
+   "h": 28,
+   "index": 31,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "combo_title_step1",
+   "w": 103,
+   "x": 0,
+   "y": 36
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": -4
+   },
+   "h": 27,
+   "index": 32,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "combo_title_step2",
+   "w": 103,
+   "x": 104,
+   "y": 36
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Game/Wriggle_ImageCombo2",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Game__Wriggle_ImageCombo2.png",
+  "h": 64,
+  "w": 955
+ }
+}

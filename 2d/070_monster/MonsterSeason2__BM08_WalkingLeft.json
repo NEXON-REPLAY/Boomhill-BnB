@@ -1,0 +1,105 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    210,
+    240,
+    210
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "Walk Left+Walk Up"
+  },
+  {
+   "frame_ms": [
+    3000
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "Stop Left+Stop Up"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 19,
+    "y": 162
+   },
+   "h": 163,
+   "index": 0,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "animated",
+   "w": 173,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 13,
+    "y": 168
+   },
+   "h": 168,
+   "index": 1,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Walk Left+Walk Up",
+   "w": 169,
+   "x": 174,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 172
+   },
+   "h": 171,
+   "index": 2,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Walk Left+Walk Up",
+   "w": 175,
+   "x": 344,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 12,
+    "y": 177
+   },
+   "h": 177,
+   "index": 3,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Walk Left+Walk Up",
+   "w": 170,
+   "x": 520,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/BM08_WalkingLeft",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__BM08_WalkingLeft.png",
+  "h": 177,
+  "w": 690
+ }
+}

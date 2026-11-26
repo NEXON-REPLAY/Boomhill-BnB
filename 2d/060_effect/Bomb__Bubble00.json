@@ -1,0 +1,187 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "ExpKill"
+  },
+  {
+   "frame_ms": [
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    6,
+    7,
+    8
+   ],
+   "loop": false,
+   "name": "ExpLive"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 7,
+    "y": 26
+   },
+   "h": 30,
+   "index": 0,
+   "origin": {
+    "x": 16,
+    "y": 65
+   },
+   "role": "Lock",
+   "w": 34,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 44
+   },
+   "h": 48,
+   "index": 1,
+   "origin": {
+    "x": 16,
+    "y": 65
+   },
+   "role": "Lock",
+   "w": 62,
+   "x": 35,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 59
+   },
+   "h": 57,
+   "index": 2,
+   "origin": {
+    "x": 16,
+    "y": 65
+   },
+   "role": "Lock",
+   "w": 61,
+   "x": 98,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 13,
+    "y": 62
+   },
+   "h": 66,
+   "index": 3,
+   "origin": {
+    "x": 16,
+    "y": 65
+   },
+   "role": "ExpKill",
+   "w": 66,
+   "x": 160,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 63
+   },
+   "h": 68,
+   "index": 4,
+   "origin": {
+    "x": 16,
+    "y": 65
+   },
+   "role": "ExpKill",
+   "w": 68,
+   "x": 227,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 63
+   },
+   "h": 68,
+   "index": 5,
+   "origin": {
+    "x": 16,
+    "y": 65
+   },
+   "role": "ExpKill",
+   "w": 68,
+   "x": 296,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 61
+   },
+   "h": 60,
+   "index": 6,
+   "origin": {
+    "x": 16,
+    "y": 65
+   },
+   "role": "animated",
+   "w": 60,
+   "x": 365,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 13,
+    "y": 63
+   },
+   "h": 67,
+   "index": 7,
+   "origin": {
+    "x": 16,
+    "y": 65
+   },
+   "role": "ExpLive",
+   "w": 67,
+   "x": 426,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 64
+   },
+   "h": 70,
+   "index": 8,
+   "origin": {
+    "x": 16,
+    "y": 65
+   },
+   "role": "ExpLive",
+   "w": 70,
+   "x": 494,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "060_effect",
+ "name": "Bomb/Bubble00",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Bomb__Bubble00.png",
+  "h": 70,
+  "w": 564
+ }
+}

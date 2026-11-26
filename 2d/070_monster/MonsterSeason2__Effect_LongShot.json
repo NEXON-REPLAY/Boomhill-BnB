@@ -1,0 +1,331 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90
+   ],
+   "frames": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+   ],
+   "loop": false,
+   "name": "Effect_LongShot"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 5,
+    "y": 133
+   },
+   "h": 49,
+   "index": 1,
+   "origin": {
+    "x": 30,
+    "y": 151
+   },
+   "role": "Effect_LongShot",
+   "w": 51,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 21,
+    "y": 148
+   },
+   "h": 76,
+   "index": 2,
+   "origin": {
+    "x": 30,
+    "y": 151
+   },
+   "role": "Effect_LongShot",
+   "w": 80,
+   "x": 52,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 140
+   },
+   "h": 72,
+   "index": 3,
+   "origin": {
+    "x": 30,
+    "y": 151
+   },
+   "role": "Effect_LongShot",
+   "w": 73,
+   "x": 133,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -70,
+    "y": -1
+   },
+   "empty": true,
+   "h": 0,
+   "index": 4,
+   "origin": {
+    "x": 30,
+    "y": 151
+   },
+   "role": "Effect_LongShot",
+   "w": 0,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -70,
+    "y": -1
+   },
+   "empty": true,
+   "h": 0,
+   "index": 5,
+   "origin": {
+    "x": 30,
+    "y": 151
+   },
+   "role": "Effect_LongShot",
+   "w": 0,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 61
+   },
+   "h": 60,
+   "index": 6,
+   "origin": {
+    "x": 30,
+    "y": 151
+   },
+   "role": "Effect_LongShot",
+   "w": 61,
+   "x": 207,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 28,
+    "y": 92
+   },
+   "h": 88,
+   "index": 7,
+   "origin": {
+    "x": 30,
+    "y": 151
+   },
+   "role": "Effect_LongShot",
+   "w": 96,
+   "x": 269,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 30,
+    "y": 101
+   },
+   "h": 93,
+   "index": 8,
+   "origin": {
+    "x": 30,
+    "y": 151
+   },
+   "role": "Effect_LongShot",
+   "w": 100,
+   "x": 366,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 27,
+    "y": 99
+   },
+   "h": 85,
+   "index": 9,
+   "origin": {
+    "x": 30,
+    "y": 151
+   },
+   "role": "Effect_LongShot",
+   "w": 94,
+   "x": 467,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 28,
+    "y": 99
+   },
+   "h": 76,
+   "index": 10,
+   "origin": {
+    "x": 30,
+    "y": 151
+   },
+   "role": "Effect_LongShot",
+   "w": 96,
+   "x": 562,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 29,
+    "y": 99
+   },
+   "h": 61,
+   "index": 11,
+   "origin": {
+    "x": 30,
+    "y": 151
+   },
+   "role": "Effect_LongShot",
+   "w": 98,
+   "x": 659,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 19,
+    "y": 100
+   },
+   "h": 44,
+   "index": 12,
+   "origin": {
+    "x": 30,
+    "y": 151
+   },
+   "role": "Effect_LongShot",
+   "w": 79,
+   "x": 758,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 19,
+    "y": 105
+   },
+   "h": 44,
+   "index": 13,
+   "origin": {
+    "x": 30,
+    "y": 151
+   },
+   "role": "Effect_LongShot",
+   "w": 79,
+   "x": 838,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 19,
+    "y": 110
+   },
+   "h": 44,
+   "index": 14,
+   "origin": {
+    "x": 30,
+    "y": 151
+   },
+   "role": "Effect_LongShot",
+   "w": 79,
+   "x": 918,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 110
+   },
+   "h": 41,
+   "index": 15,
+   "origin": {
+    "x": 30,
+    "y": 151
+   },
+   "role": "Effect_LongShot",
+   "w": 72,
+   "x": 0,
+   "y": 94
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 113
+   },
+   "h": 33,
+   "index": 16,
+   "origin": {
+    "x": 30,
+    "y": 151
+   },
+   "role": "Effect_LongShot",
+   "w": 59,
+   "x": 73,
+   "y": 94
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 125
+   },
+   "h": 33,
+   "index": 17,
+   "origin": {
+    "x": 30,
+    "y": 151
+   },
+   "role": "Effect_LongShot",
+   "w": 57,
+   "x": 133,
+   "y": 94
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/Effect_LongShot",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__Effect_LongShot.png",
+  "h": 135,
+  "w": 997
+ }
+}

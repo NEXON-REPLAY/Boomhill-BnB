@@ -1,0 +1,255 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    3,
+    4,
+    5,
+    6,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "loop": false,
+   "name": "Effect_MonBossIn_SandKing"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -167,
+    "y": 504
+   },
+   "h": 112,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 504
+   },
+   "role": "Effect_MonBossIn_SandKing",
+   "w": 209,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -154,
+    "y": 504
+   },
+   "h": 300,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 504
+   },
+   "role": "Effect_MonBossIn_SandKing",
+   "w": 271,
+   "x": 210,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -52,
+    "y": 504
+   },
+   "h": 357,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 504
+   },
+   "role": "Effect_MonBossIn_SandKing",
+   "w": 370,
+   "x": 482,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -12,
+    "y": 504
+   },
+   "h": 357,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 504
+   },
+   "role": "Effect_MonBossIn_SandKing",
+   "w": 500,
+   "x": 0,
+   "y": 358
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 504
+   },
+   "h": 356,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 504
+   },
+   "role": "Effect_MonBossIn_SandKing",
+   "w": 546,
+   "x": 0,
+   "y": 716
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": 504
+   },
+   "h": 354,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 504
+   },
+   "role": "Effect_MonBossIn_SandKing",
+   "w": 563,
+   "x": 0,
+   "y": 1073
+  },
+  {
+   "center": {
+    "x": -52,
+    "y": 504
+   },
+   "h": 356,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 504
+   },
+   "role": "Effect_MonBossIn_SandKing",
+   "w": 519,
+   "x": 0,
+   "y": 1428
+  },
+  {
+   "center": {
+    "x": -10,
+    "y": 504
+   },
+   "h": 357,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 504
+   },
+   "role": "Effect_MonBossIn_SandKing",
+   "w": 502,
+   "x": 520,
+   "y": 1428
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 490
+   },
+   "h": 342,
+   "index": 8,
+   "origin": {
+    "x": 0,
+    "y": 504
+   },
+   "role": "Effect_MonBossIn_SandKing",
+   "w": 566,
+   "x": 0,
+   "y": 1786
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": 324
+   },
+   "h": 174,
+   "index": 9,
+   "origin": {
+    "x": 0,
+    "y": 504
+   },
+   "role": "Effect_MonBossIn_SandKing",
+   "w": 577,
+   "x": 0,
+   "y": 2129
+  },
+  {
+   "center": {
+    "x": -230,
+    "y": 310
+   },
+   "h": 159,
+   "index": 10,
+   "origin": {
+    "x": 0,
+    "y": 504
+   },
+   "role": "Effect_MonBossIn_SandKing",
+   "w": 341,
+   "x": 578,
+   "y": 2129
+  },
+  {
+   "center": {
+    "x": -231,
+    "y": 308
+   },
+   "h": 151,
+   "index": 11,
+   "origin": {
+    "x": 0,
+    "y": 504
+   },
+   "role": "Effect_MonBossIn_SandKing",
+   "w": 118,
+   "x": 0,
+   "y": 2304
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/Effect_M_BossIn_SandKing",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__Effect_M_BossIn_SandKing.png",
+  "h": 2455,
+  "w": 1022
+ }
+}

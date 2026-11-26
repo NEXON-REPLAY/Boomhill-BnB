@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 183,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "sole-frame",
+   "w": 157,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Tutorial/bazzi",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tutorial__bazzi.png",
+  "h": 183,
+  "w": 157
+ }
+}

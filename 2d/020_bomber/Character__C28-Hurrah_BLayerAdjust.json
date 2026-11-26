@@ -1,0 +1,149 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    240,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    3,
+    0
+   ],
+   "loop": false,
+   "name": "Release"
+  },
+  {
+   "frame_ms": [
+    1980,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    0,
+    2,
+    0,
+    3,
+    0,
+    3,
+    0,
+    3,
+    0,
+    3,
+    0,
+    1,
+    0,
+    2,
+    0,
+    3,
+    0,
+    3,
+    0,
+    3,
+    3,
+    0
+   ],
+   "loop": false,
+   "name": "Hurrah"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -6,
+    "y": 20
+   },
+   "h": 14,
+   "index": 0,
+   "origin": {
+    "x": 13,
+    "y": 81
+   },
+   "role": "animated",
+   "w": 28,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": 24
+   },
+   "h": 15,
+   "index": 1,
+   "origin": {
+    "x": 13,
+    "y": 81
+   },
+   "role": "Hurrah",
+   "w": 29,
+   "x": 29,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": 24
+   },
+   "h": 15,
+   "index": 2,
+   "origin": {
+    "x": 13,
+    "y": 81
+   },
+   "role": "Hurrah",
+   "w": 29,
+   "x": 59,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": 24
+   },
+   "h": 12,
+   "index": 3,
+   "origin": {
+    "x": 13,
+    "y": 81
+   },
+   "role": "animated",
+   "w": 30,
+   "x": 89,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "020_bomber",
+ "name": "Character/C28-Hurrah_BLayerAdjust",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Character__C28-Hurrah_BLayerAdjust.png",
+  "h": 15,
+  "w": 119
+ }
+}

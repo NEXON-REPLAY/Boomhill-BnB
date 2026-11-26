@@ -1,0 +1,77 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2
+   ],
+   "loop": false,
+   "name": "14_DamageRight"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 19,
+    "y": 82
+   },
+   "h": 85,
+   "index": 0,
+   "origin": {
+    "x": 37,
+    "y": 87
+   },
+   "role": "14_DamageRight",
+   "w": 63,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 19,
+    "y": 82
+   },
+   "h": 85,
+   "index": 1,
+   "origin": {
+    "x": 37,
+    "y": 87
+   },
+   "role": "14_DamageRight",
+   "w": 63,
+   "x": 64,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 33,
+    "y": 77
+   },
+   "h": 80,
+   "index": 2,
+   "origin": {
+    "x": 37,
+    "y": 87
+   },
+   "role": "14_DamageRight",
+   "w": 77,
+   "x": 128,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/M_Sflower_HitRight",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__M_Sflower_HitRight.png",
+  "h": 85,
+  "w": 205
+ }
+}

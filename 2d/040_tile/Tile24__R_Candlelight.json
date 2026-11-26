@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "R_Candlelight"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 113
+   },
+   "h": 114,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 120
+   },
+   "role": "R_Candlelight",
+   "w": 40,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 117
+   },
+   "h": 118,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 120
+   },
+   "role": "R_Candlelight",
+   "w": 40,
+   "x": 41,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 120
+   },
+   "h": 121,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 120
+   },
+   "role": "R_Candlelight",
+   "w": 40,
+   "x": 82,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 106
+   },
+   "h": 107,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 120
+   },
+   "role": "R_Candlelight",
+   "w": 40,
+   "x": 123,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile24/R_Candlelight",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile24__R_Candlelight.png",
+  "h": 121,
+  "w": 163
+ }
+}

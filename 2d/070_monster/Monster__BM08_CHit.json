@@ -1,0 +1,111 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    210,
+    210,
+    150,
+    120
+   ],
+   "frames": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "Damage Down+Damage Left+Damage Right+Damage Up"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 6,
+    "y": 163
+   },
+   "h": 150,
+   "index": 0,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "unconfirmed",
+   "w": 132,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 30,
+    "y": 174
+   },
+   "h": 155,
+   "index": 1,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Damage Down+Damage Left+Damage Right+Damage Up",
+   "w": 180,
+   "x": 133,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 23,
+    "y": 169
+   },
+   "h": 153,
+   "index": 2,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Damage Down+Damage Left+Damage Right+Damage Up",
+   "w": 166,
+   "x": 314,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 166
+   },
+   "h": 155,
+   "index": 3,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Damage Down+Damage Left+Damage Right+Damage Up",
+   "w": 148,
+   "x": 481,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 163
+   },
+   "h": 150,
+   "index": 4,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Damage Down+Damage Left+Damage Right+Damage Up",
+   "w": 132,
+   "x": 630,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/BM08_CHit",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__BM08_CHit.png",
+  "h": 155,
+  "w": 762
+ }
+}

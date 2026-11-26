@@ -1,0 +1,41 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "10Static_Tomb02+Tomb02"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 105
+   },
+   "h": 106,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 105
+   },
+   "role": "10Static_Tomb02+Tomb02",
+   "w": 80,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile10/Tomb02",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile10__Tomb02.png",
+  "h": 106,
+  "w": 80
+ }
+}

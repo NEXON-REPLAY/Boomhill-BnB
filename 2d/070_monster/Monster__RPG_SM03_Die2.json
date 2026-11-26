@@ -1,0 +1,131 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    60,
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "Disappear"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -1,
+    "y": 42
+   },
+   "h": 38,
+   "index": 0,
+   "origin": {
+    "x": 4,
+    "y": 57
+   },
+   "role": "Disappear",
+   "w": 38,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 56
+   },
+   "h": 45,
+   "index": 1,
+   "origin": {
+    "x": 4,
+    "y": 57
+   },
+   "role": "Disappear",
+   "w": 34,
+   "x": 39,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": 44
+   },
+   "h": 35,
+   "index": 2,
+   "origin": {
+    "x": 4,
+    "y": 57
+   },
+   "role": "Disappear",
+   "w": 28,
+   "x": 74,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -7,
+    "y": 36
+   },
+   "h": 28,
+   "index": 3,
+   "origin": {
+    "x": 4,
+    "y": 57
+   },
+   "role": "Disappear",
+   "w": 26,
+   "x": 103,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -7,
+    "y": 22
+   },
+   "h": 15,
+   "index": 4,
+   "origin": {
+    "x": 4,
+    "y": 57
+   },
+   "role": "Disappear",
+   "w": 25,
+   "x": 130,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -9,
+    "y": 15
+   },
+   "h": 8,
+   "index": 5,
+   "origin": {
+    "x": 4,
+    "y": 57
+   },
+   "role": "Disappear",
+   "w": 23,
+   "x": 156,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/RPG_SM03_Die2",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__RPG_SM03_Die2.png",
+  "h": 45,
+  "w": 179
+ }
+}

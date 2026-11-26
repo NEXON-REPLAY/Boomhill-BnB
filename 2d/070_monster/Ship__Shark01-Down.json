@@ -1,0 +1,151 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    90,
+    90,
+    90,
+    90,
+    90,
+    90
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "Move Down"
+  },
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "Stop Down"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 2,
+    "y": 51
+   },
+   "h": 44,
+   "index": 0,
+   "origin": {
+    "x": 9,
+    "y": 89
+   },
+   "role": "animated",
+   "w": 42,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 50
+   },
+   "h": 44,
+   "index": 1,
+   "origin": {
+    "x": 9,
+    "y": 89
+   },
+   "role": "animated",
+   "w": 42,
+   "x": 43,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 49
+   },
+   "h": 44,
+   "index": 2,
+   "origin": {
+    "x": 9,
+    "y": 89
+   },
+   "role": "animated",
+   "w": 42,
+   "x": 86,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 48
+   },
+   "h": 44,
+   "index": 3,
+   "origin": {
+    "x": 9,
+    "y": 89
+   },
+   "role": "animated",
+   "w": 42,
+   "x": 129,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 49
+   },
+   "h": 44,
+   "index": 4,
+   "origin": {
+    "x": 9,
+    "y": 89
+   },
+   "role": "animated",
+   "w": 42,
+   "x": 172,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 50
+   },
+   "h": 44,
+   "index": 5,
+   "origin": {
+    "x": 9,
+    "y": 89
+   },
+   "role": "animated",
+   "w": 42,
+   "x": 215,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Ship/Shark01-Down",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Ship__Shark01-Down.png",
+  "h": 44,
+  "w": 257
+ }
+}

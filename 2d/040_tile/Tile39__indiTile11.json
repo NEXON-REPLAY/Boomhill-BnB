@@ -1,0 +1,41 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "indiTile11"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 79
+   },
+   "h": 80,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 79
+   },
+   "role": "indiTile11",
+   "w": 240,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile39/indiTile11",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile39__indiTile11.png",
+  "h": 80,
+  "w": 240
+ }
+}

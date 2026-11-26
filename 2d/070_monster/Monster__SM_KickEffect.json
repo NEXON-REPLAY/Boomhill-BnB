@@ -1,0 +1,113 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    60,
+    60,
+    90,
+    90,
+    90
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "SmallStarFishKickEffect"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 10,
+    "y": 50
+   },
+   "h": 55,
+   "index": 0,
+   "origin": {
+    "x": 54,
+    "y": 84
+   },
+   "role": "SmallStarFishKickEffect",
+   "w": 55,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 70
+   },
+   "h": 90,
+   "index": 1,
+   "origin": {
+    "x": 54,
+    "y": 84
+   },
+   "role": "SmallStarFishKickEffect",
+   "w": 84,
+   "x": 56,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 25,
+    "y": 68
+   },
+   "h": 91,
+   "index": 2,
+   "origin": {
+    "x": 54,
+    "y": 84
+   },
+   "role": "SmallStarFishKickEffect",
+   "w": 92,
+   "x": 141,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 25,
+    "y": 64
+   },
+   "h": 85,
+   "index": 3,
+   "origin": {
+    "x": 54,
+    "y": 84
+   },
+   "role": "SmallStarFishKickEffect",
+   "w": 89,
+   "x": 234,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 30,
+    "y": 70
+   },
+   "h": 95,
+   "index": 4,
+   "origin": {
+    "x": 54,
+    "y": 84
+   },
+   "role": "SmallStarFishKickEffect",
+   "w": 97,
+   "x": 324,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/SM_KickEffect",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__SM_KickEffect.png",
+  "h": 95,
+  "w": 421
+ }
+}

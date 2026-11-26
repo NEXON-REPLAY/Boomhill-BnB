@@ -1,0 +1,97 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    3
+   ],
+   "loop": false,
+   "name": "R2_torchlight"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 5,
+    "y": 148
+   },
+   "h": 149,
+   "index": 0,
+   "origin": {
+    "x": 5,
+    "y": 148
+   },
+   "role": "R2_torchlight",
+   "w": 55,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 148
+   },
+   "h": 149,
+   "index": 1,
+   "origin": {
+    "x": 5,
+    "y": 148
+   },
+   "role": "R2_torchlight",
+   "w": 55,
+   "x": 56,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 148
+   },
+   "h": 149,
+   "index": 2,
+   "origin": {
+    "x": 5,
+    "y": 148
+   },
+   "role": "R2_torchlight",
+   "w": 55,
+   "x": 112,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 148
+   },
+   "h": 149,
+   "index": 3,
+   "origin": {
+    "x": 5,
+    "y": 148
+   },
+   "role": "R2_torchlight",
+   "w": 55,
+   "x": 168,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile68/torchlight02",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile68__torchlight02.png",
+  "h": 149,
+  "w": 223
+ }
+}

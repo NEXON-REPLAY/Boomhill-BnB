@@ -1,0 +1,77 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2
+   ],
+   "loop": false,
+   "name": "13_DamageLeft"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -4,
+    "y": 82
+   },
+   "h": 85,
+   "index": 0,
+   "origin": {
+    "x": 37,
+    "y": 87
+   },
+   "role": "13_DamageLeft",
+   "w": 63,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 82
+   },
+   "h": 85,
+   "index": 1,
+   "origin": {
+    "x": 37,
+    "y": 87
+   },
+   "role": "13_DamageLeft",
+   "w": 63,
+   "x": 64,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 77
+   },
+   "h": 80,
+   "index": 2,
+   "origin": {
+    "x": 37,
+    "y": 87
+   },
+   "role": "13_DamageLeft",
+   "w": 77,
+   "x": 128,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/M_Sflower_Hit",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__M_Sflower_Hit.png",
+  "h": 85,
+  "w": 205
+ }
+}

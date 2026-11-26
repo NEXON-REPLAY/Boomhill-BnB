@@ -1,0 +1,59 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    210,
+    210
+   ],
+   "frames": [
+    0,
+    1
+   ],
+   "loop": false,
+   "name": "Lesser_Emoticon"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 11,
+   "index": 0,
+   "origin": {
+    "x": 1,
+    "y": 1
+   },
+   "role": "Lesser_Emoticon",
+   "w": 15,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 0
+   },
+   "h": 10,
+   "index": 1,
+   "origin": {
+    "x": 1,
+    "y": 1
+   },
+   "role": "Lesser_Emoticon",
+   "w": 15,
+   "x": 16,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Emoticon/Lesser_Emoticon",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Emoticon__Lesser_Emoticon.png",
+  "h": 11,
+  "w": 31
+ }
+}

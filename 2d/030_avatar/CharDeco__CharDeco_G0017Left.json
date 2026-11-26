@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "Left"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -35,
+    "y": 83
+   },
+   "h": 63,
+   "index": 0,
+   "origin": {
+    "x": 5,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 20,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -31,
+    "y": 86
+   },
+   "h": 64,
+   "index": 1,
+   "origin": {
+    "x": 5,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 30,
+   "x": 21,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -37,
+    "y": 56
+   },
+   "h": 30,
+   "index": 2,
+   "origin": {
+    "x": 5,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 24,
+   "x": 52,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -25,
+    "y": 65
+   },
+   "h": 35,
+   "index": 3,
+   "origin": {
+    "x": 5,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 35,
+   "x": 77,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -20,
+    "y": 71
+   },
+   "h": 39,
+   "index": 4,
+   "origin": {
+    "x": 5,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 43,
+   "x": 113,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -27,
+    "y": 74
+   },
+   "h": 40,
+   "index": 5,
+   "origin": {
+    "x": 5,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 39,
+   "x": 157,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -31,
+    "y": 78
+   },
+   "h": 40,
+   "index": 6,
+   "origin": {
+    "x": 5,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 40,
+   "x": 197,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -30,
+    "y": 79
+   },
+   "h": 35,
+   "index": 7,
+   "origin": {
+    "x": 5,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 42,
+   "x": 238,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "CharDeco/CharDeco_G0017Left",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "CharDeco__CharDeco_G0017Left.png",
+  "h": 64,
+  "w": 280
+ }
+}

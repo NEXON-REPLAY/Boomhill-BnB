@@ -1,0 +1,185 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "loop": false,
+   "name": "AfterAttack Down+AfterAttack Left+AfterAttack Right+AfterAttack Up"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 10,
+    "y": 112
+   },
+   "h": 135,
+   "index": 0,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "AfterAttack Down+AfterAttack Left+AfterAttack Right+AfterAttack Up",
+   "w": 140,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 146
+   },
+   "h": 145,
+   "index": 1,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "AfterAttack Down+AfterAttack Left+AfterAttack Right+AfterAttack Up",
+   "w": 140,
+   "x": 141,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 17,
+    "y": 118
+   },
+   "h": 138,
+   "index": 2,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "AfterAttack Down+AfterAttack Left+AfterAttack Right+AfterAttack Up",
+   "w": 154,
+   "x": 282,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 24,
+    "y": 166
+   },
+   "h": 180,
+   "index": 3,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "AfterAttack Down+AfterAttack Left+AfterAttack Right+AfterAttack Up",
+   "w": 168,
+   "x": 437,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 19,
+    "y": 121
+   },
+   "h": 134,
+   "index": 4,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "AfterAttack Down+AfterAttack Left+AfterAttack Right+AfterAttack Up",
+   "w": 158,
+   "x": 606,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 19,
+    "y": 118
+   },
+   "h": 125,
+   "index": 5,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "AfterAttack Down+AfterAttack Left+AfterAttack Right+AfterAttack Up",
+   "w": 158,
+   "x": 765,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 19,
+    "y": 121
+   },
+   "h": 134,
+   "index": 6,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "AfterAttack Down+AfterAttack Left+AfterAttack Right+AfterAttack Up",
+   "w": 158,
+   "x": 0,
+   "y": 181
+  },
+  {
+   "center": {
+    "x": 19,
+    "y": 118
+   },
+   "h": 125,
+   "index": 7,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "AfterAttack Down+AfterAttack Left+AfterAttack Right+AfterAttack Up",
+   "w": 158,
+   "x": 159,
+   "y": 181
+  },
+  {
+   "center": {
+    "x": 19,
+    "y": 121
+   },
+   "h": 134,
+   "index": 8,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "AfterAttack Down+AfterAttack Left+AfterAttack Right+AfterAttack Up",
+   "w": 158,
+   "x": 318,
+   "y": 181
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/BM06_AfterAttack",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__BM06_AfterAttack.png",
+  "h": 315,
+  "w": 923
+ }
+}

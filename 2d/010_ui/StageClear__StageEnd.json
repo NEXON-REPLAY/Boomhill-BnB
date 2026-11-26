@@ -1,0 +1,145 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "0 S"
+  },
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    1
+   ],
+   "loop": false,
+   "name": "1 T"
+  },
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    2
+   ],
+   "loop": false,
+   "name": "2 A"
+  },
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    3
+   ],
+   "loop": false,
+   "name": "3 G"
+  },
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    4
+   ],
+   "loop": false,
+   "name": "4 E"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 41,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "0 S",
+   "w": 39,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 41,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "1 T",
+   "w": 38,
+   "x": 40,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 41,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "2 A",
+   "w": 45,
+   "x": 79,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 41,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "3 G",
+   "w": 41,
+   "x": 125,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 41,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "4 E",
+   "w": 39,
+   "x": 167,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "StageClear/StageEnd",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "StageClear__StageEnd.png",
+  "h": 41,
+  "w": 206
+ }
+}

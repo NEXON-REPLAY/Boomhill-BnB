@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "08Static_FireWood+FireWood"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -2,
+    "y": 89
+   },
+   "h": 90,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 97
+   },
+   "role": "08Static_FireWood+FireWood",
+   "w": 76,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 93
+   },
+   "h": 94,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 97
+   },
+   "role": "08Static_FireWood+FireWood",
+   "w": 76,
+   "x": 77,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 97
+   },
+   "h": 98,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 97
+   },
+   "role": "08Static_FireWood+FireWood",
+   "w": 76,
+   "x": 154,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 81
+   },
+   "h": 82,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 97
+   },
+   "role": "08Static_FireWood+FireWood",
+   "w": 76,
+   "x": 231,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile08/FireWood",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile08__FireWood.png",
+  "h": 98,
+  "w": 307
+ }
+}

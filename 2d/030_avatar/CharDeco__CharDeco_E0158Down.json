@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "03U Down"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 18,
+    "y": 49
+   },
+   "h": 45,
+   "index": 0,
+   "origin": {
+    "x": 40,
+    "y": 92
+   },
+   "role": "03U Down",
+   "w": 72,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 23,
+    "y": 47
+   },
+   "h": 42,
+   "index": 1,
+   "origin": {
+    "x": 40,
+    "y": 92
+   },
+   "role": "03U Down",
+   "w": 77,
+   "x": 73,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 19,
+    "y": 51
+   },
+   "h": 46,
+   "index": 2,
+   "origin": {
+    "x": 40,
+    "y": 92
+   },
+   "role": "03U Down",
+   "w": 73,
+   "x": 151,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 45
+   },
+   "h": 40,
+   "index": 3,
+   "origin": {
+    "x": 40,
+    "y": 92
+   },
+   "role": "03U Down",
+   "w": 41,
+   "x": 225,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 45
+   },
+   "h": 40,
+   "index": 4,
+   "origin": {
+    "x": 40,
+    "y": 92
+   },
+   "role": "03U Down",
+   "w": 42,
+   "x": 267,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 50
+   },
+   "h": 45,
+   "index": 5,
+   "origin": {
+    "x": 40,
+    "y": 92
+   },
+   "role": "03U Down",
+   "w": 50,
+   "x": 310,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 12,
+    "y": 47
+   },
+   "h": 44,
+   "index": 6,
+   "origin": {
+    "x": 40,
+    "y": 92
+   },
+   "role": "03U Down",
+   "w": 64,
+   "x": 361,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 16,
+    "y": 46
+   },
+   "h": 41,
+   "index": 7,
+   "origin": {
+    "x": 40,
+    "y": 92
+   },
+   "role": "03U Down",
+   "w": 68,
+   "x": 426,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "CharDeco/CharDeco_E0158Down",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "CharDeco__CharDeco_E0158Down.png",
+  "h": 46,
+  "w": 494
+ }
+}

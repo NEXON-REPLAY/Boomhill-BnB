@@ -1,0 +1,169 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    90,
+    120,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    90
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    1,
+    2,
+    1,
+    2,
+    1,
+    2
+   ],
+   "loop": false,
+   "name": "BeforeAttack Down+BeforeAttack Left+BeforeAttack Right+BeforeAttack Up"
+  },
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    300
+   ],
+   "frames": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "loop": false,
+   "name": "Attack Down+Attack Left+Attack Right+Attack Up"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 19,
+    "y": 152
+   },
+   "h": 147,
+   "index": 0,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "BeforeAttack Down+BeforeAttack Left+BeforeAttack Right+BeforeAttack Up",
+   "w": 145,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 19,
+    "y": 157
+   },
+   "h": 147,
+   "index": 1,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "BeforeAttack Down+BeforeAttack Left+BeforeAttack Right+BeforeAttack Up",
+   "w": 144,
+   "x": 146,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 17,
+    "y": 157
+   },
+   "h": 147,
+   "index": 2,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "BeforeAttack Down+BeforeAttack Left+BeforeAttack Right+BeforeAttack Up",
+   "w": 144,
+   "x": 291,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 19,
+    "y": 152
+   },
+   "h": 147,
+   "index": 3,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "Attack Down+Attack Left+Attack Right+Attack Up",
+   "w": 149,
+   "x": 436,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 19,
+    "y": 159
+   },
+   "h": 143,
+   "index": 4,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "Attack Down+Attack Left+Attack Right+Attack Up",
+   "w": 148,
+   "x": 586,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 19,
+    "y": 158
+   },
+   "h": 149,
+   "index": 5,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "Attack Down+Attack Left+Attack Right+Attack Up",
+   "w": 145,
+   "x": 735,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 19,
+    "y": 153
+   },
+   "h": 147,
+   "index": 6,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "Attack Down+Attack Left+Attack Right+Attack Up",
+   "w": 141,
+   "x": 881,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/BM01_AttackADown",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__BM01_AttackADown.png",
+  "h": 149,
+  "w": 1022
+ }
+}

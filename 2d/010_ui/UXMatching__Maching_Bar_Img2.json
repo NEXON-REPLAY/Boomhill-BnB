@@ -1,0 +1,77 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    90,
+    90,
+    90
+   ],
+   "frames": [
+    0,
+    1,
+    2
+   ],
+   "loop": false,
+   "name": "MatchingProgressBarPoint"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -2,
+    "y": -1
+   },
+   "h": 28,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "MatchingProgressBarPoint",
+   "w": 13,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": -2
+   },
+   "h": 28,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "MatchingProgressBarPoint",
+   "w": 12,
+   "x": 14,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": -2
+   },
+   "h": 25,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "MatchingProgressBarPoint",
+   "w": 14,
+   "x": 27,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "UXMatching/Maching_Bar_Img2",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "UXMatching__Maching_Bar_Img2.png",
+  "h": 28,
+  "w": 41
+ }
+}

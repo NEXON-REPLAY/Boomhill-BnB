@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    300,
+    900,
+    300,
+    1500
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "08Static_RockJewel01+RockJewel01"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 84
+   },
+   "h": 85,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 84
+   },
+   "role": "08Static_RockJewel01+RockJewel01",
+   "w": 84,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 84
+   },
+   "h": 85,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 84
+   },
+   "role": "08Static_RockJewel01+RockJewel01",
+   "w": 84,
+   "x": 85,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 84
+   },
+   "h": 85,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 84
+   },
+   "role": "08Static_RockJewel01+RockJewel01",
+   "w": 84,
+   "x": 170,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 84
+   },
+   "h": 85,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 84
+   },
+   "role": "08Static_RockJewel01+RockJewel01",
+   "w": 84,
+   "x": 255,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile08/RockJewel01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile08__RockJewel01.png",
+  "h": 85,
+  "w": 339
+ }
+}

@@ -1,0 +1,153 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "Anger+Attack Down+Attack Left+Attack Right+Attack Up (+27 more)"
+  },
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    0,
+    1,
+    2,
+    3,
+    0,
+    1,
+    2,
+    3,
+    0,
+    1,
+    2,
+    3,
+    0,
+    4,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "Blink+Start"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 18,
+    "y": 155
+   },
+   "h": 156,
+   "index": 0,
+   "origin": {
+    "x": 30,
+    "y": 189
+   },
+   "role": "animated",
+   "w": 156,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 18,
+    "y": 155
+   },
+   "h": 156,
+   "index": 1,
+   "origin": {
+    "x": 30,
+    "y": 189
+   },
+   "role": "Blink+Start",
+   "w": 156,
+   "x": 157,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 18,
+    "y": 155
+   },
+   "h": 156,
+   "index": 2,
+   "origin": {
+    "x": 30,
+    "y": 189
+   },
+   "role": "Blink+Start",
+   "w": 156,
+   "x": 314,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 18,
+    "y": 155
+   },
+   "h": 156,
+   "index": 3,
+   "origin": {
+    "x": 30,
+    "y": 189
+   },
+   "role": "Blink+Start",
+   "w": 156,
+   "x": 471,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 18,
+    "y": 155
+   },
+   "h": 156,
+   "index": 4,
+   "origin": {
+    "x": 30,
+    "y": 189
+   },
+   "role": "Blink+Start",
+   "w": 156,
+   "x": 628,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/pumpkinBonus_Blink",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__pumpkinBonus_Blink.png",
+  "h": 156,
+  "w": 784
+ }
+}

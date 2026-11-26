@@ -1,0 +1,131 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "01U Up"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -34,
+    "y": 83
+   },
+   "h": 57,
+   "index": 0,
+   "origin": {
+    "x": 39,
+    "y": 117
+   },
+   "role": "01U Up",
+   "w": 34,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -35,
+    "y": 86
+   },
+   "h": 59,
+   "index": 1,
+   "origin": {
+    "x": 39,
+    "y": 117
+   },
+   "role": "01U Up",
+   "w": 34,
+   "x": 35,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -34,
+    "y": 89
+   },
+   "h": 61,
+   "index": 2,
+   "origin": {
+    "x": 39,
+    "y": 117
+   },
+   "role": "01U Up",
+   "w": 37,
+   "x": 70,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -33,
+    "y": 88
+   },
+   "h": 59,
+   "index": 3,
+   "origin": {
+    "x": 39,
+    "y": 117
+   },
+   "role": "01U Up",
+   "w": 36,
+   "x": 108,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -31,
+    "y": 85
+   },
+   "h": 57,
+   "index": 4,
+   "origin": {
+    "x": 39,
+    "y": 117
+   },
+   "role": "01U Up",
+   "w": 37,
+   "x": 145,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -33,
+    "y": 83
+   },
+   "h": 56,
+   "index": 5,
+   "origin": {
+    "x": 39,
+    "y": 117
+   },
+   "role": "01U Up",
+   "w": 37,
+   "x": 183,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "CharDeco/CharDeco_G0399Up",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "CharDeco__CharDeco_G0399Up.png",
+  "h": 61,
+  "w": 220
+ }
+}

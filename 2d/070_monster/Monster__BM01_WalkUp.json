@@ -1,0 +1,125 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    0,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "Walk Up"
+  },
+  {
+   "frame_ms": [
+    3000
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "Stop Up"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 2,
+    "y": 153
+   },
+   "h": 163,
+   "index": 0,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "animated",
+   "w": 141,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 152
+   },
+   "h": 164,
+   "index": 1,
+   "origin": {
+    "x": 35,
+    "y": 178
+   },
+   "role": "Walk Up",
+   "w": 139,
+   "x": 142,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 153
+   },
+   "h": 164,
+   "index": 2,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "Walk Up",
+   "w": 137,
+   "x": 282,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 153
+   },
+   "h": 164,
+   "index": 3,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "Walk Up",
+   "w": 147,
+   "x": 420,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 13,
+    "y": 153
+   },
+   "h": 164,
+   "index": 4,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "Walk Up",
+   "w": 153,
+   "x": 568,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/BM01_WalkUp",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__BM01_WalkUp.png",
+  "h": 164,
+  "w": 721
+ }
+}

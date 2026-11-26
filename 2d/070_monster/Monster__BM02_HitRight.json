@@ -1,0 +1,113 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "Damage Right"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 38,
+    "y": 145
+   },
+   "h": 161,
+   "index": 0,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "Damage Right",
+   "w": 170,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 32,
+    "y": 169
+   },
+   "h": 149,
+   "index": 1,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "Damage Right",
+   "w": 168,
+   "x": 171,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 36,
+    "y": 172
+   },
+   "h": 158,
+   "index": 2,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "Damage Right",
+   "w": 172,
+   "x": 340,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 36,
+    "y": 140
+   },
+   "h": 156,
+   "index": 3,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "Damage Right",
+   "w": 172,
+   "x": 513,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 38,
+    "y": 147
+   },
+   "h": 163,
+   "index": 4,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "Damage Right",
+   "w": 171,
+   "x": 686,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/BM02_HitRight",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__BM02_HitRight.png",
+  "h": 163,
+  "w": 857
+ }
+}

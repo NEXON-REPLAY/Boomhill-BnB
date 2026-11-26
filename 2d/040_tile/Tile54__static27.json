@@ -1,0 +1,41 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "static27"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 40,
+    "y": 119
+   },
+   "h": 120,
+   "index": 0,
+   "origin": {
+    "x": 40,
+    "y": 119
+   },
+   "role": "static27",
+   "w": 200,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile54/static27",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile54__static27.png",
+  "h": 120,
+  "w": 200
+ }
+}

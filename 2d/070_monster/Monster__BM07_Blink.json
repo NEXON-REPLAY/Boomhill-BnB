@@ -1,0 +1,109 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    1,
+    1
+   ],
+   "loop": false,
+   "name": "Start"
+  },
+  {
+   "frame_ms": [
+    750,
+    180,
+    120,
+    180,
+    120,
+    450,
+    120,
+    180,
+    120,
+    600
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    1,
+    2,
+    1,
+    2,
+    1,
+    2,
+    1
+   ],
+   "loop": false,
+   "name": "Blink"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 15,
+    "y": 157
+   },
+   "h": 151,
+   "index": 0,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "animated",
+   "w": 150,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 13,
+    "y": 158
+   },
+   "h": 152,
+   "index": 1,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "animated",
+   "w": 149,
+   "x": 151,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 157
+   },
+   "h": 151,
+   "index": 2,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "animated",
+   "w": 141,
+   "x": 301,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/BM07_Blink",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__BM07_Blink.png",
+  "h": 152,
+  "w": 442
+ }
+}

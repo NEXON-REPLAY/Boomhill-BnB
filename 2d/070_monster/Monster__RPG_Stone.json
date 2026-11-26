@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    60,
+    60,
+    60,
+    60
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "Explode"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 24,
+    "y": 95
+   },
+   "h": 89,
+   "index": 0,
+   "origin": {
+    "x": 38,
+    "y": 111
+   },
+   "role": "Explode",
+   "w": 89,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 29,
+    "y": 110
+   },
+   "h": 94,
+   "index": 1,
+   "origin": {
+    "x": 38,
+    "y": 111
+   },
+   "role": "Explode",
+   "w": 98,
+   "x": 90,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 33,
+    "y": 111
+   },
+   "h": 90,
+   "index": 2,
+   "origin": {
+    "x": 38,
+    "y": 111
+   },
+   "role": "Explode",
+   "w": 109,
+   "x": 189,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 31,
+    "y": 50
+   },
+   "h": 49,
+   "index": 3,
+   "origin": {
+    "x": 38,
+    "y": 111
+   },
+   "role": "Explode",
+   "w": 103,
+   "x": 299,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/RPG_Stone",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__RPG_Stone.png",
+  "h": 94,
+  "w": 402
+ }
+}

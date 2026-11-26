@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    120,
+    90,
+    60
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "Die+Disappear+KickedDie+LockedOut"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 2,
+    "y": 45
+   },
+   "h": 38,
+   "index": 0,
+   "origin": {
+    "x": 13,
+    "y": 84
+   },
+   "role": "Die+Disappear+KickedDie+LockedOut",
+   "w": 52,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 81
+   },
+   "h": 60,
+   "index": 1,
+   "origin": {
+    "x": 13,
+    "y": 84
+   },
+   "role": "Die+Disappear+KickedDie+LockedOut",
+   "w": 60,
+   "x": 53,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 81
+   },
+   "h": 60,
+   "index": 2,
+   "origin": {
+    "x": 13,
+    "y": 84
+   },
+   "role": "Die+Disappear+KickedDie+LockedOut",
+   "w": 64,
+   "x": 114,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 81
+   },
+   "h": 65,
+   "index": 3,
+   "origin": {
+    "x": 13,
+    "y": 84
+   },
+   "role": "Die+Disappear+KickedDie+LockedOut",
+   "w": 66,
+   "x": 179,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/R_SM15_Rock_Out",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__R_SM15_Rock_Out.png",
+  "h": 65,
+  "w": 245
+ }
+}

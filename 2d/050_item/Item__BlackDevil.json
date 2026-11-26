@@ -1,0 +1,110 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 61
+   },
+   "h": 43,
+   "index": 0,
+   "origin": {
+    "x": 2,
+    "y": 69
+   },
+   "role": "loop:0/6",
+   "w": 39,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 61
+   },
+   "h": 44,
+   "index": 1,
+   "origin": {
+    "x": 2,
+    "y": 69
+   },
+   "role": "loop:1/6",
+   "w": 41,
+   "x": 40,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 60
+   },
+   "h": 42,
+   "index": 2,
+   "origin": {
+    "x": 2,
+    "y": 69
+   },
+   "role": "loop:2/6",
+   "w": 41,
+   "x": 82,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 61
+   },
+   "h": 43,
+   "index": 3,
+   "origin": {
+    "x": 2,
+    "y": 69
+   },
+   "role": "loop:3/6",
+   "w": 39,
+   "x": 124,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 61
+   },
+   "h": 44,
+   "index": 4,
+   "origin": {
+    "x": 2,
+    "y": 69
+   },
+   "role": "loop:4/6",
+   "w": 41,
+   "x": 164,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 60
+   },
+   "h": 42,
+   "index": 5,
+   "origin": {
+    "x": 2,
+    "y": 69
+   },
+   "role": "loop:5/6",
+   "w": 41,
+   "x": 206,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "050_item",
+ "name": "Item/BlackDevil",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Item__BlackDevil.png",
+  "h": 44,
+  "w": 247
+ }
+}

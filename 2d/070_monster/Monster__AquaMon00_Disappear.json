@@ -1,0 +1,149 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "loop": false,
+   "name": "Disappear+Out"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 6,
+    "y": 64
+   },
+   "h": 55,
+   "index": 0,
+   "origin": {
+    "x": 20,
+    "y": 84
+   },
+   "role": "Disappear+Out",
+   "w": 52,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 48
+   },
+   "h": 38,
+   "index": 1,
+   "origin": {
+    "x": 20,
+    "y": 84
+   },
+   "role": "Disappear+Out",
+   "w": 44,
+   "x": 53,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 44
+   },
+   "h": 33,
+   "index": 2,
+   "origin": {
+    "x": 20,
+    "y": 84
+   },
+   "role": "Disappear+Out",
+   "w": 33,
+   "x": 98,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -8,
+    "y": 38
+   },
+   "h": 23,
+   "index": 3,
+   "origin": {
+    "x": 20,
+    "y": 84
+   },
+   "role": "Disappear+Out",
+   "w": 23,
+   "x": 132,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -11,
+    "y": 37
+   },
+   "h": 19,
+   "index": 4,
+   "origin": {
+    "x": 20,
+    "y": 84
+   },
+   "role": "Disappear+Out",
+   "w": 19,
+   "x": 156,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": 41
+   },
+   "h": 25,
+   "index": 5,
+   "origin": {
+    "x": 20,
+    "y": 84
+   },
+   "role": "Disappear+Out",
+   "w": 28,
+   "x": 176,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 48
+   },
+   "h": 33,
+   "index": 6,
+   "origin": {
+    "x": 20,
+    "y": 84
+   },
+   "role": "Disappear+Out",
+   "w": 32,
+   "x": 205,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/AquaMon00_Disappear",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__AquaMon00_Disappear.png",
+  "h": 55,
+  "w": 237
+ }
+}

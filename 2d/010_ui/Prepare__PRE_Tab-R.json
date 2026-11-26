@@ -1,0 +1,94 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": -2
+   },
+   "h": 20,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "normal",
+   "w": 215,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": -2
+   },
+   "h": 20,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "pressed",
+   "w": 215,
+   "x": 216,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": -2
+   },
+   "h": 20,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "disabled",
+   "w": 215,
+   "x": 432,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 22,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "checked",
+   "w": 215,
+   "x": 648,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": -2
+   },
+   "h": 20,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "hover",
+   "w": 215,
+   "x": 0,
+   "y": 23
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Prepare/PRE_Tab-R",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Prepare__PRE_Tab-R.png",
+  "h": 43,
+  "w": 863
+ }
+}

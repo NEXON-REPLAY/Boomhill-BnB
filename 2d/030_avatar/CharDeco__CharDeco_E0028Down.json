@@ -1,0 +1,127 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    60,
+    60,
+    60,
+    60,
+    60,
+    300,
+    90,
+    90,
+    240,
+    90,
+    90,
+    600
+   ],
+   "frames": [
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    2,
+    3,
+    4,
+    3,
+    2,
+    1
+   ],
+   "loop": false,
+   "name": "03U Down"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 11,
+    "y": 42
+   },
+   "h": 36,
+   "index": 0,
+   "origin": {
+    "x": 18,
+    "y": 92
+   },
+   "role": "03U Down",
+   "w": 63,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 13,
+    "y": 42
+   },
+   "h": 36,
+   "index": 1,
+   "origin": {
+    "x": 18,
+    "y": 92
+   },
+   "role": "03U Down",
+   "w": 67,
+   "x": 64,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 42
+   },
+   "h": 36,
+   "index": 2,
+   "origin": {
+    "x": 18,
+    "y": 92
+   },
+   "role": "03U Down",
+   "w": 59,
+   "x": 132,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 42
+   },
+   "h": 36,
+   "index": 3,
+   "origin": {
+    "x": 18,
+    "y": 92
+   },
+   "role": "03U Down",
+   "w": 48,
+   "x": 192,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 42
+   },
+   "h": 36,
+   "index": 4,
+   "origin": {
+    "x": 18,
+    "y": 92
+   },
+   "role": "03U Down",
+   "w": 34,
+   "x": 241,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "CharDeco/CharDeco_E0028Down",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "CharDeco__CharDeco_E0028Down.png",
+  "h": 36,
+  "w": 275
+ }
+}

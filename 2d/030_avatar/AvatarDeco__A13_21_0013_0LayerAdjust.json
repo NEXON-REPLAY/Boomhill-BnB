@@ -1,0 +1,729 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "00"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -3,
+    "y": 26
+   },
+   "h": 21,
+   "index": 0,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "00",
+   "w": 34,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 26
+   },
+   "h": 22,
+   "index": 1,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "unconfirmed",
+   "w": 31,
+   "x": 35,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 26
+   },
+   "h": 22,
+   "index": 2,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "unconfirmed",
+   "w": 28,
+   "x": 67,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": 26
+   },
+   "h": 22,
+   "index": 3,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "unconfirmed",
+   "w": 31,
+   "x": 96,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -8,
+    "y": 26
+   },
+   "h": 22,
+   "index": 4,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "unconfirmed",
+   "w": 28,
+   "x": 128,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -8,
+    "y": 26
+   },
+   "h": 21,
+   "index": 5,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "unconfirmed",
+   "w": 24,
+   "x": 157,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -8,
+    "y": 26
+   },
+   "h": 21,
+   "index": 6,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "unconfirmed",
+   "w": 26,
+   "x": 182,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": 25
+   },
+   "h": 21,
+   "index": 7,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "unconfirmed",
+   "w": 30,
+   "x": 209,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -7,
+    "y": 26
+   },
+   "h": 20,
+   "index": 8,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "unconfirmed",
+   "w": 25,
+   "x": 240,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 25
+   },
+   "h": 20,
+   "index": 9,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "unconfirmed",
+   "w": 33,
+   "x": 266,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 26
+   },
+   "h": 21,
+   "index": 10,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "unconfirmed",
+   "w": 34,
+   "x": 300,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 26
+   },
+   "h": 22,
+   "index": 11,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "unconfirmed",
+   "w": 32,
+   "x": 335,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": 26
+   },
+   "h": 23,
+   "index": 12,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "unconfirmed",
+   "w": 30,
+   "x": 368,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 26
+   },
+   "h": 22,
+   "index": 13,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "unconfirmed",
+   "w": 32,
+   "x": 399,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": 26
+   },
+   "h": 22,
+   "index": 14,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "unconfirmed",
+   "w": 30,
+   "x": 432,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -8,
+    "y": 26
+   },
+   "h": 21,
+   "index": 15,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "unconfirmed",
+   "w": 24,
+   "x": 463,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": 26
+   },
+   "h": 21,
+   "index": 16,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "unconfirmed",
+   "w": 26,
+   "x": 488,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": 25
+   },
+   "h": 21,
+   "index": 17,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "unconfirmed",
+   "w": 30,
+   "x": 515,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -8,
+    "y": 26
+   },
+   "h": 20,
+   "index": 18,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "unconfirmed",
+   "w": 25,
+   "x": 546,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 25
+   },
+   "h": 20,
+   "index": 19,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "unconfirmed",
+   "w": 33,
+   "x": 572,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -8,
+    "y": 23
+   },
+   "h": 21,
+   "index": 20,
+   "origin": {
+    "x": 13,
+    "y": 72
+   },
+   "role": "unconfirmed",
+   "w": 24,
+   "x": 606,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 23
+   },
+   "h": 17,
+   "index": 21,
+   "origin": {
+    "x": 13,
+    "y": 72
+   },
+   "role": "unconfirmed",
+   "w": 34,
+   "x": 631,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -8,
+    "y": 23
+   },
+   "h": 21,
+   "index": 22,
+   "origin": {
+    "x": 13,
+    "y": 72
+   },
+   "role": "unconfirmed",
+   "w": 24,
+   "x": 666,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 23
+   },
+   "h": 17,
+   "index": 23,
+   "origin": {
+    "x": 13,
+    "y": 72
+   },
+   "role": "unconfirmed",
+   "w": 34,
+   "x": 691,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -8,
+    "y": 50
+   },
+   "h": 21,
+   "index": 24,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "unconfirmed",
+   "w": 24,
+   "x": 726,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 50
+   },
+   "h": 17,
+   "index": 25,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "unconfirmed",
+   "w": 34,
+   "x": 751,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -8,
+    "y": 50
+   },
+   "h": 21,
+   "index": 26,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "unconfirmed",
+   "w": 24,
+   "x": 786,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 50
+   },
+   "h": 17,
+   "index": 27,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "unconfirmed",
+   "w": 34,
+   "x": 811,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 50
+   },
+   "h": 17,
+   "index": 28,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "unconfirmed",
+   "w": 34,
+   "x": 846,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 49
+   },
+   "h": 17,
+   "index": 29,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "unconfirmed",
+   "w": 34,
+   "x": 881,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 48
+   },
+   "h": 17,
+   "index": 30,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "unconfirmed",
+   "w": 34,
+   "x": 916,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 47
+   },
+   "h": 17,
+   "index": 31,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "unconfirmed",
+   "w": 34,
+   "x": 951,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -8,
+    "y": 50
+   },
+   "h": 21,
+   "index": 32,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "unconfirmed",
+   "w": 24,
+   "x": 986,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -8,
+    "y": 49
+   },
+   "h": 21,
+   "index": 33,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "unconfirmed",
+   "w": 24,
+   "x": 0,
+   "y": 24
+  },
+  {
+   "center": {
+    "x": -8,
+    "y": 48
+   },
+   "h": 21,
+   "index": 34,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "unconfirmed",
+   "w": 24,
+   "x": 25,
+   "y": 24
+  },
+  {
+   "center": {
+    "x": -8,
+    "y": 47
+   },
+   "h": 21,
+   "index": 35,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "unconfirmed",
+   "w": 24,
+   "x": 50,
+   "y": 24
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 49
+   },
+   "h": 17,
+   "index": 36,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "unconfirmed",
+   "w": 34,
+   "x": 75,
+   "y": 24
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 48
+   },
+   "h": 17,
+   "index": 37,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "unconfirmed",
+   "w": 34,
+   "x": 110,
+   "y": 24
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 47
+   },
+   "h": 17,
+   "index": 38,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "unconfirmed",
+   "w": 34,
+   "x": 145,
+   "y": 24
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 46
+   },
+   "h": 17,
+   "index": 39,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "unconfirmed",
+   "w": 34,
+   "x": 180,
+   "y": 24
+  },
+  {
+   "center": {
+    "x": -8,
+    "y": 50
+   },
+   "h": 21,
+   "index": 40,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "unconfirmed",
+   "w": 24,
+   "x": 215,
+   "y": 24
+  },
+  {
+   "center": {
+    "x": -8,
+    "y": 49
+   },
+   "h": 21,
+   "index": 41,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "unconfirmed",
+   "w": 24,
+   "x": 240,
+   "y": 24
+  },
+  {
+   "center": {
+    "x": -8,
+    "y": 48
+   },
+   "h": 21,
+   "index": 42,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "unconfirmed",
+   "w": 24,
+   "x": 265,
+   "y": 24
+  },
+  {
+   "center": {
+    "x": -8,
+    "y": 47
+   },
+   "h": 21,
+   "index": 43,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "unconfirmed",
+   "w": 24,
+   "x": 290,
+   "y": 24
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "AvatarDeco/A13_21_0013_0LayerAdjust",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "AvatarDeco__A13_21_0013_0LayerAdjust.png",
+  "h": 45,
+  "w": 1010
+ }
+}

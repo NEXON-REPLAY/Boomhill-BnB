@@ -1,0 +1,171 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "0 C"
+  },
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    1
+   ],
+   "loop": false,
+   "name": "1 L"
+  },
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    2
+   ],
+   "loop": false,
+   "name": "2 E"
+  },
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    3
+   ],
+   "loop": false,
+   "name": "3 A"
+  },
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    4
+   ],
+   "loop": false,
+   "name": "4 R"
+  },
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    5
+   ],
+   "loop": false,
+   "name": "5 !!"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 60,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "0 C",
+   "w": 65,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 60,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "1 L",
+   "w": 64,
+   "x": 66,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 60,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "2 E",
+   "w": 65,
+   "x": 131,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 60,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "3 A",
+   "w": 76,
+   "x": 197,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 60,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "4 R",
+   "w": 69,
+   "x": 274,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 59,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "5 !!",
+   "w": 54,
+   "x": 344,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "StageClear/ClearAll",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "StageClear__ClearAll.png",
+  "h": 60,
+  "w": 398
+ }
+}

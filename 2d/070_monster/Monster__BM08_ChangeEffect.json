@@ -1,0 +1,203 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    150,
+    150,
+    150,
+    150,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "loop": false,
+   "name": "Anger"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 6,
+    "y": 160
+   },
+   "h": 147,
+   "index": 0,
+   "origin": {
+    "x": 64,
+    "y": 248
+   },
+   "role": "Anger",
+   "w": 132,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 194
+   },
+   "h": 181,
+   "index": 1,
+   "origin": {
+    "x": 64,
+    "y": 248
+   },
+   "role": "Anger",
+   "w": 132,
+   "x": 133,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 46,
+    "y": 184
+   },
+   "h": 171,
+   "index": 2,
+   "origin": {
+    "x": 64,
+    "y": 248
+   },
+   "role": "Anger",
+   "w": 211,
+   "x": 266,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 58,
+    "y": 216
+   },
+   "h": 203,
+   "index": 3,
+   "origin": {
+    "x": 64,
+    "y": 248
+   },
+   "role": "Anger",
+   "w": 236,
+   "x": 478,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 57,
+    "y": 201
+   },
+   "h": 188,
+   "index": 4,
+   "origin": {
+    "x": 64,
+    "y": 248
+   },
+   "role": "Anger",
+   "w": 233,
+   "x": 715,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 58,
+    "y": 216
+   },
+   "h": 203,
+   "index": 5,
+   "origin": {
+    "x": 64,
+    "y": 248
+   },
+   "role": "Anger",
+   "w": 236,
+   "x": 0,
+   "y": 204
+  },
+  {
+   "center": {
+    "x": 57,
+    "y": 203
+   },
+   "h": 190,
+   "index": 6,
+   "origin": {
+    "x": 64,
+    "y": 248
+   },
+   "role": "Anger",
+   "w": 233,
+   "x": 237,
+   "y": 204
+  },
+  {
+   "center": {
+    "x": 48,
+    "y": 209
+   },
+   "h": 196,
+   "index": 7,
+   "origin": {
+    "x": 64,
+    "y": 248
+   },
+   "role": "Anger",
+   "w": 219,
+   "x": 471,
+   "y": 204
+  },
+  {
+   "center": {
+    "x": 33,
+    "y": 192
+   },
+   "h": 179,
+   "index": 8,
+   "origin": {
+    "x": 64,
+    "y": 248
+   },
+   "role": "Anger",
+   "w": 189,
+   "x": 691,
+   "y": 204
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 163
+   },
+   "h": 150,
+   "index": 9,
+   "origin": {
+    "x": 64,
+    "y": 248
+   },
+   "role": "Anger",
+   "w": 132,
+   "x": 881,
+   "y": 204
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/BM08_ChangeEffect",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__BM08_ChangeEffect.png",
+  "h": 407,
+  "w": 1013
+ }
+}

@@ -1,0 +1,113 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    150,
+    120,
+    120,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "Damage Down+Damage Left+Damage Right+Damage Up"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 6,
+    "y": 160
+   },
+   "h": 147,
+   "index": 0,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Damage Down+Damage Left+Damage Right+Damage Up",
+   "w": 132,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 30,
+    "y": 177
+   },
+   "h": 158,
+   "index": 1,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Damage Down+Damage Left+Damage Right+Damage Up",
+   "w": 180,
+   "x": 133,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 23,
+    "y": 170
+   },
+   "h": 154,
+   "index": 2,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Damage Down+Damage Left+Damage Right+Damage Up",
+   "w": 166,
+   "x": 314,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 164
+   },
+   "h": 153,
+   "index": 3,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Damage Down+Damage Left+Damage Right+Damage Up",
+   "w": 148,
+   "x": 481,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 160
+   },
+   "h": 147,
+   "index": 4,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Damage Down+Damage Left+Damage Right+Damage Up",
+   "w": 132,
+   "x": 630,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/BM08_Hit",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__BM08_Hit.png",
+  "h": 158,
+  "w": 762
+ }
+}

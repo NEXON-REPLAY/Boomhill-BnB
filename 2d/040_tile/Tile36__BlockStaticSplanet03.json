@@ -1,0 +1,113 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    210,
+    210,
+    210,
+    210,
+    210
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "BlockStaticSplanet03"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 1,
+    "y": 79
+   },
+   "h": 86,
+   "index": 0,
+   "origin": {
+    "x": 1,
+    "y": 79
+   },
+   "role": "BlockStaticSplanet03",
+   "w": 82,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 79
+   },
+   "h": 86,
+   "index": 1,
+   "origin": {
+    "x": 1,
+    "y": 79
+   },
+   "role": "BlockStaticSplanet03",
+   "w": 82,
+   "x": 83,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 79
+   },
+   "h": 86,
+   "index": 2,
+   "origin": {
+    "x": 1,
+    "y": 79
+   },
+   "role": "BlockStaticSplanet03",
+   "w": 82,
+   "x": 166,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 79
+   },
+   "h": 86,
+   "index": 3,
+   "origin": {
+    "x": 1,
+    "y": 79
+   },
+   "role": "BlockStaticSplanet03",
+   "w": 82,
+   "x": 249,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 79
+   },
+   "h": 86,
+   "index": 4,
+   "origin": {
+    "x": 1,
+    "y": 79
+   },
+   "role": "BlockStaticSplanet03",
+   "w": 82,
+   "x": 332,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile36/BlockStaticSplanet03",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile36__BlockStaticSplanet03.png",
+  "h": 86,
+  "w": 414
+ }
+}

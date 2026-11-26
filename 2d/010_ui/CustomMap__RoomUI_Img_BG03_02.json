@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 390,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 582,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "CustomMap/RoomUI_Img_BG03_02",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "CustomMap__RoomUI_Img_BG03_02.png",
+  "h": 390,
+  "w": 582
+ }
+}

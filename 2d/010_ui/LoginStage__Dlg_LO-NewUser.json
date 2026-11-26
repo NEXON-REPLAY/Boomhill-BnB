@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 268,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 350,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "LoginStage/Dlg_LO-NewUser",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "LoginStage__Dlg_LO-NewUser.png",
+  "h": 268,
+  "w": 350
+ }
+}

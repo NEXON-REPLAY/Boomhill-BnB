@@ -1,0 +1,185 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "loop": false,
+   "name": "Appear Left"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 20,
+    "y": 10
+   },
+   "h": 34,
+   "index": 0,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Appear Left",
+   "w": 177,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 41
+   },
+   "h": 62,
+   "index": 1,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Appear Left",
+   "w": 152,
+   "x": 178,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 65
+   },
+   "h": 84,
+   "index": 2,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Appear Left",
+   "w": 146,
+   "x": 331,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 119
+   },
+   "h": 137,
+   "index": 3,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Appear Left",
+   "w": 126,
+   "x": 478,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -9,
+    "y": 129
+   },
+   "h": 149,
+   "index": 4,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Appear Left",
+   "w": 115,
+   "x": 605,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -8,
+    "y": 128
+   },
+   "h": 152,
+   "index": 5,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Appear Left",
+   "w": 118,
+   "x": 721,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 145
+   },
+   "h": 169,
+   "index": 6,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Appear Left",
+   "w": 132,
+   "x": 840,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": 151
+   },
+   "h": 175,
+   "index": 7,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Appear Left",
+   "w": 136,
+   "x": 0,
+   "y": 170
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 152
+   },
+   "h": 176,
+   "index": 8,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Appear Left",
+   "w": 158,
+   "x": 137,
+   "y": 170
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/BM09_CCombineLeft",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__BM09_CCombineLeft.png",
+  "h": 346,
+  "w": 972
+ }
+}

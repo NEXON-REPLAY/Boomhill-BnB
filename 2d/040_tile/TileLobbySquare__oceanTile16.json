@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    210,
+    210,
+    210,
+    210
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "oceanTile16"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 39
+   },
+   "h": 40,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 39
+   },
+   "role": "oceanTile16",
+   "w": 40,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 39
+   },
+   "h": 40,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 39
+   },
+   "role": "oceanTile16",
+   "w": 40,
+   "x": 41,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 39
+   },
+   "h": 40,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 39
+   },
+   "role": "oceanTile16",
+   "w": 40,
+   "x": 82,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 39
+   },
+   "h": 40,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 39
+   },
+   "role": "oceanTile16",
+   "w": 40,
+   "x": 123,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "TileLobbySquare/oceanTile16",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "TileLobbySquare__oceanTile16.png",
+  "h": 40,
+  "w": 163
+ }
+}

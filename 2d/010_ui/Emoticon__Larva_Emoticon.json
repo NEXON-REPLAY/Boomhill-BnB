@@ -1,0 +1,94 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": -1,
+    "y": 1
+   },
+   "h": 12,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 1
+   },
+   "role": "both-side-speaker-24",
+   "w": 11,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 0
+   },
+   "h": 11,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 1
+   },
+   "role": "both-side-speaker-25",
+   "w": 11,
+   "x": 12,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 0
+   },
+   "h": 11,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 1
+   },
+   "role": "both-side-speaker-26",
+   "w": 11,
+   "x": 24,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 0
+   },
+   "h": 11,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 1
+   },
+   "role": "both-side-speaker-27",
+   "w": 11,
+   "x": 36,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 0
+   },
+   "h": 11,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 1
+   },
+   "role": "both-side-speaker-28",
+   "w": 11,
+   "x": 48,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Emoticon/Larva_Emoticon",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Emoticon__Larva_Emoticon.png",
+  "h": 12,
+  "w": 59
+ }
+}

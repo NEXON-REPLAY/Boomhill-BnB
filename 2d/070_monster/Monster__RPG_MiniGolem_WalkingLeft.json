@@ -1,0 +1,135 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "AfterAttack Left"
+  },
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    0,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "Walk Left"
+  },
+  {
+   "frame_ms": [
+    3000
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "Stop Left"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 2,
+    "y": 56
+   },
+   "h": 51,
+   "index": 0,
+   "origin": {
+    "x": 17,
+    "y": 71
+   },
+   "role": "animated",
+   "w": 42,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 56
+   },
+   "h": 51,
+   "index": 1,
+   "origin": {
+    "x": 17,
+    "y": 71
+   },
+   "role": "Walk Left",
+   "w": 42,
+   "x": 43,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 55
+   },
+   "h": 54,
+   "index": 2,
+   "origin": {
+    "x": 17,
+    "y": 71
+   },
+   "role": "Walk Left",
+   "w": 43,
+   "x": 86,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 56
+   },
+   "h": 51,
+   "index": 3,
+   "origin": {
+    "x": 17,
+    "y": 71
+   },
+   "role": "Walk Left",
+   "w": 44,
+   "x": 130,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 55
+   },
+   "h": 51,
+   "index": 4,
+   "origin": {
+    "x": 17,
+    "y": 71
+   },
+   "role": "Walk Left",
+   "w": 44,
+   "x": 175,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/RPG_MiniGolem_WalkingLeft",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__RPG_MiniGolem_WalkingLeft.png",
+  "h": 54,
+  "w": 219
+ }
+}

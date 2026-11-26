@@ -1,0 +1,131 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    60,
+    60,
+    60,
+    60,
+    60,
+    60
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "Fragment"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 12,
+    "y": 61
+   },
+   "h": 64,
+   "index": 0,
+   "origin": {
+    "x": 12,
+    "y": 61
+   },
+   "role": "Fragment",
+   "w": 64,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 12,
+    "y": 61
+   },
+   "h": 64,
+   "index": 1,
+   "origin": {
+    "x": 12,
+    "y": 61
+   },
+   "role": "Fragment",
+   "w": 64,
+   "x": 65,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 12,
+    "y": 61
+   },
+   "h": 64,
+   "index": 2,
+   "origin": {
+    "x": 12,
+    "y": 61
+   },
+   "role": "Fragment",
+   "w": 64,
+   "x": 130,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 12,
+    "y": 61
+   },
+   "h": 64,
+   "index": 3,
+   "origin": {
+    "x": 12,
+    "y": 61
+   },
+   "role": "Fragment",
+   "w": 64,
+   "x": 195,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 12,
+    "y": 61
+   },
+   "h": 64,
+   "index": 4,
+   "origin": {
+    "x": 12,
+    "y": 61
+   },
+   "role": "Fragment",
+   "w": 64,
+   "x": 260,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 12,
+    "y": 61
+   },
+   "h": 64,
+   "index": 5,
+   "origin": {
+    "x": 12,
+    "y": 61
+   },
+   "role": "Fragment",
+   "w": 64,
+   "x": 325,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/Stone_Effect",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__Stone_Effect.png",
+  "h": 64,
+  "w": 389
+ }
+}

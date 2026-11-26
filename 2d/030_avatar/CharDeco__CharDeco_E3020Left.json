@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "Left"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 6,
+    "y": 28
+   },
+   "h": 29,
+   "index": 0,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 53,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 29
+   },
+   "h": 30,
+   "index": 1,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 53,
+   "x": 54,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 30
+   },
+   "h": 31,
+   "index": 2,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 53,
+   "x": 108,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 29
+   },
+   "h": 30,
+   "index": 3,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 53,
+   "x": 162,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 28
+   },
+   "h": 29,
+   "index": 4,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 57,
+   "x": 216,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 29
+   },
+   "h": 30,
+   "index": 5,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 62,
+   "x": 274,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 30
+   },
+   "h": 31,
+   "index": 6,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 62,
+   "x": 337,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 29
+   },
+   "h": 30,
+   "index": 7,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 62,
+   "x": 400,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "CharDeco/CharDeco_E3020Left",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "CharDeco__CharDeco_E3020Left.png",
+  "h": 31,
+  "w": 462
+ }
+}

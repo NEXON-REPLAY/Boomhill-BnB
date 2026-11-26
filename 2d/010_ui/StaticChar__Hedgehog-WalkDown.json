@@ -1,0 +1,125 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    0,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "HedgehogWalkDown"
+  },
+  {
+   "frame_ms": [
+    3000
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "HedgehogStopDown"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 5,
+    "y": 54
+   },
+   "h": 49,
+   "index": 0,
+   "origin": {
+    "x": 9,
+    "y": 75
+   },
+   "role": "animated",
+   "w": 50,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 55
+   },
+   "h": 50,
+   "index": 1,
+   "origin": {
+    "x": 9,
+    "y": 75
+   },
+   "role": "HedgehogWalkDown",
+   "w": 49,
+   "x": 51,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 53
+   },
+   "h": 49,
+   "index": 2,
+   "origin": {
+    "x": 9,
+    "y": 75
+   },
+   "role": "HedgehogWalkDown",
+   "w": 48,
+   "x": 101,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 55
+   },
+   "h": 50,
+   "index": 3,
+   "origin": {
+    "x": 9,
+    "y": 75
+   },
+   "role": "HedgehogWalkDown",
+   "w": 49,
+   "x": 150,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 53
+   },
+   "h": 49,
+   "index": 4,
+   "origin": {
+    "x": 9,
+    "y": 75
+   },
+   "role": "HedgehogWalkDown",
+   "w": 47,
+   "x": 200,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "StaticChar/Hedgehog-WalkDown",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "StaticChar__Hedgehog-WalkDown.png",
+  "h": 50,
+  "w": 247
+ }
+}

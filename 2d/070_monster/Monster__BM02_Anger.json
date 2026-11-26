@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "Anger"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 15,
+    "y": 151
+   },
+   "h": 147,
+   "index": 0,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "Anger",
+   "w": 144,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 29,
+    "y": 150
+   },
+   "h": 153,
+   "index": 1,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "Anger",
+   "w": 154,
+   "x": 145,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 28,
+    "y": 155
+   },
+   "h": 158,
+   "index": 2,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "Anger",
+   "w": 164,
+   "x": 300,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 148
+   },
+   "h": 151,
+   "index": 3,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "Anger",
+   "w": 138,
+   "x": 465,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/BM02_Anger",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__BM02_Anger.png",
+  "h": 158,
+  "w": 603
+ }
+}

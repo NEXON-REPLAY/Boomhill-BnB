@@ -1,0 +1,263 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2
+   ],
+   "loop": false,
+   "name": "HC_Hint_Effect_Minus5"
+  },
+  {
+   "frame_ms": [
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "HC_Hint_Effect_Plus1"
+  },
+  {
+   "frame_ms": [
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    6,
+    7,
+    8
+   ],
+   "loop": false,
+   "name": "HC_Hint_Effect_Plus3"
+  },
+  {
+   "frame_ms": [
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    9,
+    10,
+    11
+   ],
+   "loop": false,
+   "name": "HC_Hint_Effect_Plus5"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -2,
+    "y": -1
+   },
+   "h": 27,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HC_Hint_Effect_Minus5",
+   "w": 37,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": -1
+   },
+   "h": 27,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HC_Hint_Effect_Minus5",
+   "w": 37,
+   "x": 38,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": -1
+   },
+   "h": 27,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HC_Hint_Effect_Minus5",
+   "w": 35,
+   "x": 76,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 28,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HC_Hint_Effect_Plus1",
+   "w": 38,
+   "x": 112,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 28,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HC_Hint_Effect_Plus1",
+   "w": 38,
+   "x": 151,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 27,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HC_Hint_Effect_Plus1",
+   "w": 37,
+   "x": 190,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": -1
+   },
+   "h": 27,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HC_Hint_Effect_Plus3",
+   "w": 39,
+   "x": 228,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": -1
+   },
+   "h": 27,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HC_Hint_Effect_Plus3",
+   "w": 39,
+   "x": 268,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": -1
+   },
+   "h": 27,
+   "index": 8,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HC_Hint_Effect_Plus3",
+   "w": 39,
+   "x": 308,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": -1
+   },
+   "h": 27,
+   "index": 9,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HC_Hint_Effect_Plus5",
+   "w": 40,
+   "x": 348,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": -1
+   },
+   "h": 27,
+   "index": 10,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HC_Hint_Effect_Plus5",
+   "w": 40,
+   "x": 389,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": -1
+   },
+   "h": 27,
+   "index": 11,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HC_Hint_Effect_Plus5",
+   "w": 39,
+   "x": 430,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "080_hiddencatch",
+ "name": "HiddenCatch/HC_Hint_Ef",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "HiddenCatch__HC_Hint_Ef.png",
+  "h": 28,
+  "w": 469
+ }
+}

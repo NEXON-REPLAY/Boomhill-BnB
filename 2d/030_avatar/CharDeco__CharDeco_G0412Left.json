@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "Left"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -32,
+    "y": 77
+   },
+   "h": 37,
+   "index": 0,
+   "origin": {
+    "x": 20,
+    "y": 102
+   },
+   "role": "Left",
+   "w": 14,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -32,
+    "y": 67
+   },
+   "h": 30,
+   "index": 1,
+   "origin": {
+    "x": 20,
+    "y": 102
+   },
+   "role": "Left",
+   "w": 14,
+   "x": 15,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -18,
+    "y": 89
+   },
+   "h": 42,
+   "index": 2,
+   "origin": {
+    "x": 20,
+    "y": 102
+   },
+   "role": "Left",
+   "w": 42,
+   "x": 30,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -18,
+    "y": 90
+   },
+   "h": 49,
+   "index": 3,
+   "origin": {
+    "x": 20,
+    "y": 102
+   },
+   "role": "Left",
+   "w": 42,
+   "x": 73,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -18,
+    "y": 84
+   },
+   "h": 42,
+   "index": 4,
+   "origin": {
+    "x": 20,
+    "y": 102
+   },
+   "role": "Left",
+   "w": 42,
+   "x": 116,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -18,
+    "y": 90
+   },
+   "h": 47,
+   "index": 5,
+   "origin": {
+    "x": 20,
+    "y": 102
+   },
+   "role": "Left",
+   "w": 42,
+   "x": 159,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -18,
+    "y": 83
+   },
+   "h": 41,
+   "index": 6,
+   "origin": {
+    "x": 20,
+    "y": 102
+   },
+   "role": "Left",
+   "w": 42,
+   "x": 202,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -18,
+    "y": 80
+   },
+   "h": 39,
+   "index": 7,
+   "origin": {
+    "x": 20,
+    "y": 102
+   },
+   "role": "Left",
+   "w": 42,
+   "x": 245,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "CharDeco/CharDeco_G0412Left",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "CharDeco__CharDeco_G0412Left.png",
+  "h": 49,
+  "w": 287
+ }
+}

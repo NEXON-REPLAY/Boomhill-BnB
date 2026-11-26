@@ -1,0 +1,131 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    60,
+    60,
+    60,
+    60,
+    60,
+    60
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "In"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -12,
+    "y": 44
+   },
+   "h": 18,
+   "index": 0,
+   "origin": {
+    "x": 17,
+    "y": 66
+   },
+   "role": "In",
+   "w": 18,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 52
+   },
+   "h": 34,
+   "index": 1,
+   "origin": {
+    "x": 17,
+    "y": 66
+   },
+   "role": "In",
+   "w": 34,
+   "x": 19,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 58
+   },
+   "h": 45,
+   "index": 2,
+   "origin": {
+    "x": 17,
+    "y": 66
+   },
+   "role": "In",
+   "w": 46,
+   "x": 54,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 59
+   },
+   "h": 48,
+   "index": 3,
+   "origin": {
+    "x": 17,
+    "y": 66
+   },
+   "role": "In",
+   "w": 50,
+   "x": 101,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 62
+   },
+   "h": 51,
+   "index": 4,
+   "origin": {
+    "x": 17,
+    "y": 66
+   },
+   "role": "In",
+   "w": 50,
+   "x": 152,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 64
+   },
+   "h": 55,
+   "index": 5,
+   "origin": {
+    "x": 17,
+    "y": 66
+   },
+   "role": "In",
+   "w": 46,
+   "x": 203,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/Missile_In-01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__Missile_In-01.png",
+  "h": 55,
+  "w": 249
+ }
+}

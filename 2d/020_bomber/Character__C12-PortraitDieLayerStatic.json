@@ -1,0 +1,78 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": -2,
+    "y": 0
+   },
+   "h": 31,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 38,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 0
+   },
+   "h": 31,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 38,
+   "x": 39,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 0
+   },
+   "h": 31,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 38,
+   "x": 78,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 0
+   },
+   "h": 31,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 38,
+   "x": 117,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "020_bomber",
+ "name": "Character/C12-PortraitDieLayerStatic",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Character__C12-PortraitDieLayerStatic.png",
+  "h": 31,
+  "w": 155
+ }
+}

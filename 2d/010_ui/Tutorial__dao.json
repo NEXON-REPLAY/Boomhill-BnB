@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": -1,
+    "y": 0
+   },
+   "h": 171,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "sole-frame",
+   "w": 138,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Tutorial/dao",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tutorial__dao.png",
+  "h": 171,
+  "w": 138
+ }
+}

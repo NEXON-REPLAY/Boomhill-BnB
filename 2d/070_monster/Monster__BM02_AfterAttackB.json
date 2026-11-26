@@ -1,0 +1,41 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "Attack2 Down+Attack2 Left+Attack2 Right+Attack2 Up"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 8,
+    "y": 145
+   },
+   "h": 148,
+   "index": 0,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "Attack2 Down+Attack2 Left+Attack2 Right+Attack2 Up",
+   "w": 136,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/BM02_AfterAttackB",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__BM02_AfterAttackB.png",
+  "h": 148,
+  "w": 136
+ }
+}

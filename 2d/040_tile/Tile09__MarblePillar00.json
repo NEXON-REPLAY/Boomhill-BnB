@@ -1,0 +1,41 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "09Static_MarblePillar00+MarblePillar00"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 47
+   },
+   "h": 48,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 47
+   },
+   "role": "09Static_MarblePillar00+MarblePillar00",
+   "w": 40,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile09/MarblePillar00",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile09__MarblePillar00.png",
+  "h": 48,
+  "w": 40
+ }
+}

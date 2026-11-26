@@ -1,0 +1,125 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    3000
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "Fishing Up+Stop Up"
+  },
+  {
+   "frame_ms": [
+    90,
+    90,
+    90,
+    90,
+    90,
+    90
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    0,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "Walk Up"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -4,
+    "y": 25
+   },
+   "h": 17,
+   "index": 0,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "animated",
+   "w": 33,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 30
+   },
+   "h": 16,
+   "index": 1,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "Walk Up",
+   "w": 35,
+   "x": 34,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 27
+   },
+   "h": 16,
+   "index": 2,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "animated",
+   "w": 37,
+   "x": 70,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 30
+   },
+   "h": 16,
+   "index": 3,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "Walk Up",
+   "w": 35,
+   "x": 108,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 27
+   },
+   "h": 16,
+   "index": 4,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "animated",
+   "w": 37,
+   "x": 144,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "020_bomber",
+ "name": "Character/C29-WalkUp_BLayerStatic",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Character__C29-WalkUp_BLayerStatic.png",
+  "h": 17,
+  "w": 181
+ }
+}

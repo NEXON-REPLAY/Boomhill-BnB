@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 94,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 428,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Game/PatResultDlg_1p",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Game__PatResultDlg_1p.png",
+  "h": 94,
+  "w": 428
+ }
+}

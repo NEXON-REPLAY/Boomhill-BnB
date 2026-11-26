@@ -1,0 +1,59 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1
+   ],
+   "loop": false,
+   "name": "BeforeAttack Down+BeforeAttack2 Down"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 164
+   },
+   "h": 161,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 206
+   },
+   "role": "BeforeAttack Down+BeforeAttack2 Down",
+   "w": 120,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 167
+   },
+   "h": 165,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 206
+   },
+   "role": "BeforeAttack Down+BeforeAttack2 Down",
+   "w": 118,
+   "x": 121,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/BM09_BeforeAttackDown",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__BM09_BeforeAttackDown.png",
+  "h": 165,
+  "w": 239
+ }
+}

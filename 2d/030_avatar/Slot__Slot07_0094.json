@@ -1,0 +1,41 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "Slot07_0094"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 7,
+    "y": 3
+   },
+   "h": 97,
+   "index": 0,
+   "origin": {
+    "x": 15,
+    "y": 17
+   },
+   "role": "Slot07_0094",
+   "w": 112,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "Slot/Slot07_0094",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Slot__Slot07_0094.png",
+  "h": 97,
+  "w": 112
+ }
+}

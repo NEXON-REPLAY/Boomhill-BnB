@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "Left"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 4,
+    "y": 80
+   },
+   "h": 62,
+   "index": 0,
+   "origin": {
+    "x": 12,
+    "y": 95
+   },
+   "role": "Left",
+   "w": 72,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 79
+   },
+   "h": 60,
+   "index": 1,
+   "origin": {
+    "x": 12,
+    "y": 95
+   },
+   "role": "Left",
+   "w": 73,
+   "x": 73,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 83
+   },
+   "h": 63,
+   "index": 2,
+   "origin": {
+    "x": 12,
+    "y": 95
+   },
+   "role": "Left",
+   "w": 73,
+   "x": 147,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 83
+   },
+   "h": 64,
+   "index": 3,
+   "origin": {
+    "x": 12,
+    "y": 95
+   },
+   "role": "Left",
+   "w": 69,
+   "x": 221,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "CharDecoAdj/CharDecoAdj_A0101LeftLayerAdjust",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "CharDecoAdj__CharDecoAdj_A0101LeftLayerAdjust.png",
+  "h": 64,
+  "w": 290
+ }
+}

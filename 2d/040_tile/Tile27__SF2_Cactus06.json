@@ -1,0 +1,41 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "SF2_Cactus06"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -3,
+    "y": 57
+   },
+   "h": 56,
+   "index": 0,
+   "origin": {
+    "x": 3,
+    "y": 64
+   },
+   "role": "SF2_Cactus06",
+   "w": 37,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile27/SF2_Cactus06",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile27__SF2_Cactus06.png",
+  "h": 56,
+  "w": 37
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    210,
+    150,
+    150,
+    270
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "AvatarLamp03"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 2,
+    "y": 109
+   },
+   "h": 110,
+   "index": 0,
+   "origin": {
+    "x": 2,
+    "y": 109
+   },
+   "role": "AvatarLamp03",
+   "w": 79,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 109
+   },
+   "h": 110,
+   "index": 1,
+   "origin": {
+    "x": 2,
+    "y": 109
+   },
+   "role": "AvatarLamp03",
+   "w": 79,
+   "x": 80,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 109
+   },
+   "h": 110,
+   "index": 2,
+   "origin": {
+    "x": 2,
+    "y": 109
+   },
+   "role": "AvatarLamp03",
+   "w": 79,
+   "x": 160,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 109
+   },
+   "h": 110,
+   "index": 3,
+   "origin": {
+    "x": 2,
+    "y": 109
+   },
+   "role": "AvatarLamp03",
+   "w": 79,
+   "x": 240,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "TileLobbySquare/AvatarLamp02",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "TileLobbySquare__AvatarLamp02.png",
+  "h": 110,
+  "w": 319
+ }
+}

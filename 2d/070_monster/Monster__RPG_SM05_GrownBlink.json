@@ -1,0 +1,85 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    2250,
+    180,
+    180,
+    180,
+    180,
+    180,
+    360
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    1,
+    2,
+    1,
+    2
+   ],
+   "loop": false,
+   "name": "GrownBlink"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 12,
+    "y": 82
+   },
+   "h": 77,
+   "index": 0,
+   "origin": {
+    "x": 20,
+    "y": 84
+   },
+   "role": "GrownBlink",
+   "w": 64,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 12,
+    "y": 81
+   },
+   "h": 76,
+   "index": 1,
+   "origin": {
+    "x": 20,
+    "y": 84
+   },
+   "role": "GrownBlink",
+   "w": 64,
+   "x": 65,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 12,
+    "y": 81
+   },
+   "h": 76,
+   "index": 2,
+   "origin": {
+    "x": 20,
+    "y": 84
+   },
+   "role": "GrownBlink",
+   "w": 64,
+   "x": 130,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/RPG_SM05_GrownBlink",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__RPG_SM05_GrownBlink.png",
+  "h": 77,
+  "w": 194
+ }
+}

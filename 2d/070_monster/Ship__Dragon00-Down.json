@@ -1,0 +1,141 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    90,
+    90,
+    90,
+    90,
+    90,
+    90
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "Move Down"
+  },
+  {
+   "frame_ms": [
+    150
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "Stop Down"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 5,
+    "y": 48
+   },
+   "h": 40,
+   "index": 0,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "animated",
+   "w": 50,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 46
+   },
+   "h": 40,
+   "index": 1,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "Move Down",
+   "w": 50,
+   "x": 51,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 45
+   },
+   "h": 40,
+   "index": 2,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "Move Down",
+   "w": 58,
+   "x": 102,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 12,
+    "y": 44
+   },
+   "h": 40,
+   "index": 3,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "Move Down",
+   "w": 64,
+   "x": 161,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 46
+   },
+   "h": 41,
+   "index": 4,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "Move Down",
+   "w": 59,
+   "x": 226,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 49
+   },
+   "h": 41,
+   "index": 5,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "Move Down",
+   "w": 46,
+   "x": 286,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Ship/Dragon00-Down",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Ship__Dragon00-Down.png",
+  "h": 41,
+  "w": 332
+ }
+}

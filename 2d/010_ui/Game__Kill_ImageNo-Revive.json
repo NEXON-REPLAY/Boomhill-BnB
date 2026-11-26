@@ -1,0 +1,110 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": -2,
+    "y": 0
+   },
+   "h": 104,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "digit_0",
+   "w": 121,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -42,
+    "y": 0
+   },
+   "h": 104,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "digit_1",
+   "w": 41,
+   "x": 122,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 104,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "digit_2",
+   "w": 125,
+   "x": 164,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 104,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "digit_3",
+   "w": 125,
+   "x": 290,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 104,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "digit_4",
+   "w": 125,
+   "x": 416,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 104,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "digit_5",
+   "w": 125,
+   "x": 542,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Game/Kill_ImageNo-Revive",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Game__Kill_ImageNo-Revive.png",
+  "h": 104,
+  "w": 667
+ }
+}

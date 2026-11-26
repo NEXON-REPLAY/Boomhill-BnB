@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    210,
+    240,
+    210
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "Anger+Blink+Start"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 20,
+    "y": 163
+   },
+   "h": 164,
+   "index": 0,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Anger+Blink+Start",
+   "w": 174,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 22,
+    "y": 166
+   },
+   "h": 166,
+   "index": 1,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Anger+Blink+Start",
+   "w": 181,
+   "x": 175,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 173
+   },
+   "h": 172,
+   "index": 2,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Anger+Blink+Start",
+   "w": 171,
+   "x": 357,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 179
+   },
+   "h": 179,
+   "index": 3,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Anger+Blink+Start",
+   "w": 172,
+   "x": 529,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/BM08_BlinkLeft",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__BM08_BlinkLeft.png",
+  "h": 179,
+  "w": 701
+ }
+}

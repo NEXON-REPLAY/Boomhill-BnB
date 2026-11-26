@@ -1,0 +1,131 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "Gate02"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 26,
+    "y": 95
+   },
+   "h": 96,
+   "index": 0,
+   "origin": {
+    "x": 26,
+    "y": 95
+   },
+   "role": "Gate02",
+   "w": 92,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 26,
+    "y": 95
+   },
+   "h": 96,
+   "index": 1,
+   "origin": {
+    "x": 26,
+    "y": 95
+   },
+   "role": "Gate02",
+   "w": 92,
+   "x": 93,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 26,
+    "y": 95
+   },
+   "h": 96,
+   "index": 2,
+   "origin": {
+    "x": 26,
+    "y": 95
+   },
+   "role": "Gate02",
+   "w": 92,
+   "x": 186,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 26,
+    "y": 95
+   },
+   "h": 96,
+   "index": 3,
+   "origin": {
+    "x": 26,
+    "y": 95
+   },
+   "role": "Gate02",
+   "w": 92,
+   "x": 279,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 26,
+    "y": 95
+   },
+   "h": 96,
+   "index": 4,
+   "origin": {
+    "x": 26,
+    "y": 95
+   },
+   "role": "Gate02",
+   "w": 92,
+   "x": 372,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 26,
+    "y": 95
+   },
+   "h": 96,
+   "index": 5,
+   "origin": {
+    "x": 26,
+    "y": 95
+   },
+   "role": "Gate02",
+   "w": 92,
+   "x": 465,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile65/Gate02",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile65__Gate02.png",
+  "h": 96,
+  "w": 557
+ }
+}

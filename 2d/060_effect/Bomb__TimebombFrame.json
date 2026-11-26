@@ -1,0 +1,127 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30
+   ],
+   "frames": [
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    2,
+    2,
+    3,
+    3,
+    3,
+    3
+   ],
+   "loop": false,
+   "name": "FireTimebomb"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -1,
+    "y": 39
+   },
+   "h": 40,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 40
+   },
+   "role": "FireTimebomb",
+   "w": 40,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 39
+   },
+   "h": 40,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 40
+   },
+   "role": "FireTimebomb",
+   "w": 40,
+   "x": 41,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 38
+   },
+   "h": 38,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 40
+   },
+   "role": "FireTimebomb",
+   "w": 41,
+   "x": 82,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 37
+   },
+   "h": 36,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 40
+   },
+   "role": "FireTimebomb",
+   "w": 37,
+   "x": 124,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "060_effect",
+ "name": "Bomb/TimebombFrame",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Bomb__TimebombFrame.png",
+  "h": 40,
+  "w": 161
+ }
+}

@@ -1,0 +1,177 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    90,
+    120,
+    120,
+    90,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "AngryRight"
+  },
+  {
+   "frame_ms": [
+    120
+   ],
+   "frames": [
+    1
+   ],
+   "loop": false,
+   "name": "AngryStopRight"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -4,
+    "y": 52
+   },
+   "h": 39,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 68
+   },
+   "role": "AngryRight",
+   "w": 31,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 53
+   },
+   "h": 39,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 68
+   },
+   "role": "animated",
+   "w": 31,
+   "x": 32,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 55
+   },
+   "h": 39,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 68
+   },
+   "role": "AngryRight",
+   "w": 31,
+   "x": 64,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 57
+   },
+   "h": 39,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 68
+   },
+   "role": "AngryRight",
+   "w": 31,
+   "x": 96,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 56
+   },
+   "h": 39,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 68
+   },
+   "role": "AngryRight",
+   "w": 31,
+   "x": 128,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 54
+   },
+   "h": 39,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 68
+   },
+   "role": "AngryRight",
+   "w": 31,
+   "x": 160,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 52
+   },
+   "h": 39,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 68
+   },
+   "role": "AngryRight",
+   "w": 31,
+   "x": 192,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 51
+   },
+   "h": 39,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 68
+   },
+   "role": "AngryRight",
+   "w": 31,
+   "x": 224,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/SM07_Anger_Right",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__SM07_Anger_Right.png",
+  "h": 39,
+  "w": 255
+ }
+}

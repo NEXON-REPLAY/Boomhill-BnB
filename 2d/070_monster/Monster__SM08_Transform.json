@@ -1,0 +1,231 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    90,
+    180,
+    120,
+    150,
+    120,
+    150,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "loop": false,
+   "name": "Anger"
+  },
+  {
+   "frame_ms": [
+    120,
+    150,
+    120,
+    150,
+    120,
+    180,
+    90,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    9,
+    8,
+    7,
+    6,
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "loop": false,
+   "name": "CalmDown"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 2,
+    "y": 60
+   },
+   "h": 53,
+   "index": 0,
+   "origin": {
+    "x": 4,
+    "y": 68
+   },
+   "role": "animated",
+   "w": 44,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 58
+   },
+   "h": 55,
+   "index": 1,
+   "origin": {
+    "x": 4,
+    "y": 68
+   },
+   "role": "animated",
+   "w": 42,
+   "x": 45,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 53
+   },
+   "h": 46,
+   "index": 2,
+   "origin": {
+    "x": 4,
+    "y": 68
+   },
+   "role": "animated",
+   "w": 40,
+   "x": 88,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 64
+   },
+   "h": 57,
+   "index": 3,
+   "origin": {
+    "x": 4,
+    "y": 68
+   },
+   "role": "animated",
+   "w": 48,
+   "x": 129,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 64
+   },
+   "h": 57,
+   "index": 4,
+   "origin": {
+    "x": 4,
+    "y": 68
+   },
+   "role": "animated",
+   "w": 48,
+   "x": 178,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 64
+   },
+   "h": 57,
+   "index": 5,
+   "origin": {
+    "x": 4,
+    "y": 68
+   },
+   "role": "animated",
+   "w": 44,
+   "x": 227,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 64
+   },
+   "h": 61,
+   "index": 6,
+   "origin": {
+    "x": 4,
+    "y": 68
+   },
+   "role": "animated",
+   "w": 44,
+   "x": 272,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 64
+   },
+   "h": 57,
+   "index": 7,
+   "origin": {
+    "x": 4,
+    "y": 68
+   },
+   "role": "animated",
+   "w": 44,
+   "x": 317,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 64
+   },
+   "h": 58,
+   "index": 8,
+   "origin": {
+    "x": 4,
+    "y": 68
+   },
+   "role": "animated",
+   "w": 44,
+   "x": 362,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 64
+   },
+   "h": 57,
+   "index": 9,
+   "origin": {
+    "x": 4,
+    "y": 68
+   },
+   "role": "animated",
+   "w": 44,
+   "x": 407,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/SM08_Transform",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__SM08_Transform.png",
+  "h": 61,
+  "w": 451
+ }
+}

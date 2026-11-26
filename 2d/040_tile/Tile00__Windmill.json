@@ -1,0 +1,83 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    12000,
+    1200,
+    1200,
+    1200,
+    1050,
+    900,
+    750,
+    600,
+    450,
+    300,
+    120,
+    300,
+    450,
+    600
+   ],
+   "frames": [
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1
+   ],
+   "loop": false,
+   "name": "00Static_Windmill+Windmill"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 150
+   },
+   "h": 169,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 150
+   },
+   "role": "00Static_Windmill+Windmill",
+   "w": 120,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 141
+   },
+   "h": 160,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 150
+   },
+   "role": "00Static_Windmill+Windmill",
+   "w": 120,
+   "x": 121,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile00/Windmill",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile00__Windmill.png",
+  "h": 169,
+  "w": 241
+ }
+}

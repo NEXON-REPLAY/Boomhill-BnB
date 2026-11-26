@@ -1,0 +1,203 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "loop": false,
+   "name": "LittleMermaidBlur08"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -28,
+    "y": -15
+   },
+   "h": 53,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "LittleMermaidBlur08",
+   "w": 125,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -30,
+    "y": -20
+   },
+   "h": 45,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "LittleMermaidBlur08",
+   "w": 126,
+   "x": 126,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -31,
+    "y": -23
+   },
+   "h": 38,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "LittleMermaidBlur08",
+   "w": 128,
+   "x": 253,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -34,
+    "y": -20
+   },
+   "h": 39,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "LittleMermaidBlur08",
+   "w": 124,
+   "x": 382,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -33,
+    "y": -21
+   },
+   "h": 40,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "LittleMermaidBlur08",
+   "w": 118,
+   "x": 507,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -34,
+    "y": -19
+   },
+   "h": 48,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "LittleMermaidBlur08",
+   "w": 117,
+   "x": 626,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -27,
+    "y": -19
+   },
+   "h": 51,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "LittleMermaidBlur08",
+   "w": 122,
+   "x": 744,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -29,
+    "y": -21
+   },
+   "h": 42,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "LittleMermaidBlur08",
+   "w": 127,
+   "x": 867,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -29,
+    "y": -15
+   },
+   "h": 45,
+   "index": 8,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "LittleMermaidBlur08",
+   "w": 129,
+   "x": 0,
+   "y": 54
+  },
+  {
+   "center": {
+    "x": -28,
+    "y": -4
+   },
+   "h": 55,
+   "index": 9,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "LittleMermaidBlur08",
+   "w": 123,
+   "x": 130,
+   "y": 54
+  }
+ ],
+ "game": "bnb",
+ "group": "060_effect",
+ "name": "MotionBlur/Blur_LittleMermaid03_Left",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MotionBlur__Blur_LittleMermaid03_Left.png",
+  "h": 109,
+  "w": 994
+ }
+}

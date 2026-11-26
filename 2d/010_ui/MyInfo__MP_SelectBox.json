@@ -1,0 +1,78 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": -2,
+    "y": -4
+   },
+   "h": 15,
+   "index": 0,
+   "origin": {
+    "x": 1,
+    "y": 1
+   },
+   "role": "unconfirmed",
+   "w": 81,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": -4
+   },
+   "h": 15,
+   "index": 1,
+   "origin": {
+    "x": 1,
+    "y": 1
+   },
+   "role": "unconfirmed",
+   "w": 81,
+   "x": 82,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": -4
+   },
+   "h": 15,
+   "index": 2,
+   "origin": {
+    "x": 1,
+    "y": 1
+   },
+   "role": "unconfirmed",
+   "w": 81,
+   "x": 164,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": -4
+   },
+   "h": 15,
+   "index": 3,
+   "origin": {
+    "x": 1,
+    "y": 1
+   },
+   "role": "unconfirmed",
+   "w": 81,
+   "x": 246,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "MyInfo/MP_SelectBox",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MyInfo__MP_SelectBox.png",
+  "h": 15,
+  "w": 327
+ }
+}

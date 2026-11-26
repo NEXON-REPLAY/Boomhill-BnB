@@ -1,0 +1,59 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    210,
+    210
+   ],
+   "frames": [
+    0,
+    1
+   ],
+   "loop": false,
+   "name": "ShoutSticker_Rei03"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -72,
+    "y": -1
+   },
+   "h": 57,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "ShoutSticker_Rei03",
+   "w": 62,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -79,
+    "y": -3
+   },
+   "h": 55,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "ShoutSticker_Rei03",
+   "w": 59,
+   "x": 63,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Emoticon/ShoutSticker_Rei03",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Emoticon__ShoutSticker_Rei03.png",
+  "h": 57,
+  "w": 122
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    240,
+    240,
+    240,
+    240
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "Extra01"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 9,
+    "y": 58
+   },
+   "h": 56,
+   "index": 0,
+   "origin": {
+    "x": 9,
+    "y": 73
+   },
+   "role": "Extra01",
+   "w": 58,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 58
+   },
+   "h": 56,
+   "index": 1,
+   "origin": {
+    "x": 9,
+    "y": 73
+   },
+   "role": "Extra01",
+   "w": 58,
+   "x": 59,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 58
+   },
+   "h": 56,
+   "index": 2,
+   "origin": {
+    "x": 9,
+    "y": 73
+   },
+   "role": "Extra01",
+   "w": 58,
+   "x": 118,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 58
+   },
+   "h": 56,
+   "index": 3,
+   "origin": {
+    "x": 9,
+    "y": 73
+   },
+   "role": "Extra01",
+   "w": 58,
+   "x": 177,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile54/Extra01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile54__Extra01.png",
+  "h": 56,
+  "w": 235
+ }
+}

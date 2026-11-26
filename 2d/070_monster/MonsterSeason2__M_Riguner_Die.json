@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "loop": false,
+   "name": "01_Out"
+  },
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    6,
+    5,
+    4,
+    3,
+    2
+   ],
+   "loop": false,
+   "name": "00_In"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 3,
+    "y": 61
+   },
+   "h": 59,
+   "index": 0,
+   "origin": {
+    "x": 18,
+    "y": 87
+   },
+   "role": "01_Out",
+   "w": 74,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 17,
+    "y": 63
+   },
+   "h": 59,
+   "index": 1,
+   "origin": {
+    "x": 18,
+    "y": 87
+   },
+   "role": "01_Out",
+   "w": 66,
+   "x": 75,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 58
+   },
+   "h": 51,
+   "index": 2,
+   "origin": {
+    "x": 18,
+    "y": 87
+   },
+   "role": "animated",
+   "w": 47,
+   "x": 142,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 51
+   },
+   "h": 44,
+   "index": 3,
+   "origin": {
+    "x": 18,
+    "y": 87
+   },
+   "role": "animated",
+   "w": 52,
+   "x": 190,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 47
+   },
+   "h": 40,
+   "index": 4,
+   "origin": {
+    "x": 18,
+    "y": 87
+   },
+   "role": "animated",
+   "w": 49,
+   "x": 243,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 32
+   },
+   "h": 26,
+   "index": 5,
+   "origin": {
+    "x": 18,
+    "y": 87
+   },
+   "role": "animated",
+   "w": 36,
+   "x": 293,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -15,
+    "y": 25
+   },
+   "h": 14,
+   "index": 6,
+   "origin": {
+    "x": 18,
+    "y": 87
+   },
+   "role": "animated",
+   "w": 14,
+   "x": 330,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/M_Riguner_Die",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__M_Riguner_Die.png",
+  "h": 59,
+  "w": 344
+ }
+}

@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "Static04"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 41,
+    "y": 223
+   },
+   "h": 245,
+   "index": 0,
+   "origin": {
+    "x": 41,
+    "y": 223
+   },
+   "role": "Static04",
+   "w": 204,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 41,
+    "y": 223
+   },
+   "h": 245,
+   "index": 1,
+   "origin": {
+    "x": 41,
+    "y": 223
+   },
+   "role": "Static04",
+   "w": 204,
+   "x": 205,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 41,
+    "y": 223
+   },
+   "h": 245,
+   "index": 2,
+   "origin": {
+    "x": 41,
+    "y": 223
+   },
+   "role": "Static04",
+   "w": 204,
+   "x": 410,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 41,
+    "y": 223
+   },
+   "h": 245,
+   "index": 3,
+   "origin": {
+    "x": 41,
+    "y": 223
+   },
+   "role": "Static04",
+   "w": 204,
+   "x": 615,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 41,
+    "y": 223
+   },
+   "h": 245,
+   "index": 4,
+   "origin": {
+    "x": 41,
+    "y": 223
+   },
+   "role": "Static04",
+   "w": 204,
+   "x": 820,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 41,
+    "y": 223
+   },
+   "h": 245,
+   "index": 5,
+   "origin": {
+    "x": 41,
+    "y": 223
+   },
+   "role": "Static04",
+   "w": 204,
+   "x": 0,
+   "y": 246
+  },
+  {
+   "center": {
+    "x": 41,
+    "y": 223
+   },
+   "h": 245,
+   "index": 6,
+   "origin": {
+    "x": 41,
+    "y": 223
+   },
+   "role": "Static04",
+   "w": 204,
+   "x": 205,
+   "y": 246
+  },
+  {
+   "center": {
+    "x": 41,
+    "y": 223
+   },
+   "h": 245,
+   "index": 7,
+   "origin": {
+    "x": 41,
+    "y": 223
+   },
+   "role": "Static04",
+   "w": 204,
+   "x": 410,
+   "y": 246
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile46/Static04",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile46__Static04.png",
+  "h": 491,
+  "w": 1024
+ }
+}

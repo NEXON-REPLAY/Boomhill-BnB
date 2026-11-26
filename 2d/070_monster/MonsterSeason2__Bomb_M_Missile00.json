@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "Bomb_MonMissile00"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -2,
+    "y": 1
+   },
+   "h": 27,
+   "index": 0,
+   "origin": {
+    "x": 7,
+    "y": 7
+   },
+   "role": "Bomb_MonMissile00",
+   "w": 29,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 1
+   },
+   "h": 28,
+   "index": 1,
+   "origin": {
+    "x": 7,
+    "y": 7
+   },
+   "role": "Bomb_MonMissile00",
+   "w": 27,
+   "x": 30,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 0
+   },
+   "h": 27,
+   "index": 2,
+   "origin": {
+    "x": 7,
+    "y": 7
+   },
+   "role": "Bomb_MonMissile00",
+   "w": 27,
+   "x": 58,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 1
+   },
+   "h": 27,
+   "index": 3,
+   "origin": {
+    "x": 7,
+    "y": 7
+   },
+   "role": "Bomb_MonMissile00",
+   "w": 28,
+   "x": 86,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/Bomb_M_Missile00",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__Bomb_M_Missile00.png",
+  "h": 28,
+  "w": 114
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 15,
+   "index": 0,
+   "origin": {
+    "x": 3,
+    "y": 6
+   },
+   "role": "unconfirmed",
+   "w": 15,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 15,
+   "index": 1,
+   "origin": {
+    "x": 3,
+    "y": 6
+   },
+   "role": "unconfirmed",
+   "w": 15,
+   "x": 16,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 15,
+   "index": 2,
+   "origin": {
+    "x": 3,
+    "y": 6
+   },
+   "role": "unconfirmed",
+   "w": 15,
+   "x": 32,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 6
+   },
+   "h": 21,
+   "index": 3,
+   "origin": {
+    "x": 3,
+    "y": 6
+   },
+   "role": "unconfirmed",
+   "w": 21,
+   "x": 48,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 15,
+   "index": 4,
+   "origin": {
+    "x": 3,
+    "y": 6
+   },
+   "role": "unconfirmed",
+   "w": 15,
+   "x": 70,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "MyInfo/MP_BtCheckBox_On",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MyInfo__MP_BtCheckBox_On.png",
+  "h": 21,
+  "w": 85
+ }
+}

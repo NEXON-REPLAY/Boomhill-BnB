@@ -1,0 +1,293 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30,
+    30,
+    30,
+    30,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    30,
+    30,
+    30,
+    30,
+    30
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+   ],
+   "loop": false,
+   "name": "Shuffle"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -80,
+    "y": -22
+   },
+   "h": 102,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "Shuffle",
+   "w": 232,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -91,
+    "y": -25
+   },
+   "h": 96,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "Shuffle",
+   "w": 210,
+   "x": 233,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -96,
+    "y": -29
+   },
+   "h": 88,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "Shuffle",
+   "w": 200,
+   "x": 444,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -100,
+    "y": -32
+   },
+   "h": 82,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "Shuffle",
+   "w": 192,
+   "x": 645,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -105,
+    "y": -35
+   },
+   "h": 76,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "Shuffle",
+   "w": 181,
+   "x": 838,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -110,
+    "y": -38
+   },
+   "h": 70,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "Shuffle",
+   "w": 170,
+   "x": 0,
+   "y": 103
+  },
+  {
+   "center": {
+    "x": -156,
+    "y": -24
+   },
+   "h": 91,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "Shuffle",
+   "w": 91,
+   "x": 171,
+   "y": 103
+  },
+  {
+   "center": {
+    "x": -140,
+    "y": -11
+   },
+   "h": 99,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "Shuffle",
+   "w": 115,
+   "x": 263,
+   "y": 103
+  },
+  {
+   "center": {
+    "x": -139,
+    "y": -8
+   },
+   "h": 113,
+   "index": 8,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "Shuffle",
+   "w": 113,
+   "x": 379,
+   "y": 103
+  },
+  {
+   "center": {
+    "x": -138,
+    "y": -22
+   },
+   "h": 103,
+   "index": 9,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "Shuffle",
+   "w": 127,
+   "x": 493,
+   "y": 103
+  },
+  {
+   "center": {
+    "x": -144,
+    "y": -5
+   },
+   "h": 123,
+   "index": 10,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "Shuffle",
+   "w": 121,
+   "x": 621,
+   "y": 103
+  },
+  {
+   "center": {
+    "x": -102,
+    "y": -5
+   },
+   "h": 121,
+   "index": 11,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "Shuffle",
+   "w": 189,
+   "x": 743,
+   "y": 103
+  },
+  {
+   "center": {
+    "x": -82,
+    "y": -49
+   },
+   "h": 48,
+   "index": 12,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "Shuffle",
+   "w": 227,
+   "x": 0,
+   "y": 227
+  },
+  {
+   "center": {
+    "x": -52,
+    "y": -49
+   },
+   "h": 48,
+   "index": 13,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "Shuffle",
+   "w": 287,
+   "x": 228,
+   "y": 227
+  },
+  {
+   "center": {
+    "x": -42,
+    "y": -49
+   },
+   "h": 48,
+   "index": 14,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "Shuffle",
+   "w": 309,
+   "x": 516,
+   "y": 227
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Shop/S_DlgMarbleCoin_Shuffle_02G",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop__S_DlgMarbleCoin_Shuffle_02G.png",
+  "h": 275,
+  "w": 1019
+ }
+}

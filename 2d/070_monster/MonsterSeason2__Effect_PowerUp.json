@@ -1,0 +1,331 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90
+   ],
+   "frames": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+   ],
+   "loop": false,
+   "name": "Effect_PowerUp"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 5,
+    "y": 133
+   },
+   "h": 49,
+   "index": 1,
+   "origin": {
+    "x": 30,
+    "y": 151
+   },
+   "role": "Effect_PowerUp",
+   "w": 51,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 21,
+    "y": 148
+   },
+   "h": 76,
+   "index": 2,
+   "origin": {
+    "x": 30,
+    "y": 151
+   },
+   "role": "Effect_PowerUp",
+   "w": 80,
+   "x": 52,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 140
+   },
+   "h": 72,
+   "index": 3,
+   "origin": {
+    "x": 30,
+    "y": 151
+   },
+   "role": "Effect_PowerUp",
+   "w": 73,
+   "x": 133,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -70,
+    "y": -1
+   },
+   "empty": true,
+   "h": 0,
+   "index": 4,
+   "origin": {
+    "x": 30,
+    "y": 151
+   },
+   "role": "Effect_PowerUp",
+   "w": 0,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -70,
+    "y": -1
+   },
+   "empty": true,
+   "h": 0,
+   "index": 5,
+   "origin": {
+    "x": 30,
+    "y": 151
+   },
+   "role": "Effect_PowerUp",
+   "w": 0,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 61
+   },
+   "h": 60,
+   "index": 6,
+   "origin": {
+    "x": 30,
+    "y": 151
+   },
+   "role": "Effect_PowerUp",
+   "w": 61,
+   "x": 207,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 28,
+    "y": 92
+   },
+   "h": 88,
+   "index": 7,
+   "origin": {
+    "x": 30,
+    "y": 151
+   },
+   "role": "Effect_PowerUp",
+   "w": 96,
+   "x": 269,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 30,
+    "y": 101
+   },
+   "h": 93,
+   "index": 8,
+   "origin": {
+    "x": 30,
+    "y": 151
+   },
+   "role": "Effect_PowerUp",
+   "w": 100,
+   "x": 366,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 27,
+    "y": 99
+   },
+   "h": 85,
+   "index": 9,
+   "origin": {
+    "x": 30,
+    "y": 151
+   },
+   "role": "Effect_PowerUp",
+   "w": 94,
+   "x": 467,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 28,
+    "y": 99
+   },
+   "h": 76,
+   "index": 10,
+   "origin": {
+    "x": 30,
+    "y": 151
+   },
+   "role": "Effect_PowerUp",
+   "w": 96,
+   "x": 562,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 29,
+    "y": 99
+   },
+   "h": 61,
+   "index": 11,
+   "origin": {
+    "x": 30,
+    "y": 151
+   },
+   "role": "Effect_PowerUp",
+   "w": 98,
+   "x": 659,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 27,
+    "y": 99
+   },
+   "h": 43,
+   "index": 12,
+   "origin": {
+    "x": 30,
+    "y": 151
+   },
+   "role": "Effect_PowerUp",
+   "w": 95,
+   "x": 758,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 27,
+    "y": 104
+   },
+   "h": 43,
+   "index": 13,
+   "origin": {
+    "x": 30,
+    "y": 151
+   },
+   "role": "Effect_PowerUp",
+   "w": 95,
+   "x": 854,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 27,
+    "y": 108
+   },
+   "h": 43,
+   "index": 14,
+   "origin": {
+    "x": 30,
+    "y": 151
+   },
+   "role": "Effect_PowerUp",
+   "w": 95,
+   "x": 0,
+   "y": 94
+  },
+  {
+   "center": {
+    "x": 22,
+    "y": 108
+   },
+   "h": 39,
+   "index": 15,
+   "origin": {
+    "x": 30,
+    "y": 151
+   },
+   "role": "Effect_PowerUp",
+   "w": 81,
+   "x": 96,
+   "y": 94
+  },
+  {
+   "center": {
+    "x": 12,
+    "y": 112
+   },
+   "h": 31,
+   "index": 16,
+   "origin": {
+    "x": 30,
+    "y": 151
+   },
+   "role": "Effect_PowerUp",
+   "w": 67,
+   "x": 178,
+   "y": 94
+  },
+  {
+   "center": {
+    "x": 12,
+    "y": 122
+   },
+   "h": 29,
+   "index": 17,
+   "origin": {
+    "x": 30,
+    "y": 151
+   },
+   "role": "Effect_PowerUp",
+   "w": 65,
+   "x": 246,
+   "y": 94
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/Effect_PowerUp",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__Effect_PowerUp.png",
+  "h": 137,
+  "w": 949
+ }
+}

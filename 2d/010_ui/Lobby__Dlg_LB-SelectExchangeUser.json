@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 221,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 350,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Lobby/Dlg_LB-SelectExchangeUser",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Lobby__Dlg_LB-SelectExchangeUser.png",
+  "h": 221,
+  "w": 350
+ }
+}

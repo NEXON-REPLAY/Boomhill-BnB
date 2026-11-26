@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": -1,
+    "y": 0
+   },
+   "h": 18,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 17,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Etc/VScroll_Ball",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Etc__VScroll_Ball.png",
+  "h": 18,
+  "w": 17
+ }
+}

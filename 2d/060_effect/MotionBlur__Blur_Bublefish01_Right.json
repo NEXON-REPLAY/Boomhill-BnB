@@ -1,0 +1,203 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "loop": false,
+   "name": "BublefishBlur02"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -58,
+    "y": -15
+   },
+   "h": 53,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "BublefishBlur02",
+   "w": 44,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -56,
+    "y": -21
+   },
+   "h": 40,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "BublefishBlur02",
+   "w": 45,
+   "x": 45,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -48,
+    "y": -19
+   },
+   "h": 44,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "BublefishBlur02",
+   "w": 48,
+   "x": 91,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -68,
+    "y": -26
+   },
+   "h": 38,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "BublefishBlur02",
+   "w": 27,
+   "x": 140,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -69,
+    "y": -23
+   },
+   "h": 42,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "BublefishBlur02",
+   "w": 23,
+   "x": 168,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -68,
+    "y": -29
+   },
+   "h": 31,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "BublefishBlur02",
+   "w": 29,
+   "x": 192,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -66,
+    "y": -22
+   },
+   "h": 39,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "BublefishBlur02",
+   "w": 37,
+   "x": 222,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -74,
+    "y": -21
+   },
+   "h": 41,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "BublefishBlur02",
+   "w": 29,
+   "x": 260,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -68,
+    "y": -22
+   },
+   "h": 39,
+   "index": 8,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "BublefishBlur02",
+   "w": 30,
+   "x": 290,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -75,
+    "y": -15
+   },
+   "h": 35,
+   "index": 9,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "BublefishBlur02",
+   "w": 25,
+   "x": 321,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "060_effect",
+ "name": "MotionBlur/Blur_Bublefish01_Right",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MotionBlur__Blur_Bublefish01_Right.png",
+  "h": 53,
+  "w": 346
+ }
+}

@@ -1,0 +1,149 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    150,
+    120,
+    90,
+    120,
+    90,
+    120,
+    90,
+    150,
+    120,
+    150,
+    120,
+    150,
+    120,
+    90
+   ],
+   "frames": [
+    0,
+    2,
+    1,
+    3,
+    2,
+    3,
+    2,
+    3,
+    4,
+    5,
+    4,
+    5,
+    4,
+    5,
+    0
+   ],
+   "loop": false,
+   "name": "Attack Down+Attack Left+Attack Right+Attack Up"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 8,
+    "y": 146
+   },
+   "h": 149,
+   "index": 0,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "Attack Down+Attack Left+Attack Right+Attack Up",
+   "w": 136,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 37,
+    "y": 156
+   },
+   "h": 157,
+   "index": 1,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "Attack Down+Attack Left+Attack Right+Attack Up",
+   "w": 194,
+   "x": 137,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 29,
+    "y": 158
+   },
+   "h": 157,
+   "index": 2,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "Attack Down+Attack Left+Attack Right+Attack Up",
+   "w": 178,
+   "x": 332,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 12,
+    "y": 160
+   },
+   "h": 155,
+   "index": 3,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "Attack Down+Attack Left+Attack Right+Attack Up",
+   "w": 144,
+   "x": 511,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 37,
+    "y": 156
+   },
+   "h": 157,
+   "index": 4,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "Attack Down+Attack Left+Attack Right+Attack Up",
+   "w": 194,
+   "x": 656,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 29,
+    "y": 158
+   },
+   "h": 157,
+   "index": 5,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "Attack Down+Attack Left+Attack Right+Attack Up",
+   "w": 178,
+   "x": 0,
+   "y": 158
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/RPG_BM02_AttackA",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__RPG_BM02_AttackA.png",
+  "h": 315,
+  "w": 850
+ }
+}

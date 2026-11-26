@@ -1,0 +1,347 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+   ],
+   "loop": false,
+   "name": "GetHint_GaugeEffect"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -8,
+    "y": -3
+   },
+   "h": 19,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "GetHint_GaugeEffect",
+   "w": 156,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": -2
+   },
+   "h": 19,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "GetHint_GaugeEffect",
+   "w": 158,
+   "x": 157,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -11,
+    "y": -1
+   },
+   "h": 20,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "GetHint_GaugeEffect",
+   "w": 153,
+   "x": 316,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -11,
+    "y": 0
+   },
+   "h": 21,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "GetHint_GaugeEffect",
+   "w": 153,
+   "x": 470,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -11,
+    "y": -2
+   },
+   "h": 19,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "GetHint_GaugeEffect",
+   "w": 153,
+   "x": 624,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -11,
+    "y": -5
+   },
+   "h": 24,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "GetHint_GaugeEffect",
+   "w": 156,
+   "x": 778,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -11,
+    "y": -8
+   },
+   "h": 20,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "GetHint_GaugeEffect",
+   "w": 156,
+   "x": 0,
+   "y": 25
+  },
+  {
+   "center": {
+    "x": -11,
+    "y": -8
+   },
+   "h": 20,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "GetHint_GaugeEffect",
+   "w": 153,
+   "x": 157,
+   "y": 25
+  },
+  {
+   "center": {
+    "x": -9,
+    "y": -8
+   },
+   "h": 21,
+   "index": 8,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "GetHint_GaugeEffect",
+   "w": 155,
+   "x": 311,
+   "y": 25
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": -5
+   },
+   "h": 24,
+   "index": 9,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "GetHint_GaugeEffect",
+   "w": 161,
+   "x": 467,
+   "y": 25
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": -8
+   },
+   "h": 18,
+   "index": 10,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "GetHint_GaugeEffect",
+   "w": 159,
+   "x": 629,
+   "y": 25
+  },
+  {
+   "center": {
+    "x": -11,
+    "y": -8
+   },
+   "h": 13,
+   "index": 11,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "GetHint_GaugeEffect",
+   "w": 153,
+   "x": 789,
+   "y": 25
+  },
+  {
+   "center": {
+    "x": -9,
+    "y": -6
+   },
+   "h": 17,
+   "index": 12,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "GetHint_GaugeEffect",
+   "w": 157,
+   "x": 0,
+   "y": 50
+  },
+  {
+   "center": {
+    "x": -11,
+    "y": -8
+   },
+   "h": 13,
+   "index": 13,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "GetHint_GaugeEffect",
+   "w": 153,
+   "x": 158,
+   "y": 50
+  },
+  {
+   "center": {
+    "x": -9,
+    "y": -6
+   },
+   "h": 17,
+   "index": 14,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "GetHint_GaugeEffect",
+   "w": 157,
+   "x": 312,
+   "y": 50
+  },
+  {
+   "center": {
+    "x": -11,
+    "y": -8
+   },
+   "h": 13,
+   "index": 15,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "GetHint_GaugeEffect",
+   "w": 153,
+   "x": 470,
+   "y": 50
+  },
+  {
+   "center": {
+    "x": -9,
+    "y": -6
+   },
+   "h": 17,
+   "index": 16,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "GetHint_GaugeEffect",
+   "w": 157,
+   "x": 624,
+   "y": 50
+  },
+  {
+   "center": {
+    "x": -11,
+    "y": -8
+   },
+   "h": 13,
+   "index": 17,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "GetHint_GaugeEffect",
+   "w": 153,
+   "x": 782,
+   "y": 50
+  }
+ ],
+ "game": "bnb",
+ "group": "080_hiddencatch",
+ "name": "HiddenCatch/HC_Hint_Effect",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "HiddenCatch__HC_Hint_Effect.png",
+  "h": 67,
+  "w": 942
+ }
+}

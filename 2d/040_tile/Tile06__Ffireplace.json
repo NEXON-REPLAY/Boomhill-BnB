@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    240,
+    240,
+    240,
+    240
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "06Static_Fireplace+Fireplace"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 126
+   },
+   "h": 124,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 126
+   },
+   "role": "06Static_Fireplace+Fireplace",
+   "w": 120,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 126
+   },
+   "h": 124,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 126
+   },
+   "role": "06Static_Fireplace+Fireplace",
+   "w": 120,
+   "x": 121,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 126
+   },
+   "h": 124,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 126
+   },
+   "role": "06Static_Fireplace+Fireplace",
+   "w": 120,
+   "x": 242,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 126
+   },
+   "h": 124,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 126
+   },
+   "role": "06Static_Fireplace+Fireplace",
+   "w": 120,
+   "x": 363,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile06/Ffireplace",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile06__Ffireplace.png",
+  "h": 124,
+  "w": 483
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    240,
+    240,
+    240,
+    240
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "Static05"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 15,
+    "y": 126
+   },
+   "h": 127,
+   "index": 0,
+   "origin": {
+    "x": 15,
+    "y": 126
+   },
+   "role": "Static05",
+   "w": 143,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 126
+   },
+   "h": 127,
+   "index": 1,
+   "origin": {
+    "x": 15,
+    "y": 126
+   },
+   "role": "Static05",
+   "w": 143,
+   "x": 144,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 126
+   },
+   "h": 127,
+   "index": 2,
+   "origin": {
+    "x": 15,
+    "y": 126
+   },
+   "role": "Static05",
+   "w": 143,
+   "x": 288,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 126
+   },
+   "h": 127,
+   "index": 3,
+   "origin": {
+    "x": 15,
+    "y": 126
+   },
+   "role": "Static05",
+   "w": 143,
+   "x": 432,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile54/static05",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile54__static05.png",
+  "h": 127,
+  "w": 575
+ }
+}

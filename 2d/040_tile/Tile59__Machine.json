@@ -1,0 +1,185 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "loop": false,
+   "name": "Machine"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -2,
+    "y": 147
+   },
+   "h": 170,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 169
+   },
+   "role": "Machine",
+   "w": 196,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 147
+   },
+   "h": 170,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 169
+   },
+   "role": "Machine",
+   "w": 196,
+   "x": 197,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 149
+   },
+   "h": 172,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 169
+   },
+   "role": "Machine",
+   "w": 196,
+   "x": 394,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 161
+   },
+   "h": 192,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 169
+   },
+   "role": "Machine",
+   "w": 196,
+   "x": 591,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 169
+   },
+   "h": 210,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 169
+   },
+   "role": "Machine",
+   "w": 196,
+   "x": 788,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 161
+   },
+   "h": 204,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 169
+   },
+   "role": "Machine",
+   "w": 196,
+   "x": 0,
+   "y": 211
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 169
+   },
+   "h": 214,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 169
+   },
+   "role": "Machine",
+   "w": 196,
+   "x": 197,
+   "y": 211
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 161
+   },
+   "h": 184,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 169
+   },
+   "role": "Machine",
+   "w": 196,
+   "x": 394,
+   "y": 211
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 169
+   },
+   "h": 192,
+   "index": 8,
+   "origin": {
+    "x": 0,
+    "y": 169
+   },
+   "role": "Machine",
+   "w": 196,
+   "x": 591,
+   "y": 211
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile59/Machine",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile59__Machine.png",
+  "h": 425,
+  "w": 984
+ }
+}

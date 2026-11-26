@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "0"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 49
+   },
+   "h": 50,
+   "index": 0,
+   "origin": {
+    "x": 10,
+    "y": 54
+   },
+   "role": "0",
+   "w": 47,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 41
+   },
+   "h": 42,
+   "index": 1,
+   "origin": {
+    "x": 10,
+    "y": 54
+   },
+   "role": "0",
+   "w": 53,
+   "x": 48,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 53
+   },
+   "h": 54,
+   "index": 2,
+   "origin": {
+    "x": 10,
+    "y": 54
+   },
+   "role": "0",
+   "w": 47,
+   "x": 102,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 52
+   },
+   "h": 53,
+   "index": 3,
+   "origin": {
+    "x": 10,
+    "y": 54
+   },
+   "role": "0",
+   "w": 45,
+   "x": 150,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "060_effect",
+ "name": "Bomb/Bomb03",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Bomb__Bomb03.png",
+  "h": 54,
+  "w": 195
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    210,
+    210,
+    210,
+    210
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "ShoutSticker_Rei02"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -60,
+    "y": -3
+   },
+   "h": 55,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "ShoutSticker_Rei02",
+   "w": 79,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -41,
+    "y": -3
+   },
+   "h": 55,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "ShoutSticker_Rei02",
+   "w": 98,
+   "x": 80,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": -3
+   },
+   "h": 55,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "ShoutSticker_Rei02",
+   "w": 135,
+   "x": 179,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -71,
+    "y": -3
+   },
+   "h": 55,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "ShoutSticker_Rei02",
+   "w": 68,
+   "x": 315,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Emoticon/ShoutSticker_Rei02",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Emoticon__ShoutSticker_Rei02.png",
+  "h": 55,
+  "w": 383
+ }
+}

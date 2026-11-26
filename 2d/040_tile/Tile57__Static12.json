@@ -1,0 +1,131 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    390,
+    210,
+    210,
+    210,
+    210,
+    210
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "Static12"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 38,
+    "y": 154
+   },
+   "h": 152,
+   "index": 0,
+   "origin": {
+    "x": 40,
+    "y": 179
+   },
+   "role": "Static12",
+   "w": 116,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 38,
+    "y": 154
+   },
+   "h": 152,
+   "index": 1,
+   "origin": {
+    "x": 40,
+    "y": 179
+   },
+   "role": "Static12",
+   "w": 116,
+   "x": 117,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 38,
+    "y": 154
+   },
+   "h": 152,
+   "index": 2,
+   "origin": {
+    "x": 40,
+    "y": 179
+   },
+   "role": "Static12",
+   "w": 116,
+   "x": 234,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 38,
+    "y": 154
+   },
+   "h": 152,
+   "index": 3,
+   "origin": {
+    "x": 40,
+    "y": 179
+   },
+   "role": "Static12",
+   "w": 116,
+   "x": 351,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 38,
+    "y": 154
+   },
+   "h": 152,
+   "index": 4,
+   "origin": {
+    "x": 40,
+    "y": 179
+   },
+   "role": "Static12",
+   "w": 116,
+   "x": 468,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 38,
+    "y": 154
+   },
+   "h": 153,
+   "index": 5,
+   "origin": {
+    "x": 40,
+    "y": 179
+   },
+   "role": "Static12",
+   "w": 116,
+   "x": 585,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile57/Static12",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile57__Static12.png",
+  "h": 153,
+  "w": 701
+ }
+}

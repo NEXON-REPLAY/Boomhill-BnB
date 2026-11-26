@@ -1,0 +1,238 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 159,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "spin_step_0",
+   "w": 561,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 159,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "spin_step_1",
+   "w": 561,
+   "x": 0,
+   "y": 160
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 159,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "spin_step_2",
+   "w": 561,
+   "x": 0,
+   "y": 320
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 159,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "spin_step_3",
+   "w": 561,
+   "x": 0,
+   "y": 480
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 159,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "spin_step_4",
+   "w": 561,
+   "x": 0,
+   "y": 640
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 159,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "spin_step_5",
+   "w": 561,
+   "x": 0,
+   "y": 800
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 159,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "spin_step_6",
+   "w": 561,
+   "x": 0,
+   "y": 960
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 159,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "spin_step_7",
+   "w": 561,
+   "x": 0,
+   "y": 1120
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 159,
+   "index": 8,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 561,
+   "x": 0,
+   "y": 1280
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 159,
+   "index": 9,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 561,
+   "x": 0,
+   "y": 1440
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 159,
+   "index": 10,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 561,
+   "x": 0,
+   "y": 1600
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 159,
+   "index": 11,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 561,
+   "x": 0,
+   "y": 1760
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 159,
+   "index": 12,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 561,
+   "x": 0,
+   "y": 1920
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 159,
+   "index": 13,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 561,
+   "x": 0,
+   "y": 2080
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "DTT/DTT_ImgSpinEftHigh",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "DTT__DTT_ImgSpinEftHigh.png",
+  "h": 2239,
+  "w": 561
+ }
+}

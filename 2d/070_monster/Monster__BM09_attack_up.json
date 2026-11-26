@@ -1,0 +1,111 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    90,
+    90,
+    120,
+    120
+   ],
+   "frames": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "Attack Up+Attack2 Up"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 164
+   },
+   "h": 155,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 206
+   },
+   "role": "unconfirmed",
+   "w": 120,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 162
+   },
+   "h": 153,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 206
+   },
+   "role": "Attack Up+Attack2 Up",
+   "w": 118,
+   "x": 121,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 162
+   },
+   "h": 153,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 206
+   },
+   "role": "Attack Up+Attack2 Up",
+   "w": 118,
+   "x": 240,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 170
+   },
+   "h": 161,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 206
+   },
+   "role": "Attack Up+Attack2 Up",
+   "w": 118,
+   "x": 359,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 165
+   },
+   "h": 156,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 206
+   },
+   "role": "Attack Up+Attack2 Up",
+   "w": 118,
+   "x": 478,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/BM09_attack_up",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__BM09_attack_up.png",
+  "h": 161,
+  "w": 596
+ }
+}

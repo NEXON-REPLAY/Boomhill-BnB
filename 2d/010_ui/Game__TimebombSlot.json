@@ -1,0 +1,131 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "TimebombSlot"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -4,
+    "y": -3
+   },
+   "h": 51,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "TimebombSlot",
+   "w": 43,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": -3
+   },
+   "h": 51,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "TimebombSlot",
+   "w": 43,
+   "x": 44,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": -3
+   },
+   "h": 51,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "TimebombSlot",
+   "w": 43,
+   "x": 88,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": -2
+   },
+   "h": 52,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "TimebombSlot",
+   "w": 43,
+   "x": 132,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": -3
+   },
+   "h": 51,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "TimebombSlot",
+   "w": 43,
+   "x": 176,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": -3
+   },
+   "h": 51,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "TimebombSlot",
+   "w": 43,
+   "x": 220,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Game/TimebombSlot",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Game__TimebombSlot.png",
+  "h": 52,
+  "w": 263
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 32,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 32,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "UXCAJJangRatingMark/iIcon_32_Lv04",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "UXCAJJangRatingMark__iIcon_32_Lv04.png",
+  "h": 32,
+  "w": 32
+ }
+}

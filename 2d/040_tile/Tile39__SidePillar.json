@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "SidePillar"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 109
+   },
+   "h": 110,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 109
+   },
+   "role": "SidePillar",
+   "w": 80,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 109
+   },
+   "h": 110,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 109
+   },
+   "role": "SidePillar",
+   "w": 80,
+   "x": 81,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 109
+   },
+   "h": 110,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 109
+   },
+   "role": "SidePillar",
+   "w": 80,
+   "x": 162,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 109
+   },
+   "h": 110,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 109
+   },
+   "role": "SidePillar",
+   "w": 80,
+   "x": 243,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile39/SidePillar",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile39__SidePillar.png",
+  "h": 110,
+  "w": 323
+ }
+}

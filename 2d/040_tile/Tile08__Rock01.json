@@ -1,0 +1,41 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "08Static_Rock01+Rock01"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 53
+   },
+   "h": 54,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 53
+   },
+   "role": "08Static_Rock01+Rock01",
+   "w": 40,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile08/Rock01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile08__Rock01.png",
+  "h": 54,
+  "w": 40
+ }
+}

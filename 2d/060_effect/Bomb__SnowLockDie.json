@@ -1,0 +1,158 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 16,
+    "y": 70
+   },
+   "h": 69,
+   "index": 0,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "ExpKill",
+   "w": 74,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 19,
+    "y": 85
+   },
+   "h": 83,
+   "index": 1,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "ExpKill",
+   "w": 81,
+   "x": 75,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 32,
+    "y": 92
+   },
+   "h": 93,
+   "index": 2,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "ExpKill",
+   "w": 104,
+   "x": 157,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 31,
+    "y": 76
+   },
+   "h": 75,
+   "index": 3,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "ExpKill",
+   "w": 101,
+   "x": 262,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 30,
+    "y": 71
+   },
+   "h": 68,
+   "index": 4,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "ExpKill",
+   "w": 98,
+   "x": 364,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 22,
+    "y": 56
+   },
+   "h": 50,
+   "index": 5,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "ExpKill",
+   "w": 85,
+   "x": 463,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 22,
+    "y": 41
+   },
+   "h": 36,
+   "index": 6,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "ExpKill",
+   "w": 85,
+   "x": 549,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 22,
+    "y": 30
+   },
+   "h": 30,
+   "index": 7,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "ExpKill",
+   "w": 90,
+   "x": 635,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 25,
+    "y": 28
+   },
+   "h": 25,
+   "index": 8,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "ExpKill",
+   "w": 89,
+   "x": 726,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "060_effect",
+ "name": "Bomb/SnowLockDie",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Bomb__SnowLockDie.png",
+  "h": 93,
+  "w": 815
+ }
+}

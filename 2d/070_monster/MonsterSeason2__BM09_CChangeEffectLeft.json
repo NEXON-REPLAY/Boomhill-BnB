@@ -1,0 +1,185 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "loop": false,
+   "name": "Anger"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 41,
+    "y": 127
+   },
+   "h": 151,
+   "index": 0,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Anger",
+   "w": 228,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 25,
+    "y": 128
+   },
+   "h": 152,
+   "index": 1,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Anger",
+   "w": 184,
+   "x": 229,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 26,
+    "y": 129
+   },
+   "h": 154,
+   "index": 2,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Anger",
+   "w": 201,
+   "x": 414,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 12,
+    "y": 131
+   },
+   "h": 155,
+   "index": 3,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Anger",
+   "w": 182,
+   "x": 616,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 27,
+    "y": 139
+   },
+   "h": 163,
+   "index": 4,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Anger",
+   "w": 194,
+   "x": 799,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 17,
+    "y": 153
+   },
+   "h": 177,
+   "index": 5,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Anger",
+   "w": 174,
+   "x": 0,
+   "y": 164
+  },
+  {
+   "center": {
+    "x": 22,
+    "y": 156
+   },
+   "h": 180,
+   "index": 6,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Anger",
+   "w": 187,
+   "x": 175,
+   "y": 164
+  },
+  {
+   "center": {
+    "x": 16,
+    "y": 155
+   },
+   "h": 179,
+   "index": 7,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Anger",
+   "w": 188,
+   "x": 363,
+   "y": 164
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 145
+   },
+   "h": 169,
+   "index": 8,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Anger",
+   "w": 132,
+   "x": 552,
+   "y": 164
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/BM09_CChangeEffectLeft",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__BM09_CChangeEffectLeft.png",
+  "h": 344,
+  "w": 993
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    300
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "GachaponMileage_Tooltip"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 98,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "GachaponMileage_Tooltip",
+   "w": 142,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Dialog/GachaponMileage_ToolTip",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Dialog__GachaponMileage_ToolTip.png",
+  "h": 98,
+  "w": 142
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": -8,
+    "y": -21
+   },
+   "h": 10,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 26,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Etc/PortraitHandle",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Etc__PortraitHandle.png",
+  "h": 10,
+  "w": 26
+ }
+}

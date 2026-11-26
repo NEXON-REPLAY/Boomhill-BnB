@@ -1,0 +1,41 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "08Static_LeftRock00+LeftRock00"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 106
+   },
+   "h": 107,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 106
+   },
+   "role": "08Static_LeftRock00+LeftRock00",
+   "w": 24,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile08/LeftRock00",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile08__LeftRock00.png",
+  "h": 107,
+  "w": 24
+ }
+}

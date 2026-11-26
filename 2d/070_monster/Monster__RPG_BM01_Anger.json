@@ -1,0 +1,103 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "Anger"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 19,
+    "y": 153
+   },
+   "h": 147,
+   "index": 0,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "Anger",
+   "w": 141,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 17,
+    "y": 157
+   },
+   "h": 147,
+   "index": 1,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "Anger",
+   "w": 147,
+   "x": 142,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 22,
+    "y": 155
+   },
+   "h": 149,
+   "index": 2,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "Anger",
+   "w": 159,
+   "x": 290,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 17,
+    "y": 151
+   },
+   "h": 147,
+   "index": 3,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "Anger",
+   "w": 156,
+   "x": 450,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/RPG_BM01_Anger",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__RPG_BM01_Anger.png",
+  "h": 149,
+  "w": 606
+ }
+}

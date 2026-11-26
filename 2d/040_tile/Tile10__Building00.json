@@ -1,0 +1,113 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    3000,
+    300,
+    450,
+    90,
+    60
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "10Static_Building00+Building00"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 140
+   },
+   "h": 141,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 140
+   },
+   "role": "10Static_Building00+Building00",
+   "w": 158,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 140
+   },
+   "h": 141,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 140
+   },
+   "role": "10Static_Building00+Building00",
+   "w": 158,
+   "x": 159,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 140
+   },
+   "h": 141,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 140
+   },
+   "role": "10Static_Building00+Building00",
+   "w": 158,
+   "x": 318,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 140
+   },
+   "h": 141,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 140
+   },
+   "role": "10Static_Building00+Building00",
+   "w": 158,
+   "x": 477,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 140
+   },
+   "h": 141,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 140
+   },
+   "role": "10Static_Building00+Building00",
+   "w": 158,
+   "x": 636,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile10/Building00",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile10__Building00.png",
+  "h": 141,
+  "w": 794
+ }
+}

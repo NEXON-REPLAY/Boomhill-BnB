@@ -1,0 +1,142 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 19,
+    "y": 38
+   },
+   "h": 72,
+   "index": 0,
+   "origin": {
+    "x": 81,
+    "y": 158
+   },
+   "role": "unconfirmed",
+   "w": 86,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 27,
+    "y": 43
+   },
+   "h": 77,
+   "index": 1,
+   "origin": {
+    "x": 81,
+    "y": 158
+   },
+   "role": "unconfirmed",
+   "w": 94,
+   "x": 87,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 29,
+    "y": 84
+   },
+   "h": 119,
+   "index": 2,
+   "origin": {
+    "x": 81,
+    "y": 158
+   },
+   "role": "unconfirmed",
+   "w": 98,
+   "x": 182,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 26,
+    "y": 113
+   },
+   "h": 96,
+   "index": 3,
+   "origin": {
+    "x": 81,
+    "y": 158
+   },
+   "role": "unconfirmed",
+   "w": 91,
+   "x": 281,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 23,
+    "y": 149
+   },
+   "h": 110,
+   "index": 4,
+   "origin": {
+    "x": 81,
+    "y": 158
+   },
+   "role": "unconfirmed",
+   "w": 90,
+   "x": 373,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 24,
+    "y": 135
+   },
+   "h": 123,
+   "index": 5,
+   "origin": {
+    "x": 81,
+    "y": 158
+   },
+   "role": "unconfirmed",
+   "w": 83,
+   "x": 464,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 30,
+    "y": 149
+   },
+   "h": 185,
+   "index": 6,
+   "origin": {
+    "x": 81,
+    "y": 158
+   },
+   "role": "unconfirmed",
+   "w": 100,
+   "x": 548,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 50
+   },
+   "h": 78,
+   "index": 7,
+   "origin": {
+    "x": 81,
+    "y": 158
+   },
+   "role": "unconfirmed",
+   "w": 82,
+   "x": 649,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "020_bomber",
+ "name": "Character/C16-AttackLayerAdjust",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Character__C16-AttackLayerAdjust.png",
+  "h": 185,
+  "w": 731
+ }
+}

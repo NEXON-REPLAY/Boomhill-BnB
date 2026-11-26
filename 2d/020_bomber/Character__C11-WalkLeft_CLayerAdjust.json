@@ -1,0 +1,125 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    3000
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "Fishing Left+Stop Left"
+  },
+  {
+   "frame_ms": [
+    90,
+    90,
+    90,
+    90,
+    90,
+    90
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    0,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "Walk Left"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -2,
+    "y": 61
+   },
+   "h": 34,
+   "index": 0,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "animated",
+   "w": 47,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 61
+   },
+   "h": 34,
+   "index": 1,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "Walk Left",
+   "w": 48,
+   "x": 48,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 60
+   },
+   "h": 34,
+   "index": 2,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "animated",
+   "w": 49,
+   "x": 97,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 61
+   },
+   "h": 34,
+   "index": 3,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "Walk Left",
+   "w": 47,
+   "x": 147,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 60
+   },
+   "h": 34,
+   "index": 4,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "animated",
+   "w": 46,
+   "x": 195,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "020_bomber",
+ "name": "Character/C11-WalkLeft_CLayerAdjust",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Character__C11-WalkLeft_CLayerAdjust.png",
+  "h": 34,
+  "w": 241
+ }
+}

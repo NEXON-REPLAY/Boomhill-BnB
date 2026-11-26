@@ -1,0 +1,129 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "Start"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -16,
+    "y": 17
+   },
+   "h": 12,
+   "index": 1,
+   "origin": {
+    "x": 13,
+    "y": 84
+   },
+   "role": "Start",
+   "w": 12,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -10,
+    "y": 42
+   },
+   "h": 31,
+   "index": 2,
+   "origin": {
+    "x": 13,
+    "y": 84
+   },
+   "role": "Start",
+   "w": 27,
+   "x": 13,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 63
+   },
+   "h": 52,
+   "index": 3,
+   "origin": {
+    "x": 13,
+    "y": 84
+   },
+   "role": "Start",
+   "w": 39,
+   "x": 41,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 79
+   },
+   "h": 63,
+   "index": 4,
+   "origin": {
+    "x": 13,
+    "y": 84
+   },
+   "role": "Start",
+   "w": 46,
+   "x": 81,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 63
+   },
+   "h": 61,
+   "index": 5,
+   "origin": {
+    "x": 13,
+    "y": 84
+   },
+   "role": "Start",
+   "w": 57,
+   "x": 128,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 65
+   },
+   "h": 60,
+   "index": 6,
+   "origin": {
+    "x": 13,
+    "y": 84
+   },
+   "role": "unconfirmed",
+   "w": 44,
+   "x": 186,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/SM15_In",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__SM15_In.png",
+  "h": 63,
+  "w": 230
+ }
+}

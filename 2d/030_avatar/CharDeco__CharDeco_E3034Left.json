@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "Left"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 13,
+    "y": 57
+   },
+   "h": 57,
+   "index": 0,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 69,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 13,
+    "y": 58
+   },
+   "h": 58,
+   "index": 1,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 69,
+   "x": 70,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 13,
+    "y": 59
+   },
+   "h": 59,
+   "index": 2,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 69,
+   "x": 140,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 13,
+    "y": 58
+   },
+   "h": 58,
+   "index": 3,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 69,
+   "x": 210,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 13,
+    "y": 57
+   },
+   "h": 57,
+   "index": 4,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 69,
+   "x": 280,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 13,
+    "y": 58
+   },
+   "h": 58,
+   "index": 5,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 69,
+   "x": 350,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 13,
+    "y": 59
+   },
+   "h": 59,
+   "index": 6,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 69,
+   "x": 420,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 13,
+    "y": 58
+   },
+   "h": 58,
+   "index": 7,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 69,
+   "x": 490,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "CharDeco/CharDeco_E3034Left",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "CharDeco__CharDeco_E3034Left.png",
+  "h": 59,
+  "w": 559
+ }
+}

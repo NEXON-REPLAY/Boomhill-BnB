@@ -1,0 +1,77 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2
+   ],
+   "loop": false,
+   "name": "In"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -3,
+    "y": 42
+   },
+   "h": 37,
+   "index": 0,
+   "origin": {
+    "x": 4,
+    "y": 55
+   },
+   "role": "In",
+   "w": 34,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 42
+   },
+   "h": 38,
+   "index": 1,
+   "origin": {
+    "x": 4,
+    "y": 55
+   },
+   "role": "In",
+   "w": 34,
+   "x": 35,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 42
+   },
+   "h": 40,
+   "index": 2,
+   "origin": {
+    "x": 4,
+    "y": 55
+   },
+   "role": "In",
+   "w": 34,
+   "x": 70,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/SM04_Drop",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__SM04_Drop.png",
+  "h": 40,
+  "w": 104
+ }
+}

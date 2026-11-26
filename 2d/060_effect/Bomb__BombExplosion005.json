@@ -1,0 +1,203 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "loop": false,
+   "name": "BombExplosion005"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -4,
+    "y": 43
+   },
+   "h": 34,
+   "index": 0,
+   "origin": {
+    "x": 20,
+    "y": 95
+   },
+   "role": "BombExplosion005",
+   "w": 35,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 39
+   },
+   "h": 33,
+   "index": 1,
+   "origin": {
+    "x": 20,
+    "y": 95
+   },
+   "role": "BombExplosion005",
+   "w": 34,
+   "x": 36,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 50
+   },
+   "h": 48,
+   "index": 2,
+   "origin": {
+    "x": 20,
+    "y": 95
+   },
+   "role": "BombExplosion005",
+   "w": 57,
+   "x": 71,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 65
+   },
+   "h": 61,
+   "index": 3,
+   "origin": {
+    "x": 20,
+    "y": 95
+   },
+   "role": "BombExplosion005",
+   "w": 62,
+   "x": 129,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 69
+   },
+   "h": 65,
+   "index": 4,
+   "origin": {
+    "x": 20,
+    "y": 95
+   },
+   "role": "BombExplosion005",
+   "w": 68,
+   "x": 192,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 16,
+    "y": 73
+   },
+   "h": 74,
+   "index": 5,
+   "origin": {
+    "x": 20,
+    "y": 95
+   },
+   "role": "BombExplosion005",
+   "w": 80,
+   "x": 261,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 77
+   },
+   "h": 76,
+   "index": 6,
+   "origin": {
+    "x": 20,
+    "y": 95
+   },
+   "role": "BombExplosion005",
+   "w": 75,
+   "x": 342,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 16,
+    "y": 85
+   },
+   "h": 85,
+   "index": 7,
+   "origin": {
+    "x": 20,
+    "y": 95
+   },
+   "role": "BombExplosion005",
+   "w": 74,
+   "x": 418,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 17,
+    "y": 88
+   },
+   "h": 89,
+   "index": 8,
+   "origin": {
+    "x": 20,
+    "y": 95
+   },
+   "role": "BombExplosion005",
+   "w": 75,
+   "x": 493,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 18,
+    "y": 90
+   },
+   "h": 92,
+   "index": 9,
+   "origin": {
+    "x": 20,
+    "y": 95
+   },
+   "role": "BombExplosion005",
+   "w": 77,
+   "x": 569,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "060_effect",
+ "name": "Bomb/BombExplosion005",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Bomb__BombExplosion005.png",
+  "h": 92,
+  "w": 646
+ }
+}

@@ -1,0 +1,119 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    90,
+    90,
+    90,
+    60,
+    60,
+    60,
+    60,
+    60
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "Attack Down+Attack Left+Attack Right+Attack Up+Attack2 Down (+3 more)"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 14,
+    "y": 110
+   },
+   "h": 109,
+   "index": 0,
+   "origin": {
+    "x": 21,
+    "y": 137
+   },
+   "role": "Attack Down+Attack Left+Attack Right+Attack Up+Attack2 Down (+3 more)",
+   "w": 109,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 117
+   },
+   "h": 116,
+   "index": 1,
+   "origin": {
+    "x": 21,
+    "y": 137
+   },
+   "role": "Attack Down+Attack Left+Attack Right+Attack Up+Attack2 Down (+3 more)",
+   "w": 109,
+   "x": 110,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 133
+   },
+   "h": 132,
+   "index": 2,
+   "origin": {
+    "x": 21,
+    "y": 137
+   },
+   "role": "Attack Down+Attack Left+Attack Right+Attack Up+Attack2 Down (+3 more)",
+   "w": 109,
+   "x": 220,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 18,
+    "y": 136
+   },
+   "h": 135,
+   "index": 3,
+   "origin": {
+    "x": 21,
+    "y": 137
+   },
+   "role": "Attack Down+Attack Left+Attack Right+Attack Up+Attack2 Down (+3 more)",
+   "w": 119,
+   "x": 330,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 19,
+    "y": 136
+   },
+   "h": 135,
+   "index": 4,
+   "origin": {
+    "x": 21,
+    "y": 137
+   },
+   "role": "Attack Down+Attack Left+Attack Right+Attack Up+Attack2 Down (+3 more)",
+   "w": 116,
+   "x": 450,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/BM05_Attack",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__BM05_Attack.png",
+  "h": 135,
+  "w": 566
+ }
+}

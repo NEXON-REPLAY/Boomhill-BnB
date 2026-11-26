@@ -1,0 +1,85 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    750,
+    150,
+    150,
+    150,
+    150,
+    450,
+    2250
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    1,
+    2,
+    1,
+    0
+   ],
+   "loop": false,
+   "name": "BlinkSmall"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 5,
+    "y": 46
+   },
+   "h": 46,
+   "index": 0,
+   "origin": {
+    "x": 8,
+    "y": 47
+   },
+   "role": "BlinkSmall",
+   "w": 50,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 46
+   },
+   "h": 46,
+   "index": 1,
+   "origin": {
+    "x": 8,
+    "y": 47
+   },
+   "role": "BlinkSmall",
+   "w": 50,
+   "x": 51,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 46
+   },
+   "h": 46,
+   "index": 2,
+   "origin": {
+    "x": 8,
+    "y": 47
+   },
+   "role": "BlinkSmall",
+   "w": 50,
+   "x": 102,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "020_bomber",
+ "name": "Character/C22-BlinkSmall_ALayerStatic",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Character__C22-BlinkSmall_ALayerStatic.png",
+  "h": 46,
+  "w": 152
+ }
+}

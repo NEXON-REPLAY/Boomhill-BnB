@@ -1,0 +1,131 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "MatchingProgressBarOutLine"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 40,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "MatchingProgressBarOutLine",
+   "w": 482,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 40,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "MatchingProgressBarOutLine",
+   "w": 482,
+   "x": 483,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 40,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "MatchingProgressBarOutLine",
+   "w": 482,
+   "x": 0,
+   "y": 41
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 40,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "MatchingProgressBarOutLine",
+   "w": 482,
+   "x": 483,
+   "y": 41
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 40,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "MatchingProgressBarOutLine",
+   "w": 482,
+   "x": 0,
+   "y": 82
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 40,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "MatchingProgressBarOutLine",
+   "w": 482,
+   "x": 483,
+   "y": 82
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "UXMatching/Maching_Bar_Effect",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "UXMatching__Maching_Bar_Effect.png",
+  "h": 122,
+  "w": 965
+ }
+}

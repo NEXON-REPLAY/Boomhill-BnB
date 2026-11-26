@@ -1,0 +1,125 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    0,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "Walk Down"
+  },
+  {
+   "frame_ms": [
+    3000
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "Stop Down"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 19,
+    "y": 153
+   },
+   "h": 147,
+   "index": 0,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "animated",
+   "w": 141,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 17,
+    "y": 154
+   },
+   "h": 148,
+   "index": 1,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "Walk Down",
+   "w": 141,
+   "x": 142,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 17,
+    "y": 154
+   },
+   "h": 148,
+   "index": 2,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "Walk Down",
+   "w": 146,
+   "x": 284,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 20,
+    "y": 154
+   },
+   "h": 148,
+   "index": 3,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "Walk Down",
+   "w": 144,
+   "x": 431,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 19,
+    "y": 154
+   },
+   "h": 148,
+   "index": 4,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "Walk Down",
+   "w": 144,
+   "x": 576,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/RPG_BM01_WalkDown",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__RPG_BM01_WalkDown.png",
+  "h": 148,
+  "w": 720
+ }
+}

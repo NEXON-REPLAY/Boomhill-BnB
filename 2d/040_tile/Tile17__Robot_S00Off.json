@@ -1,0 +1,79 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    240,
+    240,
+    240,
+    240
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    1
+   ],
+   "loop": false,
+   "name": "17Static_Robot_Small+Robot_Small"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 50
+   },
+   "h": 51,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 52
+   },
+   "role": "17Static_Robot_Small+Robot_Small",
+   "w": 40,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 51
+   },
+   "h": 52,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 52
+   },
+   "role": "17Static_Robot_Small+Robot_Small",
+   "w": 40,
+   "x": 41,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 52
+   },
+   "h": 53,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 52
+   },
+   "role": "17Static_Robot_Small+Robot_Small",
+   "w": 40,
+   "x": 82,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile17/Robot_S00Off",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile17__Robot_S00Off.png",
+  "h": 53,
+  "w": 122
+ }
+}

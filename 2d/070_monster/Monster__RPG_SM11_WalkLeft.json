@@ -1,0 +1,123 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "StopLeft"
+  },
+  {
+   "frame_ms": [
+    210,
+    150,
+    150,
+    120,
+    360
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "WalkLeft"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -1,
+    "y": 40
+   },
+   "h": 40,
+   "index": 0,
+   "origin": {
+    "x": 6,
+    "y": 46
+   },
+   "role": "animated",
+   "w": 38,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 40
+   },
+   "h": 40,
+   "index": 1,
+   "origin": {
+    "x": 6,
+    "y": 46
+   },
+   "role": "WalkLeft",
+   "w": 38,
+   "x": 39,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 40
+   },
+   "h": 40,
+   "index": 2,
+   "origin": {
+    "x": 6,
+    "y": 46
+   },
+   "role": "WalkLeft",
+   "w": 38,
+   "x": 78,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 40
+   },
+   "h": 40,
+   "index": 3,
+   "origin": {
+    "x": 6,
+    "y": 46
+   },
+   "role": "WalkLeft",
+   "w": 39,
+   "x": 117,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 40
+   },
+   "h": 40,
+   "index": 4,
+   "origin": {
+    "x": 6,
+    "y": 46
+   },
+   "role": "WalkLeft",
+   "w": 39,
+   "x": 157,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/RPG_SM11_WalkLeft",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__RPG_SM11_WalkLeft.png",
+  "h": 40,
+  "w": 196
+ }
+}

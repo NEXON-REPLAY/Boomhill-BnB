@@ -1,0 +1,147 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    150
+   ],
+   "frames": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "In"
+  },
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    5,
+    4,
+    3,
+    2,
+    1
+   ],
+   "loop": false,
+   "name": "Disappear"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -4,
+    "y": 14
+   },
+   "h": 8,
+   "index": 1,
+   "origin": {
+    "x": 20,
+    "y": 84
+   },
+   "role": "animated",
+   "w": 32,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 30
+   },
+   "h": 20,
+   "index": 2,
+   "origin": {
+    "x": 20,
+    "y": 84
+   },
+   "role": "animated",
+   "w": 37,
+   "x": 33,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 46
+   },
+   "h": 32,
+   "index": 3,
+   "origin": {
+    "x": 20,
+    "y": 84
+   },
+   "role": "animated",
+   "w": 40,
+   "x": 71,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 66
+   },
+   "h": 48,
+   "index": 4,
+   "origin": {
+    "x": 20,
+    "y": 84
+   },
+   "role": "animated",
+   "w": 44,
+   "x": 112,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 81
+   },
+   "h": 58,
+   "index": 5,
+   "origin": {
+    "x": 20,
+    "y": 84
+   },
+   "role": "animated",
+   "w": 44,
+   "x": 157,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 12,
+    "y": 82
+   },
+   "h": 77,
+   "index": 6,
+   "origin": {
+    "x": 20,
+    "y": 84
+   },
+   "role": "unconfirmed",
+   "w": 64,
+   "x": 202,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/SM05_GrownIn",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__SM05_GrownIn.png",
+  "h": 77,
+  "w": 266
+ }
+}

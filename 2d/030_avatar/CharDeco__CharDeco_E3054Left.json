@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "Left"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 7,
+    "y": 38
+   },
+   "h": 39,
+   "index": 0,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 53,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 25
+   },
+   "h": 25,
+   "index": 1,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 54,
+   "x": 54,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 8,
+    "y": 26
+   },
+   "h": 25,
+   "index": 2,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 56,
+   "x": 109,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 31
+   },
+   "h": 31,
+   "index": 3,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 58,
+   "x": 166,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 35
+   },
+   "h": 36,
+   "index": 4,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 59,
+   "x": 225,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 39
+   },
+   "h": 39,
+   "index": 5,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 58,
+   "x": 285,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 36
+   },
+   "h": 35,
+   "index": 6,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 52,
+   "x": 344,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 36
+   },
+   "h": 36,
+   "index": 7,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 52,
+   "x": 397,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "CharDeco/CharDeco_E3054Left",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "CharDeco__CharDeco_E3054Left.png",
+  "h": 39,
+  "w": 449
+ }
+}

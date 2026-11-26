@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 4,
+    "y": 63
+   },
+   "h": 45,
+   "index": 0,
+   "origin": {
+    "x": 4,
+    "y": 66
+   },
+   "role": "unconfirmed",
+   "w": 47,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "Icon/Emotion_H302icon",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Icon__Emotion_H302icon.png",
+  "h": 45,
+  "w": 47
+ }
+}

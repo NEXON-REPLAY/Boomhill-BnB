@@ -1,0 +1,59 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1
+   ],
+   "loop": false,
+   "name": "R2_Penguin03"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 65
+   },
+   "h": 58,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 72
+   },
+   "role": "R2_Penguin03",
+   "w": 40,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 65
+   },
+   "h": 58,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 72
+   },
+   "role": "R2_Penguin03",
+   "w": 40,
+   "x": 41,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile29/R2_Penguin03",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile29__R2_Penguin03.png",
+  "h": 58,
+  "w": 81
+ }
+}

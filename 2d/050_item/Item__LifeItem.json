@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 17,
+    "y": 85
+   },
+   "h": 76,
+   "index": 0,
+   "origin": {
+    "x": 30,
+    "y": 104
+   },
+   "role": "sole-frame",
+   "w": 77,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "050_item",
+ "name": "Item/LifeItem",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Item__LifeItem.png",
+  "h": 76,
+  "w": 77
+ }
+}

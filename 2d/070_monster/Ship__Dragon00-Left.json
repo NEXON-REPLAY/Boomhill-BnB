@@ -1,0 +1,141 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    90,
+    90,
+    90,
+    90,
+    90,
+    90
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "Move Left"
+  },
+  {
+   "frame_ms": [
+    150
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "Stop Left"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 6,
+    "y": 48
+   },
+   "h": 40,
+   "index": 0,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "animated",
+   "w": 54,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 46
+   },
+   "h": 40,
+   "index": 1,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "Move Left",
+   "w": 54,
+   "x": 55,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 45
+   },
+   "h": 42,
+   "index": 2,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "Move Left",
+   "w": 54,
+   "x": 110,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 44
+   },
+   "h": 40,
+   "index": 3,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "Move Left",
+   "w": 55,
+   "x": 165,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 46
+   },
+   "h": 42,
+   "index": 4,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "Move Left",
+   "w": 57,
+   "x": 221,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 49
+   },
+   "h": 41,
+   "index": 5,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "Move Left",
+   "w": 52,
+   "x": 279,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Ship/Dragon00-Left",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Ship__Dragon00-Left.png",
+  "h": 42,
+  "w": 331
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "03Static_TruckRed+TruckRed"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 141
+   },
+   "h": 138,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 141
+   },
+   "role": "03Static_TruckRed+TruckRed",
+   "w": 80,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile03/TruckRed",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile03__TruckRed.png",
+  "h": 138,
+  "w": 80
+ }
+}

@@ -1,0 +1,141 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "08_StopRight+09_StopDown+11_BlinkRight"
+  },
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "04_WalkRight+05_WalkDown"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 14,
+    "y": 82
+   },
+   "h": 77,
+   "index": 0,
+   "origin": {
+    "x": 20,
+    "y": 97
+   },
+   "role": "animated",
+   "w": 64,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 79
+   },
+   "h": 74,
+   "index": 1,
+   "origin": {
+    "x": 20,
+    "y": 97
+   },
+   "role": "04_WalkRight+05_WalkDown",
+   "w": 64,
+   "x": 65,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 88
+   },
+   "h": 80,
+   "index": 2,
+   "origin": {
+    "x": 20,
+    "y": 97
+   },
+   "role": "04_WalkRight+05_WalkDown",
+   "w": 64,
+   "x": 130,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 92
+   },
+   "h": 81,
+   "index": 3,
+   "origin": {
+    "x": 20,
+    "y": 97
+   },
+   "role": "04_WalkRight+05_WalkDown",
+   "w": 64,
+   "x": 195,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 78
+   },
+   "h": 73,
+   "index": 4,
+   "origin": {
+    "x": 20,
+    "y": 97
+   },
+   "role": "04_WalkRight+05_WalkDown",
+   "w": 66,
+   "x": 260,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 82
+   },
+   "h": 77,
+   "index": 5,
+   "origin": {
+    "x": 20,
+    "y": 97
+   },
+   "role": "04_WalkRight+05_WalkDown",
+   "w": 64,
+   "x": 327,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/M_Sancho_Walk_Right",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__M_Sancho_Walk_Right.png",
+  "h": 81,
+  "w": 391
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    300,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    1,
+    0,
+    1,
+    2,
+    1
+   ],
+   "loop": false,
+   "name": "07Static_LightTower+LightTower"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 174
+   },
+   "h": 175,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 174
+   },
+   "role": "07Static_LightTower+LightTower",
+   "w": 160,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 174
+   },
+   "h": 175,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 174
+   },
+   "role": "07Static_LightTower+LightTower",
+   "w": 160,
+   "x": 161,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 174
+   },
+   "h": 175,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 174
+   },
+   "role": "07Static_LightTower+LightTower",
+   "w": 160,
+   "x": 322,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile07/LightTower",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile07__LightTower.png",
+  "h": 175,
+  "w": 482
+ }
+}

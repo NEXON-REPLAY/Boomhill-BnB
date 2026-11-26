@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": -4,
+    "y": -6
+   },
+   "h": 14,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "divider",
+   "w": 2,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "GlobalUI/GlobalBar",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "GlobalUI__GlobalBar.png",
+  "h": 14,
+  "w": 2
+ }
+}

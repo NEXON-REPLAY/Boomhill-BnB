@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    180,
+    210,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    0,
+    1,
+    2,
+    3,
+    0,
+    1,
+    4,
+    5,
+    6,
+    3,
+    6,
+    3
+   ],
+   "loop": false,
+   "name": "Fanfare007"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 3,
+    "y": 10
+   },
+   "h": 108,
+   "index": 0,
+   "origin": {
+    "x": 16,
+    "y": 16
+   },
+   "role": "Fanfare007",
+   "w": 105,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 9
+   },
+   "h": 107,
+   "index": 1,
+   "origin": {
+    "x": 16,
+    "y": 16
+   },
+   "role": "Fanfare007",
+   "w": 105,
+   "x": 106,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 10
+   },
+   "h": 108,
+   "index": 2,
+   "origin": {
+    "x": 16,
+    "y": 16
+   },
+   "role": "Fanfare007",
+   "w": 105,
+   "x": 212,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 10
+   },
+   "h": 108,
+   "index": 3,
+   "origin": {
+    "x": 16,
+    "y": 16
+   },
+   "role": "Fanfare007",
+   "w": 105,
+   "x": 318,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 13
+   },
+   "h": 111,
+   "index": 4,
+   "origin": {
+    "x": 16,
+    "y": 16
+   },
+   "role": "Fanfare007",
+   "w": 105,
+   "x": 424,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 9
+   },
+   "h": 107,
+   "index": 5,
+   "origin": {
+    "x": 16,
+    "y": 16
+   },
+   "role": "Fanfare007",
+   "w": 105,
+   "x": 530,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 10
+   },
+   "h": 108,
+   "index": 6,
+   "origin": {
+    "x": 16,
+    "y": 16
+   },
+   "role": "Fanfare007",
+   "w": 105,
+   "x": 636,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "Fanfare/Fanfare007",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Fanfare__Fanfare007.png",
+  "h": 111,
+  "w": 741
+ }
+}

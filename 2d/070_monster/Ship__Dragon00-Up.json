@@ -1,0 +1,141 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    90,
+    90,
+    90,
+    90,
+    90,
+    90
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "Move Up"
+  },
+  {
+   "frame_ms": [
+    150
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "Stop Up"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 5,
+    "y": 48
+   },
+   "h": 43,
+   "index": 0,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "animated",
+   "w": 50,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 46
+   },
+   "h": 42,
+   "index": 1,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "Move Up",
+   "w": 50,
+   "x": 51,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 45
+   },
+   "h": 42,
+   "index": 2,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "Move Up",
+   "w": 52,
+   "x": 102,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 44
+   },
+   "h": 40,
+   "index": 3,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "Move Up",
+   "w": 54,
+   "x": 155,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 47
+   },
+   "h": 44,
+   "index": 4,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "Move Up",
+   "w": 50,
+   "x": 210,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 49
+   },
+   "h": 41,
+   "index": 5,
+   "origin": {
+    "x": 13,
+    "y": 99
+   },
+   "role": "Move Up",
+   "w": 46,
+   "x": 261,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Ship/Dragon00-Up",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Ship__Dragon00-Up.png",
+  "h": 44,
+  "w": 307
+ }
+}

@@ -1,0 +1,2170 @@
+{
+ "assets": [
+  {
+   "first": {
+    "h": 41,
+    "w": 38,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Airship",
+   "name": "Item/Airship",
+   "sheet": {
+    "h": 41,
+    "w": 38
+   }
+  },
+  {
+   "first": {
+    "h": 41,
+    "w": 38,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__AirshipBroken",
+   "name": "Item/AirshipBroken",
+   "sheet": {
+    "h": 41,
+    "w": 38
+   }
+  },
+  {
+   "first": {
+    "h": 34,
+    "w": 31,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Banana00",
+   "name": "Item/Banana00",
+   "sheet": {
+    "h": 34,
+    "w": 31
+   }
+  },
+  {
+   "first": {
+    "h": 38,
+    "w": 38,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Banana01",
+   "name": "Item/Banana01",
+   "sheet": {
+    "h": 38,
+    "w": 38
+   }
+  },
+  {
+   "first": {
+    "h": 39,
+    "w": 38,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Banana02",
+   "name": "Item/Banana02",
+   "sheet": {
+    "h": 39,
+    "w": 38
+   }
+  },
+  {
+   "first": {
+    "h": 38,
+    "w": 40,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Banana03",
+   "name": "Item/Banana03",
+   "sheet": {
+    "h": 38,
+    "w": 40
+   }
+  },
+  {
+   "first": {
+    "h": 32,
+    "w": 37,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__BananaGround",
+   "name": "Item/BananaGround",
+   "sheet": {
+    "h": 32,
+    "w": 37
+   }
+  },
+  {
+   "first": {
+    "h": 43,
+    "w": 39,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 6,
+   "id": "Item__BlackDevil",
+   "name": "Item/BlackDevil",
+   "sheet": {
+    "h": 44,
+    "w": 247
+   }
+  },
+  {
+   "first": {
+    "h": 43,
+    "w": 38,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Bomb",
+   "name": "Item/Bomb",
+   "sheet": {
+    "h": 43,
+    "w": 38
+   }
+  },
+  {
+   "first": {
+    "h": 34,
+    "w": 40,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Bomber10",
+   "name": "Item/Bomber10",
+   "sheet": {
+    "h": 34,
+    "w": 40
+   }
+  },
+  {
+   "first": {
+    "h": 34,
+    "w": 40,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Bomber11",
+   "name": "Item/Bomber11",
+   "sheet": {
+    "h": 34,
+    "w": 40
+   }
+  },
+  {
+   "first": {
+    "h": 34,
+    "w": 40,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Bomber120",
+   "name": "Item/Bomber120",
+   "sheet": {
+    "h": 34,
+    "w": 40
+   }
+  },
+  {
+   "first": {
+    "h": 34,
+    "w": 40,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Bomber121",
+   "name": "Item/Bomber121",
+   "sheet": {
+    "h": 34,
+    "w": 40
+   }
+  },
+  {
+   "first": {
+    "h": 34,
+    "w": 40,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Bomber123",
+   "name": "Item/Bomber123",
+   "sheet": {
+    "h": 34,
+    "w": 40
+   }
+  },
+  {
+   "first": {
+    "h": 34,
+    "w": 40,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Bomber124",
+   "name": "Item/Bomber124",
+   "sheet": {
+    "h": 34,
+    "w": 40
+   }
+  },
+  {
+   "first": {
+    "h": 34,
+    "w": 40,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Bomber126",
+   "name": "Item/Bomber126",
+   "sheet": {
+    "h": 34,
+    "w": 40
+   }
+  },
+  {
+   "first": {
+    "h": 34,
+    "w": 40,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Bomber127",
+   "name": "Item/Bomber127",
+   "sheet": {
+    "h": 34,
+    "w": 40
+   }
+  },
+  {
+   "first": {
+    "h": 34,
+    "w": 40,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Bomber128",
+   "name": "Item/Bomber128",
+   "sheet": {
+    "h": 34,
+    "w": 40
+   }
+  },
+  {
+   "first": {
+    "h": 34,
+    "w": 40,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Bomber8",
+   "name": "Item/Bomber8",
+   "sheet": {
+    "h": 34,
+    "w": 40
+   }
+  },
+  {
+   "first": {
+    "h": 34,
+    "w": 40,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Bomber9",
+   "name": "Item/Bomber9",
+   "sheet": {
+    "h": 34,
+    "w": 40
+   }
+  },
+  {
+   "first": {
+    "h": 34,
+    "w": 40,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__BomberSuLuxma",
+   "name": "Item/BomberSuLuxma",
+   "sheet": {
+    "h": 34,
+    "w": 40
+   }
+  },
+  {
+   "first": {
+    "h": 37,
+    "w": 35,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Bond",
+   "name": "Item/Bond",
+   "sheet": {
+    "h": 37,
+    "w": 35
+   }
+  },
+  {
+   "first": {
+    "h": 42,
+    "w": 42,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 5,
+   "id": "Item__BondGround",
+   "name": "Item/BondGround",
+   "sheet": {
+    "h": 42,
+    "w": 163
+   }
+  },
+  {
+   "first": {
+    "h": 26,
+    "w": 40,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__BonusCoupon",
+   "name": "Item/BonusCoupon",
+   "sheet": {
+    "h": 26,
+    "w": 40
+   }
+  },
+  {
+   "first": {
+    "h": 37,
+    "w": 29,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Can",
+   "name": "Item/Can",
+   "sheet": {
+    "h": 37,
+    "w": 29
+   }
+  },
+  {
+   "first": {
+    "h": 48,
+    "w": 39,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Chicken",
+   "name": "Item/Chicken",
+   "sheet": {
+    "h": 48,
+    "w": 39
+   }
+  },
+  {
+   "first": {
+    "h": 45,
+    "w": 40,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 6,
+   "id": "Item__CloneBomber",
+   "name": "Item/CloneBomber",
+   "sheet": {
+    "h": 45,
+    "w": 245
+   }
+  },
+  {
+   "first": {
+    "h": 27,
+    "w": 27,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 8,
+   "id": "Item__CoinBronze",
+   "name": "Item/CoinBronze",
+   "sheet": {
+    "h": 31,
+    "w": 152
+   }
+  },
+  {
+   "first": {
+    "h": 27,
+    "w": 27,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 8,
+   "id": "Item__CoinGold",
+   "name": "Item/CoinGold",
+   "sheet": {
+    "h": 31,
+    "w": 152
+   }
+  },
+  {
+   "first": {
+    "h": 41,
+    "w": 38,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 8,
+   "id": "Item__CoinPocketBronze",
+   "name": "Item/CoinPocketBronze",
+   "sheet": {
+    "h": 41,
+    "w": 311
+   }
+  },
+  {
+   "first": {
+    "h": 41,
+    "w": 38,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 8,
+   "id": "Item__CoinPocketGold",
+   "name": "Item/CoinPocketGold",
+   "sheet": {
+    "h": 41,
+    "w": 311
+   }
+  },
+  {
+   "first": {
+    "h": 42,
+    "w": 38,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 8,
+   "id": "Item__CoinPocketGoldEx",
+   "name": "Item/CoinPocketGoldEx",
+   "sheet": {
+    "h": 44,
+    "w": 341
+   }
+  },
+  {
+   "first": {
+    "h": 41,
+    "w": 38,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 8,
+   "id": "Item__CoinPocketGoldSpecial",
+   "name": "Item/CoinPocketGoldSpecial",
+   "sheet": {
+    "h": 41,
+    "w": 311
+   }
+  },
+  {
+   "first": {
+    "h": 41,
+    "w": 38,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 8,
+   "id": "Item__CoinPocketGoldXmas",
+   "name": "Item/CoinPocketGoldXmas",
+   "sheet": {
+    "h": 41,
+    "w": 311
+   }
+  },
+  {
+   "first": {
+    "h": 41,
+    "w": 38,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 8,
+   "id": "Item__CoinPocketRandom",
+   "name": "Item/CoinPocketRandom",
+   "sheet": {
+    "h": 41,
+    "w": 311
+   }
+  },
+  {
+   "first": {
+    "h": 41,
+    "w": 38,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 8,
+   "id": "Item__CoinPocketSilver",
+   "name": "Item/CoinPocketSilver",
+   "sheet": {
+    "h": 41,
+    "w": 311
+   }
+  },
+  {
+   "first": {
+    "h": 27,
+    "w": 27,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 8,
+   "id": "Item__CoinSilver",
+   "name": "Item/CoinSilver",
+   "sheet": {
+    "h": 31,
+    "w": 152
+   }
+  },
+  {
+   "first": {
+    "h": 52,
+    "w": 37,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__CoinSnowRandom",
+   "name": "Item/CoinSnowRandom",
+   "sheet": {
+    "h": 52,
+    "w": 37
+   }
+  },
+  {
+   "first": {
+    "h": 41,
+    "w": 37,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Dart",
+   "name": "Item/Dart",
+   "sheet": {
+    "h": 41,
+    "w": 37
+   }
+  },
+  {
+   "first": {
+    "h": 28,
+    "w": 43,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__DoubleExp01",
+   "name": "Item/DoubleExp01",
+   "sheet": {
+    "h": 28,
+    "w": 43
+   }
+  },
+  {
+   "first": {
+    "h": 28,
+    "w": 43,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__DoubleLucci01",
+   "name": "Item/DoubleLucci01",
+   "sheet": {
+    "h": 28,
+    "w": 43
+   }
+  },
+  {
+   "first": {
+    "h": 36,
+    "w": 39,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Drill",
+   "name": "Item/Drill",
+   "sheet": {
+    "h": 36,
+    "w": 39
+   }
+  },
+  {
+   "first": {
+    "h": 41,
+    "w": 36,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Fire",
+   "name": "Item/Fire",
+   "sheet": {
+    "h": 41,
+    "w": 36
+   }
+  },
+  {
+   "first": {
+    "h": 60,
+    "w": 35,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 8,
+   "id": "Item__GinsengEffectOff",
+   "name": "Item/GinsengEffectOff",
+   "sheet": {
+    "h": 70,
+    "w": 464
+   }
+  },
+  {
+   "first": {
+    "h": 60,
+    "w": 35,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 8,
+   "id": "Item__GinsengEffectOn",
+   "name": "Item/GinsengEffectOn",
+   "sheet": {
+    "h": 70,
+    "w": 464
+   }
+  },
+  {
+   "first": {
+    "h": 14,
+    "w": 46,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 8,
+   "id": "Item__GinsengEffectStart",
+   "name": "Item/GinsengEffectStart",
+   "sheet": {
+    "h": 125,
+    "w": 706
+   }
+  },
+  {
+   "first": {
+    "h": 37,
+    "w": 36,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__GreenDevil",
+   "name": "Item/GreenDevil",
+   "sheet": {
+    "h": 37,
+    "w": 36
+   }
+  },
+  {
+   "first": {
+    "h": 36,
+    "w": 37,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__HCHint",
+   "name": "Item/HCHint",
+   "sheet": {
+    "h": 36,
+    "w": 37
+   }
+  },
+  {
+   "first": {
+    "h": 43,
+    "w": 38,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Hollow",
+   "name": "Item/Hollow",
+   "sheet": {
+    "h": 43,
+    "w": 38
+   }
+  },
+  {
+   "first": {
+    "h": 32,
+    "w": 22,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__HollowBomb",
+   "name": "Item/HollowBomb",
+   "sheet": {
+    "h": 32,
+    "w": 22
+   }
+  },
+  {
+   "first": {
+    "h": 35,
+    "w": 29,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__ImperialTicketIcon",
+   "name": "Item/ImperialTicketIcon",
+   "sheet": {
+    "h": 35,
+    "w": 29
+   }
+  },
+  {
+   "first": {
+    "h": 39,
+    "w": 44,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__ItemAutoShield",
+   "name": "Item/ItemAutoShield",
+   "sheet": {
+    "h": 39,
+    "w": 44
+   }
+  },
+  {
+   "first": {
+    "h": 33,
+    "w": 36,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__ItemBlank01",
+   "name": "Item/ItemBlank01",
+   "sheet": {
+    "h": 33,
+    "w": 36
+   }
+  },
+  {
+   "first": {
+    "h": 57,
+    "w": 39,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__ItemBlank02",
+   "name": "Item/ItemBlank02",
+   "sheet": {
+    "h": 57,
+    "w": 39
+   }
+  },
+  {
+   "first": {
+    "h": 25,
+    "w": 25,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 116,
+   "id": "Item__ItemCoupleRing_S",
+   "name": "Item/ItemCoupleRing_S",
+   "sheet": {
+    "h": 77,
+    "w": 1013
+   }
+  },
+  {
+   "first": {
+    "h": 16,
+    "w": 32,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__ItemEventIcon",
+   "name": "Item/ItemEventIcon",
+   "sheet": {
+    "h": 16,
+    "w": 32
+   }
+  },
+  {
+   "first": {
+    "h": 36,
+    "w": 35,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__ItemHCCoin",
+   "name": "Item/ItemHCCoin",
+   "sheet": {
+    "h": 36,
+    "w": 35
+   }
+  },
+  {
+   "first": {
+    "h": 44,
+    "w": 41,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__ItemMagicPaper",
+   "name": "Item/ItemMagicPaper",
+   "sheet": {
+    "h": 44,
+    "w": 41
+   }
+  },
+  {
+   "first": {
+    "h": 47,
+    "w": 40,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__ItemMyriadGinseng",
+   "name": "Item/ItemMyriadGinseng",
+   "sheet": {
+    "h": 47,
+    "w": 40
+   }
+  },
+  {
+   "first": {
+    "h": 36,
+    "w": 38,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__ItemNeedleL",
+   "name": "Item/ItemNeedleL",
+   "sheet": {
+    "h": 36,
+    "w": 38
+   }
+  },
+  {
+   "first": {
+    "h": 33,
+    "w": 34,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__ItemPet034",
+   "name": "Item/ItemPet034",
+   "sheet": {
+    "h": 33,
+    "w": 34
+   }
+  },
+  {
+   "first": {
+    "h": 42,
+    "w": 41,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__ItemRescueCoin",
+   "name": "Item/ItemRescueCoin",
+   "sheet": {
+    "h": 42,
+    "w": 41
+   }
+  },
+  {
+   "first": {
+    "h": 42,
+    "w": 42,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__ItemRescueCoinL",
+   "name": "Item/ItemRescueCoinL",
+   "sheet": {
+    "h": 42,
+    "w": 42
+   }
+  },
+  {
+   "first": {
+    "h": 36,
+    "w": 34,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__ItemSnow",
+   "name": "Item/ItemSnow",
+   "sheet": {
+    "h": 36,
+    "w": 34
+   }
+  },
+  {
+   "first": {
+    "h": 36,
+    "w": 43,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__ItemSpeaker_15th_00",
+   "name": "Item/ItemSpeaker_15th_00",
+   "sheet": {
+    "h": 36,
+    "w": 43
+   }
+  },
+  {
+   "first": {
+    "h": 36,
+    "w": 42,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__ItemSpeaker_15th_01",
+   "name": "Item/ItemSpeaker_15th_01",
+   "sheet": {
+    "h": 36,
+    "w": 42
+   }
+  },
+  {
+   "first": {
+    "h": 36,
+    "w": 43,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__ItemSpeaker_16th_00",
+   "name": "Item/ItemSpeaker_16th_00",
+   "sheet": {
+    "h": 36,
+    "w": 43
+   }
+  },
+  {
+   "first": {
+    "h": 37,
+    "w": 43,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__ItemSpeaker_newviolet_all",
+   "name": "Item/ItemSpeaker_newviolet_all",
+   "sheet": {
+    "h": 37,
+    "w": 43
+   }
+  },
+  {
+   "first": {
+    "h": 43,
+    "w": 40,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__ItemWildGinseng",
+   "name": "Item/ItemWildGinseng",
+   "sheet": {
+    "h": 43,
+    "w": 40
+   }
+  },
+  {
+   "first": {
+    "h": 43,
+    "w": 42,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__ItemWildGinsengL",
+   "name": "Item/ItemWildGinsengL",
+   "sheet": {
+    "h": 43,
+    "w": 42
+   }
+  },
+  {
+   "first": {
+    "h": 44,
+    "w": 25,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 2,
+   "id": "Item__Javelin_Down",
+   "name": "Item/Javelin_Down",
+   "sheet": {
+    "h": 44,
+    "w": 51
+   }
+  },
+  {
+   "first": {
+    "h": 25,
+    "w": 44,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 2,
+   "id": "Item__Javelin_Left",
+   "name": "Item/Javelin_Left",
+   "sheet": {
+    "h": 25,
+    "w": 75
+   }
+  },
+  {
+   "first": {
+    "h": 25,
+    "w": 44,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 2,
+   "id": "Item__Javelin_Right",
+   "name": "Item/Javelin_Right",
+   "sheet": {
+    "h": 25,
+    "w": 75
+   }
+  },
+  {
+   "first": {
+    "h": 44,
+    "w": 25,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 2,
+   "id": "Item__Javelin_Up",
+   "name": "Item/Javelin_Up",
+   "sheet": {
+    "h": 44,
+    "w": 51
+   }
+  },
+  {
+   "first": {
+    "h": 44,
+    "w": 35,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__LevelIcon000",
+   "name": "Item/LevelIcon000",
+   "sheet": {
+    "h": 44,
+    "w": 35
+   }
+  },
+  {
+   "first": {
+    "h": 44,
+    "w": 35,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__LevelIcon001",
+   "name": "Item/LevelIcon001",
+   "sheet": {
+    "h": 44,
+    "w": 35
+   }
+  },
+  {
+   "first": {
+    "h": 44,
+    "w": 35,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__LevelIcon002",
+   "name": "Item/LevelIcon002",
+   "sheet": {
+    "h": 44,
+    "w": 35
+   }
+  },
+  {
+   "first": {
+    "h": 44,
+    "w": 35,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__LevelIcon003",
+   "name": "Item/LevelIcon003",
+   "sheet": {
+    "h": 44,
+    "w": 35
+   }
+  },
+  {
+   "first": {
+    "h": 44,
+    "w": 35,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__LevelIcon004",
+   "name": "Item/LevelIcon004",
+   "sheet": {
+    "h": 44,
+    "w": 35
+   }
+  },
+  {
+   "first": {
+    "h": 44,
+    "w": 35,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__LevelIcon006",
+   "name": "Item/LevelIcon006",
+   "sheet": {
+    "h": 44,
+    "w": 35
+   }
+  },
+  {
+   "first": {
+    "h": 44,
+    "w": 35,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__LevelIcon007",
+   "name": "Item/LevelIcon007",
+   "sheet": {
+    "h": 44,
+    "w": 35
+   }
+  },
+  {
+   "first": {
+    "h": 76,
+    "w": 77,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__LifeItem",
+   "name": "Item/LifeItem",
+   "sheet": {
+    "h": 76,
+    "w": 77
+   }
+  },
+  {
+   "first": {
+    "h": 21,
+    "w": 19,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 10,
+   "id": "Item__LuckyKey_Rank",
+   "name": "Item/LuckyKey_Rank",
+   "sheet": {
+    "h": 21,
+    "w": 221
+   }
+  },
+  {
+   "first": {
+    "h": 94,
+    "w": 85,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__LuckyReward07",
+   "name": "Item/LuckyReward07",
+   "sheet": {
+    "h": 94,
+    "w": 85
+   }
+  },
+  {
+   "first": {
+    "h": 94,
+    "w": 85,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__LuckyReward08",
+   "name": "Item/LuckyReward08",
+   "sheet": {
+    "h": 94,
+    "w": 85
+   }
+  },
+  {
+   "first": {
+    "h": 94,
+    "w": 85,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__LuckyReward09",
+   "name": "Item/LuckyReward09",
+   "sheet": {
+    "h": 94,
+    "w": 85
+   }
+  },
+  {
+   "first": {
+    "h": 92,
+    "w": 67,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__LuckyReward10",
+   "name": "Item/LuckyReward10",
+   "sheet": {
+    "h": 92,
+    "w": 67
+   }
+  },
+  {
+   "first": {
+    "h": 92,
+    "w": 67,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__LuckyReward11",
+   "name": "Item/LuckyReward11",
+   "sheet": {
+    "h": 92,
+    "w": 67
+   }
+  },
+  {
+   "first": {
+    "h": 92,
+    "w": 67,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__LuckyReward12",
+   "name": "Item/LuckyReward12",
+   "sheet": {
+    "h": 92,
+    "w": 67
+   }
+  },
+  {
+   "first": {
+    "h": 37,
+    "w": 34,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Mask",
+   "name": "Item/Mask",
+   "sheet": {
+    "h": 37,
+    "w": 34
+   }
+  },
+  {
+   "first": {
+    "h": 43,
+    "w": 42,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__MaxPower",
+   "name": "Item/MaxPower",
+   "sheet": {
+    "h": 43,
+    "w": 42
+   }
+  },
+  {
+   "first": {
+    "h": 36,
+    "w": 36,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__MonS2Niddle",
+   "name": "Item/MonS2Niddle",
+   "sheet": {
+    "h": 36,
+    "w": 36
+   }
+  },
+  {
+   "first": {
+    "h": 39,
+    "w": 37,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__MoonWalk",
+   "name": "Item/MoonWalk",
+   "sheet": {
+    "h": 39,
+    "w": 37
+   }
+  },
+  {
+   "first": {
+    "h": 33,
+    "w": 32,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Niddle",
+   "name": "Item/Niddle",
+   "sheet": {
+    "h": 33,
+    "w": 32
+   }
+  },
+  {
+   "first": {
+    "h": 39,
+    "w": 31,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Octopus0",
+   "name": "Item/Octopus0",
+   "sheet": {
+    "h": 39,
+    "w": 31
+   }
+  },
+  {
+   "first": {
+    "h": 39,
+    "w": 31,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Octopus1",
+   "name": "Item/Octopus1",
+   "sheet": {
+    "h": 39,
+    "w": 31
+   }
+  },
+  {
+   "first": {
+    "h": 38,
+    "w": 35,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Owl",
+   "name": "Item/Owl",
+   "sheet": {
+    "h": 38,
+    "w": 35
+   }
+  },
+  {
+   "first": {
+    "h": 41,
+    "w": 36,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Oxygen",
+   "name": "Item/Oxygen",
+   "sheet": {
+    "h": 41,
+    "w": 36
+   }
+  },
+  {
+   "first": {
+    "h": 37,
+    "w": 30,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Potion",
+   "name": "Item/Potion",
+   "sheet": {
+    "h": 37,
+    "w": 30
+   }
+  },
+  {
+   "first": {
+    "h": 45,
+    "w": 50,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Present",
+   "name": "Item/Present",
+   "sheet": {
+    "h": 45,
+    "w": 50
+   }
+  },
+  {
+   "first": {
+    "h": 37,
+    "w": 32,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Punch",
+   "name": "Item/Punch",
+   "sheet": {
+    "h": 37,
+    "w": 32
+   }
+  },
+  {
+   "first": {
+    "h": 32,
+    "w": 32,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Pushpin",
+   "name": "Item/Pushpin",
+   "sheet": {
+    "h": 32,
+    "w": 32
+   }
+  },
+  {
+   "first": {
+    "h": 35,
+    "w": 31,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__PushpinGround",
+   "name": "Item/PushpinGround",
+   "sheet": {
+    "h": 35,
+    "w": 31
+   }
+  },
+  {
+   "first": {
+    "h": 15,
+    "w": 15,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__RPG_ItemSkill_PlusMax",
+   "name": "Item/RPG_ItemSkill_PlusMax",
+   "sheet": {
+    "h": 15,
+    "w": 15
+   }
+  },
+  {
+   "first": {
+    "h": 38,
+    "w": 36,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__RadioBomb",
+   "name": "Item/RadioBomb",
+   "sheet": {
+    "h": 38,
+    "w": 36
+   }
+  },
+  {
+   "first": {
+    "h": 43,
+    "w": 39,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__RailCar",
+   "name": "Item/RailCar",
+   "sheet": {
+    "h": 43,
+    "w": 39
+   }
+  },
+  {
+   "first": {
+    "h": 41,
+    "w": 42,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__RandomBox",
+   "name": "Item/RandomBox",
+   "sheet": {
+    "h": 41,
+    "w": 42
+   }
+  },
+  {
+   "first": {
+    "h": 37,
+    "w": 36,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__RedDevil",
+   "name": "Item/RedDevil",
+   "sheet": {
+    "h": 37,
+    "w": 36
+   }
+  },
+  {
+   "first": {
+    "h": 33,
+    "w": 33,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 4,
+   "id": "Item__RedSpark",
+   "name": "Item/RedSpark",
+   "sheet": {
+    "h": 41,
+    "w": 147
+   }
+  },
+  {
+   "first": {
+    "h": 42,
+    "w": 41,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__ResurrectionItemAIBattle",
+   "name": "Item/ResurrectionItemAIBattle",
+   "sheet": {
+    "h": 42,
+    "w": 41
+   }
+  },
+  {
+   "first": {
+    "h": 36,
+    "w": 36,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__ResurrectionTicket",
+   "name": "Item/ResurrectionTicket",
+   "sheet": {
+    "h": 36,
+    "w": 36
+   }
+  },
+  {
+   "first": {
+    "h": 42,
+    "w": 38,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Roller",
+   "name": "Item/Roller",
+   "sheet": {
+    "h": 42,
+    "w": 38
+   }
+  },
+  {
+   "first": {
+    "h": 35,
+    "w": 29,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__RoomTicket",
+   "name": "Item/RoomTicket",
+   "sheet": {
+    "h": 35,
+    "w": 29
+   }
+  },
+  {
+   "first": {
+    "h": 39,
+    "w": 40,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Scanner",
+   "name": "Item/Scanner",
+   "sheet": {
+    "h": 39,
+    "w": 40
+   }
+  },
+  {
+   "first": {
+    "h": 42,
+    "w": 35,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Sensor",
+   "name": "Item/Sensor",
+   "sheet": {
+    "h": 42,
+    "w": 35
+   }
+  },
+  {
+   "first": {
+    "h": 36,
+    "w": 40,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Shark",
+   "name": "Item/Shark",
+   "sheet": {
+    "h": 36,
+    "w": 40
+   }
+  },
+  {
+   "first": {
+    "h": 37,
+    "w": 34,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Shield",
+   "name": "Item/Shield",
+   "sheet": {
+    "h": 37,
+    "w": 34
+   }
+  },
+  {
+   "first": {
+    "h": 95,
+    "w": 68,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 8,
+   "id": "Item__ShieldFlash",
+   "name": "Item/ShieldFlash",
+   "sheet": {
+    "h": 95,
+    "w": 551
+   }
+  },
+  {
+   "first": {
+    "h": 40,
+    "w": 39,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__ShieldL",
+   "name": "Item/ShieldL",
+   "sheet": {
+    "h": 40,
+    "w": 39
+   }
+  },
+  {
+   "first": {
+    "h": 95,
+    "w": 68,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 8,
+   "id": "Item__ShieldOn",
+   "name": "Item/ShieldOn",
+   "sheet": {
+    "h": 95,
+    "w": 551
+   }
+  },
+  {
+   "first": {
+    "h": 42,
+    "w": 38,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Shoe",
+   "name": "Item/Shoe",
+   "sheet": {
+    "h": 42,
+    "w": 38
+   }
+  },
+  {
+   "first": {
+    "h": 44,
+    "w": 38,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Skate",
+   "name": "Item/Skate",
+   "sheet": {
+    "h": 44,
+    "w": 38
+   }
+  },
+  {
+   "first": {
+    "h": 37,
+    "w": 36,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Skeleton0",
+   "name": "Item/Skeleton0",
+   "sheet": {
+    "h": 37,
+    "w": 36
+   }
+  },
+  {
+   "first": {
+    "h": 37,
+    "w": 36,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Skeleton1",
+   "name": "Item/Skeleton1",
+   "sheet": {
+    "h": 37,
+    "w": 36
+   }
+  },
+  {
+   "first": {
+    "h": 41,
+    "w": 41,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__SkillBombMissile",
+   "name": "Item/SkillBombMissile",
+   "sheet": {
+    "h": 41,
+    "w": 41
+   }
+  },
+  {
+   "first": {
+    "h": 41,
+    "w": 41,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__SkillChargeDash",
+   "name": "Item/SkillChargeDash",
+   "sheet": {
+    "h": 41,
+    "w": 41
+   }
+  },
+  {
+   "first": {
+    "h": 41,
+    "w": 41,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__SkillConfuse",
+   "name": "Item/SkillConfuse",
+   "sheet": {
+    "h": 41,
+    "w": 41
+   }
+  },
+  {
+   "first": {
+    "h": 41,
+    "w": 41,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__SkillCrossBomb",
+   "name": "Item/SkillCrossBomb",
+   "sheet": {
+    "h": 41,
+    "w": 41
+   }
+  },
+  {
+   "first": {
+    "h": 41,
+    "w": 41,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__SkillDefenseUp",
+   "name": "Item/SkillDefenseUp",
+   "sheet": {
+    "h": 41,
+    "w": 41
+   }
+  },
+  {
+   "first": {
+    "h": 41,
+    "w": 41,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__SkillDirBomb",
+   "name": "Item/SkillDirBomb",
+   "sheet": {
+    "h": 41,
+    "w": 41
+   }
+  },
+  {
+   "first": {
+    "h": 41,
+    "w": 41,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__SkillDodge",
+   "name": "Item/SkillDodge",
+   "sheet": {
+    "h": 41,
+    "w": 41
+   }
+  },
+  {
+   "first": {
+    "h": 41,
+    "w": 41,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__SkillFallingNuclear",
+   "name": "Item/SkillFallingNuclear",
+   "sheet": {
+    "h": 41,
+    "w": 41
+   }
+  },
+  {
+   "first": {
+    "h": 41,
+    "w": 41,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__SkillNuclear",
+   "name": "Item/SkillNuclear",
+   "sheet": {
+    "h": 41,
+    "w": 41
+   }
+  },
+  {
+   "first": {
+    "h": 41,
+    "w": 41,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__SkillPowerUp",
+   "name": "Item/SkillPowerUp",
+   "sheet": {
+    "h": 41,
+    "w": 41
+   }
+  },
+  {
+   "first": {
+    "h": 38,
+    "w": 33,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Spanner",
+   "name": "Item/Spanner",
+   "sheet": {
+    "h": 38,
+    "w": 33
+   }
+  },
+  {
+   "first": {
+    "h": 43,
+    "w": 37,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Spring",
+   "name": "Item/Spring",
+   "sheet": {
+    "h": 43,
+    "w": 37
+   }
+  },
+  {
+   "first": {
+    "h": 40,
+    "w": 43,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 6,
+   "id": "Item__SuperStar",
+   "name": "Item/SuperStar",
+   "sheet": {
+    "h": 41,
+    "w": 262
+   }
+  },
+  {
+   "first": {
+    "h": 36,
+    "w": 36,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Tank",
+   "name": "Item/Tank",
+   "sheet": {
+    "h": 36,
+    "w": 36
+   }
+  },
+  {
+   "first": {
+    "h": 37,
+    "w": 50,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__TeamShield",
+   "name": "Item/TeamShield",
+   "sheet": {
+    "h": 37,
+    "w": 50
+   }
+  },
+  {
+   "first": {
+    "h": 11,
+    "w": 29,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 4,
+   "id": "Item__ThrownDart",
+   "name": "Item/ThrownDart",
+   "sheet": {
+    "h": 29,
+    "w": 83
+   }
+  },
+  {
+   "first": {
+    "h": 39,
+    "w": 38,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Trap",
+   "name": "Item/Trap",
+   "sheet": {
+    "h": 39,
+    "w": 38
+   }
+  },
+  {
+   "first": {
+    "h": 47,
+    "w": 10,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 12,
+   "id": "Item__TrapGround",
+   "name": "Item/TrapGround",
+   "sheet": {
+    "h": 47,
+    "w": 382
+   }
+  },
+  {
+   "first": {
+    "h": 41,
+    "w": 36,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Turtle0",
+   "name": "Item/Turtle0",
+   "sheet": {
+    "h": 41,
+    "w": 36
+   }
+  },
+  {
+   "first": {
+    "h": 41,
+    "w": 36,
+    "x": 0,
+    "y": 0
+   },
+   "frames": 1,
+   "id": "Item__Turtle1",
+   "name": "Item/Turtle1",
+   "sheet": {
+    "h": 41,
+    "w": 36
+   }
+  }
+ ],
+ "count": 144,
+ "frames": 413,
+ "game": "bnb",
+ "group": "050_item",
+ "schema": "boomhill-open-assets/group-index/v1",
+ "title": "아이템"
+}

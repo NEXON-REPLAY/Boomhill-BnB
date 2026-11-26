@@ -1,0 +1,203 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "loop": false,
+   "name": "ButterflyBlur03"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -29,
+    "y": -33
+   },
+   "h": 59,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "ButterflyBlur03",
+   "w": 34,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -30,
+    "y": -58
+   },
+   "h": 30,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "ButterflyBlur03",
+   "w": 33,
+   "x": 35,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -31,
+    "y": -50
+   },
+   "h": 31,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "ButterflyBlur03",
+   "w": 29,
+   "x": 69,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -30,
+    "y": -39
+   },
+   "h": 35,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "ButterflyBlur03",
+   "w": 32,
+   "x": 99,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -33,
+    "y": -28
+   },
+   "h": 76,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "ButterflyBlur03",
+   "w": 30,
+   "x": 132,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -30,
+    "y": -24
+   },
+   "h": 71,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "ButterflyBlur03",
+   "w": 29,
+   "x": 163,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -31,
+    "y": -44
+   },
+   "h": 43,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "ButterflyBlur03",
+   "w": 32,
+   "x": 193,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -32,
+    "y": -42
+   },
+   "h": 39,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "ButterflyBlur03",
+   "w": 27,
+   "x": 226,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -34,
+    "y": -38
+   },
+   "h": 57,
+   "index": 8,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "ButterflyBlur03",
+   "w": 27,
+   "x": 254,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -38,
+    "y": -42
+   },
+   "h": 46,
+   "index": 9,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "ButterflyBlur03",
+   "w": 20,
+   "x": 282,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "060_effect",
+ "name": "MotionBlur/Blur_Butterfly01_Down",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MotionBlur__Blur_Butterfly01_Down.png",
+  "h": 76,
+  "w": 302
+ }
+}

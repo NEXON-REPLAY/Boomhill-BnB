@@ -1,0 +1,77 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2
+   ],
+   "loop": false,
+   "name": "Locking"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -4,
+    "y": 84
+   },
+   "h": 64,
+   "index": 0,
+   "origin": {
+    "x": 13,
+    "y": 84
+   },
+   "role": "Locking",
+   "w": 40,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 32
+   },
+   "h": 27,
+   "index": 1,
+   "origin": {
+    "x": 13,
+    "y": 84
+   },
+   "role": "Locking",
+   "w": 48,
+   "x": 41,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 39
+   },
+   "h": 34,
+   "index": 2,
+   "origin": {
+    "x": 13,
+    "y": 84
+   },
+   "role": "Locking",
+   "w": 40,
+   "x": 90,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/R_SM15_Hit",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__R_SM15_Hit.png",
+  "h": 64,
+  "w": 130
+ }
+}

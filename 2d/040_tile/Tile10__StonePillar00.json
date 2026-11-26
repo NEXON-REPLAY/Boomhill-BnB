@@ -1,0 +1,85 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    1500,
+    210,
+    210,
+    210,
+    900,
+    210,
+    3000
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    1,
+    0,
+    1,
+    2
+   ],
+   "loop": false,
+   "name": "10Static_StonePillar00+StonePillar00"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 130
+   },
+   "h": 131,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 130
+   },
+   "role": "10Static_StonePillar00+StonePillar00",
+   "w": 40,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 130
+   },
+   "h": 131,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 130
+   },
+   "role": "10Static_StonePillar00+StonePillar00",
+   "w": 40,
+   "x": 41,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 130
+   },
+   "h": 131,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 130
+   },
+   "role": "10Static_StonePillar00+StonePillar00",
+   "w": 40,
+   "x": 82,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile10/StonePillar00",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile10__StonePillar00.png",
+  "h": 131,
+  "w": 122
+ }
+}

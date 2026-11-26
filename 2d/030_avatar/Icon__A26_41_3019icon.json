@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 2,
+    "y": 62
+   },
+   "h": 46,
+   "index": 0,
+   "origin": {
+    "x": 2,
+    "y": 66
+   },
+   "role": "unconfirmed",
+   "w": 44,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "Icon/A26_41_3019icon",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Icon__A26_41_3019icon.png",
+  "h": 46,
+  "w": 44
+ }
+}

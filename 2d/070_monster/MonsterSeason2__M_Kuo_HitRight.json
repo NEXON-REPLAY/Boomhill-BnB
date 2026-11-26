@@ -1,0 +1,77 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2
+   ],
+   "loop": false,
+   "name": "14_DamageRight"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 12,
+    "y": 47
+   },
+   "h": 42,
+   "index": 0,
+   "origin": {
+    "x": 13,
+    "y": 77
+   },
+   "role": "14_DamageRight",
+   "w": 51,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 12,
+    "y": 47
+   },
+   "h": 42,
+   "index": 1,
+   "origin": {
+    "x": 13,
+    "y": 77
+   },
+   "role": "14_DamageRight",
+   "w": 51,
+   "x": 52,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 47
+   },
+   "h": 42,
+   "index": 2,
+   "origin": {
+    "x": 13,
+    "y": 77
+   },
+   "role": "14_DamageRight",
+   "w": 48,
+   "x": 104,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/M_Kuo_HitRight",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__M_Kuo_HitRight.png",
+  "h": 42,
+  "w": 152
+ }
+}

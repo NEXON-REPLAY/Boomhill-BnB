@@ -1,0 +1,131 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    150,
+    150,
+    150,
+    120,
+    300
+   ],
+   "frames": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "loop": false,
+   "name": "In"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -12,
+    "y": 28
+   },
+   "h": 16,
+   "index": 1,
+   "origin": {
+    "x": 6,
+    "y": 46
+   },
+   "role": "In",
+   "w": 16,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": 32
+   },
+   "h": 25,
+   "index": 2,
+   "origin": {
+    "x": 6,
+    "y": 46
+   },
+   "role": "In",
+   "w": 27,
+   "x": 17,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 36
+   },
+   "h": 33,
+   "index": 3,
+   "origin": {
+    "x": 6,
+    "y": 46
+   },
+   "role": "In",
+   "w": 34,
+   "x": 45,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 39
+   },
+   "h": 38,
+   "index": 4,
+   "origin": {
+    "x": 6,
+    "y": 46
+   },
+   "role": "In",
+   "w": 38,
+   "x": 80,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 39
+   },
+   "h": 38,
+   "index": 5,
+   "origin": {
+    "x": 6,
+    "y": 46
+   },
+   "role": "In",
+   "w": 38,
+   "x": 119,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 39
+   },
+   "h": 38,
+   "index": 6,
+   "origin": {
+    "x": 6,
+    "y": 46
+   },
+   "role": "In",
+   "w": 40,
+   "x": 158,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/RPG_SM12_in",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__RPG_SM12_in.png",
+  "h": 38,
+  "w": 198
+ }
+}

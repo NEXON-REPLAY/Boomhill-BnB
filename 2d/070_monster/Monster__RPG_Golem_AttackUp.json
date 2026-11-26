@@ -1,0 +1,113 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    90,
+    150,
+    180,
+    240,
+    240
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "Attack Up+Attack2 Up"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 12,
+    "y": 153
+   },
+   "h": 147,
+   "index": 0,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Attack Up+Attack2 Up",
+   "w": 144,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 26,
+    "y": 145
+   },
+   "h": 154,
+   "index": 1,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Attack Up+Attack2 Up",
+   "w": 171,
+   "x": 145,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 24,
+    "y": 152
+   },
+   "h": 161,
+   "index": 2,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Attack Up+Attack2 Up",
+   "w": 170,
+   "x": 317,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 25,
+    "y": 155
+   },
+   "h": 164,
+   "index": 3,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Attack Up+Attack2 Up",
+   "w": 171,
+   "x": 488,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 23,
+    "y": 153
+   },
+   "h": 162,
+   "index": 4,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Attack Up+Attack2 Up",
+   "w": 171,
+   "x": 660,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/RPG_Golem_AttackUp",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__RPG_Golem_AttackUp.png",
+  "h": 164,
+  "w": 831
+ }
+}

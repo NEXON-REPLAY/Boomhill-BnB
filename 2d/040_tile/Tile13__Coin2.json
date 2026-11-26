@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "13Static_Coin2+Coin2"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 2,
+    "y": 65
+   },
+   "h": 66,
+   "index": 0,
+   "origin": {
+    "x": 2,
+    "y": 65
+   },
+   "role": "13Static_Coin2+Coin2",
+   "w": 43,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 65
+   },
+   "h": 66,
+   "index": 1,
+   "origin": {
+    "x": 2,
+    "y": 65
+   },
+   "role": "13Static_Coin2+Coin2",
+   "w": 43,
+   "x": 44,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 65
+   },
+   "h": 66,
+   "index": 2,
+   "origin": {
+    "x": 2,
+    "y": 65
+   },
+   "role": "13Static_Coin2+Coin2",
+   "w": 43,
+   "x": 88,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 65
+   },
+   "h": 66,
+   "index": 3,
+   "origin": {
+    "x": 2,
+    "y": 65
+   },
+   "role": "13Static_Coin2+Coin2",
+   "w": 43,
+   "x": 132,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile13/Coin2",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile13__Coin2.png",
+  "h": 66,
+  "w": 175
+ }
+}

@@ -1,0 +1,123 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    210,
+    210,
+    210,
+    210
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    1
+   ],
+   "loop": false,
+   "name": "Basic00"
+  },
+  {
+   "frame_ms": [
+    120,
+    120
+   ],
+   "frames": [
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "MouseOver"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -19,
+    "y": -45
+   },
+   "h": 57,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "Basic00",
+   "w": 48,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -19,
+    "y": -44
+   },
+   "h": 58,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "Basic00",
+   "w": 48,
+   "x": 49,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -19,
+    "y": -43
+   },
+   "h": 59,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "Basic00",
+   "w": 48,
+   "x": 98,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -15,
+    "y": -36
+   },
+   "h": 67,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "MouseOver",
+   "w": 56,
+   "x": 147,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -15,
+    "y": -36
+   },
+   "h": 67,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "MouseOver",
+   "w": 56,
+   "x": 204,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Shop/S_DlgBasketEggMouseoverB",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop__S_DlgBasketEggMouseoverB.png",
+  "h": 67,
+  "w": 260
+ }
+}

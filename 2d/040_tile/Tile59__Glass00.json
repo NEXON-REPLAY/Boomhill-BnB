@@ -1,0 +1,113 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    240,
+    240,
+    240,
+    240,
+    240
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "Glass00"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 85
+   },
+   "h": 86,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 85
+   },
+   "role": "Glass00",
+   "w": 40,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 85
+   },
+   "h": 86,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 85
+   },
+   "role": "Glass00",
+   "w": 40,
+   "x": 41,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 85
+   },
+   "h": 86,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 85
+   },
+   "role": "Glass00",
+   "w": 40,
+   "x": 82,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 85
+   },
+   "h": 86,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 85
+   },
+   "role": "Glass00",
+   "w": 40,
+   "x": 123,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 85
+   },
+   "h": 86,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 85
+   },
+   "role": "Glass00",
+   "w": 40,
+   "x": 164,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile59/Glass00",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile59__Glass00.png",
+  "h": 86,
+  "w": 204
+ }
+}

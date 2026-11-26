@@ -1,0 +1,207 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    180,
+    180,
+    210,
+    180,
+    210,
+    180,
+    210,
+    180,
+    210,
+    180,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    7,
+    8,
+    9
+   ],
+   "loop": false,
+   "name": "HurrahRight"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 18,
+    "y": 168
+   },
+   "h": 173,
+   "index": 0,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "HurrahRight",
+   "w": 178,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 21,
+    "y": 175
+   },
+   "h": 179,
+   "index": 1,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "HurrahRight",
+   "w": 180,
+   "x": 179,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 28,
+    "y": 181
+   },
+   "h": 180,
+   "index": 2,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "HurrahRight",
+   "w": 190,
+   "x": 360,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 29,
+    "y": 183
+   },
+   "h": 178,
+   "index": 3,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "HurrahRight",
+   "w": 195,
+   "x": 551,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 28,
+    "y": 181
+   },
+   "h": 180,
+   "index": 4,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "HurrahRight",
+   "w": 190,
+   "x": 747,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 29,
+    "y": 183
+   },
+   "h": 178,
+   "index": 5,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "HurrahRight",
+   "w": 195,
+   "x": 0,
+   "y": 181
+  },
+  {
+   "center": {
+    "x": 28,
+    "y": 181
+   },
+   "h": 180,
+   "index": 6,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "HurrahRight",
+   "w": 190,
+   "x": 196,
+   "y": 181
+  },
+  {
+   "center": {
+    "x": 29,
+    "y": 183
+   },
+   "h": 178,
+   "index": 7,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "HurrahRight",
+   "w": 195,
+   "x": 387,
+   "y": 181
+  },
+  {
+   "center": {
+    "x": 28,
+    "y": 181
+   },
+   "h": 180,
+   "index": 8,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "HurrahRight",
+   "w": 190,
+   "x": 583,
+   "y": 181
+  },
+  {
+   "center": {
+    "x": 21,
+    "y": 174
+   },
+   "h": 178,
+   "index": 9,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "HurrahRight",
+   "w": 180,
+   "x": 774,
+   "y": 181
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/BM08_CHurrahRight",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__BM08_CHurrahRight.png",
+  "h": 361,
+  "w": 954
+ }
+}

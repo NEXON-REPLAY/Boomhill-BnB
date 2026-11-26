@@ -1,0 +1,211 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    60,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    60
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "loop": false,
+   "name": "Disappear+KickedDie+LockedOut"
+  },
+  {
+   "frame_ms": [
+    150,
+    120,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    60
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "loop": false,
+   "name": "Die"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 16,
+    "y": 70
+   },
+   "h": 69,
+   "index": 0,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "animated",
+   "w": 74,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 19,
+    "y": 87
+   },
+   "h": 85,
+   "index": 1,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "animated",
+   "w": 81,
+   "x": 75,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 32,
+    "y": 92
+   },
+   "h": 93,
+   "index": 2,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "animated",
+   "w": 104,
+   "x": 157,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 31,
+    "y": 76
+   },
+   "h": 75,
+   "index": 3,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "animated",
+   "w": 101,
+   "x": 262,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 30,
+    "y": 71
+   },
+   "h": 68,
+   "index": 4,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "animated",
+   "w": 98,
+   "x": 364,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 22,
+    "y": 59
+   },
+   "h": 54,
+   "index": 5,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "animated",
+   "w": 85,
+   "x": 463,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 22,
+    "y": 41
+   },
+   "h": 36,
+   "index": 6,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "animated",
+   "w": 85,
+   "x": 549,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 22,
+    "y": 30
+   },
+   "h": 30,
+   "index": 7,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "animated",
+   "w": 90,
+   "x": 635,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 25,
+    "y": 28
+   },
+   "h": 25,
+   "index": 8,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "animated",
+   "w": 89,
+   "x": 726,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/SM20_Die",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__SM20_Die.png",
+  "h": 93,
+  "w": 815
+ }
+}

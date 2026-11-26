@@ -1,0 +1,131 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    90,
+    90,
+    90,
+    90,
+    90,
+    90
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "Hurrah Right"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 2,
+    "y": 155
+   },
+   "h": 179,
+   "index": 0,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Hurrah Right",
+   "w": 137,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 145
+   },
+   "h": 169,
+   "index": 1,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Hurrah Right",
+   "w": 132,
+   "x": 138,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 151
+   },
+   "h": 175,
+   "index": 2,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Hurrah Right",
+   "w": 133,
+   "x": 271,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 22,
+    "y": 152
+   },
+   "h": 176,
+   "index": 3,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Hurrah Right",
+   "w": 154,
+   "x": 405,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 153
+   },
+   "h": 177,
+   "index": 4,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Hurrah Right",
+   "w": 142,
+   "x": 560,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 156
+   },
+   "h": 180,
+   "index": 5,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Hurrah Right",
+   "w": 135,
+   "x": 703,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/BM09_CHurrahRight",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__BM09_CHurrahRight.png",
+  "h": 180,
+  "w": 838
+ }
+}

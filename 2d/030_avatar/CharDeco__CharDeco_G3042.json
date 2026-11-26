@@ -1,0 +1,240 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "loop": false,
+   "name": "CharDeco_G3042"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 76
+   },
+   "h": 41,
+   "index": 0,
+   "origin": {
+    "x": 40,
+    "y": 112
+   },
+   "role": "CharDeco_G3042",
+   "w": 41,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 76
+   },
+   "h": 43,
+   "index": 1,
+   "origin": {
+    "x": 40,
+    "y": 112
+   },
+   "role": "CharDeco_G3042",
+   "w": 45,
+   "x": 42,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 76
+   },
+   "h": 47,
+   "index": 2,
+   "origin": {
+    "x": 40,
+    "y": 112
+   },
+   "role": "CharDeco_G3042",
+   "w": 53,
+   "x": 88,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 76
+   },
+   "h": 51,
+   "index": 3,
+   "origin": {
+    "x": 40,
+    "y": 112
+   },
+   "role": "CharDeco_G3042",
+   "w": 61,
+   "x": 142,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 81
+   },
+   "h": 61,
+   "index": 4,
+   "origin": {
+    "x": 40,
+    "y": 112
+   },
+   "role": "CharDeco_G3042",
+   "w": 64,
+   "x": 204,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 19,
+    "y": 86
+   },
+   "h": 70,
+   "index": 5,
+   "origin": {
+    "x": 40,
+    "y": 112
+   },
+   "role": "CharDeco_G3042",
+   "w": 76,
+   "x": 269,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 91
+   },
+   "h": 57,
+   "index": 6,
+   "origin": {
+    "x": 40,
+    "y": 112
+   },
+   "role": "CharDeco_G3042",
+   "w": 71,
+   "x": 346,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 21,
+    "y": 98
+   },
+   "h": 70,
+   "index": 7,
+   "origin": {
+    "x": 40,
+    "y": 112
+   },
+   "role": "CharDeco_G3042",
+   "w": 83,
+   "x": 418,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 21,
+    "y": 96
+   },
+   "h": 66,
+   "index": 8,
+   "origin": {
+    "x": 40,
+    "y": 112
+   },
+   "role": "CharDeco_G3042",
+   "w": 83,
+   "x": 502,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 23,
+    "y": 97
+   },
+   "h": 73,
+   "index": 9,
+   "origin": {
+    "x": 40,
+    "y": 112
+   },
+   "role": "CharDeco_G3042",
+   "w": 87,
+   "x": 586,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -80,
+    "y": -1
+   },
+   "empty": true,
+   "h": 0,
+   "index": 10,
+   "origin": {
+    "x": 40,
+    "y": 112
+   },
+   "role": "CharDeco_G3042",
+   "w": 0,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 76
+   },
+   "h": 41,
+   "index": 11,
+   "origin": {
+    "x": 40,
+    "y": 112
+   },
+   "role": "CharDeco_G3042",
+   "w": 41,
+   "x": 674,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "CharDeco/CharDeco_G3042",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "CharDeco__CharDeco_G3042.png",
+  "h": 73,
+  "w": 715
+ }
+}

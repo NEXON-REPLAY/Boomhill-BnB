@@ -1,0 +1,113 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    90,
+    150,
+    180,
+    240,
+    240
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "Attack Left+Attack2 Left"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 1,
+    "y": 149
+   },
+   "h": 151,
+   "index": 0,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Attack Left+Attack2 Left",
+   "w": 121,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 144
+   },
+   "h": 153,
+   "index": 1,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Attack Left+Attack2 Left",
+   "w": 135,
+   "x": 122,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 16,
+    "y": 151
+   },
+   "h": 160,
+   "index": 2,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Attack Left+Attack2 Left",
+   "w": 134,
+   "x": 258,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 18,
+    "y": 144
+   },
+   "h": 154,
+   "index": 3,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Attack Left+Attack2 Left",
+   "w": 136,
+   "x": 393,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 149
+   },
+   "h": 158,
+   "index": 4,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Attack Left+Attack2 Left",
+   "w": 133,
+   "x": 530,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/RPG_Golem_AttackLeft",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__RPG_Golem_AttackLeft.png",
+  "h": 160,
+  "w": 663
+ }
+}

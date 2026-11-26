@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 149,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 391,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "LoginStage/OneClick_Back_LGU",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "LoginStage__OneClick_Back_LGU.png",
+  "h": 149,
+  "w": 391
+ }
+}

@@ -1,0 +1,113 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    120,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "Attack Up+DirectAttack Up"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 40,
+    "y": 151
+   },
+   "h": 139,
+   "index": 0,
+   "origin": {
+    "x": 50,
+    "y": 179
+   },
+   "role": "Attack Up+DirectAttack Up",
+   "w": 209,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 45,
+    "y": 152
+   },
+   "h": 139,
+   "index": 1,
+   "origin": {
+    "x": 50,
+    "y": 179
+   },
+   "role": "Attack Up+DirectAttack Up",
+   "w": 203,
+   "x": 210,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 36,
+    "y": 148
+   },
+   "h": 135,
+   "index": 2,
+   "origin": {
+    "x": 50,
+    "y": 179
+   },
+   "role": "Attack Up+DirectAttack Up",
+   "w": 195,
+   "x": 414,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 28,
+    "y": 147
+   },
+   "h": 134,
+   "index": 3,
+   "origin": {
+    "x": 50,
+    "y": 179
+   },
+   "role": "Attack Up+DirectAttack Up",
+   "w": 169,
+   "x": 610,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 18,
+    "y": 148
+   },
+   "h": 135,
+   "index": 4,
+   "origin": {
+    "x": 50,
+    "y": 179
+   },
+   "role": "Attack Up+DirectAttack Up",
+   "w": 143,
+   "x": 780,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/BM08_CAttack1Up",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__BM08_CAttack1Up.png",
+  "h": 139,
+  "w": 923
+ }
+}

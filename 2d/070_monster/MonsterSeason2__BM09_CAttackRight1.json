@@ -1,0 +1,109 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2
+   ],
+   "loop": false,
+   "name": "Attack Down+Attack Right"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 29,
+    "y": 151
+   },
+   "h": 167,
+   "index": 0,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Attack Down+Attack Right",
+   "w": 187,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 26,
+    "y": 157
+   },
+   "h": 173,
+   "index": 1,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Attack Down+Attack Right",
+   "w": 185,
+   "x": 188,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 24,
+    "y": 158
+   },
+   "h": 174,
+   "index": 2,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Attack Down+Attack Right",
+   "w": 181,
+   "x": 374,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 24,
+    "y": 158
+   },
+   "h": 174,
+   "index": 3,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "unconfirmed",
+   "w": 181,
+   "x": 556,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 24,
+    "y": 160
+   },
+   "h": 176,
+   "index": 4,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "unconfirmed",
+   "w": 181,
+   "x": 738,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/BM09_CAttackRight1",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__BM09_CAttackRight1.png",
+  "h": 176,
+  "w": 919
+ }
+}

@@ -1,0 +1,113 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    120,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "Attack Down+DirectAttack Down"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 39,
+    "y": 170
+   },
+   "h": 157,
+   "index": 0,
+   "origin": {
+    "x": 50,
+    "y": 179
+   },
+   "role": "Attack Down+DirectAttack Down",
+   "w": 207,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 41,
+    "y": 171
+   },
+   "h": 158,
+   "index": 1,
+   "origin": {
+    "x": 50,
+    "y": 179
+   },
+   "role": "Attack Down+DirectAttack Down",
+   "w": 204,
+   "x": 208,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 34,
+    "y": 158
+   },
+   "h": 145,
+   "index": 2,
+   "origin": {
+    "x": 50,
+    "y": 179
+   },
+   "role": "Attack Down+DirectAttack Down",
+   "w": 194,
+   "x": 413,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 153
+   },
+   "h": 143,
+   "index": 3,
+   "origin": {
+    "x": 50,
+    "y": 179
+   },
+   "role": "Attack Down+DirectAttack Down",
+   "w": 163,
+   "x": 608,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 158
+   },
+   "h": 147,
+   "index": 4,
+   "origin": {
+    "x": 50,
+    "y": 179
+   },
+   "role": "Attack Down+DirectAttack Down",
+   "w": 147,
+   "x": 772,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/BM08_CAttack1Down",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__BM08_CAttack1Down.png",
+  "h": 158,
+  "w": 919
+ }
+}

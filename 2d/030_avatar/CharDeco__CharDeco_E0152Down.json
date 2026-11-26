@@ -1,0 +1,239 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "loop": false,
+   "name": "03U Down"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 21,
+    "y": 47
+   },
+   "h": 41,
+   "index": 0,
+   "origin": {
+    "x": 40,
+    "y": 93
+   },
+   "role": "03U Down",
+   "w": 81,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 21,
+    "y": 51
+   },
+   "h": 45,
+   "index": 1,
+   "origin": {
+    "x": 40,
+    "y": 93
+   },
+   "role": "03U Down",
+   "w": 73,
+   "x": 82,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 22,
+    "y": 55
+   },
+   "h": 50,
+   "index": 2,
+   "origin": {
+    "x": 40,
+    "y": 93
+   },
+   "role": "03U Down",
+   "w": 88,
+   "x": 156,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 24,
+    "y": 50
+   },
+   "h": 42,
+   "index": 3,
+   "origin": {
+    "x": 40,
+    "y": 93
+   },
+   "role": "03U Down",
+   "w": 89,
+   "x": 245,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 20,
+    "y": 49
+   },
+   "h": 41,
+   "index": 4,
+   "origin": {
+    "x": 40,
+    "y": 93
+   },
+   "role": "03U Down",
+   "w": 84,
+   "x": 335,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 23,
+    "y": 48
+   },
+   "h": 39,
+   "index": 5,
+   "origin": {
+    "x": 40,
+    "y": 93
+   },
+   "role": "03U Down",
+   "w": 87,
+   "x": 420,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 19,
+    "y": 47
+   },
+   "h": 41,
+   "index": 6,
+   "origin": {
+    "x": 40,
+    "y": 93
+   },
+   "role": "03U Down",
+   "w": 81,
+   "x": 508,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 51
+   },
+   "h": 45,
+   "index": 7,
+   "origin": {
+    "x": 40,
+    "y": 93
+   },
+   "role": "03U Down",
+   "w": 73,
+   "x": 590,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 25,
+    "y": 55
+   },
+   "h": 50,
+   "index": 8,
+   "origin": {
+    "x": 40,
+    "y": 93
+   },
+   "role": "03U Down",
+   "w": 88,
+   "x": 664,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 24,
+    "y": 50
+   },
+   "h": 42,
+   "index": 9,
+   "origin": {
+    "x": 40,
+    "y": 93
+   },
+   "role": "03U Down",
+   "w": 89,
+   "x": 753,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 23,
+    "y": 49
+   },
+   "h": 41,
+   "index": 10,
+   "origin": {
+    "x": 40,
+    "y": 93
+   },
+   "role": "03U Down",
+   "w": 84,
+   "x": 843,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 23,
+    "y": 48
+   },
+   "h": 39,
+   "index": 11,
+   "origin": {
+    "x": 40,
+    "y": 93
+   },
+   "role": "03U Down",
+   "w": 87,
+   "x": 928,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "CharDeco/CharDeco_E0152Down",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "CharDeco__CharDeco_E0152Down.png",
+  "h": 50,
+  "w": 1015
+ }
+}

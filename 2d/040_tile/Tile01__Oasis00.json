@@ -1,0 +1,79 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    900,
+    300,
+    300,
+    300
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    1
+   ],
+   "loop": false,
+   "name": "01Static_Oasis00+Oasis00"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -1,
+    "y": 146
+   },
+   "h": 142,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 147
+   },
+   "role": "01Static_Oasis00+Oasis00",
+   "w": 156,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 146
+   },
+   "h": 142,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 147
+   },
+   "role": "01Static_Oasis00+Oasis00",
+   "w": 156,
+   "x": 157,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 146
+   },
+   "h": 142,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 147
+   },
+   "role": "01Static_Oasis00+Oasis00",
+   "w": 156,
+   "x": 314,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile01/Oasis00",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile01__Oasis00.png",
+  "h": 142,
+  "w": 470
+ }
+}

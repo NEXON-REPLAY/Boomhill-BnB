@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "Retro"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 77
+   },
+   "h": 78,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 77
+   },
+   "role": "Retro",
+   "w": 122,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 77
+   },
+   "h": 78,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 77
+   },
+   "role": "Retro",
+   "w": 122,
+   "x": 123,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 77
+   },
+   "h": 78,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 77
+   },
+   "role": "Retro",
+   "w": 122,
+   "x": 246,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 77
+   },
+   "h": 78,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 77
+   },
+   "role": "Retro",
+   "w": 122,
+   "x": 369,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 77
+   },
+   "h": 78,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 77
+   },
+   "role": "Retro",
+   "w": 152,
+   "x": 492,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 77
+   },
+   "h": 78,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 77
+   },
+   "role": "Retro",
+   "w": 152,
+   "x": 645,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 77
+   },
+   "h": 78,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 77
+   },
+   "role": "Retro",
+   "w": 154,
+   "x": 798,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 77
+   },
+   "h": 78,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 77
+   },
+   "role": "Retro",
+   "w": 156,
+   "x": 0,
+   "y": 79
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Game/AirplaneRetro",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Game__AirplaneRetro.png",
+  "h": 157,
+  "w": 952
+ }
+}

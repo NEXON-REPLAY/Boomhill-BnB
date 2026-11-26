@@ -1,0 +1,113 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    120,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "Attack Left+DirectAttack Left"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 36,
+    "y": 165
+   },
+   "h": 152,
+   "index": 0,
+   "origin": {
+    "x": 50,
+    "y": 179
+   },
+   "role": "Attack Left+DirectAttack Left",
+   "w": 178,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 164
+   },
+   "h": 151,
+   "index": 1,
+   "origin": {
+    "x": 50,
+    "y": 179
+   },
+   "role": "Attack Left+DirectAttack Left",
+   "w": 138,
+   "x": 179,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 154
+   },
+   "h": 141,
+   "index": 2,
+   "origin": {
+    "x": 50,
+    "y": 179
+   },
+   "role": "Attack Left+DirectAttack Left",
+   "w": 144,
+   "x": 318,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 19,
+    "y": 149
+   },
+   "h": 136,
+   "index": 3,
+   "origin": {
+    "x": 50,
+    "y": 179
+   },
+   "role": "Attack Left+DirectAttack Left",
+   "w": 146,
+   "x": 463,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 8,
+    "y": 154
+   },
+   "h": 141,
+   "index": 4,
+   "origin": {
+    "x": 50,
+    "y": 179
+   },
+   "role": "Attack Left+DirectAttack Left",
+   "w": 137,
+   "x": 610,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/BM08_CAttack1Left",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__BM08_CAttack1Left.png",
+  "h": 152,
+  "w": 747
+ }
+}

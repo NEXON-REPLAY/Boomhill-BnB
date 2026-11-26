@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "Right"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -1,
+    "y": 93
+   },
+   "h": 40,
+   "index": 0,
+   "origin": {
+    "x": 23,
+    "y": 97
+   },
+   "role": "Right",
+   "w": 31,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 90
+   },
+   "h": 37,
+   "index": 1,
+   "origin": {
+    "x": 23,
+    "y": 97
+   },
+   "role": "Right",
+   "w": 34,
+   "x": 32,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 93
+   },
+   "h": 40,
+   "index": 2,
+   "origin": {
+    "x": 23,
+    "y": 97
+   },
+   "role": "Right",
+   "w": 32,
+   "x": 67,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 90
+   },
+   "h": 37,
+   "index": 3,
+   "origin": {
+    "x": 23,
+    "y": 97
+   },
+   "role": "Right",
+   "w": 34,
+   "x": 100,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "CharDeco/CharDeco_A0294Right",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "CharDeco__CharDeco_A0294Right.png",
+  "h": 40,
+  "w": 134
+ }
+}

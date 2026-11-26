@@ -1,0 +1,197 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30,
+    60,
+    60,
+    30,
+    60,
+    60,
+    30,
+    60,
+    60,
+    30,
+    60,
+    60,
+    30,
+    60,
+    60,
+    30,
+    60,
+    60,
+    30,
+    60,
+    60,
+    30,
+    60
+   ],
+   "frames": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    1
+   ],
+   "loop": false,
+   "name": "CharDeco_G0068"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 12,
+    "y": 35
+   },
+   "h": 21,
+   "index": 1,
+   "origin": {
+    "x": 18,
+    "y": 102
+   },
+   "role": "CharDeco_G0068",
+   "w": 54,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 52
+   },
+   "h": 46,
+   "index": 2,
+   "origin": {
+    "x": 18,
+    "y": 102
+   },
+   "role": "CharDeco_G0068",
+   "w": 23,
+   "x": 55,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 73
+   },
+   "h": 68,
+   "index": 3,
+   "origin": {
+    "x": 18,
+    "y": 102
+   },
+   "role": "CharDeco_G0068",
+   "w": 49,
+   "x": 79,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 75
+   },
+   "h": 70,
+   "index": 4,
+   "origin": {
+    "x": 18,
+    "y": 102
+   },
+   "role": "CharDeco_G0068",
+   "w": 53,
+   "x": 129,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": 75
+   },
+   "h": 68,
+   "index": 5,
+   "origin": {
+    "x": 18,
+    "y": 102
+   },
+   "role": "CharDeco_G0068",
+   "w": 52,
+   "x": 183,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 73
+   },
+   "h": 65,
+   "index": 6,
+   "origin": {
+    "x": 18,
+    "y": 102
+   },
+   "role": "CharDeco_G0068",
+   "w": 69,
+   "x": 236,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 13,
+    "y": 69
+   },
+   "h": 55,
+   "index": 7,
+   "origin": {
+    "x": 18,
+    "y": 102
+   },
+   "role": "CharDeco_G0068",
+   "w": 69,
+   "x": 306,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -9,
+    "y": 35
+   },
+   "h": 31,
+   "index": 8,
+   "origin": {
+    "x": 18,
+    "y": 102
+   },
+   "role": "CharDeco_G0068",
+   "w": 46,
+   "x": 376,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "CharDeco/CharDeco_G0068",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "CharDeco__CharDeco_G0068.png",
+  "h": 70,
+  "w": 422
+ }
+}

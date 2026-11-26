@@ -1,0 +1,185 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "loop": false,
+   "name": "Lobby"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 11,
+    "y": 7
+   },
+   "h": 37,
+   "index": 0,
+   "origin": {
+    "x": 11,
+    "y": 7
+   },
+   "role": "Lobby",
+   "w": 140,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 7
+   },
+   "h": 37,
+   "index": 1,
+   "origin": {
+    "x": 11,
+    "y": 7
+   },
+   "role": "Lobby",
+   "w": 140,
+   "x": 141,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 7
+   },
+   "h": 37,
+   "index": 2,
+   "origin": {
+    "x": 11,
+    "y": 7
+   },
+   "role": "Lobby",
+   "w": 140,
+   "x": 282,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 7
+   },
+   "h": 37,
+   "index": 3,
+   "origin": {
+    "x": 11,
+    "y": 7
+   },
+   "role": "Lobby",
+   "w": 140,
+   "x": 423,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 7
+   },
+   "h": 37,
+   "index": 4,
+   "origin": {
+    "x": 11,
+    "y": 7
+   },
+   "role": "Lobby",
+   "w": 140,
+   "x": 564,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 7
+   },
+   "h": 37,
+   "index": 5,
+   "origin": {
+    "x": 11,
+    "y": 7
+   },
+   "role": "Lobby",
+   "w": 140,
+   "x": 705,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 7
+   },
+   "h": 37,
+   "index": 6,
+   "origin": {
+    "x": 11,
+    "y": 7
+   },
+   "role": "Lobby",
+   "w": 140,
+   "x": 846,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 7
+   },
+   "h": 37,
+   "index": 7,
+   "origin": {
+    "x": 11,
+    "y": 7
+   },
+   "role": "Lobby",
+   "w": 140,
+   "x": 0,
+   "y": 38
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 7
+   },
+   "h": 37,
+   "index": 8,
+   "origin": {
+    "x": 11,
+    "y": 7
+   },
+   "role": "Lobby",
+   "w": 140,
+   "x": 141,
+   "y": 38
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "IDDeco/IDDeco_C0655",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "IDDeco__IDDeco_C0655.png",
+  "h": 75,
+  "w": 986
+ }
+}

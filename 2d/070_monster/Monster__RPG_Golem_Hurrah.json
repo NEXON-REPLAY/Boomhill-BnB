@@ -1,0 +1,113 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    210,
+    150,
+    180,
+    240,
+    300
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "Hurrah"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 15,
+    "y": 149
+   },
+   "h": 143,
+   "index": 0,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Hurrah",
+   "w": 150,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 24,
+    "y": 165
+   },
+   "h": 160,
+   "index": 1,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Hurrah",
+   "w": 164,
+   "x": 151,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 29,
+    "y": 161
+   },
+   "h": 156,
+   "index": 2,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Hurrah",
+   "w": 169,
+   "x": 316,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 25,
+    "y": 168
+   },
+   "h": 167,
+   "index": 3,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Hurrah",
+   "w": 165,
+   "x": 486,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 25,
+    "y": 170
+   },
+   "h": 165,
+   "index": 4,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Hurrah",
+   "w": 165,
+   "x": 652,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/RPG_Golem_Hurrah",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__RPG_Golem_Hurrah.png",
+  "h": 167,
+  "w": 817
+ }
+}

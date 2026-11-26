@@ -1,0 +1,337 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "loop": false,
+   "name": "15_AttackLeft"
+  },
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ],
+   "loop": false,
+   "name": "17_AfterAttack"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 13,
+    "y": 72
+   },
+   "h": 67,
+   "index": 0,
+   "origin": {
+    "x": 79,
+    "y": 163
+   },
+   "role": "15_AttackLeft",
+   "w": 66,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 12,
+    "y": 70
+   },
+   "h": 65,
+   "index": 1,
+   "origin": {
+    "x": 79,
+    "y": 163
+   },
+   "role": "15_AttackLeft",
+   "w": 65,
+   "x": 67,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 13,
+    "y": 72
+   },
+   "h": 67,
+   "index": 2,
+   "origin": {
+    "x": 79,
+    "y": 163
+   },
+   "role": "15_AttackLeft",
+   "w": 66,
+   "x": 133,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 12,
+    "y": 70
+   },
+   "h": 65,
+   "index": 3,
+   "origin": {
+    "x": 79,
+    "y": 163
+   },
+   "role": "15_AttackLeft",
+   "w": 65,
+   "x": 200,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 13,
+    "y": 72
+   },
+   "h": 67,
+   "index": 4,
+   "origin": {
+    "x": 79,
+    "y": 163
+   },
+   "role": "15_AttackLeft",
+   "w": 66,
+   "x": 266,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 70
+   },
+   "h": 65,
+   "index": 5,
+   "origin": {
+    "x": 79,
+    "y": 163
+   },
+   "role": "15_AttackLeft",
+   "w": 68,
+   "x": 333,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 12,
+    "y": 65
+   },
+   "h": 61,
+   "index": 6,
+   "origin": {
+    "x": 79,
+    "y": 163
+   },
+   "role": "15_AttackLeft",
+   "w": 62,
+   "x": 402,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 78
+   },
+   "h": 73,
+   "index": 7,
+   "origin": {
+    "x": 79,
+    "y": 163
+   },
+   "role": "15_AttackLeft",
+   "w": 56,
+   "x": 465,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 19,
+    "y": 93
+   },
+   "h": 88,
+   "index": 8,
+   "origin": {
+    "x": 79,
+    "y": 163
+   },
+   "role": "15_AttackLeft",
+   "w": 65,
+   "x": 522,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 39,
+    "y": 110
+   },
+   "h": 105,
+   "index": 9,
+   "origin": {
+    "x": 79,
+    "y": 163
+   },
+   "role": "15_AttackLeft",
+   "w": 98,
+   "x": 588,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 42,
+    "y": 126
+   },
+   "h": 112,
+   "index": 10,
+   "origin": {
+    "x": 79,
+    "y": 163
+   },
+   "role": "15_AttackLeft",
+   "w": 107,
+   "x": 687,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 45,
+    "y": 116
+   },
+   "h": 107,
+   "index": 11,
+   "origin": {
+    "x": 79,
+    "y": 163
+   },
+   "role": "17_AfterAttack",
+   "w": 114,
+   "x": 795,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 53,
+    "y": 80
+   },
+   "h": 81,
+   "index": 12,
+   "origin": {
+    "x": 79,
+    "y": 163
+   },
+   "role": "17_AfterAttack",
+   "w": 127,
+   "x": 0,
+   "y": 113
+  },
+  {
+   "center": {
+    "x": 59,
+    "y": 64
+   },
+   "h": 64,
+   "index": 13,
+   "origin": {
+    "x": 79,
+    "y": 163
+   },
+   "role": "17_AfterAttack",
+   "w": 137,
+   "x": 128,
+   "y": 113
+  },
+  {
+   "center": {
+    "x": 56,
+    "y": 71
+   },
+   "h": 68,
+   "index": 14,
+   "origin": {
+    "x": 79,
+    "y": 163
+   },
+   "role": "17_AfterAttack",
+   "w": 143,
+   "x": 266,
+   "y": 113
+  },
+  {
+   "center": {
+    "x": 13,
+    "y": 71
+   },
+   "h": 66,
+   "index": 15,
+   "origin": {
+    "x": 79,
+    "y": 163
+   },
+   "role": "17_AfterAttack",
+   "w": 97,
+   "x": 410,
+   "y": 113
+  },
+  {
+   "center": {
+    "x": 13,
+    "y": 71
+   },
+   "h": 66,
+   "index": 16,
+   "origin": {
+    "x": 79,
+    "y": 163
+   },
+   "role": "17_AfterAttack",
+   "w": 66,
+   "x": 508,
+   "y": 113
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/M_MKuo_Attack",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__M_MKuo_Attack.png",
+  "h": 194,
+  "w": 909
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 166,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 582,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "LobbySquare/ChatUI_Img_BigBG_2",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "LobbySquare__ChatUI_Img_BigBG_2.png",
+  "h": 166,
+  "w": 582
+ }
+}

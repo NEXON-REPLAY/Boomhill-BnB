@@ -1,0 +1,131 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "03Static_machine+machine"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 126
+   },
+   "h": 123,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 140
+   },
+   "role": "03Static_machine+machine",
+   "w": 120,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 126
+   },
+   "h": 123,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 140
+   },
+   "role": "03Static_machine+machine",
+   "w": 126,
+   "x": 121,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 127
+   },
+   "h": 124,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 140
+   },
+   "role": "03Static_machine+machine",
+   "w": 147,
+   "x": 248,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 133
+   },
+   "h": 130,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 140
+   },
+   "role": "03Static_machine+machine",
+   "w": 156,
+   "x": 396,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 139
+   },
+   "h": 136,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 140
+   },
+   "role": "03Static_machine+machine",
+   "w": 157,
+   "x": 553,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 126
+   },
+   "h": 123,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 140
+   },
+   "role": "03Static_machine+machine",
+   "w": 120,
+   "x": 711,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile03/machine",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile03__machine.png",
+  "h": 136,
+  "w": 831
+ }
+}

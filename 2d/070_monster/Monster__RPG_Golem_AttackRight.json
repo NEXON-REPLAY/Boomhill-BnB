@@ -1,0 +1,113 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    90,
+    150,
+    180,
+    240,
+    240
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "Attack Right+Attack2 Right"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 149
+   },
+   "h": 151,
+   "index": 0,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Attack Right+Attack2 Right",
+   "w": 121,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 144
+   },
+   "h": 153,
+   "index": 1,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Attack Right+Attack2 Right",
+   "w": 135,
+   "x": 122,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 151
+   },
+   "h": 160,
+   "index": 2,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Attack Right+Attack2 Right",
+   "w": 134,
+   "x": 258,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 144
+   },
+   "h": 154,
+   "index": 3,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Attack Right+Attack2 Right",
+   "w": 136,
+   "x": 393,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 12,
+    "y": 149
+   },
+   "h": 158,
+   "index": 4,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Attack Right+Attack2 Right",
+   "w": 133,
+   "x": 530,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/RPG_Golem_AttackRight",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__RPG_Golem_AttackRight.png",
+  "h": 160,
+  "w": 663
+ }
+}

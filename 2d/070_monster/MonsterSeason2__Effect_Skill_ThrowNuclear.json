@@ -1,0 +1,275 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60
+   ],
+   "frames": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+   ],
+   "loop": false,
+   "name": "Effect_SkillThrowNuclear"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 8,
+    "y": 59
+   },
+   "h": 59,
+   "index": 1,
+   "origin": {
+    "x": 58,
+    "y": 175
+   },
+   "role": "Effect_SkillThrowNuclear",
+   "w": 55,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 17,
+    "y": 64
+   },
+   "h": 66,
+   "index": 2,
+   "origin": {
+    "x": 58,
+    "y": 175
+   },
+   "role": "Effect_SkillThrowNuclear",
+   "w": 74,
+   "x": 56,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 19,
+    "y": 66
+   },
+   "h": 68,
+   "index": 3,
+   "origin": {
+    "x": 58,
+    "y": 175
+   },
+   "role": "Effect_SkillThrowNuclear",
+   "w": 82,
+   "x": 131,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 19,
+    "y": 69
+   },
+   "h": 72,
+   "index": 4,
+   "origin": {
+    "x": 58,
+    "y": 175
+   },
+   "role": "Effect_SkillThrowNuclear",
+   "w": 82,
+   "x": 214,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 23,
+    "y": 72
+   },
+   "h": 78,
+   "index": 5,
+   "origin": {
+    "x": 58,
+    "y": 175
+   },
+   "role": "Effect_SkillThrowNuclear",
+   "w": 85,
+   "x": 297,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 19,
+    "y": 74
+   },
+   "h": 79,
+   "index": 6,
+   "origin": {
+    "x": 58,
+    "y": 175
+   },
+   "role": "Effect_SkillThrowNuclear",
+   "w": 82,
+   "x": 383,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 23,
+    "y": 77
+   },
+   "h": 88,
+   "index": 7,
+   "origin": {
+    "x": 58,
+    "y": 175
+   },
+   "role": "Effect_SkillThrowNuclear",
+   "w": 85,
+   "x": 466,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 37,
+    "y": 125
+   },
+   "h": 135,
+   "index": 8,
+   "origin": {
+    "x": 58,
+    "y": 175
+   },
+   "role": "Effect_SkillThrowNuclear",
+   "w": 116,
+   "x": 552,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 41,
+    "y": 131
+   },
+   "h": 133,
+   "index": 9,
+   "origin": {
+    "x": 58,
+    "y": 175
+   },
+   "role": "Effect_SkillThrowNuclear",
+   "w": 122,
+   "x": 669,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 47,
+    "y": 141
+   },
+   "h": 145,
+   "index": 10,
+   "origin": {
+    "x": 58,
+    "y": 175
+   },
+   "role": "Effect_SkillThrowNuclear",
+   "w": 137,
+   "x": 792,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 45,
+    "y": 153
+   },
+   "h": 165,
+   "index": 11,
+   "origin": {
+    "x": 58,
+    "y": 175
+   },
+   "role": "Effect_SkillThrowNuclear",
+   "w": 138,
+   "x": 0,
+   "y": 146
+  },
+  {
+   "center": {
+    "x": 51,
+    "y": 157
+   },
+   "h": 172,
+   "index": 12,
+   "origin": {
+    "x": 58,
+    "y": 175
+   },
+   "role": "Effect_SkillThrowNuclear",
+   "w": 144,
+   "x": 139,
+   "y": 146
+  },
+  {
+   "center": {
+    "x": 50,
+    "y": 173
+   },
+   "h": 190,
+   "index": 13,
+   "origin": {
+    "x": 58,
+    "y": 175
+   },
+   "role": "Effect_SkillThrowNuclear",
+   "w": 145,
+   "x": 284,
+   "y": 146
+  },
+  {
+   "center": {
+    "x": 57,
+    "y": 137
+   },
+   "h": 154,
+   "index": 14,
+   "origin": {
+    "x": 58,
+    "y": 175
+   },
+   "role": "Effect_SkillThrowNuclear",
+   "w": 148,
+   "x": 430,
+   "y": 146
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/Effect_Skill_ThrowNuclear",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__Effect_Skill_ThrowNuclear.png",
+  "h": 336,
+  "w": 929
+ }
+}

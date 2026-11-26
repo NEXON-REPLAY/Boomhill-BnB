@@ -1,0 +1,113 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "08Static_RightFire00+RightFire00"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -13,
+    "y": 97
+   },
+   "h": 98,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 102
+   },
+   "role": "08Static_RightFire00+RightFire00",
+   "w": 27,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -13,
+    "y": 101
+   },
+   "h": 102,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 102
+   },
+   "role": "08Static_RightFire00+RightFire00",
+   "w": 27,
+   "x": 28,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -13,
+    "y": 100
+   },
+   "h": 101,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 102
+   },
+   "role": "08Static_RightFire00+RightFire00",
+   "w": 27,
+   "x": 56,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -13,
+    "y": 97
+   },
+   "h": 98,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 102
+   },
+   "role": "08Static_RightFire00+RightFire00",
+   "w": 27,
+   "x": 84,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -13,
+    "y": 97
+   },
+   "h": 98,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 102
+   },
+   "role": "08Static_RightFire00+RightFire00",
+   "w": 27,
+   "x": 112,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile08/RightFire00",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile08__RightFire00.png",
+  "h": 102,
+  "w": 139
+ }
+}

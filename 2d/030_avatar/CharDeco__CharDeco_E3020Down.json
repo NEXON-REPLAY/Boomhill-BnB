@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "Down"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 3,
+    "y": 27
+   },
+   "h": 28,
+   "index": 0,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Down",
+   "w": 47,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 28
+   },
+   "h": 29,
+   "index": 1,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Down",
+   "w": 47,
+   "x": 48,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 29
+   },
+   "h": 30,
+   "index": 2,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Down",
+   "w": 47,
+   "x": 96,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 28
+   },
+   "h": 29,
+   "index": 3,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Down",
+   "w": 47,
+   "x": 144,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 27
+   },
+   "h": 28,
+   "index": 4,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Down",
+   "w": 47,
+   "x": 192,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 28
+   },
+   "h": 29,
+   "index": 5,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Down",
+   "w": 47,
+   "x": 240,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 29
+   },
+   "h": 30,
+   "index": 6,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Down",
+   "w": 47,
+   "x": 288,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 28
+   },
+   "h": 29,
+   "index": 7,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Down",
+   "w": 47,
+   "x": 336,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "CharDeco/CharDeco_E3020Down",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "CharDeco__CharDeco_E3020Down.png",
+  "h": 30,
+  "w": 383
+ }
+}

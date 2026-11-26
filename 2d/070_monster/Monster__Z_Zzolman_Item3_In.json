@@ -1,0 +1,235 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "loop": false,
+   "name": "In"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -4,
+    "y": 72
+   },
+   "h": 28,
+   "index": 0,
+   "origin": {
+    "x": 13,
+    "y": 96
+   },
+   "role": "In",
+   "w": 28,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 56
+   },
+   "h": 28,
+   "index": 1,
+   "origin": {
+    "x": 13,
+    "y": 96
+   },
+   "role": "In",
+   "w": 28,
+   "x": 29,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 34
+   },
+   "h": 27,
+   "index": 2,
+   "origin": {
+    "x": 13,
+    "y": 96
+   },
+   "role": "In",
+   "w": 34,
+   "x": 58,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 62
+   },
+   "h": 57,
+   "index": 3,
+   "origin": {
+    "x": 13,
+    "y": 96
+   },
+   "role": "In",
+   "w": 60,
+   "x": 93,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 65
+   },
+   "h": 61,
+   "index": 4,
+   "origin": {
+    "x": 13,
+    "y": 96
+   },
+   "role": "In",
+   "w": 63,
+   "x": 154,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 12,
+    "y": 69
+   },
+   "h": 65,
+   "index": 5,
+   "origin": {
+    "x": 13,
+    "y": 96
+   },
+   "role": "In",
+   "w": 65,
+   "x": 218,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 69
+   },
+   "h": 54,
+   "index": 6,
+   "origin": {
+    "x": 13,
+    "y": 96
+   },
+   "role": "In",
+   "w": 51,
+   "x": 284,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 77
+   },
+   "h": 60,
+   "index": 7,
+   "origin": {
+    "x": 13,
+    "y": 96
+   },
+   "role": "In",
+   "w": 63,
+   "x": 336,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 12,
+    "y": 73
+   },
+   "h": 71,
+   "index": 8,
+   "origin": {
+    "x": 13,
+    "y": 96
+   },
+   "role": "In",
+   "w": 64,
+   "x": 400,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 66
+   },
+   "h": 64,
+   "index": 9,
+   "origin": {
+    "x": 13,
+    "y": 96
+   },
+   "role": "In",
+   "w": 52,
+   "x": 465,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 66
+   },
+   "h": 64,
+   "index": 10,
+   "origin": {
+    "x": 13,
+    "y": 96
+   },
+   "role": "unconfirmed",
+   "w": 52,
+   "x": 518,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 66
+   },
+   "h": 64,
+   "index": 11,
+   "origin": {
+    "x": 13,
+    "y": 96
+   },
+   "role": "unconfirmed",
+   "w": 52,
+   "x": 571,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/Z_Zzolman_Item3_In",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__Z_Zzolman_Item3_In.png",
+  "h": 71,
+  "w": 623
+ }
+}

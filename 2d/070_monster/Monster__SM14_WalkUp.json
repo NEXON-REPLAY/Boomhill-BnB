@@ -1,0 +1,177 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "WalkUp"
+  },
+  {
+   "frame_ms": [
+    120
+   ],
+   "frames": [
+    1
+   ],
+   "loop": false,
+   "name": "StopUp"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 4,
+    "y": 58
+   },
+   "h": 49,
+   "index": 0,
+   "origin": {
+    "x": 13,
+    "y": 76
+   },
+   "role": "WalkUp",
+   "w": 47,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 59
+   },
+   "h": 50,
+   "index": 1,
+   "origin": {
+    "x": 13,
+    "y": 76
+   },
+   "role": "animated",
+   "w": 50,
+   "x": 48,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 60
+   },
+   "h": 51,
+   "index": 2,
+   "origin": {
+    "x": 13,
+    "y": 76
+   },
+   "role": "WalkUp",
+   "w": 45,
+   "x": 99,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 61
+   },
+   "h": 51,
+   "index": 3,
+   "origin": {
+    "x": 13,
+    "y": 76
+   },
+   "role": "WalkUp",
+   "w": 43,
+   "x": 145,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 62
+   },
+   "h": 51,
+   "index": 4,
+   "origin": {
+    "x": 13,
+    "y": 76
+   },
+   "role": "WalkUp",
+   "w": 48,
+   "x": 189,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 61
+   },
+   "h": 51,
+   "index": 5,
+   "origin": {
+    "x": 13,
+    "y": 76
+   },
+   "role": "WalkUp",
+   "w": 47,
+   "x": 238,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 60
+   },
+   "h": 50,
+   "index": 6,
+   "origin": {
+    "x": 13,
+    "y": 76
+   },
+   "role": "WalkUp",
+   "w": 48,
+   "x": 286,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 59
+   },
+   "h": 49,
+   "index": 7,
+   "origin": {
+    "x": 13,
+    "y": 76
+   },
+   "role": "WalkUp",
+   "w": 46,
+   "x": 335,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/SM14_WalkUp",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__SM14_WalkUp.png",
+  "h": 51,
+  "w": 381
+ }
+}

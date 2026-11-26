@@ -1,0 +1,41 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "Temple21"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 2,
+    "y": 149
+   },
+   "h": 152,
+   "index": 0,
+   "origin": {
+    "x": 2,
+    "y": 149
+   },
+   "role": "Temple21",
+   "w": 170,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile23/SF_Temple21",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile23__SF_Temple21.png",
+  "h": 152,
+  "w": 170
+ }
+}

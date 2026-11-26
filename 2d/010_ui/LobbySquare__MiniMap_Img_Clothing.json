@@ -1,0 +1,46 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": -4,
+    "y": -3
+   },
+   "h": 11,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 12,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 17,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 20,
+   "x": 13,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "LobbySquare/MiniMap_Img_Clothing",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "LobbySquare__MiniMap_Img_Clothing.png",
+  "h": 17,
+  "w": 33
+ }
+}

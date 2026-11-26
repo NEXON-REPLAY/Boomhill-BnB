@@ -1,0 +1,99 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    0,
+    2,
+    3,
+    2
+   ],
+   "loop": false,
+   "name": "Left"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -24,
+    "y": 40
+   },
+   "h": 33,
+   "index": 0,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 33,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -24,
+    "y": 41
+   },
+   "h": 33,
+   "index": 1,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 34,
+   "x": 34,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -24,
+    "y": 39
+   },
+   "h": 32,
+   "index": 2,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 33,
+   "x": 69,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -24,
+    "y": 38
+   },
+   "h": 32,
+   "index": 3,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Left",
+   "w": 32,
+   "x": 103,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "CharDeco/CharDeco_E0071Left",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "CharDeco__CharDeco_E0071Left.png",
+  "h": 33,
+  "w": 135
+ }
+}

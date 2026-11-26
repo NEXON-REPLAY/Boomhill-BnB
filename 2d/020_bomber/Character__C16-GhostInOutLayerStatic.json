@@ -1,0 +1,171 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90
+   ],
+   "frames": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "Ghost Appear"
+  },
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    7,
+    6,
+    5,
+    4,
+    3,
+    2,
+    1
+   ],
+   "loop": false,
+   "name": "Ghost Disappear"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -13,
+    "y": 31
+   },
+   "h": 13,
+   "index": 1,
+   "origin": {
+    "x": 39,
+    "y": 117
+   },
+   "role": "animated",
+   "w": 14,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -9,
+    "y": 28
+   },
+   "h": 14,
+   "index": 2,
+   "origin": {
+    "x": 39,
+    "y": 117
+   },
+   "role": "animated",
+   "w": 24,
+   "x": 15,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -9,
+    "y": 40
+   },
+   "h": 25,
+   "index": 3,
+   "origin": {
+    "x": 39,
+    "y": 117
+   },
+   "role": "animated",
+   "w": 28,
+   "x": 40,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 13,
+    "y": 83
+   },
+   "h": 73,
+   "index": 4,
+   "origin": {
+    "x": 39,
+    "y": 117
+   },
+   "role": "animated",
+   "w": 83,
+   "x": 69,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 90
+   },
+   "h": 80,
+   "index": 5,
+   "origin": {
+    "x": 39,
+    "y": 117
+   },
+   "role": "animated",
+   "w": 70,
+   "x": 153,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 16,
+    "y": 92
+   },
+   "h": 82,
+   "index": 6,
+   "origin": {
+    "x": 39,
+    "y": 117
+   },
+   "role": "animated",
+   "w": 73,
+   "x": 224,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 91
+   },
+   "h": 81,
+   "index": 7,
+   "origin": {
+    "x": 39,
+    "y": 117
+   },
+   "role": "animated",
+   "w": 84,
+   "x": 298,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "020_bomber",
+ "name": "Character/C16-GhostInOutLayerStatic",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Character__C16-GhostInOutLayerStatic.png",
+  "h": 82,
+  "w": 382
+ }
+}

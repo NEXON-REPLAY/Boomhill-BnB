@@ -1,0 +1,78 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": -4,
+    "y": -4
+   },
+   "h": 81,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 272,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": -4
+   },
+   "h": 81,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 272,
+   "x": 273,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": -4
+   },
+   "h": 81,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 272,
+   "x": 546,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 89,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 279,
+   "x": 0,
+   "y": 82
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "SandBox/RoomUI_Bt_SessionSlot",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "SandBox__RoomUI_Bt_SessionSlot.png",
+  "h": 171,
+  "w": 818
+ }
+}

@@ -1,0 +1,153 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "Fanfare021"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 8,
+    "y": 0
+   },
+   "h": 99,
+   "index": 0,
+   "origin": {
+    "x": 31,
+    "y": 31
+   },
+   "role": "Fanfare021",
+   "w": 108,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 5
+   },
+   "h": 101,
+   "index": 1,
+   "origin": {
+    "x": 31,
+    "y": 31
+   },
+   "role": "Fanfare021",
+   "w": 99,
+   "x": 109,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 6
+   },
+   "h": 102,
+   "index": 2,
+   "origin": {
+    "x": 31,
+    "y": 31
+   },
+   "role": "Fanfare021",
+   "w": 108,
+   "x": 209,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 101,
+   "index": 3,
+   "origin": {
+    "x": 31,
+    "y": 31
+   },
+   "role": "Fanfare021",
+   "w": 97,
+   "x": 318,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 4
+   },
+   "h": 105,
+   "index": 4,
+   "origin": {
+    "x": 31,
+    "y": 31
+   },
+   "role": "Fanfare021",
+   "w": 105,
+   "x": 416,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": -2
+   },
+   "h": 103,
+   "index": 5,
+   "origin": {
+    "x": 31,
+    "y": 31
+   },
+   "role": "Fanfare021",
+   "w": 106,
+   "x": 522,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "Fanfare/Fanfare021",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Fanfare__Fanfare021.png",
+  "h": 105,
+  "w": 628
+ }
+}

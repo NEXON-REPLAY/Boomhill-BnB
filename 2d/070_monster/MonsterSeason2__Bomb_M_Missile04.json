@@ -1,0 +1,113 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "Bomb_MonMissile04"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -1,
+    "y": 52
+   },
+   "h": 50,
+   "index": 0,
+   "origin": {
+    "x": 13,
+    "y": 70
+   },
+   "role": "Bomb_MonMissile04",
+   "w": 54,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 52
+   },
+   "h": 50,
+   "index": 1,
+   "origin": {
+    "x": 13,
+    "y": 70
+   },
+   "role": "Bomb_MonMissile04",
+   "w": 60,
+   "x": 55,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 52
+   },
+   "h": 52,
+   "index": 2,
+   "origin": {
+    "x": 13,
+    "y": 70
+   },
+   "role": "Bomb_MonMissile04",
+   "w": 57,
+   "x": 116,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 52
+   },
+   "h": 53,
+   "index": 3,
+   "origin": {
+    "x": 13,
+    "y": 70
+   },
+   "role": "Bomb_MonMissile04",
+   "w": 60,
+   "x": 174,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 51
+   },
+   "h": 53,
+   "index": 4,
+   "origin": {
+    "x": 13,
+    "y": 70
+   },
+   "role": "Bomb_MonMissile04",
+   "w": 57,
+   "x": 235,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/Bomb_M_Missile04",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__Bomb_M_Missile04.png",
+  "h": 53,
+  "w": 292
+ }
+}

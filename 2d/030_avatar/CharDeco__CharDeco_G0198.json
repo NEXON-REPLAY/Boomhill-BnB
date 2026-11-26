@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    60,
+    60,
+    60,
+    450,
+    60,
+    60,
+    60,
+    60
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "00U Default"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 16,
+    "y": 76
+   },
+   "h": 81,
+   "index": 0,
+   "origin": {
+    "x": 22,
+    "y": 94
+   },
+   "role": "00U Default",
+   "w": 71,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 16,
+    "y": 76
+   },
+   "h": 81,
+   "index": 1,
+   "origin": {
+    "x": 22,
+    "y": 94
+   },
+   "role": "00U Default",
+   "w": 71,
+   "x": 72,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 16,
+    "y": 90
+   },
+   "h": 95,
+   "index": 2,
+   "origin": {
+    "x": 22,
+    "y": 94
+   },
+   "role": "00U Default",
+   "w": 76,
+   "x": 144,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 16,
+    "y": 90
+   },
+   "h": 95,
+   "index": 3,
+   "origin": {
+    "x": 22,
+    "y": 94
+   },
+   "role": "00U Default",
+   "w": 76,
+   "x": 221,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 16,
+    "y": 90
+   },
+   "h": 95,
+   "index": 4,
+   "origin": {
+    "x": 22,
+    "y": 94
+   },
+   "role": "00U Default",
+   "w": 76,
+   "x": 298,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 16,
+    "y": 90
+   },
+   "h": 95,
+   "index": 5,
+   "origin": {
+    "x": 22,
+    "y": 94
+   },
+   "role": "00U Default",
+   "w": 76,
+   "x": 375,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 16,
+    "y": 90
+   },
+   "h": 95,
+   "index": 6,
+   "origin": {
+    "x": 22,
+    "y": 94
+   },
+   "role": "00U Default",
+   "w": 76,
+   "x": 452,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 75
+   },
+   "h": 79,
+   "index": 7,
+   "origin": {
+    "x": 22,
+    "y": 94
+   },
+   "role": "00U Default",
+   "w": 69,
+   "x": 529,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "CharDeco/CharDeco_G0198",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "CharDeco__CharDeco_G0198.png",
+  "h": 95,
+  "w": 598
+ }
+}

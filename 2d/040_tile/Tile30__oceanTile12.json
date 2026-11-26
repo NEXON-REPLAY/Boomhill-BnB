@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "oceanTile12"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 159
+   },
+   "h": 160,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 159
+   },
+   "role": "oceanTile12",
+   "w": 240,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 159
+   },
+   "h": 160,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 159
+   },
+   "role": "oceanTile12",
+   "w": 240,
+   "x": 241,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 159
+   },
+   "h": 160,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 159
+   },
+   "role": "oceanTile12",
+   "w": 240,
+   "x": 482,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 159
+   },
+   "h": 160,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 159
+   },
+   "role": "oceanTile12",
+   "w": 240,
+   "x": 723,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile30/oceanTile12",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile30__oceanTile12.png",
+  "h": 160,
+  "w": 963
+ }
+}

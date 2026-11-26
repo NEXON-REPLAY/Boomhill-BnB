@@ -1,0 +1,69 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    4800,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "loop": false,
+   "name": "C09_Portrait_C"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -5,
+    "y": 0
+   },
+   "h": 26,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "C09_Portrait_C",
+   "w": 33,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": 0
+   },
+   "h": 26,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "C09_Portrait_C",
+   "w": 33,
+   "x": 34,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "020_bomber",
+ "name": "Character/C09-Portrait_CLayerAdjust",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Character__C09-Portrait_CLayerAdjust.png",
+  "h": 26,
+  "w": 67
+ }
+}

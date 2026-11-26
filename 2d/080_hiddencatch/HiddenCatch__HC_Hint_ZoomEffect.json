@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "HC_HintZoomEffect"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 37,
+    "y": 37
+   },
+   "h": 75,
+   "index": 0,
+   "origin": {
+    "x": 37,
+    "y": 37
+   },
+   "role": "HC_HintZoomEffect",
+   "w": 75,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 37,
+    "y": 37
+   },
+   "h": 75,
+   "index": 1,
+   "origin": {
+    "x": 37,
+    "y": 37
+   },
+   "role": "HC_HintZoomEffect",
+   "w": 75,
+   "x": 76,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 37,
+    "y": 37
+   },
+   "h": 75,
+   "index": 2,
+   "origin": {
+    "x": 37,
+    "y": 37
+   },
+   "role": "HC_HintZoomEffect",
+   "w": 75,
+   "x": 152,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 37,
+    "y": 37
+   },
+   "h": 75,
+   "index": 3,
+   "origin": {
+    "x": 37,
+    "y": 37
+   },
+   "role": "HC_HintZoomEffect",
+   "w": 75,
+   "x": 228,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "080_hiddencatch",
+ "name": "HiddenCatch/HC_Hint_ZoomEffect",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "HiddenCatch__HC_Hint_ZoomEffect.png",
+  "h": 75,
+  "w": 303
+ }
+}

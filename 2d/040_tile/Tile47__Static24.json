@@ -1,0 +1,131 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "Static24"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 26,
+    "y": 106
+   },
+   "h": 105,
+   "index": 0,
+   "origin": {
+    "x": 28,
+    "y": 113
+   },
+   "role": "Static24",
+   "w": 89,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 26,
+    "y": 105
+   },
+   "h": 104,
+   "index": 1,
+   "origin": {
+    "x": 28,
+    "y": 113
+   },
+   "role": "Static24",
+   "w": 89,
+   "x": 90,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 26,
+    "y": 103
+   },
+   "h": 102,
+   "index": 2,
+   "origin": {
+    "x": 28,
+    "y": 113
+   },
+   "role": "Static24",
+   "w": 89,
+   "x": 180,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 26,
+    "y": 102
+   },
+   "h": 101,
+   "index": 3,
+   "origin": {
+    "x": 28,
+    "y": 113
+   },
+   "role": "Static24",
+   "w": 89,
+   "x": 270,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 26,
+    "y": 103
+   },
+   "h": 102,
+   "index": 4,
+   "origin": {
+    "x": 28,
+    "y": 113
+   },
+   "role": "Static24",
+   "w": 89,
+   "x": 360,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 26,
+    "y": 105
+   },
+   "h": 104,
+   "index": 5,
+   "origin": {
+    "x": 28,
+    "y": 113
+   },
+   "role": "Static24",
+   "w": 89,
+   "x": 450,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile47/Static24",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile47__Static24.png",
+  "h": 105,
+  "w": 539
+ }
+}

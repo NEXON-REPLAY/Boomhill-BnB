@@ -1,0 +1,77 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    90,
+    90,
+    90
+   ],
+   "frames": [
+    0,
+    1,
+    2
+   ],
+   "loop": false,
+   "name": "Attack Down+Attack2 Down+BeforeAttack Down+BeforeAttack2 Down+Blink (+3 more)"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 9,
+    "y": 49
+   },
+   "h": 44,
+   "index": 0,
+   "origin": {
+    "x": 17,
+    "y": 71
+   },
+   "role": "Attack Down+Attack2 Down+BeforeAttack Down+BeforeAttack2 Down+Blink (+3 more)",
+   "w": 55,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 47
+   },
+   "h": 44,
+   "index": 1,
+   "origin": {
+    "x": 17,
+    "y": 71
+   },
+   "role": "Attack Down+Attack2 Down+BeforeAttack Down+BeforeAttack2 Down+Blink (+3 more)",
+   "w": 51,
+   "x": 56,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 46
+   },
+   "h": 44,
+   "index": 2,
+   "origin": {
+    "x": 17,
+    "y": 71
+   },
+   "role": "Attack Down+Attack2 Down+BeforeAttack Down+BeforeAttack2 Down+Blink (+3 more)",
+   "w": 66,
+   "x": 108,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/RPG_MiniGolem_AttackDown00",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__RPG_MiniGolem_AttackDown00.png",
+  "h": 44,
+  "w": 174
+ }
+}

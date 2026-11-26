@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "Game"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 1,
+    "y": 10
+   },
+   "h": 53,
+   "index": 0,
+   "origin": {
+    "x": 13,
+    "y": 12
+   },
+   "role": "Game",
+   "w": 127,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 10
+   },
+   "h": 53,
+   "index": 1,
+   "origin": {
+    "x": 13,
+    "y": 12
+   },
+   "role": "Game",
+   "w": 126,
+   "x": 128,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 10
+   },
+   "h": 53,
+   "index": 2,
+   "origin": {
+    "x": 13,
+    "y": 12
+   },
+   "role": "Game",
+   "w": 140,
+   "x": 255,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 12,
+    "y": 10
+   },
+   "h": 51,
+   "index": 3,
+   "origin": {
+    "x": 13,
+    "y": 12
+   },
+   "role": "Game",
+   "w": 152,
+   "x": 396,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 9
+   },
+   "h": 50,
+   "index": 4,
+   "origin": {
+    "x": 13,
+    "y": 12
+   },
+   "role": "Game",
+   "w": 148,
+   "x": 549,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 13,
+    "y": 8
+   },
+   "h": 51,
+   "index": 5,
+   "origin": {
+    "x": 13,
+    "y": 12
+   },
+   "role": "Game",
+   "w": 153,
+   "x": 698,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 10
+   },
+   "h": 51,
+   "index": 6,
+   "origin": {
+    "x": 13,
+    "y": 12
+   },
+   "role": "Game",
+   "w": 148,
+   "x": 852,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 13,
+    "y": 10
+   },
+   "h": 53,
+   "index": 7,
+   "origin": {
+    "x": 13,
+    "y": 12
+   },
+   "role": "Game",
+   "w": 139,
+   "x": 0,
+   "y": 54
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "IDDeco/IDDeco_C0609G",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "IDDeco__IDDeco_C0609G.png",
+  "h": 107,
+  "w": 1000
+ }
+}

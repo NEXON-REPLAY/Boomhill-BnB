@@ -1,0 +1,131 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "SetItemEffect"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 4,
+    "y": 24
+   },
+   "h": 24,
+   "index": 0,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "SetItemEffect",
+   "w": 46,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 23
+   },
+   "h": 23,
+   "index": 1,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "SetItemEffect",
+   "w": 43,
+   "x": 47,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 24
+   },
+   "h": 24,
+   "index": 2,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "SetItemEffect",
+   "w": 44,
+   "x": 91,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 22
+   },
+   "h": 22,
+   "index": 3,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "SetItemEffect",
+   "w": 40,
+   "x": 136,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 23
+   },
+   "h": 23,
+   "index": 4,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "SetItemEffect",
+   "w": 41,
+   "x": 177,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 22
+   },
+   "h": 22,
+   "index": 5,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "SetItemEffect",
+   "w": 43,
+   "x": 219,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "060_effect",
+ "name": "Game/SetItemEffect",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Game__SetItemEffect.png",
+  "h": 24,
+  "w": 262
+ }
+}

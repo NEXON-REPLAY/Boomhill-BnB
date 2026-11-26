@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 7,
+    "y": 0
+   },
+   "h": 30,
+   "index": 0,
+   "origin": {
+    "x": 7,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 145,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "MyInfo/MP_Back_Event_Event",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MyInfo__MP_Back_Event_Event.png",
+  "h": 30,
+  "w": 145
+ }
+}

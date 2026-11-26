@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    900
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "Die"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 27,
+    "y": 128
+   },
+   "h": 153,
+   "index": 0,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "Die",
+   "w": 176,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 33,
+    "y": 167
+   },
+   "h": 166,
+   "index": 1,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "Die",
+   "w": 182,
+   "x": 177,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 33,
+    "y": 139
+   },
+   "h": 143,
+   "index": 2,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "Die",
+   "w": 181,
+   "x": 360,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 37,
+    "y": 132
+   },
+   "h": 143,
+   "index": 3,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "Die",
+   "w": 199,
+   "x": 542,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 38,
+    "y": 136
+   },
+   "h": 157,
+   "index": 4,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "Die",
+   "w": 202,
+   "x": 742,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 38,
+    "y": 116
+   },
+   "h": 139,
+   "index": 5,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "Die",
+   "w": 202,
+   "x": 0,
+   "y": 167
+  },
+  {
+   "center": {
+    "x": 40,
+    "y": 91
+   },
+   "h": 117,
+   "index": 6,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "Die",
+   "w": 198,
+   "x": 203,
+   "y": 167
+  },
+  {
+   "center": {
+    "x": 32,
+    "y": 41
+   },
+   "h": 66,
+   "index": 7,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "Die",
+   "w": 190,
+   "x": 402,
+   "y": 167
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/RPG_Golem_Die",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__RPG_Golem_Die.png",
+  "h": 306,
+  "w": 944
+ }
+}

@@ -1,0 +1,287 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "ArrowRight"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -4,
+    "y": -4
+   },
+   "h": 45,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 45,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": -3
+   },
+   "h": 45,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 45,
+   "x": 46,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": -2
+   },
+   "h": 45,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 45,
+   "x": 92,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": -1
+   },
+   "h": 45,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 45,
+   "x": 138,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": -4
+   },
+   "h": 45,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "ArrowRight",
+   "w": 45,
+   "x": 184,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": -4
+   },
+   "h": 45,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "ArrowRight",
+   "w": 45,
+   "x": 230,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": -4
+   },
+   "h": 45,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "ArrowRight",
+   "w": 45,
+   "x": 276,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -7,
+    "y": -4
+   },
+   "h": 45,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "ArrowRight",
+   "w": 45,
+   "x": 322,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": -4
+   },
+   "h": 45,
+   "index": 8,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 45,
+   "x": 368,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": -4
+   },
+   "h": 45,
+   "index": 9,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 45,
+   "x": 414,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": -4
+   },
+   "h": 45,
+   "index": 10,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 45,
+   "x": 460,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": -4
+   },
+   "h": 45,
+   "index": 11,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 45,
+   "x": 506,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": -4
+   },
+   "h": 45,
+   "index": 12,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 45,
+   "x": 552,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": -5
+   },
+   "h": 45,
+   "index": 13,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 45,
+   "x": 598,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": -6
+   },
+   "h": 45,
+   "index": 14,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 45,
+   "x": 644,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": -7
+   },
+   "h": 45,
+   "index": 15,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 45,
+   "x": 690,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/Effect_Arrow",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__Effect_Arrow.png",
+  "h": 45,
+  "w": 735
+ }
+}

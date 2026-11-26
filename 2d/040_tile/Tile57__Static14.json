@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "Static14"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 20,
+    "y": 200
+   },
+   "h": 201,
+   "index": 0,
+   "origin": {
+    "x": 20,
+    "y": 200
+   },
+   "role": "Static14",
+   "w": 160,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 20,
+    "y": 200
+   },
+   "h": 201,
+   "index": 1,
+   "origin": {
+    "x": 20,
+    "y": 200
+   },
+   "role": "Static14",
+   "w": 160,
+   "x": 161,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 20,
+    "y": 200
+   },
+   "h": 201,
+   "index": 2,
+   "origin": {
+    "x": 20,
+    "y": 200
+   },
+   "role": "Static14",
+   "w": 160,
+   "x": 322,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 20,
+    "y": 200
+   },
+   "h": 201,
+   "index": 3,
+   "origin": {
+    "x": 20,
+    "y": 200
+   },
+   "role": "Static14",
+   "w": 160,
+   "x": 483,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 20,
+    "y": 200
+   },
+   "h": 201,
+   "index": 4,
+   "origin": {
+    "x": 20,
+    "y": 200
+   },
+   "role": "Static14",
+   "w": 160,
+   "x": 644,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 20,
+    "y": 200
+   },
+   "h": 201,
+   "index": 5,
+   "origin": {
+    "x": 20,
+    "y": 200
+   },
+   "role": "Static14",
+   "w": 160,
+   "x": 805,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 20,
+    "y": 200
+   },
+   "h": 201,
+   "index": 6,
+   "origin": {
+    "x": 20,
+    "y": 200
+   },
+   "role": "Static14",
+   "w": 160,
+   "x": 0,
+   "y": 202
+  },
+  {
+   "center": {
+    "x": 20,
+    "y": 200
+   },
+   "h": 201,
+   "index": 7,
+   "origin": {
+    "x": 20,
+    "y": 200
+   },
+   "role": "Static14",
+   "w": 160,
+   "x": 161,
+   "y": 202
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile57/Static14",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile57__Static14.png",
+  "h": 403,
+  "w": 965
+ }
+}

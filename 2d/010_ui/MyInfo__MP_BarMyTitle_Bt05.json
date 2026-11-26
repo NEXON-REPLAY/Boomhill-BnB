@@ -1,0 +1,94 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": -10,
+    "y": -4
+   },
+   "h": 13,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "normal",
+   "w": 27,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -10,
+    "y": -4
+   },
+   "h": 13,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "pressed",
+   "w": 27,
+   "x": 28,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -10,
+    "y": -4
+   },
+   "h": 13,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "disabled",
+   "w": 27,
+   "x": 56,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 25,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "checked",
+   "w": 46,
+   "x": 84,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -10,
+    "y": -4
+   },
+   "h": 13,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "hover",
+   "w": 27,
+   "x": 131,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "MyInfo/MP_BarMyTitle_Bt05",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MyInfo__MP_BarMyTitle_Bt05.png",
+  "h": 25,
+  "w": 158
+ }
+}

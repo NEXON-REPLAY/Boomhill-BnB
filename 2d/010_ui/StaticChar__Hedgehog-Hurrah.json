@@ -1,0 +1,159 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    90,
+    90,
+    90,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    4,
+    5,
+    4,
+    5,
+    4,
+    5,
+    4,
+    5,
+    4,
+    5,
+    4,
+    5,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "HedgehogWin"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 5,
+    "y": 54
+   },
+   "h": 49,
+   "index": 0,
+   "origin": {
+    "x": 9,
+    "y": 75
+   },
+   "role": "HedgehogWin",
+   "w": 50,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 49
+   },
+   "h": 45,
+   "index": 1,
+   "origin": {
+    "x": 9,
+    "y": 75
+   },
+   "role": "HedgehogWin",
+   "w": 50,
+   "x": 51,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 47
+   },
+   "h": 42,
+   "index": 2,
+   "origin": {
+    "x": 9,
+    "y": 75
+   },
+   "role": "HedgehogWin",
+   "w": 50,
+   "x": 102,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 55
+   },
+   "h": 50,
+   "index": 3,
+   "origin": {
+    "x": 9,
+    "y": 75
+   },
+   "role": "HedgehogWin",
+   "w": 50,
+   "x": 153,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 54
+   },
+   "h": 49,
+   "index": 4,
+   "origin": {
+    "x": 9,
+    "y": 75
+   },
+   "role": "HedgehogWin",
+   "w": 51,
+   "x": 204,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 56
+   },
+   "h": 51,
+   "index": 5,
+   "origin": {
+    "x": 9,
+    "y": 75
+   },
+   "role": "HedgehogWin",
+   "w": 51,
+   "x": 256,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "StaticChar/Hedgehog-Hurrah",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "StaticChar__Hedgehog-Hurrah.png",
+  "h": 51,
+  "w": 307
+ }
+}

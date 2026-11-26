@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "06Static_ChristmasTree01+ChristmasTree01"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 138
+   },
+   "h": 137,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 138
+   },
+   "role": "06Static_ChristmasTree01+ChristmasTree01",
+   "w": 82,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 138
+   },
+   "h": 137,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 138
+   },
+   "role": "06Static_ChristmasTree01+ChristmasTree01",
+   "w": 82,
+   "x": 83,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 138
+   },
+   "h": 137,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 138
+   },
+   "role": "06Static_ChristmasTree01+ChristmasTree01",
+   "w": 82,
+   "x": 166,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 138
+   },
+   "h": 137,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 138
+   },
+   "role": "06Static_ChristmasTree01+ChristmasTree01",
+   "w": 82,
+   "x": 249,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile06/ChristmasTree01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile06__ChristmasTree01.png",
+  "h": 137,
+  "w": 331
+ }
+}

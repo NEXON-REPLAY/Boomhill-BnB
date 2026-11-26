@@ -1,0 +1,131 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "00_In"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -5,
+    "y": 36
+   },
+   "h": 18,
+   "index": 0,
+   "origin": {
+    "x": 40,
+    "y": 109
+   },
+   "role": "00_In",
+   "w": 18,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 48
+   },
+   "h": 30,
+   "index": 1,
+   "origin": {
+    "x": 40,
+    "y": 109
+   },
+   "role": "00_In",
+   "w": 30,
+   "x": 19,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 58
+   },
+   "h": 46,
+   "index": 2,
+   "origin": {
+    "x": 40,
+    "y": 109
+   },
+   "role": "00_In",
+   "w": 75,
+   "x": 50,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 64
+   },
+   "h": 49,
+   "index": 3,
+   "origin": {
+    "x": 40,
+    "y": 109
+   },
+   "role": "00_In",
+   "w": 66,
+   "x": 126,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 53
+   },
+   "h": 48,
+   "index": 4,
+   "origin": {
+    "x": 40,
+    "y": 109
+   },
+   "role": "00_In",
+   "w": 66,
+   "x": 193,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 54
+   },
+   "h": 49,
+   "index": 5,
+   "origin": {
+    "x": 40,
+    "y": 109
+   },
+   "role": "00_In",
+   "w": 66,
+   "x": 260,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/M_Monkey_In_Left",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__M_Monkey_In_Left.png",
+  "h": 49,
+  "w": 326
+ }
+}

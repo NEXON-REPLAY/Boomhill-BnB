@@ -1,0 +1,41 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "Insectivore"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 5,
+    "y": 66
+   },
+   "h": 67,
+   "index": 0,
+   "origin": {
+    "x": 5,
+    "y": 66
+   },
+   "role": "Insectivore",
+   "w": 50,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile20/Insectivore",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile20__Insectivore.png",
+  "h": 67,
+  "w": 50
+ }
+}

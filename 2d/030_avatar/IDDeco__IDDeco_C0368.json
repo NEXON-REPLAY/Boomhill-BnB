@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "Lobby"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 9,
+    "y": 1
+   },
+   "h": 24,
+   "index": 0,
+   "origin": {
+    "x": 10,
+    "y": 5
+   },
+   "role": "Lobby",
+   "w": 141,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 1
+   },
+   "h": 24,
+   "index": 1,
+   "origin": {
+    "x": 10,
+    "y": 5
+   },
+   "role": "Lobby",
+   "w": 141,
+   "x": 142,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 1
+   },
+   "h": 24,
+   "index": 2,
+   "origin": {
+    "x": 10,
+    "y": 5
+   },
+   "role": "Lobby",
+   "w": 141,
+   "x": 284,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 1
+   },
+   "h": 24,
+   "index": 3,
+   "origin": {
+    "x": 10,
+    "y": 5
+   },
+   "role": "Lobby",
+   "w": 141,
+   "x": 426,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 1
+   },
+   "h": 24,
+   "index": 4,
+   "origin": {
+    "x": 10,
+    "y": 5
+   },
+   "role": "Lobby",
+   "w": 141,
+   "x": 568,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 1
+   },
+   "h": 24,
+   "index": 5,
+   "origin": {
+    "x": 10,
+    "y": 5
+   },
+   "role": "Lobby",
+   "w": 141,
+   "x": 710,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 1
+   },
+   "h": 24,
+   "index": 6,
+   "origin": {
+    "x": 10,
+    "y": 5
+   },
+   "role": "Lobby",
+   "w": 141,
+   "x": 852,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 1
+   },
+   "h": 24,
+   "index": 7,
+   "origin": {
+    "x": 10,
+    "y": 5
+   },
+   "role": "Lobby",
+   "w": 141,
+   "x": 0,
+   "y": 25
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "IDDeco/IDDeco_C0368",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "IDDeco__IDDeco_C0368.png",
+  "h": 49,
+  "w": 993
+ }
+}

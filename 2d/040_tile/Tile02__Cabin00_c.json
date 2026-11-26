@@ -1,0 +1,77 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    360,
+    360,
+    360
+   ],
+   "frames": [
+    0,
+    2,
+    1
+   ],
+   "loop": false,
+   "name": "02Event_Cabin00_c+Cabin00_c"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -2,
+    "y": 155
+   },
+   "h": 151,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 160
+   },
+   "role": "02Event_Cabin00_c+Cabin00_c",
+   "w": 156,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 155
+   },
+   "h": 151,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 160
+   },
+   "role": "02Event_Cabin00_c+Cabin00_c",
+   "w": 156,
+   "x": 157,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 155
+   },
+   "h": 151,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 160
+   },
+   "role": "02Event_Cabin00_c+Cabin00_c",
+   "w": 156,
+   "x": 314,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile02/Cabin00_c",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile02__Cabin00_c.png",
+  "h": 151,
+  "w": 470
+ }
+}

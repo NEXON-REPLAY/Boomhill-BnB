@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 178,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 310,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Dialog/DlgHedgehog",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Dialog__DlgHedgehog.png",
+  "h": 178,
+  "w": 310
+ }
+}

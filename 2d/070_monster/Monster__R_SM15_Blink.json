@@ -1,0 +1,77 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2
+   ],
+   "loop": false,
+   "name": "Blink"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -2,
+    "y": 69
+   },
+   "h": 64,
+   "index": 0,
+   "origin": {
+    "x": 13,
+    "y": 84
+   },
+   "role": "Blink",
+   "w": 44,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 71
+   },
+   "h": 66,
+   "index": 1,
+   "origin": {
+    "x": 13,
+    "y": 84
+   },
+   "role": "Blink",
+   "w": 46,
+   "x": 45,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 71
+   },
+   "h": 69,
+   "index": 2,
+   "origin": {
+    "x": 13,
+    "y": 84
+   },
+   "role": "Blink",
+   "w": 44,
+   "x": 92,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/R_SM15_Blink",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__R_SM15_Blink.png",
+  "h": 69,
+  "w": 136
+ }
+}

@@ -1,0 +1,113 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    60,
+    60,
+    90,
+    90,
+    90
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "MonTurtleHitEffect"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -14,
+    "y": 83
+   },
+   "h": 85,
+   "index": 0,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "MonTurtleHitEffect",
+   "w": 82,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -11,
+    "y": 121
+   },
+   "h": 135,
+   "index": 1,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "MonTurtleHitEffect",
+   "w": 128,
+   "x": 83,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 124
+   },
+   "h": 138,
+   "index": 2,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "MonTurtleHitEffect",
+   "w": 141,
+   "x": 212,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 120
+   },
+   "h": 130,
+   "index": 3,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "MonTurtleHitEffect",
+   "w": 131,
+   "x": 354,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 13,
+    "y": 128
+   },
+   "h": 145,
+   "index": 4,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "MonTurtleHitEffect",
+   "w": 141,
+   "x": 486,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/BM_HitEffect",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__BM_HitEffect.png",
+  "h": 145,
+  "w": 627
+ }
+}

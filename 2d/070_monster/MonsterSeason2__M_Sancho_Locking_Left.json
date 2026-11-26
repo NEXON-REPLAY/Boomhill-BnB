@@ -1,0 +1,113 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "17_Locking Left"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 10,
+    "y": 82
+   },
+   "h": 77,
+   "index": 0,
+   "origin": {
+    "x": 20,
+    "y": 97
+   },
+   "role": "17_Locking Left",
+   "w": 64,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 94
+   },
+   "h": 89,
+   "index": 1,
+   "origin": {
+    "x": 20,
+    "y": 97
+   },
+   "role": "17_Locking Left",
+   "w": 49,
+   "x": 65,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 96
+   },
+   "h": 91,
+   "index": 2,
+   "origin": {
+    "x": 20,
+    "y": 97
+   },
+   "role": "17_Locking Left",
+   "w": 46,
+   "x": 115,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 97
+   },
+   "h": 92,
+   "index": 3,
+   "origin": {
+    "x": 20,
+    "y": 97
+   },
+   "role": "17_Locking Left",
+   "w": 45,
+   "x": 162,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 97
+   },
+   "h": 92,
+   "index": 4,
+   "origin": {
+    "x": 20,
+    "y": 97
+   },
+   "role": "17_Locking Left",
+   "w": 45,
+   "x": 208,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/M_Sancho_Locking_Left",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__M_Sancho_Locking_Left.png",
+  "h": 92,
+  "w": 253
+ }
+}

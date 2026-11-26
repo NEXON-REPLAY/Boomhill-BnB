@@ -1,0 +1,87 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "01Passable_TentOrange+ShakenVert+TentOrange"
+  },
+  {
+   "frame_ms": [
+    60,
+    60,
+    60
+   ],
+   "frames": [
+    1,
+    0,
+    2
+   ],
+   "loop": false,
+   "name": "ShakenHorz"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 66
+   },
+   "h": 71,
+   "index": 0,
+   "origin": {
+    "x": 4,
+    "y": 66
+   },
+   "role": "animated",
+   "w": 40,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 66
+   },
+   "h": 71,
+   "index": 1,
+   "origin": {
+    "x": 4,
+    "y": 66
+   },
+   "role": "ShakenHorz",
+   "w": 42,
+   "x": 41,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 66
+   },
+   "h": 71,
+   "index": 2,
+   "origin": {
+    "x": 4,
+    "y": 66
+   },
+   "role": "ShakenHorz",
+   "w": 41,
+   "x": 84,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile01/TentOrange",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile01__TentOrange.png",
+  "h": 71,
+  "w": 125
+ }
+}

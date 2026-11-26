@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "CharDeco_G1002"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 5,
+    "y": 84
+   },
+   "h": 64,
+   "index": 0,
+   "origin": {
+    "x": 18,
+    "y": 92
+   },
+   "role": "CharDeco_G1002",
+   "w": 61,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 81
+   },
+   "h": 62,
+   "index": 1,
+   "origin": {
+    "x": 18,
+    "y": 92
+   },
+   "role": "CharDeco_G1002",
+   "w": 61,
+   "x": 62,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 81
+   },
+   "h": 64,
+   "index": 2,
+   "origin": {
+    "x": 18,
+    "y": 92
+   },
+   "role": "CharDeco_G1002",
+   "w": 61,
+   "x": 124,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 12,
+    "y": 78
+   },
+   "h": 62,
+   "index": 3,
+   "origin": {
+    "x": 18,
+    "y": 92
+   },
+   "role": "CharDeco_G1002",
+   "w": 58,
+   "x": 186,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 79
+   },
+   "h": 61,
+   "index": 4,
+   "origin": {
+    "x": 18,
+    "y": 92
+   },
+   "role": "CharDeco_G1002",
+   "w": 63,
+   "x": 245,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 16,
+    "y": 79
+   },
+   "h": 60,
+   "index": 5,
+   "origin": {
+    "x": 18,
+    "y": 92
+   },
+   "role": "CharDeco_G1002",
+   "w": 63,
+   "x": 309,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 12,
+    "y": 82
+   },
+   "h": 60,
+   "index": 6,
+   "origin": {
+    "x": 18,
+    "y": 92
+   },
+   "role": "CharDeco_G1002",
+   "w": 65,
+   "x": 373,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 83
+   },
+   "h": 62,
+   "index": 7,
+   "origin": {
+    "x": 18,
+    "y": 92
+   },
+   "role": "CharDeco_G1002",
+   "w": 70,
+   "x": 439,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "CharDeco/CharDeco_G1002",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "CharDeco__CharDeco_G1002.png",
+  "h": 64,
+  "w": 509
+ }
+}

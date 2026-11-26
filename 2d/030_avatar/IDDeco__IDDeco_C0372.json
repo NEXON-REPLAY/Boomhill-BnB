@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    210,
+    210,
+    210,
+    210,
+    210,
+    210,
+    210,
+    210
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "Lobby"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 2,
+    "y": 5
+   },
+   "h": 28,
+   "index": 0,
+   "origin": {
+    "x": 14,
+    "y": 10
+   },
+   "role": "Lobby",
+   "w": 126,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 4
+   },
+   "h": 27,
+   "index": 1,
+   "origin": {
+    "x": 14,
+    "y": 10
+   },
+   "role": "Lobby",
+   "w": 130,
+   "x": 127,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 3
+   },
+   "h": 28,
+   "index": 2,
+   "origin": {
+    "x": 14,
+    "y": 10
+   },
+   "role": "Lobby",
+   "w": 136,
+   "x": 258,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 8,
+    "y": 3
+   },
+   "h": 28,
+   "index": 3,
+   "origin": {
+    "x": 14,
+    "y": 10
+   },
+   "role": "Lobby",
+   "w": 143,
+   "x": 395,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 5
+   },
+   "h": 31,
+   "index": 4,
+   "origin": {
+    "x": 14,
+    "y": 10
+   },
+   "role": "Lobby",
+   "w": 149,
+   "x": 539,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 9
+   },
+   "h": 35,
+   "index": 5,
+   "origin": {
+    "x": 14,
+    "y": 10
+   },
+   "role": "Lobby",
+   "w": 151,
+   "x": 689,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 10
+   },
+   "h": 34,
+   "index": 6,
+   "origin": {
+    "x": 14,
+    "y": 10
+   },
+   "role": "Lobby",
+   "w": 148,
+   "x": 841,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 6
+   },
+   "h": 28,
+   "index": 7,
+   "origin": {
+    "x": 14,
+    "y": 10
+   },
+   "role": "Lobby",
+   "w": 143,
+   "x": 0,
+   "y": 36
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "IDDeco/IDDeco_C0372",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "IDDeco__IDDeco_C0372.png",
+  "h": 64,
+  "w": 989
+ }
+}

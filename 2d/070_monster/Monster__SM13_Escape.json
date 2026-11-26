@@ -1,0 +1,77 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2
+   ],
+   "loop": false,
+   "name": "GotoHeaven"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 17,
+    "y": 88
+   },
+   "h": 83,
+   "index": 0,
+   "origin": {
+    "x": 20,
+    "y": 98
+   },
+   "role": "GotoHeaven",
+   "w": 66,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 17,
+    "y": 88
+   },
+   "h": 83,
+   "index": 1,
+   "origin": {
+    "x": 20,
+    "y": 98
+   },
+   "role": "GotoHeaven",
+   "w": 66,
+   "x": 67,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 17,
+    "y": 88
+   },
+   "h": 83,
+   "index": 2,
+   "origin": {
+    "x": 20,
+    "y": 98
+   },
+   "role": "GotoHeaven",
+   "w": 66,
+   "x": 134,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/SM13_Escape",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__SM13_Escape.png",
+  "h": 83,
+  "w": 200
+ }
+}

@@ -1,0 +1,159 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "hover"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": -10
+   },
+   "h": 176,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "normal",
+   "w": 171,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": -10
+   },
+   "h": 176,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "pressed",
+   "w": 171,
+   "x": 172,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": -10
+   },
+   "h": 176,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "disabled",
+   "w": 171,
+   "x": 344,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 186,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "checked",
+   "w": 174,
+   "x": 516,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": -10
+   },
+   "h": 176,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "hover",
+   "w": 171,
+   "x": 691,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": -10
+   },
+   "h": 176,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "hover",
+   "w": 171,
+   "x": 0,
+   "y": 187
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": -10
+   },
+   "h": 176,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "hover",
+   "w": 171,
+   "x": 172,
+   "y": 187
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": -10
+   },
+   "h": 176,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "hover",
+   "w": 171,
+   "x": 344,
+   "y": 187
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Lobby/Monster2_bt01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Lobby__Monster2_bt01.png",
+  "h": 363,
+  "w": 862
+ }
+}

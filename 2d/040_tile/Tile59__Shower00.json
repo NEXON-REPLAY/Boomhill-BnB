@@ -1,0 +1,77 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2
+   ],
+   "loop": false,
+   "name": "Shower00"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 95
+   },
+   "h": 96,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 95
+   },
+   "role": "Shower00",
+   "w": 80,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 95
+   },
+   "h": 96,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 95
+   },
+   "role": "Shower00",
+   "w": 80,
+   "x": 81,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 95
+   },
+   "h": 96,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 95
+   },
+   "role": "Shower00",
+   "w": 80,
+   "x": 162,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile59/Shower00",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile59__Shower00.png",
+  "h": 96,
+  "w": 242
+ }
+}

@@ -1,0 +1,135 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    90,
+    120,
+    120,
+    90,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    0,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "GrownWalkUp"
+  },
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "GrownStopUp"
+  },
+  {
+   "frame_ms": [
+    3000
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "GrownStopUp"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 9,
+    "y": 82
+   },
+   "h": 86,
+   "index": 0,
+   "origin": {
+    "x": 20,
+    "y": 84
+   },
+   "role": "animated",
+   "w": 58,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 81
+   },
+   "h": 85,
+   "index": 1,
+   "origin": {
+    "x": 20,
+    "y": 84
+   },
+   "role": "GrownWalkUp",
+   "w": 58,
+   "x": 59,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 81
+   },
+   "h": 84,
+   "index": 2,
+   "origin": {
+    "x": 20,
+    "y": 84
+   },
+   "role": "GrownWalkUp",
+   "w": 55,
+   "x": 118,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 81
+   },
+   "h": 85,
+   "index": 3,
+   "origin": {
+    "x": 20,
+    "y": 84
+   },
+   "role": "GrownWalkUp",
+   "w": 58,
+   "x": 174,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 81
+   },
+   "h": 84,
+   "index": 4,
+   "origin": {
+    "x": 20,
+    "y": 84
+   },
+   "role": "GrownWalkUp",
+   "w": 55,
+   "x": 233,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/R_SM05_GrownWalkingUp",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__R_SM05_GrownWalkingUp.png",
+  "h": 86,
+  "w": 288
+ }
+}

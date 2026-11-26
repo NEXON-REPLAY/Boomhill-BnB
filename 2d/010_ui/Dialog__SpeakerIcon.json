@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": -1,
+    "y": 1
+   },
+   "h": 13,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 2
+   },
+   "role": "sole-frame",
+   "w": 9,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Dialog/SpeakerIcon",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Dialog__SpeakerIcon.png",
+  "h": 13,
+  "w": 9
+ }
+}

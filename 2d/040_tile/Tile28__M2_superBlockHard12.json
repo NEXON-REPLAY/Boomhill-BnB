@@ -1,0 +1,41 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "MonS2_BlockHard12"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 48
+   },
+   "h": 49,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 48
+   },
+   "role": "MonS2_BlockHard12",
+   "w": 40,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile28/M2_superBlockHard12",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile28__M2_superBlockHard12.png",
+  "h": 49,
+  "w": 40
+ }
+}

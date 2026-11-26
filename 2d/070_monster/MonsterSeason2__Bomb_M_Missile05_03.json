@@ -1,0 +1,59 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1
+   ],
+   "loop": false,
+   "name": "Angle03"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -8,
+    "y": 5
+   },
+   "h": 30,
+   "index": 0,
+   "origin": {
+    "x": 7,
+    "y": 7
+   },
+   "role": "Angle03",
+   "w": 11,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -8,
+    "y": 5
+   },
+   "h": 30,
+   "index": 1,
+   "origin": {
+    "x": 7,
+    "y": 7
+   },
+   "role": "Angle03",
+   "w": 11,
+   "x": 12,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/Bomb_M_Missile05_03",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__Bomb_M_Missile05_03.png",
+  "h": 30,
+  "w": 23
+ }
+}

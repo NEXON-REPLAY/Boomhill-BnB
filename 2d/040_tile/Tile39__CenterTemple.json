@@ -1,0 +1,101 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    2700,
+    210,
+    210,
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "CenterTemple"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -1,
+    "y": 195
+   },
+   "h": 211,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 195
+   },
+   "role": "CenterTemple",
+   "w": 198,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 195
+   },
+   "h": 211,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 195
+   },
+   "role": "CenterTemple",
+   "w": 198,
+   "x": 199,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 195
+   },
+   "h": 211,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 195
+   },
+   "role": "CenterTemple",
+   "w": 198,
+   "x": 398,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 195
+   },
+   "h": 211,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 195
+   },
+   "role": "CenterTemple",
+   "w": 198,
+   "x": 597,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile39/CenterTemple",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile39__CenterTemple.png",
+  "h": 211,
+  "w": 795
+ }
+}

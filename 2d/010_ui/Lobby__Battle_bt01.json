@@ -1,0 +1,159 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "hover"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": -10
+   },
+   "h": 176,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "normal",
+   "w": 127,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": -10
+   },
+   "h": 176,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "pressed",
+   "w": 127,
+   "x": 128,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": -10
+   },
+   "h": 176,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "disabled",
+   "w": 127,
+   "x": 256,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 186,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "checked",
+   "w": 130,
+   "x": 384,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": -10
+   },
+   "h": 176,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "hover",
+   "w": 127,
+   "x": 515,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": -10
+   },
+   "h": 176,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "hover",
+   "w": 127,
+   "x": 643,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": -10
+   },
+   "h": 176,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "hover",
+   "w": 127,
+   "x": 771,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": -10
+   },
+   "h": 176,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "hover",
+   "w": 127,
+   "x": 0,
+   "y": 187
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Lobby/Battle_bt01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Lobby__Battle_bt01.png",
+  "h": 363,
+  "w": 898
+ }
+}

@@ -1,0 +1,131 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    180,
+    210,
+    240,
+    210,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "BlinkRight"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 21,
+    "y": 173
+   },
+   "h": 177,
+   "index": 0,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "BlinkRight",
+   "w": 179,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 27,
+    "y": 177
+   },
+   "h": 180,
+   "index": 1,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "BlinkRight",
+   "w": 185,
+   "x": 180,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 28,
+    "y": 178
+   },
+   "h": 180,
+   "index": 2,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "BlinkRight",
+   "w": 186,
+   "x": 366,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 30,
+    "y": 182
+   },
+   "h": 183,
+   "index": 3,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "BlinkRight",
+   "w": 189,
+   "x": 553,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 28,
+    "y": 182
+   },
+   "h": 184,
+   "index": 4,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "BlinkRight",
+   "w": 186,
+   "x": 743,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 20,
+    "y": 178
+   },
+   "h": 181,
+   "index": 5,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "BlinkRight",
+   "w": 178,
+   "x": 0,
+   "y": 185
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/BM08_CBlinkRight",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__BM08_CBlinkRight.png",
+  "h": 366,
+  "w": 929
+ }
+}

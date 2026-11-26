@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "Anger+LockIn"
+  },
+  {
+   "frame_ms": [
+    180,
+    210,
+    210,
+    150,
+    150,
+    150,
+    600
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    0,
+    1,
+    2,
+    0
+   ],
+   "loop": false,
+   "name": "Blink+Start"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 14,
+    "y": 99
+   },
+   "h": 98,
+   "index": 0,
+   "origin": {
+    "x": 21,
+    "y": 120
+   },
+   "role": "animated",
+   "w": 109,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 102
+   },
+   "h": 101,
+   "index": 1,
+   "origin": {
+    "x": 21,
+    "y": 120
+   },
+   "role": "Blink+Start",
+   "w": 109,
+   "x": 110,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 101
+   },
+   "h": 100,
+   "index": 2,
+   "origin": {
+    "x": 21,
+    "y": 120
+   },
+   "role": "Blink+Start",
+   "w": 109,
+   "x": 220,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/BM04_Blink",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__BM04_Blink.png",
+  "h": 101,
+  "w": 329
+ }
+}

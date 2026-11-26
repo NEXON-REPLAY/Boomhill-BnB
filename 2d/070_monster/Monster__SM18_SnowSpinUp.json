@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    90,
+    90,
+    90,
+    90
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "KickedUp"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 10,
+    "y": 67
+   },
+   "h": 60,
+   "index": 0,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "KickedUp",
+   "w": 60,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 18,
+    "y": 68
+   },
+   "h": 61,
+   "index": 1,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "KickedUp",
+   "w": 68,
+   "x": 61,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 18,
+    "y": 69
+   },
+   "h": 60,
+   "index": 2,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "KickedUp",
+   "w": 73,
+   "x": 130,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 17,
+    "y": 70
+   },
+   "h": 62,
+   "index": 3,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "KickedUp",
+   "w": 74,
+   "x": 204,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/SM18_SnowSpinUp",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__SM18_SnowSpinUp.png",
+  "h": 62,
+  "w": 278
+ }
+}

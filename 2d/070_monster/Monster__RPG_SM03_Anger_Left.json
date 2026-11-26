@@ -1,0 +1,89 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    1
+   ],
+   "loop": false,
+   "name": "AngryLeft"
+  },
+  {
+   "frame_ms": [
+    120
+   ],
+   "frames": [
+    1
+   ],
+   "loop": false,
+   "name": "AngryStopLeft"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -3,
+    "y": 43
+   },
+   "h": 40,
+   "index": 0,
+   "origin": {
+    "x": 4,
+    "y": 45
+   },
+   "role": "AngryLeft",
+   "w": 39,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 43
+   },
+   "h": 39,
+   "index": 1,
+   "origin": {
+    "x": 4,
+    "y": 45
+   },
+   "role": "animated",
+   "w": 40,
+   "x": 40,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 43
+   },
+   "h": 39,
+   "index": 2,
+   "origin": {
+    "x": 4,
+    "y": 45
+   },
+   "role": "AngryLeft",
+   "w": 41,
+   "x": 81,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/RPG_SM03_Anger_Left",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__RPG_SM03_Anger_Left.png",
+  "h": 40,
+  "w": 122
+ }
+}

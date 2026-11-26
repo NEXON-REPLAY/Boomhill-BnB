@@ -1,0 +1,113 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "Damage Left"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 71,
+    "y": 119
+   },
+   "h": 119,
+   "index": 0,
+   "origin": {
+    "x": 93,
+    "y": 174
+   },
+   "role": "Damage Left",
+   "w": 197,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 81,
+    "y": 161
+   },
+   "h": 148,
+   "index": 1,
+   "origin": {
+    "x": 93,
+    "y": 174
+   },
+   "role": "Damage Left",
+   "w": 218,
+   "x": 198,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 74,
+    "y": 137
+   },
+   "h": 132,
+   "index": 2,
+   "origin": {
+    "x": 93,
+    "y": 174
+   },
+   "role": "Damage Left",
+   "w": 208,
+   "x": 417,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 71,
+    "y": 110
+   },
+   "h": 110,
+   "index": 3,
+   "origin": {
+    "x": 93,
+    "y": 174
+   },
+   "role": "Damage Left",
+   "w": 197,
+   "x": 626,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 71,
+    "y": 119
+   },
+   "h": 119,
+   "index": 4,
+   "origin": {
+    "x": 93,
+    "y": 174
+   },
+   "role": "Damage Left",
+   "w": 197,
+   "x": 824,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/BM06_HitLeft",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__BM06_HitLeft.png",
+  "h": 148,
+  "w": 1021
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 232,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 320,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "SelectServerStage/CH_Loading_Dlg",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "SelectServerStage__CH_Loading_Dlg.png",
+  "h": 232,
+  "w": 320
+ }
+}

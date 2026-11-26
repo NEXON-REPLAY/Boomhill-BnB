@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    60,
+    60,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "KickedDie+Out"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 6,
+    "y": 45
+   },
+   "h": 45,
+   "index": 0,
+   "origin": {
+    "x": 16,
+    "y": 56
+   },
+   "role": "KickedDie+Out",
+   "w": 52,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 12,
+    "y": 50
+   },
+   "h": 56,
+   "index": 1,
+   "origin": {
+    "x": 16,
+    "y": 56
+   },
+   "role": "KickedDie+Out",
+   "w": 62,
+   "x": 53,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 53
+   },
+   "h": 61,
+   "index": 2,
+   "origin": {
+    "x": 16,
+    "y": 56
+   },
+   "role": "KickedDie+Out",
+   "w": 66,
+   "x": 116,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 54
+   },
+   "h": 62,
+   "index": 3,
+   "origin": {
+    "x": 16,
+    "y": 56
+   },
+   "role": "KickedDie+Out",
+   "w": 61,
+   "x": 183,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/RPG_SM11_Locking-Die",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__RPG_SM11_Locking-Die.png",
+  "h": 62,
+  "w": 244
+ }
+}

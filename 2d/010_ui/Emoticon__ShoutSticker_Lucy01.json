@@ -1,0 +1,59 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    210,
+    210
+   ],
+   "frames": [
+    0,
+    1
+   ],
+   "loop": false,
+   "name": "ShoutSticker_Lucy01"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -52,
+    "y": 0
+   },
+   "h": 58,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "ShoutSticker_Lucy01",
+   "w": 85,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -44,
+    "y": 0
+   },
+   "h": 58,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "ShoutSticker_Lucy01",
+   "w": 94,
+   "x": 86,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Emoticon/ShoutSticker_Lucy01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Emoticon__ShoutSticker_Lucy01.png",
+  "h": 58,
+  "w": 180
+ }
+}

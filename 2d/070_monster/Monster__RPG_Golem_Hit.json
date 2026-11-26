@@ -1,0 +1,131 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    210,
+    150,
+    210,
+    210
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "Damage Down+Damage Left+Damage Right+Damage Up"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 15,
+    "y": 149
+   },
+   "h": 143,
+   "index": 0,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Damage Down+Damage Left+Damage Right+Damage Up",
+   "w": 150,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 28,
+    "y": 152
+   },
+   "h": 150,
+   "index": 1,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Damage Down+Damage Left+Damage Right+Damage Up",
+   "w": 175,
+   "x": 151,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 28,
+    "y": 153
+   },
+   "h": 151,
+   "index": 2,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Damage Down+Damage Left+Damage Right+Damage Up",
+   "w": 177,
+   "x": 327,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 28,
+    "y": 154
+   },
+   "h": 155,
+   "index": 3,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Damage Down+Damage Left+Damage Right+Damage Up",
+   "w": 176,
+   "x": 505,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 26,
+    "y": 156
+   },
+   "h": 155,
+   "index": 4,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Damage Down+Damage Left+Damage Right+Damage Up",
+   "w": 169,
+   "x": 682,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 18,
+    "y": 145
+   },
+   "h": 142,
+   "index": 5,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Damage Down+Damage Left+Damage Right+Damage Up",
+   "w": 156,
+   "x": 852,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/RPG_Golem_Hit",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__RPG_Golem_Hit.png",
+  "h": 155,
+  "w": 1008
+ }
+}

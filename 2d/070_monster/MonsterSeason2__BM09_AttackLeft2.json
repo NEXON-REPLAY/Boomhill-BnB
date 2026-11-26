@@ -1,0 +1,77 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2
+   ],
+   "loop": false,
+   "name": "Attack2 Left+Attack2 Up"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -14,
+    "y": 137
+   },
+   "h": 150,
+   "index": 0,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Attack2 Left+Attack2 Up",
+   "w": 142,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": 133
+   },
+   "h": 147,
+   "index": 1,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Attack2 Left+Attack2 Up",
+   "w": 127,
+   "x": 143,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 8,
+    "y": 138
+   },
+   "h": 151,
+   "index": 2,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Attack2 Left+Attack2 Up",
+   "w": 142,
+   "x": 271,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/BM09_AttackLeft2",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__BM09_AttackLeft2.png",
+  "h": 151,
+  "w": 413
+ }
+}

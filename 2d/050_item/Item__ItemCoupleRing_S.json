@@ -1,0 +1,1870 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade01 Heart / color0",
+   "w": 25,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade01 Heart / color1",
+   "w": 25,
+   "x": 26,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade01 Heart / color2",
+   "w": 25,
+   "x": 52,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade01 Heart / color3",
+   "w": 25,
+   "x": 78,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade02 Pearl / color0",
+   "w": 25,
+   "x": 104,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade02 Pearl / color1",
+   "w": 25,
+   "x": 130,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade02 Pearl / color2",
+   "w": 25,
+   "x": 156,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade02 Pearl / color3",
+   "w": 25,
+   "x": 182,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 8,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade03 Sapphire / color0",
+   "w": 25,
+   "x": 208,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 9,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade03 Sapphire / color1",
+   "w": 25,
+   "x": 234,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 10,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade03 Sapphire / color2",
+   "w": 25,
+   "x": 260,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 11,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade03 Sapphire / color3",
+   "w": 25,
+   "x": 286,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 12,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade04 Diamond / color0",
+   "w": 25,
+   "x": 312,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 13,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade04 Diamond / color1",
+   "w": 25,
+   "x": 338,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 14,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade04 Diamond / color2",
+   "w": 25,
+   "x": 364,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 15,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade04 Diamond / color3",
+   "w": 25,
+   "x": 390,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 16,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade05 NoOTL / color0",
+   "w": 25,
+   "x": 416,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 17,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade05 NoOTL / color1",
+   "w": 25,
+   "x": 442,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 18,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade05 NoOTL / color2",
+   "w": 25,
+   "x": 468,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 19,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade05 NoOTL / color3",
+   "w": 25,
+   "x": 494,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 20,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade06 Needle / color0",
+   "w": 25,
+   "x": 520,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 21,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade06 Needle / color1",
+   "w": 25,
+   "x": 546,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 22,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade06 Needle / color2",
+   "w": 25,
+   "x": 572,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 23,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade06 Needle / color3",
+   "w": 25,
+   "x": 598,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 24,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade07 Wedding / color0",
+   "w": 25,
+   "x": 624,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 25,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade07 Wedding / color1",
+   "w": 25,
+   "x": 650,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 26,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade07 Wedding / color2",
+   "w": 25,
+   "x": 676,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 27,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade07 Wedding / color3",
+   "w": 25,
+   "x": 702,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 28,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade08 RainBow / color0",
+   "w": 25,
+   "x": 728,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 29,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade08 RainBow / color1",
+   "w": 25,
+   "x": 754,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 30,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade08 RainBow / color2",
+   "w": 25,
+   "x": 780,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 31,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade08 RainBow / color3",
+   "w": 25,
+   "x": 806,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 32,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade09 Fire / color0",
+   "w": 25,
+   "x": 832,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 33,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade09 Fire / color1",
+   "w": 25,
+   "x": 858,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 34,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade09 Fire / color2",
+   "w": 25,
+   "x": 884,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 35,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade09 Fire / color3",
+   "w": 25,
+   "x": 910,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 36,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade10 FireCracker / color0",
+   "w": 25,
+   "x": 936,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 37,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade10 FireCracker / color1",
+   "w": 25,
+   "x": 962,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 38,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade10 FireCracker / color2",
+   "w": 25,
+   "x": 988,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 39,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade10 FireCracker / color3",
+   "w": 25,
+   "x": 0,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 40,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade11 Universe / color0",
+   "w": 25,
+   "x": 26,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 41,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade11 Universe / color1",
+   "w": 25,
+   "x": 52,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 42,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade11 Universe / color2",
+   "w": 25,
+   "x": 78,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 43,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade11 Universe / color3",
+   "w": 25,
+   "x": 104,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 44,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade12 SilverHeart_NoBonus / color0",
+   "w": 25,
+   "x": 130,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 45,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade12 SilverHeart_NoBonus / color1",
+   "w": 25,
+   "x": 156,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 46,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade12 SilverHeart_NoBonus / color2",
+   "w": 25,
+   "x": 182,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 47,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade12 SilverHeart_NoBonus / color3",
+   "w": 25,
+   "x": 208,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 48,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade13 SilverHeart / color0",
+   "w": 25,
+   "x": 234,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 49,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade13 SilverHeart / color1",
+   "w": 25,
+   "x": 260,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 50,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade13 SilverHeart / color2",
+   "w": 25,
+   "x": 286,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 51,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade13 SilverHeart / color3",
+   "w": 25,
+   "x": 312,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 52,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade14 LuxmaLuxury / color0",
+   "w": 25,
+   "x": 338,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 53,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade14 LuxmaLuxury / color1",
+   "w": 25,
+   "x": 364,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 54,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade14 LuxmaLuxury / color2",
+   "w": 25,
+   "x": 390,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 55,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade14 LuxmaLuxury / color3",
+   "w": 25,
+   "x": 416,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 56,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade15 RoseSecret / color0",
+   "w": 25,
+   "x": 442,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 57,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade15 RoseSecret / color1",
+   "w": 25,
+   "x": 468,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 58,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade15 RoseSecret / color2",
+   "w": 25,
+   "x": 494,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 59,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade15 RoseSecret / color3",
+   "w": 25,
+   "x": 520,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 60,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade16 Panda / color0",
+   "w": 25,
+   "x": 546,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 61,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade16 Panda / color1",
+   "w": 25,
+   "x": 572,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 62,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade16 Panda / color2",
+   "w": 25,
+   "x": 598,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 63,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade16 Panda / color3",
+   "w": 25,
+   "x": 624,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 64,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade17 Candy / color0",
+   "w": 25,
+   "x": 650,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 65,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade17 Candy / color1",
+   "w": 25,
+   "x": 676,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 66,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade17 Candy / color2",
+   "w": 25,
+   "x": 702,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 67,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade17 Candy / color3",
+   "w": 25,
+   "x": 728,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 68,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade18 PinkPearl / color0",
+   "w": 25,
+   "x": 754,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 69,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade18 PinkPearl / color1",
+   "w": 25,
+   "x": 780,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 70,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade18 PinkPearl / color2",
+   "w": 25,
+   "x": 806,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 71,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade18 PinkPearl / color3",
+   "w": 25,
+   "x": 832,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 72,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade19 Bat / color0",
+   "w": 25,
+   "x": 858,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 73,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade19 Bat / color1",
+   "w": 25,
+   "x": 884,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 74,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade19 Bat / color2",
+   "w": 25,
+   "x": 910,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 75,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade19 Bat / color3",
+   "w": 25,
+   "x": 936,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 76,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade20 Wriggle / color0",
+   "w": 25,
+   "x": 962,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 77,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade20 Wriggle / color1",
+   "w": 25,
+   "x": 988,
+   "y": 26
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 78,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade20 Wriggle / color2",
+   "w": 25,
+   "x": 0,
+   "y": 52
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 79,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade20 Wriggle / color3",
+   "w": 25,
+   "x": 26,
+   "y": 52
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 80,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade21 Uni / color0",
+   "w": 25,
+   "x": 52,
+   "y": 52
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 81,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade21 Uni / color1",
+   "w": 25,
+   "x": 78,
+   "y": 52
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 82,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade21 Uni / color2",
+   "w": 25,
+   "x": 104,
+   "y": 52
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 83,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade21 Uni / color3",
+   "w": 25,
+   "x": 130,
+   "y": 52
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 84,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade22 LineFriends / color0",
+   "w": 25,
+   "x": 156,
+   "y": 52
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 85,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade22 LineFriends / color1",
+   "w": 25,
+   "x": 182,
+   "y": 52
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 86,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade22 LineFriends / color2",
+   "w": 25,
+   "x": 208,
+   "y": 52
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 87,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade22 LineFriends / color3",
+   "w": 25,
+   "x": 234,
+   "y": 52
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 88,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade23 Butterfly / color0",
+   "w": 25,
+   "x": 260,
+   "y": 52
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 89,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade23 Butterfly / color1",
+   "w": 25,
+   "x": 286,
+   "y": 52
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 90,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade23 Butterfly / color2",
+   "w": 25,
+   "x": 312,
+   "y": 52
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 91,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade23 Butterfly / color3",
+   "w": 25,
+   "x": 338,
+   "y": 52
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 92,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade24 Crown / color0",
+   "w": 25,
+   "x": 364,
+   "y": 52
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 93,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade24 Crown / color1",
+   "w": 25,
+   "x": 390,
+   "y": 52
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 94,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade24 Crown / color2",
+   "w": 25,
+   "x": 416,
+   "y": 52
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 95,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade24 Crown / color3",
+   "w": 25,
+   "x": 442,
+   "y": 52
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 96,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade25 Thunder / color0",
+   "w": 25,
+   "x": 468,
+   "y": 52
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 97,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade25 Thunder / color1",
+   "w": 25,
+   "x": 494,
+   "y": 52
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 98,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade25 Thunder / color2",
+   "w": 25,
+   "x": 520,
+   "y": 52
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 99,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade25 Thunder / color3",
+   "w": 25,
+   "x": 546,
+   "y": 52
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 100,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade26 Lovelypink / color0",
+   "w": 25,
+   "x": 572,
+   "y": 52
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 101,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade26 Lovelypink / color1",
+   "w": 25,
+   "x": 598,
+   "y": 52
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 102,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade26 Lovelypink / color2",
+   "w": 25,
+   "x": 624,
+   "y": 52
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 103,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade26 Lovelypink / color3",
+   "w": 25,
+   "x": 650,
+   "y": 52
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 104,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade27 Birthday22 / color0",
+   "w": 25,
+   "x": 676,
+   "y": 52
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 105,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade27 Birthday22 / color1",
+   "w": 25,
+   "x": 702,
+   "y": 52
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 106,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade27 Birthday22 / color2",
+   "w": 25,
+   "x": 728,
+   "y": 52
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 107,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade27 Birthday22 / color3",
+   "w": 25,
+   "x": 754,
+   "y": 52
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 108,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade28 Lovely / color0",
+   "w": 25,
+   "x": 780,
+   "y": 52
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 109,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade28 Lovely / color1",
+   "w": 25,
+   "x": 806,
+   "y": 52
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 110,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade28 Lovely / color2",
+   "w": 25,
+   "x": 832,
+   "y": 52
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 111,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade28 Lovely / color3",
+   "w": 25,
+   "x": 858,
+   "y": 52
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 112,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade29 Sheepwear / color0",
+   "w": 25,
+   "x": 884,
+   "y": 52
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 113,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade29 Sheepwear / color1",
+   "w": 25,
+   "x": 910,
+   "y": 52
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 114,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade29 Sheepwear / color2",
+   "w": 25,
+   "x": 936,
+   "y": 52
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 1
+   },
+   "h": 25,
+   "index": 115,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "index:grade29 Sheepwear / color3",
+   "w": 25,
+   "x": 962,
+   "y": 52
+  }
+ ],
+ "game": "bnb",
+ "group": "050_item",
+ "name": "Item/ItemCoupleRing_S",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Item__ItemCoupleRing_S.png",
+  "h": 77,
+  "w": 1013
+ }
+}

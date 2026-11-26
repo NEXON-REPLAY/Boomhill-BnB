@@ -1,0 +1,239 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120,
+    90,
+    60,
+    60,
+    60,
+    150,
+    90,
+    300
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "loop": false,
+   "name": "HedgehogRebirth"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 5,
+    "y": 51
+   },
+   "h": 48,
+   "index": 0,
+   "origin": {
+    "x": 9,
+    "y": 114
+   },
+   "role": "HedgehogRebirth",
+   "w": 50,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 8,
+    "y": 73
+   },
+   "h": 70,
+   "index": 1,
+   "origin": {
+    "x": 9,
+    "y": 114
+   },
+   "role": "HedgehogRebirth",
+   "w": 57,
+   "x": 51,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 95
+   },
+   "h": 90,
+   "index": 2,
+   "origin": {
+    "x": 9,
+    "y": 114
+   },
+   "role": "HedgehogRebirth",
+   "w": 57,
+   "x": 109,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 103
+   },
+   "h": 99,
+   "index": 3,
+   "origin": {
+    "x": 9,
+    "y": 114
+   },
+   "role": "HedgehogRebirth",
+   "w": 58,
+   "x": 167,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 91
+   },
+   "h": 49,
+   "index": 4,
+   "origin": {
+    "x": 9,
+    "y": 114
+   },
+   "role": "HedgehogRebirth",
+   "w": 50,
+   "x": 226,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 80
+   },
+   "h": 48,
+   "index": 5,
+   "origin": {
+    "x": 9,
+    "y": 114
+   },
+   "role": "HedgehogRebirth",
+   "w": 50,
+   "x": 277,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 69
+   },
+   "h": 48,
+   "index": 6,
+   "origin": {
+    "x": 9,
+    "y": 114
+   },
+   "role": "HedgehogRebirth",
+   "w": 50,
+   "x": 328,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 61
+   },
+   "h": 51,
+   "index": 7,
+   "origin": {
+    "x": 9,
+    "y": 114
+   },
+   "role": "HedgehogRebirth",
+   "w": 50,
+   "x": 379,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 47
+   },
+   "h": 42,
+   "index": 8,
+   "origin": {
+    "x": 9,
+    "y": 114
+   },
+   "role": "HedgehogRebirth",
+   "w": 50,
+   "x": 430,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 51
+   },
+   "h": 47,
+   "index": 9,
+   "origin": {
+    "x": 9,
+    "y": 114
+   },
+   "role": "HedgehogRebirth",
+   "w": 50,
+   "x": 481,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 57
+   },
+   "h": 52,
+   "index": 10,
+   "origin": {
+    "x": 9,
+    "y": 114
+   },
+   "role": "HedgehogRebirth",
+   "w": 50,
+   "x": 532,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 54
+   },
+   "h": 49,
+   "index": 11,
+   "origin": {
+    "x": 9,
+    "y": 114
+   },
+   "role": "HedgehogRebirth",
+   "w": 50,
+   "x": 583,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "StaticChar/Hedgehog-Die",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "StaticChar__Hedgehog-Die.png",
+  "h": 99,
+  "w": 633
+ }
+}

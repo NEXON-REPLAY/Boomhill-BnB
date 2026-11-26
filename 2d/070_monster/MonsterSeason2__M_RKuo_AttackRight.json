@@ -1,0 +1,131 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "16_AttackRight"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 9,
+    "y": 57
+   },
+   "h": 52,
+   "index": 0,
+   "origin": {
+    "x": 40,
+    "y": 92
+   },
+   "role": "16_AttackRight",
+   "w": 51,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 57
+   },
+   "h": 52,
+   "index": 1,
+   "origin": {
+    "x": 40,
+    "y": 92
+   },
+   "role": "16_AttackRight",
+   "w": 51,
+   "x": 52,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 51
+   },
+   "h": 46,
+   "index": 2,
+   "origin": {
+    "x": 40,
+    "y": 92
+   },
+   "role": "16_AttackRight",
+   "w": 53,
+   "x": 104,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": 69
+   },
+   "h": 62,
+   "index": 3,
+   "origin": {
+    "x": 40,
+    "y": 92
+   },
+   "role": "16_AttackRight",
+   "w": 68,
+   "x": 158,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 65
+   },
+   "h": 60,
+   "index": 4,
+   "origin": {
+    "x": 40,
+    "y": 92
+   },
+   "role": "16_AttackRight",
+   "w": 61,
+   "x": 227,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 8,
+    "y": 54
+   },
+   "h": 49,
+   "index": 5,
+   "origin": {
+    "x": 40,
+    "y": 92
+   },
+   "role": "16_AttackRight",
+   "w": 54,
+   "x": 289,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/M_RKuo_AttackRight",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__M_RKuo_AttackRight.png",
+  "h": 62,
+  "w": 343
+ }
+}

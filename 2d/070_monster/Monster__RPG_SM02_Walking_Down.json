@@ -1,0 +1,89 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    1
+   ],
+   "loop": false,
+   "name": "WalkDown"
+  },
+  {
+   "frame_ms": [
+    120
+   ],
+   "frames": [
+    1
+   ],
+   "loop": false,
+   "name": "StopDown"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -3,
+    "y": 36
+   },
+   "h": 32,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 45
+   },
+   "role": "WalkDown",
+   "w": 34,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 36
+   },
+   "h": 32,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 45
+   },
+   "role": "animated",
+   "w": 34,
+   "x": 35,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 36
+   },
+   "h": 32,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 45
+   },
+   "role": "WalkDown",
+   "w": 34,
+   "x": 70,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/RPG_SM02_Walking_Down",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__RPG_SM02_Walking_Down.png",
+  "h": 32,
+  "w": 104
+ }
+}

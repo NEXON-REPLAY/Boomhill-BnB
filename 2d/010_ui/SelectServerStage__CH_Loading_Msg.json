@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 44,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 104,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "SelectServerStage/CH_Loading_Msg",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "SelectServerStage__CH_Loading_Msg.png",
+  "h": 44,
+  "w": 104
+ }
+}

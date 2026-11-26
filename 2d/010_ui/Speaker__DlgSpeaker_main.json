@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 423,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "sole-frame",
+   "w": 349,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Speaker/DlgSpeaker_main",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Speaker__DlgSpeaker_main.png",
+  "h": 423,
+  "w": 349
+ }
+}

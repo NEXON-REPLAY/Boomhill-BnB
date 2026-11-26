@@ -1,0 +1,139 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "BeforeAttack2 Down+BeforeAttack2 right"
+  },
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "BeforeAttack3 Right"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -33,
+    "y": 102
+   },
+   "h": 128,
+   "index": 0,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "animated",
+   "w": 113,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -33,
+    "y": 101
+   },
+   "h": 127,
+   "index": 1,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "animated",
+   "w": 113,
+   "x": 114,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": 120
+   },
+   "h": 142,
+   "index": 2,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "animated",
+   "w": 141,
+   "x": 228,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 125
+   },
+   "h": 142,
+   "index": 3,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "animated",
+   "w": 174,
+   "x": 370,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 114
+   },
+   "h": 130,
+   "index": 4,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "animated",
+   "w": 157,
+   "x": 545,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/BM09_AttackBeforeRight2",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__BM09_AttackBeforeRight2.png",
+  "h": 142,
+  "w": 702
+ }
+}

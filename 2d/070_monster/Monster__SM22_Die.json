@@ -1,0 +1,131 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    60,
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "DragonSmall1 Out"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -5,
+    "y": 37
+   },
+   "h": 32,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 57
+   },
+   "role": "DragonSmall1 Out",
+   "w": 30,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -9,
+    "y": 49
+   },
+   "h": 38,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 57
+   },
+   "role": "DragonSmall1 Out",
+   "w": 22,
+   "x": 31,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -9,
+    "y": 39
+   },
+   "h": 30,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 57
+   },
+   "role": "DragonSmall1 Out",
+   "w": 22,
+   "x": 54,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -9,
+    "y": 32
+   },
+   "h": 24,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 57
+   },
+   "role": "DragonSmall1 Out",
+   "w": 22,
+   "x": 77,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -10,
+    "y": 19
+   },
+   "h": 12,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 57
+   },
+   "role": "DragonSmall1 Out",
+   "w": 21,
+   "x": 100,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -12,
+    "y": 12
+   },
+   "h": 6,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 57
+   },
+   "role": "DragonSmall1 Out",
+   "w": 18,
+   "x": 122,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/SM22_Die",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__SM22_Die.png",
+  "h": 38,
+  "w": 140
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2
+   ],
+   "loop": false,
+   "name": "Shooting Down"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 2,
+    "y": 49
+   },
+   "h": 42,
+   "index": 0,
+   "origin": {
+    "x": 9,
+    "y": 89
+   },
+   "role": "Shooting Down",
+   "w": 42,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 47
+   },
+   "h": 40,
+   "index": 1,
+   "origin": {
+    "x": 9,
+    "y": 89
+   },
+   "role": "Shooting Down",
+   "w": 42,
+   "x": 43,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 46
+   },
+   "h": 38,
+   "index": 2,
+   "origin": {
+    "x": 9,
+    "y": 89
+   },
+   "role": "Shooting Down",
+   "w": 42,
+   "x": 86,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Ship/Shark01-ShootingDown",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Ship__Shark01-ShootingDown.png",
+  "h": 42,
+  "w": 128
+ }
+}

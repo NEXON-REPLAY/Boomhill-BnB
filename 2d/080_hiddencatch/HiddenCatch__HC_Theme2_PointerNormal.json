@@ -1,0 +1,131 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "2_Loop"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -15,
+    "y": -17
+   },
+   "h": 54,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "2_Loop",
+   "w": 38,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -15,
+    "y": -16
+   },
+   "h": 54,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "2_Loop",
+   "w": 38,
+   "x": 39,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -15,
+    "y": -15
+   },
+   "h": 54,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "2_Loop",
+   "w": 38,
+   "x": 78,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -15,
+    "y": -14
+   },
+   "h": 54,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "2_Loop",
+   "w": 38,
+   "x": 117,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -15,
+    "y": -15
+   },
+   "h": 54,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "2_Loop",
+   "w": 38,
+   "x": 156,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -15,
+    "y": -16
+   },
+   "h": 54,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "2_Loop",
+   "w": 38,
+   "x": 195,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "080_hiddencatch",
+ "name": "HiddenCatch/HC_Theme2_PointerNormal",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "HiddenCatch__HC_Theme2_PointerNormal.png",
+  "h": 54,
+  "w": 233
+ }
+}

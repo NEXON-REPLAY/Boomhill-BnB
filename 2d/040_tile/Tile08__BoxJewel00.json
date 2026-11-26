@@ -1,0 +1,83 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    600,
+    300,
+    300,
+    900,
+    210,
+    240
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    0,
+    1,
+    2
+   ],
+   "loop": false,
+   "name": "08Static_BoxJewel00+BoxJewel00"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 62
+   },
+   "h": 63,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 62
+   },
+   "role": "08Static_BoxJewel00+BoxJewel00",
+   "w": 42,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 62
+   },
+   "h": 63,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 62
+   },
+   "role": "08Static_BoxJewel00+BoxJewel00",
+   "w": 42,
+   "x": 43,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 62
+   },
+   "h": 63,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 62
+   },
+   "role": "08Static_BoxJewel00+BoxJewel00",
+   "w": 42,
+   "x": 86,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile08/BoxJewel00",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile08__BoxJewel00.png",
+  "h": 63,
+  "w": 128
+ }
+}

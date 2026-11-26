@@ -1,0 +1,131 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    150,
+    600
+   ],
+   "frames": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "loop": false,
+   "name": "DragonSmall1 In"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -12,
+    "y": 12
+   },
+   "h": 6,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 57
+   },
+   "role": "DragonSmall1 In",
+   "w": 18,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -10,
+    "y": 19
+   },
+   "h": 12,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 57
+   },
+   "role": "DragonSmall1 In",
+   "w": 21,
+   "x": 19,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -9,
+    "y": 32
+   },
+   "h": 24,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 57
+   },
+   "role": "DragonSmall1 In",
+   "w": 22,
+   "x": 41,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -9,
+    "y": 39
+   },
+   "h": 30,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 57
+   },
+   "role": "DragonSmall1 In",
+   "w": 22,
+   "x": 64,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -9,
+    "y": 42
+   },
+   "h": 31,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 57
+   },
+   "role": "DragonSmall1 In",
+   "w": 22,
+   "x": 87,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": 36
+   },
+   "h": 32,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 57
+   },
+   "role": "DragonSmall1 In",
+   "w": 30,
+   "x": 110,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/SM22_In",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__SM22_In.png",
+  "h": 32,
+  "w": 140
+ }
+}

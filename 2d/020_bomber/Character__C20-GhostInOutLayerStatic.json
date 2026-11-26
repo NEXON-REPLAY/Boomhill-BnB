@@ -1,0 +1,171 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90
+   ],
+   "frames": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "Ghost Appear"
+  },
+  {
+   "frame_ms": [
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90
+   ],
+   "frames": [
+    7,
+    6,
+    5,
+    4,
+    3,
+    2,
+    1
+   ],
+   "loop": false,
+   "name": "Ghost Disappear"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -2,
+    "y": 43
+   },
+   "h": 24,
+   "index": 1,
+   "origin": {
+    "x": 21,
+    "y": 84
+   },
+   "role": "animated",
+   "w": 32,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 52
+   },
+   "h": 35,
+   "index": 2,
+   "origin": {
+    "x": 21,
+    "y": 84
+   },
+   "role": "animated",
+   "w": 35,
+   "x": 33,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 61
+   },
+   "h": 43,
+   "index": 3,
+   "origin": {
+    "x": 21,
+    "y": 84
+   },
+   "role": "animated",
+   "w": 41,
+   "x": 69,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 62
+   },
+   "h": 52,
+   "index": 4,
+   "origin": {
+    "x": 21,
+    "y": 84
+   },
+   "role": "animated",
+   "w": 45,
+   "x": 111,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 65
+   },
+   "h": 55,
+   "index": 5,
+   "origin": {
+    "x": 21,
+    "y": 84
+   },
+   "role": "animated",
+   "w": 53,
+   "x": 157,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 67
+   },
+   "h": 57,
+   "index": 6,
+   "origin": {
+    "x": 21,
+    "y": 84
+   },
+   "role": "animated",
+   "w": 48,
+   "x": 211,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 70
+   },
+   "h": 60,
+   "index": 7,
+   "origin": {
+    "x": 21,
+    "y": 84
+   },
+   "role": "animated",
+   "w": 50,
+   "x": 260,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "020_bomber",
+ "name": "Character/C20-GhostInOutLayerStatic",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Character__C20-GhostInOutLayerStatic.png",
+  "h": 60,
+  "w": 310
+ }
+}

@@ -1,0 +1,295 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    7
+   ],
+   "loop": false,
+   "name": "LadderDeco_A003"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 7,
+    "y": 3
+   },
+   "h": 35,
+   "index": 0,
+   "origin": {
+    "x": 8,
+    "y": 4
+   },
+   "role": "LadderDeco_A003",
+   "w": 39,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 3
+   },
+   "h": 35,
+   "index": 1,
+   "origin": {
+    "x": 8,
+    "y": 4
+   },
+   "role": "LadderDeco_A003",
+   "w": 39,
+   "x": 40,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 3
+   },
+   "h": 35,
+   "index": 2,
+   "origin": {
+    "x": 8,
+    "y": 4
+   },
+   "role": "LadderDeco_A003",
+   "w": 39,
+   "x": 80,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 3
+   },
+   "h": 35,
+   "index": 3,
+   "origin": {
+    "x": 8,
+    "y": 4
+   },
+   "role": "LadderDeco_A003",
+   "w": 39,
+   "x": 120,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 3
+   },
+   "h": 35,
+   "index": 4,
+   "origin": {
+    "x": 8,
+    "y": 4
+   },
+   "role": "LadderDeco_A003",
+   "w": 39,
+   "x": 160,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 3
+   },
+   "h": 35,
+   "index": 5,
+   "origin": {
+    "x": 8,
+    "y": 4
+   },
+   "role": "LadderDeco_A003",
+   "w": 39,
+   "x": 200,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 3
+   },
+   "h": 35,
+   "index": 6,
+   "origin": {
+    "x": 8,
+    "y": 4
+   },
+   "role": "LadderDeco_A003",
+   "w": 39,
+   "x": 240,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 3
+   },
+   "h": 35,
+   "index": 7,
+   "origin": {
+    "x": 8,
+    "y": 4
+   },
+   "role": "LadderDeco_A003",
+   "w": 39,
+   "x": 280,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 3
+   },
+   "h": 35,
+   "index": 8,
+   "origin": {
+    "x": 8,
+    "y": 4
+   },
+   "role": "LadderDeco_A003",
+   "w": 39,
+   "x": 320,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 3
+   },
+   "h": 35,
+   "index": 9,
+   "origin": {
+    "x": 8,
+    "y": 4
+   },
+   "role": "LadderDeco_A003",
+   "w": 39,
+   "x": 360,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 3
+   },
+   "h": 35,
+   "index": 10,
+   "origin": {
+    "x": 8,
+    "y": 4
+   },
+   "role": "LadderDeco_A003",
+   "w": 39,
+   "x": 400,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 3
+   },
+   "h": 35,
+   "index": 11,
+   "origin": {
+    "x": 8,
+    "y": 4
+   },
+   "role": "LadderDeco_A003",
+   "w": 39,
+   "x": 440,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 3
+   },
+   "h": 35,
+   "index": 12,
+   "origin": {
+    "x": 8,
+    "y": 4
+   },
+   "role": "LadderDeco_A003",
+   "w": 39,
+   "x": 480,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 3
+   },
+   "h": 35,
+   "index": 13,
+   "origin": {
+    "x": 8,
+    "y": 4
+   },
+   "role": "LadderDeco_A003",
+   "w": 39,
+   "x": 520,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 3
+   },
+   "h": 35,
+   "index": 14,
+   "origin": {
+    "x": 8,
+    "y": 4
+   },
+   "role": "LadderDeco_A003",
+   "w": 39,
+   "x": 560,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "LadderDeco/LadderDeco_A003",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "LadderDeco__LadderDeco_A003.png",
+  "h": 35,
+  "w": 599
+ }
+}

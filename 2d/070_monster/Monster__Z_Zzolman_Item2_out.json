@@ -1,0 +1,221 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    60,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "loop": false,
+   "name": "Disappear"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 6,
+    "y": 66
+   },
+   "h": 64,
+   "index": 0,
+   "origin": {
+    "x": 13,
+    "y": 96
+   },
+   "role": "Disappear",
+   "w": 52,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 8,
+    "y": 63
+   },
+   "h": 61,
+   "index": 1,
+   "origin": {
+    "x": 13,
+    "y": 96
+   },
+   "role": "Disappear",
+   "w": 56,
+   "x": 53,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 96
+   },
+   "h": 49,
+   "index": 2,
+   "origin": {
+    "x": 13,
+    "y": 96
+   },
+   "role": "Disappear",
+   "w": 42,
+   "x": 110,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 47
+   },
+   "h": 46,
+   "index": 3,
+   "origin": {
+    "x": 13,
+    "y": 96
+   },
+   "role": "Disappear",
+   "w": 51,
+   "x": 153,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 53
+   },
+   "h": 49,
+   "index": 4,
+   "origin": {
+    "x": 13,
+    "y": 96
+   },
+   "role": "Disappear",
+   "w": 63,
+   "x": 205,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 12,
+    "y": 53
+   },
+   "h": 49,
+   "index": 5,
+   "origin": {
+    "x": 13,
+    "y": 96
+   },
+   "role": "Disappear",
+   "w": 64,
+   "x": 269,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 55
+   },
+   "h": 51,
+   "index": 6,
+   "origin": {
+    "x": 13,
+    "y": 96
+   },
+   "role": "Disappear",
+   "w": 52,
+   "x": 334,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 68
+   },
+   "h": 61,
+   "index": 7,
+   "origin": {
+    "x": 13,
+    "y": 96
+   },
+   "role": "Disappear",
+   "w": 51,
+   "x": 387,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 8,
+    "y": 67
+   },
+   "h": 53,
+   "index": 8,
+   "origin": {
+    "x": 13,
+    "y": 96
+   },
+   "role": "Disappear",
+   "w": 54,
+   "x": 439,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 86
+   },
+   "h": 73,
+   "index": 9,
+   "origin": {
+    "x": 13,
+    "y": 96
+   },
+   "role": "Disappear",
+   "w": 63,
+   "x": 494,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 12,
+    "y": 44
+   },
+   "h": 44,
+   "index": 10,
+   "origin": {
+    "x": 13,
+    "y": 96
+   },
+   "role": "Disappear",
+   "w": 64,
+   "x": 558,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/Z_Zzolman_Item2_out",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__Z_Zzolman_Item2_out.png",
+  "h": 73,
+  "w": 622
+ }
+}

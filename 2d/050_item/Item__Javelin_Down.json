@@ -1,0 +1,46 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": -9,
+    "y": 64
+   },
+   "h": 44,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 66
+   },
+   "role": "state:0 Flying",
+   "w": 25,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -8,
+    "y": 59
+   },
+   "h": 30,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 66
+   },
+   "role": "state:1 Anchored",
+   "w": 25,
+   "x": 26,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "050_item",
+ "name": "Item/Javelin_Down",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Item__Javelin_Down.png",
+  "h": 44,
+  "w": 51
+ }
+}

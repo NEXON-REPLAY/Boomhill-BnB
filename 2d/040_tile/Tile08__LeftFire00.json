@@ -1,0 +1,113 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "08Static_LeftFire00+LeftFire00"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 112
+   },
+   "h": 113,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 122
+   },
+   "role": "08Static_LeftFire00+LeftFire00",
+   "w": 36,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 120
+   },
+   "h": 121,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 122
+   },
+   "role": "08Static_LeftFire00+LeftFire00",
+   "w": 36,
+   "x": 37,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 120
+   },
+   "h": 121,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 122
+   },
+   "role": "08Static_LeftFire00+LeftFire00",
+   "w": 36,
+   "x": 74,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 113
+   },
+   "h": 114,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 122
+   },
+   "role": "08Static_LeftFire00+LeftFire00",
+   "w": 36,
+   "x": 111,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 114
+   },
+   "h": 115,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 122
+   },
+   "role": "08Static_LeftFire00+LeftFire00",
+   "w": 36,
+   "x": 148,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile08/LeftFire00",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile08__LeftFire00.png",
+  "h": 121,
+  "w": 184
+ }
+}

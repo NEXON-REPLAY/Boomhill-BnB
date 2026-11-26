@@ -1,0 +1,113 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    90,
+    90,
+    90,
+    90,
+    90
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "0"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 1,
+    "y": 40
+   },
+   "h": 42,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 39
+   },
+   "role": "0",
+   "w": 42,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 40
+   },
+   "h": 42,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 39
+   },
+   "role": "0",
+   "w": 42,
+   "x": 43,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 38
+   },
+   "h": 39,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 39
+   },
+   "role": "0",
+   "w": 40,
+   "x": 86,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 33
+   },
+   "h": 32,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 39
+   },
+   "role": "0",
+   "w": 33,
+   "x": 127,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -39,
+    "y": 0
+   },
+   "h": 2,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 39
+   },
+   "role": "0",
+   "w": 2,
+   "x": 161,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "050_item",
+ "name": "Item/BondGround",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Item__BondGround.png",
+  "h": 42,
+  "w": 163
+ }
+}

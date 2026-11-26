@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": -1,
+    "y": -1
+   },
+   "h": 476,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "sole-frame",
+   "w": 596,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Tutorial/Tutorialback",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tutorial__Tutorialback.png",
+  "h": 476,
+  "w": 596
+ }
+}

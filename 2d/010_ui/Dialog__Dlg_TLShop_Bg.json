@@ -1,0 +1,30 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 452,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 2
+   },
+   "role": "unconfirmed",
+   "w": 676,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Dialog/Dlg_TLShop_Bg",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Dialog__Dlg_TLShop_Bg.png",
+  "h": 452,
+  "w": 676
+ }
+}

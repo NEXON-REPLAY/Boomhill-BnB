@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    210,
+    210,
+    210,
+    210
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "ShoutSticker_Dao01"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -38,
+    "y": 0
+   },
+   "h": 58,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "ShoutSticker_Dao01",
+   "w": 101,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -38,
+    "y": 0
+   },
+   "h": 57,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "ShoutSticker_Dao01",
+   "w": 99,
+   "x": 102,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -38,
+    "y": -2
+   },
+   "h": 54,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "ShoutSticker_Dao01",
+   "w": 101,
+   "x": 202,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -38,
+    "y": -1
+   },
+   "h": 57,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "ShoutSticker_Dao01",
+   "w": 99,
+   "x": 304,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Emoticon/ShoutSticker_Dao01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Emoticon__ShoutSticker_Dao01.png",
+  "h": 58,
+  "w": 403
+ }
+}

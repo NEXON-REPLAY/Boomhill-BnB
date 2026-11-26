@@ -1,0 +1,77 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    180,
+    240
+   ],
+   "frames": [
+    0,
+    1,
+    2
+   ],
+   "loop": false,
+   "name": "Damage Left+Damage Up"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 23,
+    "y": 172
+   },
+   "h": 174,
+   "index": 0,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Damage Left+Damage Up",
+   "w": 176,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 25,
+    "y": 163
+   },
+   "h": 164,
+   "index": 1,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Damage Left+Damage Up",
+   "w": 181,
+   "x": 177,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 21,
+    "y": 157
+   },
+   "h": 160,
+   "index": 2,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Damage Left+Damage Up",
+   "w": 177,
+   "x": 359,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/BM08_CHitLeft",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__BM08_CHitLeft.png",
+  "h": 174,
+  "w": 536
+ }
+}

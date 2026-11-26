@@ -1,0 +1,177 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "19Static_Coffee+Coffee+Timer+User"
+  },
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "Flame"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 110
+   },
+   "h": 107,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 119
+   },
+   "role": "animated",
+   "w": 80,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 109
+   },
+   "h": 106,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 119
+   },
+   "role": "Flame",
+   "w": 80,
+   "x": 81,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 108
+   },
+   "h": 105,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 119
+   },
+   "role": "Flame",
+   "w": 80,
+   "x": 162,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 108
+   },
+   "h": 105,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 119
+   },
+   "role": "Flame",
+   "w": 80,
+   "x": 243,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 108
+   },
+   "h": 105,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 119
+   },
+   "role": "Flame",
+   "w": 80,
+   "x": 324,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 109
+   },
+   "h": 106,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 119
+   },
+   "role": "Flame",
+   "w": 80,
+   "x": 405,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 109
+   },
+   "h": 106,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 119
+   },
+   "role": "Flame",
+   "w": 80,
+   "x": 486,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 110
+   },
+   "h": 107,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 119
+   },
+   "role": "Flame",
+   "w": 80,
+   "x": 567,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile19/Coffee",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile19__Coffee.png",
+  "h": 107,
+  "w": 647
+ }
+}

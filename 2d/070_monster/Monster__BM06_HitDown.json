@@ -1,0 +1,113 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "Damage Down"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 10,
+    "y": 120
+   },
+   "h": 119,
+   "index": 0,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "Damage Down",
+   "w": 140,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 26,
+    "y": 161
+   },
+   "h": 136,
+   "index": 1,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "Damage Down",
+   "w": 174,
+   "x": 141,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 18,
+    "y": 139
+   },
+   "h": 135,
+   "index": 2,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "Damage Down",
+   "w": 156,
+   "x": 316,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 109
+   },
+   "h": 129,
+   "index": 3,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "Damage Down",
+   "w": 140,
+   "x": 473,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 10,
+    "y": 120
+   },
+   "h": 119,
+   "index": 4,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "Damage Down",
+   "w": 140,
+   "x": 614,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/BM06_HitDown",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__BM06_HitDown.png",
+  "h": 136,
+  "w": 754
+ }
+}

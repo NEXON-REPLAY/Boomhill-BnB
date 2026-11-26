@@ -1,0 +1,89 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    1
+   ],
+   "loop": false,
+   "name": "AngryRight"
+  },
+  {
+   "frame_ms": [
+    120
+   ],
+   "frames": [
+    1
+   ],
+   "loop": false,
+   "name": "AngryStopRight"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -2,
+    "y": 37
+   },
+   "h": 34,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 45
+   },
+   "role": "AngryRight",
+   "w": 33,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 37
+   },
+   "h": 33,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 45
+   },
+   "role": "animated",
+   "w": 34,
+   "x": 34,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 37
+   },
+   "h": 33,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 45
+   },
+   "role": "AngryRight",
+   "w": 35,
+   "x": 69,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/RPG_SM02_Anger_Right",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__RPG_SM02_Anger_Right.png",
+  "h": 34,
+  "w": 104
+ }
+}

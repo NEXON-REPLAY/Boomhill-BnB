@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    60,
+    60,
+    60,
+    60
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "KickedDown+KickedLeft+KickedRight+KickedUp"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 41
+   },
+   "h": 40,
+   "index": 0,
+   "origin": {
+    "x": 6,
+    "y": 46
+   },
+   "role": "KickedDown+KickedLeft+KickedRight+KickedUp",
+   "w": 40,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 42
+   },
+   "h": 42,
+   "index": 1,
+   "origin": {
+    "x": 6,
+    "y": 46
+   },
+   "role": "KickedDown+KickedLeft+KickedRight+KickedUp",
+   "w": 42,
+   "x": 41,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 41
+   },
+   "h": 40,
+   "index": 2,
+   "origin": {
+    "x": 6,
+    "y": 46
+   },
+   "role": "KickedDown+KickedLeft+KickedRight+KickedUp",
+   "w": 40,
+   "x": 84,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 42
+   },
+   "h": 42,
+   "index": 3,
+   "origin": {
+    "x": 6,
+    "y": 46
+   },
+   "role": "KickedDown+KickedLeft+KickedRight+KickedUp",
+   "w": 42,
+   "x": 125,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/RPG_SM11_Attack",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__RPG_SM11_Attack.png",
+  "h": 42,
+  "w": 167
+ }
+}

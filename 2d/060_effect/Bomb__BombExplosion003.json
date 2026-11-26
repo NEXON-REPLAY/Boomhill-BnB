@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "BombExplosion003"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 16,
+    "y": 50
+   },
+   "h": 30,
+   "index": 0,
+   "origin": {
+    "x": 27,
+    "y": 76
+   },
+   "role": "BombExplosion003",
+   "w": 33,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 20,
+    "y": 54
+   },
+   "h": 38,
+   "index": 1,
+   "origin": {
+    "x": 27,
+    "y": 76
+   },
+   "role": "BombExplosion003",
+   "w": 45,
+   "x": 34,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 24,
+    "y": 60
+   },
+   "h": 49,
+   "index": 2,
+   "origin": {
+    "x": 27,
+    "y": 76
+   },
+   "role": "BombExplosion003",
+   "w": 76,
+   "x": 80,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 24,
+    "y": 63
+   },
+   "h": 54,
+   "index": 3,
+   "origin": {
+    "x": 27,
+    "y": 76
+   },
+   "role": "BombExplosion003",
+   "w": 81,
+   "x": 157,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 54
+   },
+   "h": 49,
+   "index": 4,
+   "origin": {
+    "x": 27,
+    "y": 76
+   },
+   "role": "BombExplosion003",
+   "w": 62,
+   "x": 239,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 56
+   },
+   "h": 54,
+   "index": 5,
+   "origin": {
+    "x": 27,
+    "y": 76
+   },
+   "role": "BombExplosion003",
+   "w": 67,
+   "x": 302,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 49
+   },
+   "h": 49,
+   "index": 6,
+   "origin": {
+    "x": 27,
+    "y": 76
+   },
+   "role": "BombExplosion003",
+   "w": 55,
+   "x": 370,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 8,
+    "y": 50
+   },
+   "h": 54,
+   "index": 7,
+   "origin": {
+    "x": 27,
+    "y": 76
+   },
+   "role": "BombExplosion003",
+   "w": 54,
+   "x": 426,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "060_effect",
+ "name": "Bomb/BombExplosion003",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Bomb__BombExplosion003.png",
+  "h": 54,
+  "w": 480
+ }
+}

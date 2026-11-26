@@ -1,0 +1,174 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": -2,
+    "y": -3
+   },
+   "h": 39,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 45,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -17,
+    "y": -3
+   },
+   "h": 39,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 15,
+   "x": 46,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": -3
+   },
+   "h": 39,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 47,
+   "x": 62,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": -3
+   },
+   "h": 39,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 47,
+   "x": 110,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": -3
+   },
+   "h": 39,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 49,
+   "x": 158,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": -3
+   },
+   "h": 39,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 47,
+   "x": 208,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": -3
+   },
+   "h": 39,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 49,
+   "x": 256,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": -3
+   },
+   "h": 39,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 47,
+   "x": 306,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": -3
+   },
+   "h": 39,
+   "index": 8,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 46,
+   "x": 354,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": -3
+   },
+   "h": 39,
+   "index": 9,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 46,
+   "x": 401,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "LoginStage/Dlg_LO-WaitingNumber",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "LoginStage__Dlg_LO-WaitingNumber.png",
+  "h": 39,
+  "w": 447
+ }
+}

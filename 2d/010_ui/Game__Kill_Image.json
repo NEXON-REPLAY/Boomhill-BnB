@@ -1,0 +1,654 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 59,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "timer_board",
+   "w": 178,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 59,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 178,
+   "x": 179,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 59,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 178,
+   "x": 358,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 28,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "timer_digit_0",
+   "w": 32,
+   "x": 537,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -10,
+    "y": 0
+   },
+   "h": 28,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "timer_digit_1",
+   "w": 12,
+   "x": 570,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 28,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "timer_digit_2",
+   "w": 32,
+   "x": 583,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 28,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "timer_digit_3",
+   "w": 32,
+   "x": 616,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 28,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "timer_digit_4",
+   "w": 32,
+   "x": 649,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 28,
+   "index": 8,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "timer_digit_5",
+   "w": 32,
+   "x": 682,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 28,
+   "index": 9,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "timer_digit_6",
+   "w": 32,
+   "x": 715,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 28,
+   "index": 10,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "timer_digit_7",
+   "w": 32,
+   "x": 748,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 28,
+   "index": 11,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "timer_digit_8",
+   "w": 32,
+   "x": 781,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 28,
+   "index": 12,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "timer_digit_9",
+   "w": 32,
+   "x": 814,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -10,
+    "y": -5
+   },
+   "h": 19,
+   "index": 13,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "timer_colon",
+   "w": 12,
+   "x": 847,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 17,
+   "index": 14,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "kill_digit_winner_0",
+   "w": 13,
+   "x": 860,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -10,
+    "y": -2
+   },
+   "h": 13,
+   "index": 15,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "kill_digit_winner_1",
+   "w": 3,
+   "x": 874,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 17,
+   "index": 16,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "kill_digit_winner_2",
+   "w": 13,
+   "x": 878,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 0
+   },
+   "h": 17,
+   "index": 17,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "kill_digit_winner_3",
+   "w": 11,
+   "x": 892,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": -2
+   },
+   "h": 13,
+   "index": 18,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "kill_digit_winner_4",
+   "w": 13,
+   "x": 904,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 17,
+   "index": 19,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "kill_digit_winner_5",
+   "w": 13,
+   "x": 918,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 17,
+   "index": 20,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "kill_digit_winner_6",
+   "w": 13,
+   "x": 932,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 0
+   },
+   "h": 15,
+   "index": 21,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "kill_digit_winner_7",
+   "w": 11,
+   "x": 946,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 17,
+   "index": 22,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "kill_digit_winner_8",
+   "w": 13,
+   "x": 958,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 17,
+   "index": 23,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "kill_digit_winner_9",
+   "w": 13,
+   "x": 972,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 17,
+   "index": 24,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "kill_digit_0",
+   "w": 13,
+   "x": 986,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -10,
+    "y": -2
+   },
+   "h": 13,
+   "index": 25,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "kill_digit_1",
+   "w": 3,
+   "x": 1000,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 17,
+   "index": 26,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "kill_digit_2",
+   "w": 13,
+   "x": 1004,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 0
+   },
+   "h": 17,
+   "index": 27,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "kill_digit_3",
+   "w": 11,
+   "x": 0,
+   "y": 60
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": -2
+   },
+   "h": 13,
+   "index": 28,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "kill_digit_4",
+   "w": 13,
+   "x": 12,
+   "y": 60
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 17,
+   "index": 29,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "kill_digit_5",
+   "w": 13,
+   "x": 26,
+   "y": 60
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 17,
+   "index": 30,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "kill_digit_6",
+   "w": 13,
+   "x": 40,
+   "y": 60
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 0
+   },
+   "h": 15,
+   "index": 31,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "kill_digit_7",
+   "w": 11,
+   "x": 54,
+   "y": 60
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 17,
+   "index": 32,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "kill_digit_8",
+   "w": 13,
+   "x": 66,
+   "y": 60
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 17,
+   "index": 33,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "kill_digit_9",
+   "w": 13,
+   "x": 80,
+   "y": 60
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 41,
+   "index": 34,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "kill_cell_empty_slot",
+   "w": 48,
+   "x": 94,
+   "y": 60
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 41,
+   "index": 35,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "kill_cell_player",
+   "w": 48,
+   "x": 143,
+   "y": 60
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 0
+   },
+   "h": 22,
+   "index": 36,
+   "origin": {
+    "x": 3,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 22,
+   "x": 192,
+   "y": 60
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 0
+   },
+   "h": 22,
+   "index": 37,
+   "origin": {
+    "x": 3,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 22,
+   "x": 215,
+   "y": 60
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 0
+   },
+   "h": 22,
+   "index": 38,
+   "origin": {
+    "x": 3,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 22,
+   "x": 238,
+   "y": 60
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 0
+   },
+   "h": 22,
+   "index": 39,
+   "origin": {
+    "x": 3,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 22,
+   "x": 261,
+   "y": 60
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Game/Kill_Image",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Game__Kill_Image.png",
+  "h": 101,
+  "w": 1017
+ }
+}

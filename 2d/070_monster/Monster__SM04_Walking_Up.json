@@ -1,0 +1,87 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "Stop Up"
+  },
+  {
+   "frame_ms": [
+    240,
+    360,
+    240
+   ],
+   "frames": [
+    0,
+    1,
+    2
+   ],
+   "loop": false,
+   "name": "Walk Up"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -3,
+    "y": 42
+   },
+   "h": 38,
+   "index": 0,
+   "origin": {
+    "x": 4,
+    "y": 55
+   },
+   "role": "animated",
+   "w": 34,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 40
+   },
+   "h": 36,
+   "index": 1,
+   "origin": {
+    "x": 4,
+    "y": 55
+   },
+   "role": "Walk Up",
+   "w": 34,
+   "x": 35,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 48
+   },
+   "h": 40,
+   "index": 2,
+   "origin": {
+    "x": 4,
+    "y": 55
+   },
+   "role": "Walk Up",
+   "w": 34,
+   "x": 70,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/SM04_Walking_Up",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__SM04_Walking_Up.png",
+  "h": 40,
+  "w": 104
+ }
+}

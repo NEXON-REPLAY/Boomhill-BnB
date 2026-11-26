@@ -1,0 +1,110 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": -7,
+    "y": -5
+   },
+   "h": 7,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "win_particle_step_0",
+   "w": 7,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": -4
+   },
+   "h": 9,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "win_particle_step_1",
+   "w": 9,
+   "x": 8,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": -2
+   },
+   "h": 14,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "win_particle_step_2",
+   "w": 13,
+   "x": 18,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": -4
+   },
+   "h": 9,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "win_particle_step_3",
+   "w": 9,
+   "x": 32,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -7,
+    "y": -5
+   },
+   "h": 7,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "win_particle_step_4",
+   "w": 7,
+   "x": 42,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -8,
+    "y": -6
+   },
+   "h": 5,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "win_particle_step_5",
+   "w": 5,
+   "x": 50,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "UXMatching/Result_Win_Effect01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "UXMatching__Result_Win_Effect01.png",
+  "h": 14,
+  "w": 55
+ }
+}

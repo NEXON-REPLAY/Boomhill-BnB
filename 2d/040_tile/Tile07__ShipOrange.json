@@ -1,0 +1,77 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    240,
+    240,
+    240
+   ],
+   "frames": [
+    0,
+    1,
+    2
+   ],
+   "loop": false,
+   "name": "07Static_ShipOrange+ShipOrange"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 103
+   },
+   "h": 104,
+   "index": 0,
+   "origin": {
+    "x": 1,
+    "y": 103
+   },
+   "role": "07Static_ShipOrange+ShipOrange",
+   "w": 80,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 103
+   },
+   "h": 104,
+   "index": 1,
+   "origin": {
+    "x": 1,
+    "y": 103
+   },
+   "role": "07Static_ShipOrange+ShipOrange",
+   "w": 80,
+   "x": 81,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 103
+   },
+   "h": 104,
+   "index": 2,
+   "origin": {
+    "x": 1,
+    "y": 103
+   },
+   "role": "07Static_ShipOrange+ShipOrange",
+   "w": 80,
+   "x": 162,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile07/ShipOrange",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile07__ShipOrange.png",
+  "h": 104,
+  "w": 242
+ }
+}

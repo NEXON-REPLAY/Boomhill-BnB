@@ -1,0 +1,203 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "loop": false,
+   "name": "HeartBlur11"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -17,
+    "y": -35
+   },
+   "h": 59,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HeartBlur11",
+   "w": 50,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -18,
+    "y": -25
+   },
+   "h": 68,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HeartBlur11",
+   "w": 47,
+   "x": 51,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -17,
+    "y": -28
+   },
+   "h": 61,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HeartBlur11",
+   "w": 51,
+   "x": 99,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -17,
+    "y": -21
+   },
+   "h": 76,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HeartBlur11",
+   "w": 52,
+   "x": 151,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -16,
+    "y": -25
+   },
+   "h": 68,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HeartBlur11",
+   "w": 53,
+   "x": 204,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -17,
+    "y": -28
+   },
+   "h": 60,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HeartBlur11",
+   "w": 52,
+   "x": 258,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -17,
+    "y": -24
+   },
+   "h": 61,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HeartBlur11",
+   "w": 52,
+   "x": 311,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -19,
+    "y": -21
+   },
+   "h": 69,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HeartBlur11",
+   "w": 49,
+   "x": 364,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -17,
+    "y": -24
+   },
+   "h": 64,
+   "index": 8,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HeartBlur11",
+   "w": 50,
+   "x": 414,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -16,
+    "y": -19
+   },
+   "h": 75,
+   "index": 9,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "HeartBlur11",
+   "w": 52,
+   "x": 465,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "060_effect",
+ "name": "MotionBlur/Speed_Heart03_Down",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MotionBlur__Speed_Heart03_Down.png",
+  "h": 76,
+  "w": 517
+ }
+}

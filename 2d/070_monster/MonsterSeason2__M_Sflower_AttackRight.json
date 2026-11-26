@@ -1,0 +1,87 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2
+   ],
+   "loop": false,
+   "name": "16_AttackRight"
+  },
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    2
+   ],
+   "loop": false,
+   "name": "11_BlinkRight"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 17,
+    "y": 71
+   },
+   "h": 74,
+   "index": 0,
+   "origin": {
+    "x": 37,
+    "y": 87
+   },
+   "role": "16_AttackRight",
+   "w": 63,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -11,
+    "y": 59
+   },
+   "h": 62,
+   "index": 1,
+   "origin": {
+    "x": 37,
+    "y": 87
+   },
+   "role": "16_AttackRight",
+   "w": 69,
+   "x": 64,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -9,
+    "y": 70
+   },
+   "h": 73,
+   "index": 2,
+   "origin": {
+    "x": 37,
+    "y": 87
+   },
+   "role": "animated",
+   "w": 55,
+   "x": 134,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/M_Sflower_AttackRight",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__M_Sflower_AttackRight.png",
+  "h": 74,
+  "w": 189
+ }
+}

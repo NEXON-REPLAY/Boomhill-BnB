@@ -1,0 +1,203 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    90,
+    90,
+    120,
+    150,
+    150,
+    180,
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "loop": false,
+   "name": "AppearRight"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -56,
+    "y": 181
+   },
+   "h": 56,
+   "index": 0,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "AppearRight",
+   "w": 31,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -48,
+    "y": 174
+   },
+   "h": 71,
+   "index": 1,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "AppearRight",
+   "w": 54,
+   "x": 32,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -33,
+    "y": 169
+   },
+   "h": 87,
+   "index": 2,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "AppearRight",
+   "w": 90,
+   "x": 87,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -20,
+    "y": 171
+   },
+   "h": 127,
+   "index": 3,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "AppearRight",
+   "w": 111,
+   "x": 178,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 177
+   },
+   "h": 155,
+   "index": 4,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "AppearRight",
+   "w": 141,
+   "x": 290,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 24,
+    "y": 179
+   },
+   "h": 176,
+   "index": 5,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "AppearRight",
+   "w": 198,
+   "x": 432,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 44,
+    "y": 170
+   },
+   "h": 178,
+   "index": 6,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "AppearRight",
+   "w": 232,
+   "x": 631,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 39,
+    "y": 161
+   },
+   "h": 177,
+   "index": 7,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "AppearRight",
+   "w": 213,
+   "x": 0,
+   "y": 179
+  },
+  {
+   "center": {
+    "x": 22,
+    "y": 157
+   },
+   "h": 176,
+   "index": 8,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "AppearRight",
+   "w": 179,
+   "x": 214,
+   "y": 179
+  },
+  {
+   "center": {
+    "x": 18,
+    "y": 156
+   },
+   "h": 180,
+   "index": 9,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "AppearRight",
+   "w": 176,
+   "x": 394,
+   "y": 179
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/BM08_CCombineRight",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__BM08_CCombineRight.png",
+  "h": 359,
+  "w": 863
+ }
+}

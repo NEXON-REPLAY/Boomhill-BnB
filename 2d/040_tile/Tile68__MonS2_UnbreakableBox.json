@@ -1,0 +1,111 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    300,
+    300,
+    300,
+    300
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "Box_BrokenBox_120s+Box_BrokenBox_15s+Box_BrokenBox_30s+Box_BrokenBox_3s+Box_BrokenBox_45s (+4 more)"
+  },
+  {
+   "frame_ms": [
+    240,
+    240,
+    240,
+    240
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "Default01_Shaken+Default02+PuzzleUnmovablebox"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 59
+   },
+   "h": 60,
+   "index": 0,
+   "origin": {
+    "x": 1,
+    "y": 59
+   },
+   "role": "animated",
+   "w": 40,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 59
+   },
+   "h": 60,
+   "index": 1,
+   "origin": {
+    "x": 1,
+    "y": 59
+   },
+   "role": "animated",
+   "w": 40,
+   "x": 41,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 59
+   },
+   "h": 60,
+   "index": 2,
+   "origin": {
+    "x": 1,
+    "y": 59
+   },
+   "role": "animated",
+   "w": 40,
+   "x": 82,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 59
+   },
+   "h": 60,
+   "index": 3,
+   "origin": {
+    "x": 1,
+    "y": 59
+   },
+   "role": "animated",
+   "w": 40,
+   "x": 123,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile68/MonS2_UnbreakableBox",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile68__MonS2_UnbreakableBox.png",
+  "h": 60,
+  "w": 163
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "PetTree03"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 14,
+    "y": 96
+   },
+   "h": 97,
+   "index": 0,
+   "origin": {
+    "x": 14,
+    "y": 96
+   },
+   "role": "PetTree03",
+   "w": 70,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "TileLobbySquare/PetTree03",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "TileLobbySquare__PetTree03.png",
+  "h": 97,
+  "w": 70
+ }
+}

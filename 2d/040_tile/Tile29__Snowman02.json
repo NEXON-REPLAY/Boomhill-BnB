@@ -1,0 +1,63 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    2400,
+    300,
+    450,
+    300
+   ],
+   "frames": [
+    0,
+    1,
+    0,
+    1
+   ],
+   "loop": false,
+   "name": "Snowman02"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 72
+   },
+   "h": 65,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 72
+   },
+   "role": "Snowman02",
+   "w": 40,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 72
+   },
+   "h": 65,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 72
+   },
+   "role": "Snowman02",
+   "w": 40,
+   "x": 41,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile29/Snowman02",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile29__Snowman02.png",
+  "h": 65,
+  "w": 81
+ }
+}

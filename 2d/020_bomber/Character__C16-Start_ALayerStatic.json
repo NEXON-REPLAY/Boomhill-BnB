@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "Start"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 15,
+    "y": 156
+   },
+   "h": 84,
+   "index": 0,
+   "origin": {
+    "x": 81,
+    "y": 158
+   },
+   "role": "Start",
+   "w": 82,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 37,
+    "y": 64
+   },
+   "h": 70,
+   "index": 1,
+   "origin": {
+    "x": 81,
+    "y": 158
+   },
+   "role": "Start",
+   "w": 114,
+   "x": 83,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 30,
+    "y": 75
+   },
+   "h": 81,
+   "index": 2,
+   "origin": {
+    "x": 81,
+    "y": 158
+   },
+   "role": "Start",
+   "w": 100,
+   "x": 198,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 47,
+    "y": 75
+   },
+   "h": 81,
+   "index": 3,
+   "origin": {
+    "x": 81,
+    "y": 158
+   },
+   "role": "Start",
+   "w": 134,
+   "x": 299,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 39,
+    "y": 75
+   },
+   "h": 81,
+   "index": 4,
+   "origin": {
+    "x": 81,
+    "y": 158
+   },
+   "role": "Start",
+   "w": 118,
+   "x": 434,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 70
+   },
+   "h": 73,
+   "index": 5,
+   "origin": {
+    "x": 81,
+    "y": 158
+   },
+   "role": "Start",
+   "w": 82,
+   "x": 553,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 83
+   },
+   "h": 78,
+   "index": 6,
+   "origin": {
+    "x": 81,
+    "y": 158
+   },
+   "role": "Start",
+   "w": 82,
+   "x": 636,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 83
+   },
+   "h": 78,
+   "index": 7,
+   "origin": {
+    "x": 81,
+    "y": 158
+   },
+   "role": "Start",
+   "w": 82,
+   "x": 719,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "020_bomber",
+ "name": "Character/C16-Start_ALayerStatic",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Character__C16-Start_ALayerStatic.png",
+  "h": 84,
+  "w": 801
+ }
+}

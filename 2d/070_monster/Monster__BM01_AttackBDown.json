@@ -1,0 +1,249 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    90,
+    120,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    90,
+    120,
+    180,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    1,
+    2,
+    1,
+    2,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "BeforeAttack2 Down+BeforeAttack2 Left+BeforeAttack2 Right+BeforeAttack2 Up"
+  },
+  {
+   "frame_ms": [
+    120,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90
+   ],
+   "frames": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    9,
+    10,
+    9,
+    10
+   ],
+   "loop": false,
+   "name": "Attack2 Down+Attack2 Left+Attack2 Right+Attack2 Up"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 19,
+    "y": 153
+   },
+   "h": 147,
+   "index": 0,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "BeforeAttack2 Down+BeforeAttack2 Left+BeforeAttack2 Right+BeforeAttack2 Up",
+   "w": 141,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 19,
+    "y": 157
+   },
+   "h": 147,
+   "index": 1,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "BeforeAttack2 Down+BeforeAttack2 Left+BeforeAttack2 Right+BeforeAttack2 Up",
+   "w": 144,
+   "x": 142,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 17,
+    "y": 157
+   },
+   "h": 147,
+   "index": 2,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "BeforeAttack2 Down+BeforeAttack2 Left+BeforeAttack2 Right+BeforeAttack2 Up",
+   "w": 144,
+   "x": 287,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 19,
+    "y": 152
+   },
+   "h": 147,
+   "index": 3,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "BeforeAttack2 Down+BeforeAttack2 Left+BeforeAttack2 Right+BeforeAttack2 Up",
+   "w": 149,
+   "x": 432,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 19,
+    "y": 159
+   },
+   "h": 143,
+   "index": 4,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "BeforeAttack2 Down+BeforeAttack2 Left+BeforeAttack2 Right+BeforeAttack2 Up",
+   "w": 148,
+   "x": 582,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 19,
+    "y": 158
+   },
+   "h": 149,
+   "index": 5,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "BeforeAttack2 Down+BeforeAttack2 Left+BeforeAttack2 Right+BeforeAttack2 Up",
+   "w": 145,
+   "x": 731,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 19,
+    "y": 153
+   },
+   "h": 147,
+   "index": 6,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "Attack2 Down+Attack2 Left+Attack2 Right+Attack2 Up",
+   "w": 144,
+   "x": 877,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 28,
+    "y": 153
+   },
+   "h": 147,
+   "index": 7,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "Attack2 Down+Attack2 Left+Attack2 Right+Attack2 Up",
+   "w": 152,
+   "x": 0,
+   "y": 150
+  },
+  {
+   "center": {
+    "x": 35,
+    "y": 153
+   },
+   "h": 147,
+   "index": 8,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "Attack2 Down+Attack2 Left+Attack2 Right+Attack2 Up",
+   "w": 160,
+   "x": 153,
+   "y": 150
+  },
+  {
+   "center": {
+    "x": 19,
+    "y": 153
+   },
+   "h": 147,
+   "index": 9,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "Attack2 Down+Attack2 Left+Attack2 Right+Attack2 Up",
+   "w": 143,
+   "x": 314,
+   "y": 150
+  },
+  {
+   "center": {
+    "x": 19,
+    "y": 153
+   },
+   "h": 147,
+   "index": 10,
+   "origin": {
+    "x": 35,
+    "y": 179
+   },
+   "role": "Attack2 Down+Attack2 Left+Attack2 Right+Attack2 Up",
+   "w": 144,
+   "x": 458,
+   "y": 150
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/BM01_AttackBDown",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__BM01_AttackBDown.png",
+  "h": 297,
+  "w": 1021
+ }
+}

@@ -1,0 +1,175 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "Broken"
+  },
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "BrokenDisplayItem"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 15,
+    "y": 107
+   },
+   "h": 108,
+   "index": 0,
+   "origin": {
+    "x": 15,
+    "y": 107
+   },
+   "role": "Broken",
+   "w": 94,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 107
+   },
+   "h": 108,
+   "index": 1,
+   "origin": {
+    "x": 15,
+    "y": 107
+   },
+   "role": "Broken",
+   "w": 94,
+   "x": 95,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 107
+   },
+   "h": 108,
+   "index": 2,
+   "origin": {
+    "x": 15,
+    "y": 107
+   },
+   "role": "Broken",
+   "w": 94,
+   "x": 190,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 107
+   },
+   "h": 108,
+   "index": 3,
+   "origin": {
+    "x": 15,
+    "y": 107
+   },
+   "role": "Broken",
+   "w": 94,
+   "x": 285,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 107
+   },
+   "h": 108,
+   "index": 4,
+   "origin": {
+    "x": 15,
+    "y": 107
+   },
+   "role": "BrokenDisplayItem",
+   "w": 94,
+   "x": 380,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 107
+   },
+   "h": 108,
+   "index": 5,
+   "origin": {
+    "x": 15,
+    "y": 107
+   },
+   "role": "BrokenDisplayItem",
+   "w": 94,
+   "x": 475,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 107
+   },
+   "h": 108,
+   "index": 6,
+   "origin": {
+    "x": 15,
+    "y": 107
+   },
+   "role": "BrokenDisplayItem",
+   "w": 94,
+   "x": 570,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 107
+   },
+   "h": 108,
+   "index": 7,
+   "origin": {
+    "x": 15,
+    "y": 107
+   },
+   "role": "BrokenDisplayItem",
+   "w": 94,
+   "x": 665,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Shop/S_DlgMarbleCoin_DisplayItem",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop__S_DlgMarbleCoin_DisplayItem.png",
+  "h": 108,
+  "w": 759
+ }
+}

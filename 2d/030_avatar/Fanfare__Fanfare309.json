@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "Fanfare309"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -2,
+    "y": -2
+   },
+   "h": 94,
+   "index": 0,
+   "origin": {
+    "x": 28,
+    "y": 28
+   },
+   "role": "Fanfare309",
+   "w": 94,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": -2
+   },
+   "h": 94,
+   "index": 1,
+   "origin": {
+    "x": 28,
+    "y": 28
+   },
+   "role": "Fanfare309",
+   "w": 94,
+   "x": 95,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 7
+   },
+   "h": 103,
+   "index": 2,
+   "origin": {
+    "x": 28,
+    "y": 28
+   },
+   "role": "Fanfare309",
+   "w": 107,
+   "x": 190,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 15,
+    "y": 17
+   },
+   "h": 113,
+   "index": 3,
+   "origin": {
+    "x": 28,
+    "y": 28
+   },
+   "role": "Fanfare309",
+   "w": 127,
+   "x": 298,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 27,
+    "y": 17
+   },
+   "h": 115,
+   "index": 4,
+   "origin": {
+    "x": 28,
+    "y": 28
+   },
+   "role": "Fanfare309",
+   "w": 151,
+   "x": 426,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 28,
+    "y": -2
+   },
+   "h": 94,
+   "index": 5,
+   "origin": {
+    "x": 28,
+    "y": 28
+   },
+   "role": "Fanfare309",
+   "w": 154,
+   "x": 578,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": -2
+   },
+   "h": 94,
+   "index": 6,
+   "origin": {
+    "x": 28,
+    "y": 28
+   },
+   "role": "Fanfare309",
+   "w": 94,
+   "x": 733,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": -2
+   },
+   "h": 94,
+   "index": 7,
+   "origin": {
+    "x": 28,
+    "y": 28
+   },
+   "role": "Fanfare309",
+   "w": 94,
+   "x": 828,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "Fanfare/Fanfare309",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Fanfare__Fanfare309.png",
+  "h": 115,
+  "w": 922
+ }
+}

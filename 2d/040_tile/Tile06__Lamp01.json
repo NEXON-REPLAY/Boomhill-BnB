@@ -1,0 +1,79 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    240,
+    240,
+    240,
+    240
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    1
+   ],
+   "loop": false,
+   "name": "06Static_Lamp01+Lamp01"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 66
+   },
+   "h": 61,
+   "index": 0,
+   "origin": {
+    "x": 1,
+    "y": 67
+   },
+   "role": "06Static_Lamp01+Lamp01",
+   "w": 40,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 66
+   },
+   "h": 61,
+   "index": 1,
+   "origin": {
+    "x": 1,
+    "y": 67
+   },
+   "role": "06Static_Lamp01+Lamp01",
+   "w": 40,
+   "x": 41,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 66
+   },
+   "h": 61,
+   "index": 2,
+   "origin": {
+    "x": 1,
+    "y": 67
+   },
+   "role": "06Static_Lamp01+Lamp01",
+   "w": 40,
+   "x": 82,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile06/Lamp01",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile06__Lamp01.png",
+  "h": 61,
+  "w": 122
+ }
+}

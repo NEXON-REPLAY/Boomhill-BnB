@@ -1,0 +1,59 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1
+   ],
+   "loop": false,
+   "name": "BeforeAttack Left+BeforeAttack2 Left"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -2,
+    "y": 163
+   },
+   "h": 163,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 206
+   },
+   "role": "BeforeAttack Left+BeforeAttack2 Left",
+   "w": 118,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 166
+   },
+   "h": 166,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 206
+   },
+   "role": "BeforeAttack Left+BeforeAttack2 Left",
+   "w": 117,
+   "x": 119,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/BM09_BeforeAttackLeft",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__BM09_BeforeAttackLeft.png",
+  "h": 166,
+  "w": 236
+ }
+}

@@ -1,0 +1,335 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    60,
+    30,
+    30,
+    60
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "Throw Down"
+  },
+  {
+   "frame_ms": [
+    60,
+    30,
+    30,
+    60
+   ],
+   "frames": [
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "Throw Up"
+  },
+  {
+   "frame_ms": [
+    60,
+    30,
+    30,
+    60
+   ],
+   "frames": [
+    8,
+    9,
+    10,
+    11
+   ],
+   "loop": false,
+   "name": "Throw Right"
+  },
+  {
+   "frame_ms": [
+    60,
+    30,
+    30,
+    60
+   ],
+   "frames": [
+    12,
+    13,
+    14,
+    15
+   ],
+   "loop": false,
+   "name": "Throw Left"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -6,
+    "y": 20
+   },
+   "h": 14,
+   "index": 0,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "Throw Down",
+   "w": 28,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": 20
+   },
+   "h": 14,
+   "index": 1,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "Throw Down",
+   "w": 28,
+   "x": 29,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": 20
+   },
+   "h": 14,
+   "index": 2,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "Throw Down",
+   "w": 28,
+   "x": 58,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": 19
+   },
+   "h": 13,
+   "index": 3,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "Throw Down",
+   "w": 28,
+   "x": 87,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": 23
+   },
+   "h": 17,
+   "index": 4,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "Throw Up",
+   "w": 28,
+   "x": 116,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": 23
+   },
+   "h": 17,
+   "index": 5,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "Throw Up",
+   "w": 28,
+   "x": 145,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": 23
+   },
+   "h": 17,
+   "index": 6,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "Throw Up",
+   "w": 28,
+   "x": 174,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": 23
+   },
+   "h": 17,
+   "index": 7,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "Throw Up",
+   "w": 28,
+   "x": 203,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": 20
+   },
+   "h": 14,
+   "index": 8,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "Throw Right",
+   "w": 28,
+   "x": 232,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": 20
+   },
+   "h": 14,
+   "index": 9,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "Throw Right",
+   "w": 28,
+   "x": 261,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": 20
+   },
+   "h": 14,
+   "index": 10,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "Throw Right",
+   "w": 28,
+   "x": 290,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": 20
+   },
+   "h": 14,
+   "index": 11,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "Throw Right",
+   "w": 28,
+   "x": 319,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": 20
+   },
+   "h": 14,
+   "index": 12,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "Throw Left",
+   "w": 28,
+   "x": 348,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": 20
+   },
+   "h": 14,
+   "index": 13,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "Throw Left",
+   "w": 28,
+   "x": 377,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": 20
+   },
+   "h": 14,
+   "index": 14,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "Throw Left",
+   "w": 28,
+   "x": 406,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": 20
+   },
+   "h": 14,
+   "index": 15,
+   "origin": {
+    "x": 13,
+    "y": 75
+   },
+   "role": "Throw Left",
+   "w": 28,
+   "x": 435,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "020_bomber",
+ "name": "Character/C28-Throw_BLayerAdjust",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Character__C28-Throw_BLayerAdjust.png",
+  "h": 17,
+  "w": 463
+ }
+}

@@ -1,0 +1,131 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "Blink Right+Stop Down+Stop Right"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 2,
+    "y": 155
+   },
+   "h": 179,
+   "index": 0,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Blink Right+Stop Down+Stop Right",
+   "w": 142,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 145
+   },
+   "h": 169,
+   "index": 1,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Blink Right+Stop Down+Stop Right",
+   "w": 132,
+   "x": 143,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 151
+   },
+   "h": 175,
+   "index": 2,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Blink Right+Stop Down+Stop Right",
+   "w": 136,
+   "x": 276,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 12,
+    "y": 152
+   },
+   "h": 176,
+   "index": 3,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Blink Right+Stop Down+Stop Right",
+   "w": 158,
+   "x": 413,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 22,
+    "y": 153
+   },
+   "h": 177,
+   "index": 4,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Blink Right+Stop Down+Stop Right",
+   "w": 176,
+   "x": 572,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 13,
+    "y": 156
+   },
+   "h": 180,
+   "index": 5,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Blink Right+Stop Down+Stop Right",
+   "w": 154,
+   "x": 749,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/BM09_CBlinkRight",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__BM09_CBlinkRight.png",
+  "h": 180,
+  "w": 903
+ }
+}

@@ -1,0 +1,139 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    90,
+    90
+   ],
+   "frames": [
+    0,
+    1
+   ],
+   "loop": false,
+   "name": "BeforeAttack Down+BeforeAttack Left+BeforeAttack Right+BeforeAttack Up"
+  },
+  {
+   "frame_ms": [
+    60,
+    60,
+    60,
+    60
+   ],
+   "frames": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "Attack Down+Attack Left+Attack Right+Attack Up"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 16,
+    "y": 162
+   },
+   "h": 169,
+   "index": 0,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "BeforeAttack Down+BeforeAttack Left+BeforeAttack Right+BeforeAttack Up",
+   "w": 153,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 16,
+    "y": 166
+   },
+   "h": 173,
+   "index": 1,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "BeforeAttack Down+BeforeAttack Left+BeforeAttack Right+BeforeAttack Up",
+   "w": 153,
+   "x": 154,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 18,
+    "y": 171
+   },
+   "h": 178,
+   "index": 2,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "Attack Down+Attack Left+Attack Right+Attack Up",
+   "w": 157,
+   "x": 308,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 16,
+    "y": 171
+   },
+   "h": 178,
+   "index": 3,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "Attack Down+Attack Left+Attack Right+Attack Up",
+   "w": 154,
+   "x": 466,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 23,
+    "y": 174
+   },
+   "h": 181,
+   "index": 4,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "Attack Down+Attack Left+Attack Right+Attack Up",
+   "w": 167,
+   "x": 621,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 21,
+    "y": 170
+   },
+   "h": 180,
+   "index": 5,
+   "origin": {
+    "x": 45,
+    "y": 174
+   },
+   "role": "Attack Down+Attack Left+Attack Right+Attack Up",
+   "w": 162,
+   "x": 789,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/BM03_AttackA",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__BM03_AttackA.png",
+  "h": 181,
+  "w": 951
+ }
+}

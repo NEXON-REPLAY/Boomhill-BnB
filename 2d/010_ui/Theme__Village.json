@@ -1,0 +1,62 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 32,
+    "y": 32
+   },
+   "h": 128,
+   "index": 0,
+   "origin": {
+    "x": 32,
+    "y": 32
+   },
+   "role": "unconfirmed",
+   "w": 148,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 12,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "map_info_row_icon",
+   "w": 12,
+   "x": 149,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 0
+   },
+   "h": 65,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 65,
+   "x": 162,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Theme/Village",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Theme__Village.png",
+  "h": 128,
+  "w": 227
+ }
+}

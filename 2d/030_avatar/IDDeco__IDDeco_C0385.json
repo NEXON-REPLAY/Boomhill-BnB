@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "Lobby"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 3
+   },
+   "h": 29,
+   "index": 0,
+   "origin": {
+    "x": 10,
+    "y": 11
+   },
+   "role": "Lobby",
+   "w": 130,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 3
+   },
+   "h": 29,
+   "index": 1,
+   "origin": {
+    "x": 10,
+    "y": 11
+   },
+   "role": "Lobby",
+   "w": 130,
+   "x": 131,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 3
+   },
+   "h": 29,
+   "index": 2,
+   "origin": {
+    "x": 10,
+    "y": 11
+   },
+   "role": "Lobby",
+   "w": 130,
+   "x": 262,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 3
+   },
+   "h": 29,
+   "index": 3,
+   "origin": {
+    "x": 10,
+    "y": 11
+   },
+   "role": "Lobby",
+   "w": 130,
+   "x": 393,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 3
+   },
+   "h": 29,
+   "index": 4,
+   "origin": {
+    "x": 10,
+    "y": 11
+   },
+   "role": "Lobby",
+   "w": 130,
+   "x": 524,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 3
+   },
+   "h": 29,
+   "index": 5,
+   "origin": {
+    "x": 10,
+    "y": 11
+   },
+   "role": "Lobby",
+   "w": 130,
+   "x": 655,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 3
+   },
+   "h": 29,
+   "index": 6,
+   "origin": {
+    "x": 10,
+    "y": 11
+   },
+   "role": "Lobby",
+   "w": 130,
+   "x": 786,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 3
+   },
+   "h": 29,
+   "index": 7,
+   "origin": {
+    "x": 10,
+    "y": 11
+   },
+   "role": "Lobby",
+   "w": 130,
+   "x": 0,
+   "y": 30
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "IDDeco/IDDeco_C0385",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "IDDeco__IDDeco_C0385.png",
+  "h": 59,
+  "w": 916
+ }
+}

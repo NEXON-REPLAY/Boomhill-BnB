@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    210,
+    240,
+    210
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "AngerRight+BlinkRight"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 19,
+    "y": 163
+   },
+   "h": 164,
+   "index": 0,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "AngerRight+BlinkRight",
+   "w": 174,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 24,
+    "y": 166
+   },
+   "h": 166,
+   "index": 1,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "AngerRight+BlinkRight",
+   "w": 181,
+   "x": 175,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 22,
+    "y": 173
+   },
+   "h": 172,
+   "index": 2,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "AngerRight+BlinkRight",
+   "w": 171,
+   "x": 357,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 22,
+    "y": 179
+   },
+   "h": 179,
+   "index": 3,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "AngerRight+BlinkRight",
+   "w": 172,
+   "x": 529,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/BM08_BlinkRight",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__BM08_BlinkRight.png",
+  "h": 179,
+  "w": 701
+ }
+}

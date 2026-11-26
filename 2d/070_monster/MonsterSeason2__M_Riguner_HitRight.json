@@ -1,0 +1,113 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "14_DamageRight"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 31,
+    "y": 61
+   },
+   "h": 59,
+   "index": 0,
+   "origin": {
+    "x": 39,
+    "y": 87
+   },
+   "role": "14_DamageRight",
+   "w": 74,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 31,
+    "y": 61
+   },
+   "h": 59,
+   "index": 1,
+   "origin": {
+    "x": 39,
+    "y": 87
+   },
+   "role": "14_DamageRight",
+   "w": 74,
+   "x": 75,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 26,
+    "y": 60
+   },
+   "h": 56,
+   "index": 2,
+   "origin": {
+    "x": 39,
+    "y": 87
+   },
+   "role": "14_DamageRight",
+   "w": 71,
+   "x": 150,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 31,
+    "y": 60
+   },
+   "h": 58,
+   "index": 3,
+   "origin": {
+    "x": 39,
+    "y": 87
+   },
+   "role": "14_DamageRight",
+   "w": 77,
+   "x": 222,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 30,
+    "y": 61
+   },
+   "h": 62,
+   "index": 4,
+   "origin": {
+    "x": 39,
+    "y": 87
+   },
+   "role": "14_DamageRight",
+   "w": 73,
+   "x": 300,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/M_Riguner_HitRight",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__M_Riguner_HitRight.png",
+  "h": 62,
+  "w": 373
+ }
+}

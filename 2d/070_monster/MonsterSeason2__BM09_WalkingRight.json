@@ -1,0 +1,131 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    180,
+    180,
+    180,
+    180,
+    180,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "Walk Down+Walk Right"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 11,
+    "y": 124
+   },
+   "h": 148,
+   "index": 0,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Walk Down+Walk Right",
+   "w": 139,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": 127
+   },
+   "h": 151,
+   "index": 1,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Walk Down+Walk Right",
+   "w": 121,
+   "x": 140,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -3,
+    "y": 128
+   },
+   "h": 152,
+   "index": 2,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Walk Down+Walk Right",
+   "w": 123,
+   "x": 262,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 129
+   },
+   "h": 153,
+   "index": 3,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Walk Down+Walk Right",
+   "w": 123,
+   "x": 386,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 129
+   },
+   "h": 153,
+   "index": 4,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Walk Down+Walk Right",
+   "w": 131,
+   "x": 510,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 127
+   },
+   "h": 151,
+   "index": 5,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Walk Down+Walk Right",
+   "w": 133,
+   "x": 642,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/BM09_WalkingRight",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__BM09_WalkingRight.png",
+  "h": 153,
+  "w": 775
+ }
+}

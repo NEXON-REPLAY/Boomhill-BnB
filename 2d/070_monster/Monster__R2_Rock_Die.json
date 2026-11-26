@@ -1,0 +1,113 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    90,
+    90,
+    150,
+    120,
+    90
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "Die"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -5,
+    "y": 52
+   },
+   "h": 29,
+   "index": 0,
+   "origin": {
+    "x": 17,
+    "y": 71
+   },
+   "role": "Die",
+   "w": 29,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 66
+   },
+   "h": 44,
+   "index": 1,
+   "origin": {
+    "x": 17,
+    "y": 71
+   },
+   "role": "Die",
+   "w": 50,
+   "x": 30,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 12,
+    "y": 69
+   },
+   "h": 60,
+   "index": 2,
+   "origin": {
+    "x": 17,
+    "y": 71
+   },
+   "role": "Die",
+   "w": 60,
+   "x": 81,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 69
+   },
+   "h": 60,
+   "index": 3,
+   "origin": {
+    "x": 17,
+    "y": 71
+   },
+   "role": "Die",
+   "w": 64,
+   "x": 142,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 69
+   },
+   "h": 65,
+   "index": 4,
+   "origin": {
+    "x": 17,
+    "y": 71
+   },
+   "role": "Die",
+   "w": 66,
+   "x": 207,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/R2_Rock_Die",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__R2_Rock_Die.png",
+  "h": 65,
+  "w": 273
+ }
+}

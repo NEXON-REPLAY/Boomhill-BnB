@@ -1,0 +1,41 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    30
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "ZInter"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -1,
+    "y": 69
+   },
+   "h": 69,
+   "index": 0,
+   "origin": {
+    "x": 1,
+    "y": 69
+   },
+   "role": "ZInter",
+   "w": 38,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile17/Lucci_G03Wait",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile17__Lucci_G03Wait.png",
+  "h": 69,
+  "w": 38
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    240,
+    240,
+    240,
+    240
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "Block15"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 11,
+    "y": 54
+   },
+   "h": 66,
+   "index": 0,
+   "origin": {
+    "x": 11,
+    "y": 54
+   },
+   "role": "Block15",
+   "w": 62,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 54
+   },
+   "h": 66,
+   "index": 1,
+   "origin": {
+    "x": 11,
+    "y": 54
+   },
+   "role": "Block15",
+   "w": 62,
+   "x": 63,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 54
+   },
+   "h": 66,
+   "index": 2,
+   "origin": {
+    "x": 11,
+    "y": 54
+   },
+   "role": "Block15",
+   "w": 62,
+   "x": 126,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 11,
+    "y": 54
+   },
+   "h": 66,
+   "index": 3,
+   "origin": {
+    "x": 11,
+    "y": 54
+   },
+   "role": "Block15",
+   "w": 62,
+   "x": 189,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile54/Block15",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile54__Block15.png",
+  "h": 66,
+  "w": 251
+ }
+}

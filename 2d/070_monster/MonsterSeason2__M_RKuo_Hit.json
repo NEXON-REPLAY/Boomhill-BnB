@@ -1,0 +1,129 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "13_DamageLeft"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -6,
+    "y": 57
+   },
+   "h": 52,
+   "index": 0,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "unconfirmed",
+   "w": 54,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": 57
+   },
+   "h": 52,
+   "index": 1,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "13_DamageLeft",
+   "w": 53,
+   "x": 55,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": 57
+   },
+   "h": 52,
+   "index": 2,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "13_DamageLeft",
+   "w": 54,
+   "x": 109,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": 57
+   },
+   "h": 52,
+   "index": 3,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "13_DamageLeft",
+   "w": 54,
+   "x": 164,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": 57
+   },
+   "h": 52,
+   "index": 4,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "13_DamageLeft",
+   "w": 54,
+   "x": 219,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": 57
+   },
+   "h": 52,
+   "index": 5,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "13_DamageLeft",
+   "w": 54,
+   "x": 274,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/M_RKuo_Hit",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__M_RKuo_Hit.png",
+  "h": 52,
+  "w": 328
+ }
+}

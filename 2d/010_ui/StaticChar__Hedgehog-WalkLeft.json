@@ -1,0 +1,125 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    0,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "HedgehogWalkLeft"
+  },
+  {
+   "frame_ms": [
+    3000
+   ],
+   "frames": [
+    0
+   ],
+   "loop": false,
+   "name": "HedgehogStopLeft"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 9,
+    "y": 55
+   },
+   "h": 50,
+   "index": 0,
+   "origin": {
+    "x": 9,
+    "y": 75
+   },
+   "role": "animated",
+   "w": 56,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 8,
+    "y": 56
+   },
+   "h": 50,
+   "index": 1,
+   "origin": {
+    "x": 9,
+    "y": 75
+   },
+   "role": "HedgehogWalkLeft",
+   "w": 55,
+   "x": 57,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 54
+   },
+   "h": 50,
+   "index": 2,
+   "origin": {
+    "x": 9,
+    "y": 75
+   },
+   "role": "HedgehogWalkLeft",
+   "w": 54,
+   "x": 113,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 56
+   },
+   "h": 50,
+   "index": 3,
+   "origin": {
+    "x": 9,
+    "y": 75
+   },
+   "role": "HedgehogWalkLeft",
+   "w": 55,
+   "x": 168,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 9,
+    "y": 54
+   },
+   "h": 50,
+   "index": 4,
+   "origin": {
+    "x": 9,
+    "y": 75
+   },
+   "role": "HedgehogWalkLeft",
+   "w": 55,
+   "x": 224,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "StaticChar/Hedgehog-WalkLeft",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "StaticChar__Hedgehog-WalkLeft.png",
+  "h": 50,
+  "w": 279
+ }
+}

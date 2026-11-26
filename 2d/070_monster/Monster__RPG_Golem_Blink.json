@@ -1,0 +1,109 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    1,
+    1
+   ],
+   "loop": false,
+   "name": "Start"
+  },
+  {
+   "frame_ms": [
+    750,
+    180,
+    120,
+    180,
+    120,
+    450,
+    120,
+    180,
+    120,
+    600
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    1,
+    2,
+    1,
+    2,
+    1,
+    2,
+    1
+   ],
+   "loop": false,
+   "name": "Blink"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 15,
+    "y": 149
+   },
+   "h": 143,
+   "index": 0,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "animated",
+   "w": 150,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 150
+   },
+   "h": 144,
+   "index": 1,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "animated",
+   "w": 135,
+   "x": 151,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 151
+   },
+   "h": 145,
+   "index": 2,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "animated",
+   "w": 135,
+   "x": 287,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/RPG_Golem_Blink",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__RPG_Golem_Blink.png",
+  "h": 145,
+  "w": 422
+ }
+}

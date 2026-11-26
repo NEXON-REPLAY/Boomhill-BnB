@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "09Static_StonePillar00+StonePillar00"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 103
+   },
+   "h": 104,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 110
+   },
+   "role": "09Static_StonePillar00+StonePillar00",
+   "w": 40,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 107
+   },
+   "h": 108,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 110
+   },
+   "role": "09Static_StonePillar00+StonePillar00",
+   "w": 40,
+   "x": 41,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 110
+   },
+   "h": 111,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 110
+   },
+   "role": "09Static_StonePillar00+StonePillar00",
+   "w": 40,
+   "x": 82,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 96
+   },
+   "h": 97,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 110
+   },
+   "role": "09Static_StonePillar00+StonePillar00",
+   "w": 40,
+   "x": 123,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile09/StonePillar00",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile09__StonePillar00.png",
+  "h": 111,
+  "w": 163
+ }
+}

@@ -1,0 +1,282 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    60,
+    60,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    11,
+    9,
+    11,
+    10,
+    11,
+    9,
+    11,
+    10,
+    11,
+    9,
+    11,
+    10,
+    11,
+    9,
+    11,
+    10,
+    11,
+    9,
+    11,
+    10,
+    11,
+    9,
+    11,
+    10
+   ],
+   "loop": false,
+   "name": "KickedDie+LockedOut+Out"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 16,
+    "y": 78
+   },
+   "h": 77,
+   "index": 0,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "KickedDie+LockedOut+Out",
+   "w": 74,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 19,
+    "y": 85
+   },
+   "h": 83,
+   "index": 1,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "KickedDie+LockedOut+Out",
+   "w": 81,
+   "x": 75,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 32,
+    "y": 92
+   },
+   "h": 93,
+   "index": 2,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "KickedDie+LockedOut+Out",
+   "w": 104,
+   "x": 157,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 31,
+    "y": 92
+   },
+   "h": 91,
+   "index": 3,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "KickedDie+LockedOut+Out",
+   "w": 101,
+   "x": 262,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 30,
+    "y": 84
+   },
+   "h": 81,
+   "index": 4,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "KickedDie+LockedOut+Out",
+   "w": 98,
+   "x": 364,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 22,
+    "y": 73
+   },
+   "h": 67,
+   "index": 5,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "KickedDie+LockedOut+Out",
+   "w": 85,
+   "x": 463,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 22,
+    "y": 45
+   },
+   "h": 40,
+   "index": 6,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "KickedDie+LockedOut+Out",
+   "w": 85,
+   "x": 549,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 22,
+    "y": 41
+   },
+   "h": 41,
+   "index": 7,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "KickedDie+LockedOut+Out",
+   "w": 90,
+   "x": 635,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 25,
+    "y": 41
+   },
+   "h": 38,
+   "index": 8,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "KickedDie+LockedOut+Out",
+   "w": 89,
+   "x": 726,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 41
+   },
+   "h": 36,
+   "index": 9,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "KickedDie+LockedOut+Out",
+   "w": 40,
+   "x": 816,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 41
+   },
+   "h": 36,
+   "index": 10,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "KickedDie+LockedOut+Out",
+   "w": 40,
+   "x": 857,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -74,
+    "y": -12
+   },
+   "empty": true,
+   "h": 0,
+   "index": 11,
+   "origin": {
+    "x": 34,
+    "y": 92
+   },
+   "role": "KickedDie+LockedOut+Out",
+   "w": 0,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/SM18_Locking-Die",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__SM18_Locking-Die.png",
+  "h": 93,
+  "w": 897
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "Locking"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -5,
+    "y": 45
+   },
+   "h": 41,
+   "index": 0,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Locking",
+   "w": 30,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": 45
+   },
+   "h": 39,
+   "index": 1,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Locking",
+   "w": 30,
+   "x": 31,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": 43
+   },
+   "h": 40,
+   "index": 2,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Locking",
+   "w": 30,
+   "x": 62,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": 45
+   },
+   "h": 44,
+   "index": 3,
+   "origin": {
+    "x": 20,
+    "y": 92
+   },
+   "role": "Locking",
+   "w": 30,
+   "x": 93,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/SM21_Locking",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__SM21_Locking.png",
+  "h": 44,
+  "w": 123
+ }
+}

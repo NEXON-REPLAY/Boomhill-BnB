@@ -1,0 +1,165 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    6,
+    4,
+    5,
+    6,
+    5,
+    6,
+    5,
+    6,
+    5,
+    5,
+    6
+   ],
+   "loop": false,
+   "name": "C05_EmotionH001"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 2,
+    "y": 61
+   },
+   "h": 56,
+   "index": 0,
+   "origin": {
+    "x": 8,
+    "y": 87
+   },
+   "role": "C05_EmotionH001",
+   "w": 44,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 68
+   },
+   "h": 65,
+   "index": 1,
+   "origin": {
+    "x": 8,
+    "y": 87
+   },
+   "role": "C05_EmotionH001",
+   "w": 52,
+   "x": 45,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 72
+   },
+   "h": 68,
+   "index": 2,
+   "origin": {
+    "x": 8,
+    "y": 87
+   },
+   "role": "C05_EmotionH001",
+   "w": 51,
+   "x": 98,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 80
+   },
+   "h": 75,
+   "index": 3,
+   "origin": {
+    "x": 8,
+    "y": 87
+   },
+   "role": "C05_EmotionH001",
+   "w": 52,
+   "x": 150,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 61
+   },
+   "h": 56,
+   "index": 4,
+   "origin": {
+    "x": 8,
+    "y": 87
+   },
+   "role": "C05_EmotionH001",
+   "w": 44,
+   "x": 203,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 62
+   },
+   "h": 57,
+   "index": 5,
+   "origin": {
+    "x": 8,
+    "y": 87
+   },
+   "role": "C05_EmotionH001",
+   "w": 44,
+   "x": 248,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 61
+   },
+   "h": 56,
+   "index": 6,
+   "origin": {
+    "x": 8,
+    "y": 87
+   },
+   "role": "C05_EmotionH001",
+   "w": 44,
+   "x": 293,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "Character/C05-EmotionH001LayerAdjust",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Character__C05-EmotionH001LayerAdjust.png",
+  "h": 75,
+  "w": 337
+ }
+}

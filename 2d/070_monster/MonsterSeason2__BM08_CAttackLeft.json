@@ -1,0 +1,131 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    180,
+    210,
+    270,
+    150,
+    180
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "Attack Left+Attack Up+Attack2 Left+Attack2 Up"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 18,
+    "y": 166
+   },
+   "h": 168,
+   "index": 0,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Attack Left+Attack Up+Attack2 Left+Attack2 Up",
+   "w": 169,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 23,
+    "y": 171
+   },
+   "h": 179,
+   "index": 1,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Attack Left+Attack Up+Attack2 Left+Attack2 Up",
+   "w": 177,
+   "x": 170,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 39,
+    "y": 180
+   },
+   "h": 184,
+   "index": 2,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Attack Left+Attack Up+Attack2 Left+Attack2 Up",
+   "w": 204,
+   "x": 348,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 56,
+    "y": 184
+   },
+   "h": 176,
+   "index": 3,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Attack Left+Attack Up+Attack2 Left+Attack2 Up",
+   "w": 235,
+   "x": 553,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 30,
+    "y": 157
+   },
+   "h": 181,
+   "index": 4,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Attack Left+Attack Up+Attack2 Left+Attack2 Up",
+   "w": 190,
+   "x": 789,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 25,
+    "y": 179
+   },
+   "h": 179,
+   "index": 5,
+   "origin": {
+    "x": 56,
+    "y": 184
+   },
+   "role": "Attack Left+Attack Up+Attack2 Left+Attack2 Up",
+   "w": 175,
+   "x": 0,
+   "y": 185
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "MonsterSeason2/BM08_CAttackLeft",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MonsterSeason2__BM08_CAttackLeft.png",
+  "h": 364,
+  "w": 979
+ }
+}

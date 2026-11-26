@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "00_DirectionUp"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -4,
+    "y": -4
+   },
+   "h": 45,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "00_DirectionUp",
+   "w": 45,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": -3
+   },
+   "h": 45,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "00_DirectionUp",
+   "w": 45,
+   "x": 46,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": -2
+   },
+   "h": 45,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "00_DirectionUp",
+   "w": 45,
+   "x": 92,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": -1
+   },
+   "h": 45,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "00_DirectionUp",
+   "w": 45,
+   "x": 138,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "080_hiddencatch",
+ "name": "HiddenCatch/HC_Arrow_Up",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "HiddenCatch__HC_Arrow_Up.png",
+  "h": 45,
+  "w": 183
+ }
+}

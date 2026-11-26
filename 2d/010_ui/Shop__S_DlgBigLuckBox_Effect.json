@@ -1,0 +1,95 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "BigLuckBox_ItemEffect"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -2,
+    "y": 79
+   },
+   "h": 68,
+   "index": 0,
+   "origin": {
+    "x": 15,
+    "y": 107
+   },
+   "role": "BigLuckBox_ItemEffect",
+   "w": 60,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -1,
+    "y": 76
+   },
+   "h": 62,
+   "index": 1,
+   "origin": {
+    "x": 15,
+    "y": 107
+   },
+   "role": "BigLuckBox_ItemEffect",
+   "w": 63,
+   "x": 61,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -4,
+    "y": 74
+   },
+   "h": 58,
+   "index": 2,
+   "origin": {
+    "x": 15,
+    "y": 107
+   },
+   "role": "BigLuckBox_ItemEffect",
+   "w": 63,
+   "x": 125,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": 76
+   },
+   "h": 63,
+   "index": 3,
+   "origin": {
+    "x": 15,
+    "y": 107
+   },
+   "role": "BigLuckBox_ItemEffect",
+   "w": 58,
+   "x": 189,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Shop/S_DlgBigLuckBox_Effect",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop__S_DlgBigLuckBox_Effect.png",
+  "h": 68,
+  "w": 247
+ }
+}

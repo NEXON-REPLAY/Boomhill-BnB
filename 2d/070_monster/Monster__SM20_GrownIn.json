@@ -1,0 +1,131 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "loop": false,
+   "name": "Start"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -4,
+    "y": 14
+   },
+   "h": 8,
+   "index": 1,
+   "origin": {
+    "x": 20,
+    "y": 87
+   },
+   "role": "Start",
+   "w": 32,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -2,
+    "y": 30
+   },
+   "h": 20,
+   "index": 2,
+   "origin": {
+    "x": 20,
+    "y": 87
+   },
+   "role": "Start",
+   "w": 37,
+   "x": 33,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 46
+   },
+   "h": 32,
+   "index": 3,
+   "origin": {
+    "x": 20,
+    "y": 87
+   },
+   "role": "Start",
+   "w": 40,
+   "x": 71,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 66
+   },
+   "h": 48,
+   "index": 4,
+   "origin": {
+    "x": 20,
+    "y": 87
+   },
+   "role": "Start",
+   "w": 44,
+   "x": 112,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 87
+   },
+   "h": 64,
+   "index": 5,
+   "origin": {
+    "x": 20,
+    "y": 87
+   },
+   "role": "Start",
+   "w": 46,
+   "x": 157,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 12,
+    "y": 86
+   },
+   "h": 81,
+   "index": 6,
+   "origin": {
+    "x": 20,
+    "y": 87
+   },
+   "role": "Start",
+   "w": 64,
+   "x": 204,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/SM20_GrownIn",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__SM20_GrownIn.png",
+  "h": 81,
+  "w": 268
+ }
+}

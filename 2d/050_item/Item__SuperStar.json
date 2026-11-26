@@ -1,0 +1,110 @@
+{
+ "animations": [],
+ "frames": [
+  {
+   "center": {
+    "x": 2,
+    "y": 61
+   },
+   "h": 40,
+   "index": 0,
+   "origin": {
+    "x": 2,
+    "y": 66
+   },
+   "role": "loop:0/6",
+   "w": 43,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 61
+   },
+   "h": 41,
+   "index": 1,
+   "origin": {
+    "x": 2,
+    "y": 66
+   },
+   "role": "loop:1/6",
+   "w": 43,
+   "x": 44,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 61
+   },
+   "h": 40,
+   "index": 2,
+   "origin": {
+    "x": 2,
+    "y": 66
+   },
+   "role": "loop:2/6",
+   "w": 43,
+   "x": 88,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 61
+   },
+   "h": 40,
+   "index": 3,
+   "origin": {
+    "x": 2,
+    "y": 66
+   },
+   "role": "loop:3/6",
+   "w": 42,
+   "x": 132,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 61
+   },
+   "h": 40,
+   "index": 4,
+   "origin": {
+    "x": 2,
+    "y": 66
+   },
+   "role": "loop:4/6",
+   "w": 42,
+   "x": 175,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 61
+   },
+   "h": 40,
+   "index": 5,
+   "origin": {
+    "x": 2,
+    "y": 66
+   },
+   "role": "loop:5/6",
+   "w": 44,
+   "x": 218,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "050_item",
+ "name": "Item/SuperStar",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Item__SuperStar.png",
+  "h": 41,
+  "w": 262
+ }
+}

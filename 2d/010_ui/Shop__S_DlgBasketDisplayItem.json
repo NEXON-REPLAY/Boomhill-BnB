@@ -1,0 +1,151 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "Broken"
+  },
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    0,
+    1,
+    2,
+    3
+   ],
+   "loop": false,
+   "name": "BrokenDisplayItem"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -14,
+    "y": -39
+   },
+   "h": 77,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "animated",
+   "w": 59,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -15,
+    "y": -41
+   },
+   "h": 75,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "animated",
+   "w": 57,
+   "x": 60,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -16,
+    "y": -39
+   },
+   "h": 77,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "animated",
+   "w": 52,
+   "x": 118,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -15,
+    "y": -39
+   },
+   "h": 77,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "animated",
+   "w": 54,
+   "x": 171,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -21,
+    "y": -82
+   },
+   "h": 34,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 44,
+   "x": 226,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -21,
+    "y": -82
+   },
+   "h": 34,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "unconfirmed",
+   "w": 44,
+   "x": 271,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "010_ui",
+ "name": "Shop/S_DlgBasketDisplayItem",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Shop__S_DlgBasketDisplayItem.png",
+  "h": 77,
+  "w": 315
+ }
+}

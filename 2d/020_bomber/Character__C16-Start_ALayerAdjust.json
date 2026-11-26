@@ -1,0 +1,167 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "Start"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 14,
+    "y": 128
+   },
+   "h": 34,
+   "index": 0,
+   "origin": {
+    "x": 81,
+    "y": 158
+   },
+   "role": "Start",
+   "w": 34,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 25
+   },
+   "h": 34,
+   "index": 1,
+   "origin": {
+    "x": 81,
+    "y": 158
+   },
+   "role": "Start",
+   "w": 34,
+   "x": 35,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 36
+   },
+   "h": 34,
+   "index": 2,
+   "origin": {
+    "x": 81,
+    "y": 158
+   },
+   "role": "Start",
+   "w": 34,
+   "x": 70,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 36
+   },
+   "h": 34,
+   "index": 3,
+   "origin": {
+    "x": 81,
+    "y": 158
+   },
+   "role": "Start",
+   "w": 34,
+   "x": 105,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 36
+   },
+   "h": 34,
+   "index": 4,
+   "origin": {
+    "x": 81,
+    "y": 158
+   },
+   "role": "Start",
+   "w": 34,
+   "x": 140,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 42
+   },
+   "h": 34,
+   "index": 5,
+   "origin": {
+    "x": 81,
+    "y": 158
+   },
+   "role": "Start",
+   "w": 34,
+   "x": 175,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 55
+   },
+   "h": 34,
+   "index": 6,
+   "origin": {
+    "x": 81,
+    "y": 158
+   },
+   "role": "Start",
+   "w": 34,
+   "x": 210,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 14,
+    "y": 55
+   },
+   "h": 34,
+   "index": 7,
+   "origin": {
+    "x": 81,
+    "y": 158
+   },
+   "role": "Start",
+   "w": 34,
+   "x": 245,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "020_bomber",
+ "name": "Character/C16-Start_ALayerAdjust",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Character__C16-Start_ALayerAdjust.png",
+  "h": 34,
+  "w": 279
+ }
+}

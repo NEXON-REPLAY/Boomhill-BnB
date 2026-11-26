@@ -1,0 +1,131 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "loop": false,
+   "name": "BombExplosion020"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 59,
+    "y": 110
+   },
+   "h": 154,
+   "index": 0,
+   "origin": {
+    "x": 59,
+    "y": 110
+   },
+   "role": "BombExplosion020",
+   "w": 157,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 59,
+    "y": 110
+   },
+   "h": 154,
+   "index": 1,
+   "origin": {
+    "x": 59,
+    "y": 110
+   },
+   "role": "BombExplosion020",
+   "w": 157,
+   "x": 158,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 59,
+    "y": 110
+   },
+   "h": 154,
+   "index": 2,
+   "origin": {
+    "x": 59,
+    "y": 110
+   },
+   "role": "BombExplosion020",
+   "w": 157,
+   "x": 316,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 59,
+    "y": 110
+   },
+   "h": 154,
+   "index": 3,
+   "origin": {
+    "x": 59,
+    "y": 110
+   },
+   "role": "BombExplosion020",
+   "w": 157,
+   "x": 474,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 59,
+    "y": 110
+   },
+   "h": 154,
+   "index": 4,
+   "origin": {
+    "x": 59,
+    "y": 110
+   },
+   "role": "BombExplosion020",
+   "w": 157,
+   "x": 632,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 59,
+    "y": 110
+   },
+   "h": 154,
+   "index": 5,
+   "origin": {
+    "x": 59,
+    "y": 110
+   },
+   "role": "BombExplosion020",
+   "w": 157,
+   "x": 790,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "060_effect",
+ "name": "Bomb/BombExplosion020",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Bomb__BombExplosion020.png",
+  "h": 154,
+  "w": 947
+ }
+}

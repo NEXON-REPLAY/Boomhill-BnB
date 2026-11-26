@@ -1,0 +1,59 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    1200,
+    1200
+   ],
+   "frames": [
+    0,
+    1
+   ],
+   "loop": false,
+   "name": "12Static_Signal00+Signal00"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 94
+   },
+   "h": 93,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 94
+   },
+   "role": "12Static_Signal00+Signal00",
+   "w": 39,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 94
+   },
+   "h": 93,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 94
+   },
+   "role": "12Static_Signal00+Signal00",
+   "w": 39,
+   "x": 40,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "040_tile",
+ "name": "Tile12/Signal00",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Tile12__Signal00.png",
+  "h": 93,
+  "w": 79
+ }
+}

@@ -1,0 +1,113 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    210,
+    150,
+    180,
+    240,
+    300
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "Hurrah"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 15,
+    "y": 157
+   },
+   "h": 151,
+   "index": 0,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Hurrah",
+   "w": 150,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 24,
+    "y": 173
+   },
+   "h": 168,
+   "index": 1,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Hurrah",
+   "w": 164,
+   "x": 151,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 29,
+    "y": 172
+   },
+   "h": 167,
+   "index": 2,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Hurrah",
+   "w": 169,
+   "x": 316,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 25,
+    "y": 178
+   },
+   "h": 177,
+   "index": 3,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Hurrah",
+   "w": 165,
+   "x": 486,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 25,
+    "y": 174
+   },
+   "h": 169,
+   "index": 4,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "Hurrah",
+   "w": 165,
+   "x": 652,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/BM07_Hurrah",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__BM07_Hurrah.png",
+  "h": 177,
+  "w": 817
+ }
+}

@@ -1,0 +1,169 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90,
+    90
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    5,
+    6,
+    5,
+    6,
+    5,
+    6,
+    5,
+    6,
+    5,
+    6
+   ],
+   "loop": false,
+   "name": "C06_EmotionH001"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 60
+   },
+   "h": 55,
+   "index": 0,
+   "origin": {
+    "x": 8,
+    "y": 87
+   },
+   "role": "C06_EmotionH001",
+   "w": 42,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 68
+   },
+   "h": 65,
+   "index": 1,
+   "origin": {
+    "x": 8,
+    "y": 87
+   },
+   "role": "C06_EmotionH001",
+   "w": 52,
+   "x": 43,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 72
+   },
+   "h": 68,
+   "index": 2,
+   "origin": {
+    "x": 8,
+    "y": 87
+   },
+   "role": "C06_EmotionH001",
+   "w": 51,
+   "x": 96,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 6,
+    "y": 80
+   },
+   "h": 75,
+   "index": 3,
+   "origin": {
+    "x": 8,
+    "y": 87
+   },
+   "role": "C06_EmotionH001",
+   "w": 52,
+   "x": 148,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 60
+   },
+   "h": 55,
+   "index": 4,
+   "origin": {
+    "x": 8,
+    "y": 87
+   },
+   "role": "C06_EmotionH001",
+   "w": 42,
+   "x": 201,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 62
+   },
+   "h": 57,
+   "index": 5,
+   "origin": {
+    "x": 8,
+    "y": 87
+   },
+   "role": "C06_EmotionH001",
+   "w": 54,
+   "x": 244,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 7,
+    "y": 63
+   },
+   "h": 58,
+   "index": 6,
+   "origin": {
+    "x": 8,
+    "y": 87
+   },
+   "role": "C06_EmotionH001",
+   "w": 54,
+   "x": 299,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "030_avatar",
+ "name": "Character/C06-EmotionH001LayerStatic",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Character__C06-EmotionH001LayerStatic.png",
+  "h": 75,
+  "w": 353
+ }
+}

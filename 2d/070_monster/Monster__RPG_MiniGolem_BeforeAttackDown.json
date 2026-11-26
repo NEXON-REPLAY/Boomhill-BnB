@@ -1,0 +1,161 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    120,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    180,
+    90,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    2,
+    3,
+    4,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "loop": false,
+   "name": "BeforeAttack Down+BeforeAttack2 Down"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 2,
+    "y": 61
+   },
+   "h": 52,
+   "index": 0,
+   "origin": {
+    "x": 17,
+    "y": 71
+   },
+   "role": "BeforeAttack Down+BeforeAttack2 Down",
+   "w": 42,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 50
+   },
+   "h": 45,
+   "index": 1,
+   "origin": {
+    "x": 17,
+    "y": 71
+   },
+   "role": "BeforeAttack Down+BeforeAttack2 Down",
+   "w": 43,
+   "x": 43,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 51
+   },
+   "h": 48,
+   "index": 2,
+   "origin": {
+    "x": 17,
+    "y": 71
+   },
+   "role": "BeforeAttack Down+BeforeAttack2 Down",
+   "w": 42,
+   "x": 87,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 51
+   },
+   "h": 46,
+   "index": 3,
+   "origin": {
+    "x": 17,
+    "y": 71
+   },
+   "role": "BeforeAttack Down+BeforeAttack2 Down",
+   "w": 43,
+   "x": 130,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 3,
+    "y": 51
+   },
+   "h": 48,
+   "index": 4,
+   "origin": {
+    "x": 17,
+    "y": 71
+   },
+   "role": "BeforeAttack Down+BeforeAttack2 Down",
+   "w": 42,
+   "x": 174,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 66
+   },
+   "h": 64,
+   "index": 5,
+   "origin": {
+    "x": 17,
+    "y": 71
+   },
+   "role": "BeforeAttack Down+BeforeAttack2 Down",
+   "w": 42,
+   "x": 217,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 2,
+    "y": 70
+   },
+   "h": 48,
+   "index": 6,
+   "origin": {
+    "x": 17,
+    "y": 71
+   },
+   "role": "BeforeAttack Down+BeforeAttack2 Down",
+   "w": 42,
+   "x": 260,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/RPG_MiniGolem_BeforeAttackDown",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__RPG_MiniGolem_BeforeAttackDown.png",
+  "h": 64,
+  "w": 302
+ }
+}

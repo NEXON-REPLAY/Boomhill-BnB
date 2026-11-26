@@ -1,0 +1,113 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    150,
+    120,
+    240
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "BeforeAttack Right+BeforeAttack2 Right"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 149
+   },
+   "h": 151,
+   "index": 0,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "BeforeAttack Right+BeforeAttack2 Right",
+   "w": 121,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 0,
+    "y": 153
+   },
+   "h": 161,
+   "index": 1,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "BeforeAttack Right+BeforeAttack2 Right",
+   "w": 120,
+   "x": 122,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 26,
+    "y": 143
+   },
+   "h": 148,
+   "index": 2,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "BeforeAttack Right+BeforeAttack2 Right",
+   "w": 173,
+   "x": 243,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 22,
+    "y": 171
+   },
+   "h": 176,
+   "index": 3,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "BeforeAttack Right+BeforeAttack2 Right",
+   "w": 166,
+   "x": 417,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 22,
+    "y": 171
+   },
+   "h": 169,
+   "index": 4,
+   "origin": {
+    "x": 30,
+    "y": 179
+   },
+   "role": "BeforeAttack Right+BeforeAttack2 Right",
+   "w": 162,
+   "x": 584,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/RPG_Golem_AttackBeforeRight",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__RPG_Golem_AttackBeforeRight.png",
+  "h": 176,
+  "w": 746
+ }
+}

@@ -1,0 +1,221 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "loop": false,
+   "name": "EyesBlur02"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -92,
+    "y": -23
+   },
+   "h": 13,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "EyesBlur02",
+   "w": 13,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -76,
+    "y": -23
+   },
+   "h": 13,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "EyesBlur02",
+   "w": 13,
+   "x": 14,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -70,
+    "y": -23
+   },
+   "h": 43,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "EyesBlur02",
+   "w": 43,
+   "x": 28,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -64,
+    "y": -23
+   },
+   "h": 43,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "EyesBlur02",
+   "w": 37,
+   "x": 72,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -55,
+    "y": -23
+   },
+   "h": 43,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "EyesBlur02",
+   "w": 36,
+   "x": 110,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -70,
+    "y": -53
+   },
+   "h": 13,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "EyesBlur02",
+   "w": 13,
+   "x": 147,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -59,
+    "y": -28
+   },
+   "h": 38,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "EyesBlur02",
+   "w": 52,
+   "x": 161,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -86,
+    "y": -28
+   },
+   "h": 13,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "EyesBlur02",
+   "w": 13,
+   "x": 214,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -77,
+    "y": -28
+   },
+   "h": 13,
+   "index": 8,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "EyesBlur02",
+   "w": 13,
+   "x": 228,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -71,
+    "y": -28
+   },
+   "h": 13,
+   "index": 9,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "EyesBlur02",
+   "w": 13,
+   "x": 242,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -61,
+    "y": -28
+   },
+   "h": 13,
+   "index": 10,
+   "origin": {
+    "x": 0,
+    "y": 0
+   },
+   "role": "EyesBlur02",
+   "w": 13,
+   "x": 256,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "060_effect",
+ "name": "MotionBlur/Blur_Eyes01_Right",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "MotionBlur__Blur_Eyes01_Right.png",
+  "h": 43,
+  "w": 269
+ }
+}

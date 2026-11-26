@@ -1,0 +1,89 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    150,
+    150,
+    150,
+    150
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    1
+   ],
+   "loop": false,
+   "name": "SmallMonster5 Walk Up"
+  },
+  {
+   "frame_ms": [
+    3000
+   ],
+   "frames": [
+    1
+   ],
+   "loop": false,
+   "name": "SmallMonster5 Stop Up"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -5,
+    "y": 46
+   },
+   "h": 41,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 46
+   },
+   "role": "SmallMonster5 Walk Up",
+   "w": 30,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": 46
+   },
+   "h": 41,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 46
+   },
+   "role": "animated",
+   "w": 30,
+   "x": 31,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -5,
+    "y": 46
+   },
+   "h": 41,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 46
+   },
+   "role": "SmallMonster5 Walk Up",
+   "w": 30,
+   "x": 62,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/SM21_Walking_UP",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__SM21_Walking_UP.png",
+  "h": 41,
+  "w": 92
+ }
+}

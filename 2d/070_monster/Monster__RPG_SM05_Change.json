@@ -1,0 +1,113 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    90,
+    90,
+    90,
+    90,
+    90
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "loop": false,
+   "name": "Growing"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": 0,
+    "y": 57
+   },
+   "h": 52,
+   "index": 0,
+   "origin": {
+    "x": 20,
+    "y": 84
+   },
+   "role": "Growing",
+   "w": 40,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 1,
+    "y": 62
+   },
+   "h": 57,
+   "index": 1,
+   "origin": {
+    "x": 20,
+    "y": 84
+   },
+   "role": "Growing",
+   "w": 42,
+   "x": 41,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 54
+   },
+   "h": 49,
+   "index": 2,
+   "origin": {
+    "x": 20,
+    "y": 84
+   },
+   "role": "Growing",
+   "w": 48,
+   "x": 84,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 5,
+    "y": 62
+   },
+   "h": 57,
+   "index": 3,
+   "origin": {
+    "x": 20,
+    "y": 84
+   },
+   "role": "Growing",
+   "w": 50,
+   "x": 133,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": 4,
+    "y": 82
+   },
+   "h": 77,
+   "index": 4,
+   "origin": {
+    "x": 20,
+    "y": 84
+   },
+   "role": "Growing",
+   "w": 48,
+   "x": 184,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "070_monster",
+ "name": "Monster/RPG_SM05_Change",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Monster__RPG_SM05_Change.png",
+  "h": 77,
+  "w": 232
+ }
+}

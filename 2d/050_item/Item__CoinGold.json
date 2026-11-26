@@ -1,0 +1,207 @@
+{
+ "animations": [
+  {
+   "frame_ms": [
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "2-Gold"
+  },
+  {
+   "frame_ms": [
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60
+   ],
+   "frames": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "loop": false,
+   "name": "3-BigGold"
+  }
+ ],
+ "frames": [
+  {
+   "center": {
+    "x": -6,
+    "y": 49
+   },
+   "h": 27,
+   "index": 0,
+   "origin": {
+    "x": 0,
+    "y": 66
+   },
+   "role": "animated",
+   "w": 27,
+   "x": 0,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -11,
+    "y": 50
+   },
+   "h": 29,
+   "index": 1,
+   "origin": {
+    "x": 0,
+    "y": 66
+   },
+   "role": "animated",
+   "w": 18,
+   "x": 28,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -16,
+    "y": 51
+   },
+   "h": 31,
+   "index": 2,
+   "origin": {
+    "x": 0,
+    "y": 66
+   },
+   "role": "animated",
+   "w": 13,
+   "x": 47,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -11,
+    "y": 50
+   },
+   "h": 29,
+   "index": 3,
+   "origin": {
+    "x": 0,
+    "y": 66
+   },
+   "role": "animated",
+   "w": 18,
+   "x": 61,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -6,
+    "y": 49
+   },
+   "h": 27,
+   "index": 4,
+   "origin": {
+    "x": 0,
+    "y": 66
+   },
+   "role": "animated",
+   "w": 27,
+   "x": 80,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -11,
+    "y": 50
+   },
+   "h": 29,
+   "index": 5,
+   "origin": {
+    "x": 0,
+    "y": 66
+   },
+   "role": "animated",
+   "w": 18,
+   "x": 108,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -17,
+    "y": 51
+   },
+   "h": 31,
+   "index": 6,
+   "origin": {
+    "x": 0,
+    "y": 66
+   },
+   "role": "animated",
+   "w": 6,
+   "x": 127,
+   "y": 0
+  },
+  {
+   "center": {
+    "x": -11,
+    "y": 50
+   },
+   "h": 29,
+   "index": 7,
+   "origin": {
+    "x": 0,
+    "y": 66
+   },
+   "role": "animated",
+   "w": 18,
+   "x": 134,
+   "y": 0
+  }
+ ],
+ "game": "bnb",
+ "group": "050_item",
+ "name": "Item/CoinGold",
+ "schema": "boomhill-open-assets/atlas/v1",
+ "sheet": {
+  "file": "Item__CoinGold.png",
+  "h": 31,
+  "w": 152
+ }
+}
